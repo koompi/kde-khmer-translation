@@ -1,0 +1,773 @@
+# translation of kcontrol_language.po to British English
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Jonathan Riddell <kde-en-gb@jriddell.org>, 2003.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcontrol_language\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-28 00:39+0000\n"
+"PO-Revision-Date: 2003-12-29 22:15+0000\n"
+"Last-Translator: Jonathan Riddell <kde-en-gb@jriddell.org>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. Tag: title
+#: index.docbook:10
+#, no-c-format
+msgid "Formats"
+msgstr ""
+
+#. Tag: author
+#: index.docbook:12
+#, no-c-format
+msgid "&Mike.McBride; &Mike.McBride.mail;"
+msgstr "&Mike.McBride; &Mike.McBride.mail;"
+
+#. Tag: author
+#: index.docbook:13
+#, no-c-format
+msgid "&Krishna.Tateneni; &Krishna.Tateneni.mail;"
+msgstr "&Krishna.Tateneni; &Krishna.Tateneni.mail;"
+
+#. Tag: trans_comment
+#: index.docbook:14
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr ""
+"<othercredit role=\"translator\"><firstname>John</firstname><surname>Knight</"
+"surname><affiliation><address><email>anarchist_tomato@herzeleid.net</email></"
+"address></affiliation><contrib>Conversion to British English</contrib></"
+"othercredit>"
+
+#. Tag: date
+#: index.docbook:17
+#, no-c-format
+msgid "2015-05-18"
+msgstr ""
+
+#. Tag: releaseinfo
+#: index.docbook:18
+#, no-c-format
+msgid "Plasma 5.3"
+msgstr ""
+
+#. Tag: keyword
+#: index.docbook:21
+#, no-c-format
+msgid "<keyword>KDE</keyword>"
+msgstr "<keyword>KDE</keyword>"
+
+#. Tag: keyword
+#: index.docbook:22
+#, no-c-format
+msgid "Systemsettings"
+msgstr ""
+
+#. Tag: keyword
+#: index.docbook:23
+#, no-c-format
+msgid "locale"
+msgstr "locale"
+
+#. Tag: keyword
+#: index.docbook:24
+#, no-c-format
+msgid "country"
+msgstr "country"
+
+#. Tag: keyword
+#: index.docbook:25
+#, no-c-format
+msgid "language"
+msgstr "language"
+
+#. Tag: keyword
+#: index.docbook:26
+#, fuzzy, no-c-format
+#| msgid "Numbers"
+msgid "number"
+msgstr "Numbers"
+
+#. Tag: keyword
+#: index.docbook:27
+#, no-c-format
+msgid "currency"
+msgstr ""
+
+#. Tag: para
+#: index.docbook:31
+#, fuzzy, no-c-format
+#| msgid ""
+#| "This module of the &kde; control center allows you select customization "
+#| "options that depend on the region of the world that you happen to live "
+#| "in. There are five different pages in this module, each of which is "
+#| "described in detail in the following sections."
+msgid ""
+"This module of the &kde; &systemsettings; allows you to select customization "
+"options that depend on the region of the world that you happen to live in."
+msgstr ""
+"This module of the &kde; control centre allows you select customisation "
+"options that depend on the region of the world that you happen to live in. "
+"There are five different pages in this module, each of which is described in "
+"detail in the following sections."
+
+#. Tag: para
+#: index.docbook:36
+#, fuzzy, no-c-format
+#| msgid ""
+#| "In most cases, you can simply select the country you live in, and the "
+#| "other options will be set in an appropriate manner."
+msgid ""
+"In most cases, you can simply select the region, and all options will be set "
+"in an appropriate manner."
+msgstr ""
+"In most cases, you can simply select the country you live in, and the other "
+"options will be set in an appropriate manner."
+
+#. Tag: para
+#: index.docbook:41
+#, fuzzy, no-c-format
+#| msgid ""
+#| "Below the pages of this module, you can see a preview of what the "
+#| "settings look like. In addition to positive and negative numbers, you can "
+#| "see how positive and negative currency values, long and short dates, and "
+#| "times are displayed. When you change any of the settings, the preview "
+#| "shows the effects of the changes before you apply them."
+msgid ""
+"On the bottom of this module you can see examples how the settings look like "
+"and which measurement units are used. In addition to numbers, you can see "
+"how currency values, dates, and times in long and short format are "
+"displayed. When you change any of the settings, the preview shows the "
+"effects of the changes before you apply them."
+msgstr ""
+"Below the pages of this module, you can see a preview of what the settings "
+"look like. In addition to positive and negative numbers, you can see how "
+"positive and negative currency values, long and short dates, and times are "
+"displayed. When you change any of the settings, the preview shows the "
+"effects of the changes before you apply them."
+
+#. Tag: para
+#: index.docbook:49
+#, no-c-format
+msgid ""
+"The <guilabel>Region</guilabel> drop down box contains the list of available "
+"countries and will initially show your currently selected country. If the "
+"selection shows <quote>Default</quote> then you have not set a country and "
+"are defaulting to the Country set by the system, which will also be shown."
+msgstr ""
+
+#. Tag: para
+#: index.docbook:56
+#, no-c-format
+msgid ""
+"In case you need different individual settings enable <guilabel>Detailed "
+"Settings</guilabel> and select the country format for <guilabel>Numbers</"
+"guilabel>, <guilabel>Time</guilabel>, <guilabel>Currency</guilabel>, "
+"<guilabel>Measurement Units</guilabel> or <guilabel>Collation and Sorting</"
+"guilabel> rules from the drop down boxes."
+msgstr ""
+
+#, fuzzy
+#~| msgid "Country and Language"
+#~ msgid "Country/Region &amp; Language"
+#~ msgstr "Country and Language"
+
+#, fuzzy
+#~| msgid "country"
+#~ msgid "Country"
+#~ msgstr "country"
+
+#, fuzzy
+#~| msgid ""
+#~| "On this page, there are two lists, from which you can select the country "
+#~| "and languages that you want to use."
+#~ msgid ""
+#~ "In this tab you can select the country or region that you want to use."
+#~ msgstr ""
+#~ "On this page, there are two lists, from which you can select the country "
+#~ "and languages that you want to use."
+
+#, fuzzy
+#~| msgid "language"
+#~ msgid "Languages"
+#~ msgstr "language"
+
+#, fuzzy
+#~| msgid ""
+#~| "On this page, you can select options for how numbers are displayed. The "
+#~| "defaults are selected automatically based on the country which is "
+#~| "currently selected."
+#~ msgid ""
+#~ "On this tab, you can select options for how numbers are displayed. The "
+#~ "defaults are selected automatically based on the country which is "
+#~ "currently selected."
+#~ msgstr ""
+#~ "On this page, you can select options for how numbers are displayed. The "
+#~ "defaults are selected automatically based on the country which is "
+#~ "currently selected."
+
+#, fuzzy
+#~| msgid ""
+#~| "In the text box labeled <guilabel>Decimal symbol</guilabel>, you can "
+#~| "type the character that you want to use to separate the decimal portion "
+#~| "of numbers. You could put anything here you wanted to, but really, "
+#~| "<userinput>.</userinput> and <userinput>,</userinput> are the two "
+#~| "characters that make the most sense."
+#~ msgid ""
+#~ "In the <guilabel>Decimal separator</guilabel> text box you can type the "
+#~ "character that you want to use to separate the decimal portion of "
+#~ "numbers, usually a <userinput>.</userinput> or a <userinput>,</"
+#~ "userinput>. You should ensure that this value is different to the "
+#~ "<guilabel>Group separator</guilabel> setting. The drop-down box provides "
+#~ "a list of common values to choose from."
+#~ msgstr ""
+#~ "In the text box labelled <guilabel>Decimal symbol</guilabel>, you can "
+#~ "type the character that you want to use to separate the decimal portion "
+#~ "of numbers. You could put anything here you wanted to, but really, "
+#~ "<userinput>.</userinput> and <userinput>,</userinput> are the two "
+#~ "characters that make the most sense."
+
+#~ msgid "Money"
+#~ msgstr "Money"
+
+#, fuzzy
+#~| msgid ""
+#~| "On this page, you can select options for how numbers are displayed. The "
+#~| "defaults are selected automatically based on the country which is "
+#~| "currently selected."
+#~ msgid ""
+#~ "On this tab, you can select options for how monetary values are "
+#~ "displayed. The defaults are selected automatically based on the country "
+#~ "which is currently selected."
+#~ msgstr ""
+#~ "On this page, you can select options for how numbers are displayed. The "
+#~ "defaults are selected automatically based on the country which is "
+#~ "currently selected."
+
+#, fuzzy
+#~| msgid ""
+#~| "In the text box labeled <guilabel>Decimal symbol</guilabel>, you can "
+#~| "type the character that you want to use to separate the decimal portion "
+#~| "of numbers. You could put anything here you wanted to, but really, "
+#~| "<userinput>.</userinput> and <userinput>,</userinput> are the two "
+#~| "characters that make the most sense."
+#~ msgid ""
+#~ "In the <guilabel>Decimal separator</guilabel> text box you can type the "
+#~ "character that you want to use to separate the decimal portion of "
+#~ "monetary values, usually a <userinput>.</userinput> or a <userinput>,</"
+#~ "userinput>. You should ensure that this value is different to the "
+#~ "<guilabel>Group separator</guilabel> setting. The drop-down box provides "
+#~ "a list of common values to choose from."
+#~ msgstr ""
+#~ "In the text box labelled <guilabel>Decimal symbol</guilabel>, you can "
+#~ "type the character that you want to use to separate the decimal portion "
+#~ "of numbers. You could put anything here you wanted to, but really, "
+#~ "<userinput>.</userinput> and <userinput>,</userinput> are the two "
+#~ "characters that make the most sense."
+
+#, fuzzy
+#~| msgid ""
+#~| "On this page, you can select options for how numbers are displayed. The "
+#~| "defaults are selected automatically based on the country which is "
+#~| "currently selected."
+#~ msgid ""
+#~ "On this tab, you can select options for how calendar information is "
+#~ "displayed. The defaults are selected automatically based on the country "
+#~ "which is currently selected."
+#~ msgstr ""
+#~ "On this page, you can select options for how numbers are displayed. The "
+#~ "defaults are selected automatically based on the country which is "
+#~ "currently selected."
+
+#, fuzzy
+#~| msgid ""
+#~| "On this page, you can select options for how numbers are displayed. The "
+#~| "defaults are selected automatically based on the country which is "
+#~| "currently selected."
+#~ msgid ""
+#~ "On this tab, you can select options for how date and time values are "
+#~ "input or displayed. The defaults are selected automatically based on the "
+#~ "country which is currently selected."
+#~ msgstr ""
+#~ "On this page, you can select options for how numbers are displayed. The "
+#~ "defaults are selected automatically based on the country which is "
+#~ "currently selected."
+
+#, fuzzy
+#~| msgid ""
+#~| "<parameter>HH</parameter> - The hour according to a 24-hour clock, using "
+#~| "two digits (00 to 23)."
+#~ msgid ""
+#~ "<parameter>HH</parameter> - The hour as a decimal number using a 24-hour "
+#~ "clock (00-23)."
+#~ msgstr ""
+#~ "<parameter>HH</parameter> - The hour according to a 24-hour clock, using "
+#~ "two digits (00 to 23)."
+
+#, fuzzy
+#~| msgid ""
+#~| "<parameter>HH</parameter> - The hour according to a 24-hour clock, using "
+#~| "two digits (00 to 23)."
+#~ msgid ""
+#~ "<parameter>hH</parameter> - The hour as a decimal number using a 24-hour "
+#~ "clock (0-23)."
+#~ msgstr ""
+#~ "<parameter>HH</parameter> - The hour according to a 24-hour clock, using "
+#~ "two digits (00 to 23)."
+
+#, fuzzy
+#~| msgid ""
+#~| "<parameter>HH</parameter> - The hour according to a 24-hour clock, using "
+#~| "two digits (00 to 23)."
+#~ msgid ""
+#~ "<parameter>PH</parameter> - The hour as a decimal number using a 12-hour "
+#~ "clock (01-12)."
+#~ msgstr ""
+#~ "<parameter>HH</parameter> - The hour according to a 24-hour clock, using "
+#~ "two digits (00 to 23)."
+
+#, fuzzy
+#~| msgid ""
+#~| "<parameter>HH</parameter> - The hour according to a 24-hour clock, using "
+#~| "two digits (00 to 23)."
+#~ msgid ""
+#~ "<parameter>pH</parameter> - The hour as a decimal number using a 12-hour "
+#~ "clock (1-12)."
+#~ msgstr ""
+#~ "<parameter>HH</parameter> - The hour according to a 24-hour clock, using "
+#~ "two digits (00 to 23)."
+
+#, fuzzy
+#~| msgid ""
+#~| "<parameter>MM</parameter> - The current minute using two digits (00 to "
+#~| "59)."
+#~ msgid "<parameter>MM</parameter> - The minutes as a decimal number (00-59)."
+#~ msgstr ""
+#~ "<parameter>MM</parameter> - The current minute using two digits (00 to "
+#~ "59)."
+
+#, fuzzy
+#~| msgid ""
+#~| "<parameter>SS</parameter> - The current second using two digits (00 to "
+#~| "59)."
+#~ msgid "<parameter>SS</parameter> - The seconds as a decimal number (00-59)."
+#~ msgstr ""
+#~ "<parameter>SS</parameter> - The current second using two digits (00 to "
+#~ "59)."
+
+#, fuzzy
+#~| msgid "<parameter>YYYY</parameter> - The year, using 4 digits."
+#~ msgid ""
+#~ "<parameter>YYYY</parameter> - The year with century as a decimal number "
+#~ "(0000-9999)."
+#~ msgstr "<parameter>YYYY</parameter> - The year, using 4 digits."
+
+#, fuzzy
+#~| msgid "<parameter>YY</parameter> - The year, using 2 digits."
+#~ msgid ""
+#~ "<parameter>YY</parameter> - The year without century as a decimal number "
+#~ "(00-99)."
+#~ msgstr "<parameter>YY</parameter> - The year, using 2 digits."
+
+#, fuzzy
+#~| msgid "<parameter>MM</parameter> - The month, using 2 digits (01 to 12)."
+#~ msgid "<parameter>MM</parameter> - The month as a decimal number (01-12)."
+#~ msgstr "<parameter>MM</parameter> - The month, using 2 digits (01 to 12)."
+
+#, fuzzy
+#~| msgid "<parameter>MM</parameter> - The month, using 2 digits (01 to 12)."
+#~ msgid "<parameter>mM</parameter> - The month as a decimal number (1-12)."
+#~ msgstr "<parameter>MM</parameter> - The month, using 2 digits (01 to 12)."
+
+#, fuzzy
+#~| msgid "<parameter>MONTH</parameter> - The name of the month."
+#~ msgid "<parameter>MONTH</parameter> - The full month name."
+#~ msgstr "<parameter>MONTH</parameter> - The name of the month."
+
+#, fuzzy
+#~| msgid ""
+#~| "<parameter>SHORTMONTH</parameter> - The abbreviated name of the month."
+#~ msgid ""
+#~ "<parameter>SHORTMONTH</parameter> - The first three characters of the "
+#~ "month name."
+#~ msgstr ""
+#~ "<parameter>SHORTMONTH</parameter> - The abbreviated name of the month."
+
+#, fuzzy
+#~| msgid "<parameter>DD</parameter> - The day, using 2 digits (01 to 31)."
+#~ msgid ""
+#~ "<parameter>DD</parameter> - The day of month as a decimal number (01-31)."
+#~ msgstr "<parameter>DD</parameter> - The day, using 2 digits (01 to 31)."
+
+#, fuzzy
+#~| msgid "<parameter>dD</parameter> - The day, using 1 or 2 digits (1 to 31)."
+#~ msgid ""
+#~ "<parameter>dD</parameter> - The day of month as a decimal number (1-31)."
+#~ msgstr "<parameter>dD</parameter> - The day, using 1 or 2 digits (1 to 31)."
+
+#, fuzzy
+#~| msgid "<parameter>WEEKDAY</parameter> - The name of the weekday."
+#~ msgid "<parameter>WEEKDAY</parameter> - The full weekday name."
+#~ msgstr "<parameter>WEEKDAY</parameter> - The name of the weekday."
+
+#, fuzzy
+#~| msgid ""
+#~| "<parameter>SHORTWEEKDAY</parameter> - The abbreviated name of the "
+#~| "weekday."
+#~ msgid ""
+#~ "<parameter>SHORTWEEKDAY</parameter> - The first three characters of the "
+#~ "weekday name."
+#~ msgstr ""
+#~ "<parameter>SHORTWEEKDAY</parameter> - The abbreviated name of the weekday."
+
+#, fuzzy
+#~| msgid "<parameter>YY</parameter> - The year, using 2 digits."
+#~ msgid ""
+#~ "<parameter>ERAYEAR</parameter> - The Era Year in local format (&eg; 2000 "
+#~ "AD)."
+#~ msgstr "<parameter>YY</parameter> - The year, using 2 digits."
+
+#, fuzzy
+#~| msgid ""
+#~| "<parameter>SHORTMONTH</parameter> - The abbreviated name of the month."
+#~ msgid "<parameter>SHORTERANAME</parameter> - The short Era Name (&eg; AD)."
+#~ msgstr ""
+#~ "<parameter>SHORTMONTH</parameter> - The abbreviated name of the month."
+
+#, fuzzy
+#~| msgid "<parameter>YY</parameter> - The year, using 2 digits."
+#~ msgid ""
+#~ "<parameter>YEARINERA</parameter> - The Year in Era as a decimal number "
+#~ "(&eg; 2000)."
+#~ msgstr "<parameter>YY</parameter> - The year, using 2 digits."
+
+#, fuzzy
+#~| msgid "<parameter>YY</parameter> - The year, using 2 digits."
+#~ msgid ""
+#~ "<parameter>DAYOFYEAR</parameter> - The Day of Year as a decimal number."
+#~ msgstr "<parameter>YY</parameter> - The year, using 2 digits."
+
+#, fuzzy
+#~| msgid "<parameter>WEEKDAY</parameter> - The name of the weekday."
+#~ msgid "<parameter>ISOWEEK</parameter> - The ISO Week as a decimal number."
+#~ msgstr "<parameter>WEEKDAY</parameter> - The name of the weekday."
+
+#, fuzzy
+#~| msgid "<parameter>WEEKDAY</parameter> - The name of the weekday."
+#~ msgid ""
+#~ "<parameter>DAYOFISOWEEK</parameter> - The Day of the ISO Week as a "
+#~ "decimal number."
+#~ msgstr "<parameter>WEEKDAY</parameter> - The name of the weekday."
+
+#~ msgid "Other"
+#~ msgstr "Other"
+
+#, fuzzy
+#~| msgid ""
+#~| "On this page, you can select options for how numbers are displayed. The "
+#~| "defaults are selected automatically based on the country which is "
+#~| "currently selected."
+#~ msgid ""
+#~ "On this tab, you can select how other options are displayed. The defaults "
+#~ "are selected automatically based on the country which is currently "
+#~ "selected."
+#~ msgstr ""
+#~ "On this page, you can select options for how numbers are displayed. The "
+#~ "defaults are selected automatically based on the country which is "
+#~ "currently selected."
+
+#, fuzzy
+#~| msgid "<date>2003-10-14</date> <releaseinfo>3.2</releaseinfo>"
+#~ msgid "<releaseinfo>4.8</releaseinfo>"
+#~ msgstr "<date>2003-10-14</date> <releaseinfo>3.2</releaseinfo>"
+
+#~ msgid "Locale"
+#~ msgstr "Locale"
+
+#, fuzzy
+#~| msgid ""
+#~| "When you click on the <guilabel>Country</guilabel> list, a menu pops up "
+#~| "showing major groups of countries. You can select one of these regions "
+#~| "and see a list of the countries that are available for that region."
+#~ msgid ""
+#~ "When you click on <guilabel>change</guilabel>, a dialog pops up showing "
+#~ "major groups of countries. You can select one of these regions and see a "
+#~ "list of the countries that are available for that region."
+#~ msgstr ""
+#~ "When you click on the <guilabel>Country</guilabel> list, a menu pops up "
+#~ "showing major groups of countries. You can select one of these regions "
+#~ "and see a list of the countries that are available for that region."
+
+#~ msgid ""
+#~ "Similarly, you can choose the character which is used to group units of "
+#~ "thousands in numbers. If no character, not even a space, is present, then "
+#~ "there will be no separator for thousands."
+#~ msgstr ""
+#~ "Similarly, you can choose the character which is used to group units of "
+#~ "thousands in numbers. If no character, not even a space, is present, then "
+#~ "there will be no separator for thousands."
+
+#, fuzzy
+#~| msgid ""
+#~| "Finally, you can choose what character should be prefixed to positive "
+#~| "and negative numbers respectively. For example, the default for English "
+#~| "is not to have any prefix for positive numbers, and a <userinput>-</"
+#~| "userinput> for negative numbers."
+#~ msgid ""
+#~ "The following two text boxes allow you to choose what character should be "
+#~ "prefixed to positive and negative numbers respectively. For example, the "
+#~ "default for English is not to have any prefix for positive numbers, and a "
+#~ "<userinput>-</userinput> for negative numbers."
+#~ msgstr ""
+#~ "Finally, you can choose what character should be prefixed to positive and "
+#~ "negative numbers respectively. For example, the default for English is "
+#~ "not to have any prefix for positive numbers, and a <userinput>-</"
+#~ "userinput> for negative numbers."
+
+#~ msgid ""
+#~ "Unlike the display of ordinary numbers, conventions for currency values "
+#~ "do vary from region to region. However, you will find that the defaults "
+#~ "are probably fine."
+#~ msgstr ""
+#~ "Unlike the display of ordinary numbers, conventions for currency values "
+#~ "do vary from region to region. However, you will find that the defaults "
+#~ "are probably fine."
+
+#, fuzzy
+#~| msgid ""
+#~| "The character or characters representing the currency symbol are based "
+#~| "on the country that is currently selected. The decimal symbol and "
+#~| "thousands separator work as they do for numbers. The text box labeled "
+#~| "<guilabel>Fract digits</guilabel> allows you to specify the number of "
+#~| "fractional digits used in displaying currency values."
+#~ msgid ""
+#~ "The character or characters representing the currency symbol are based on "
+#~ "the country that is currently selected. The decimal symbol, thousands "
+#~ "separator, decimal places, and digit set for money work as they do for "
+#~ "numbers."
+#~ msgstr ""
+#~ "The character or characters representing the currency symbol are based on "
+#~ "the country that is currently selected. The decimal symbol and thousands "
+#~ "separator work as they do for numbers. The text box labelled "
+#~ "<guilabel>Fract digits</guilabel> allows you to specify the number of "
+#~ "fractional digits used in displaying currency values."
+
+#~ msgid ""
+#~ "For both positive and negative currency values, you can control whether "
+#~ "the currency symbol appears before or after the numeric value, and how "
+#~ "the sign of the value is distinguished in the display. Note that the "
+#~ "symbols used for the sign of currency values are the same as those used "
+#~ "for other numeric values."
+#~ msgstr ""
+#~ "For both positive and negative currency values, you can control whether "
+#~ "the currency symbol appears before or after the numeric value, and how "
+#~ "the sign of the value is distinguished in the display. Note that the "
+#~ "symbols used for the sign of currency values are the same as those used "
+#~ "for other numeric values."
+
+#, fuzzy
+#~| msgid ""
+#~| "If the checkbox labeled <guilabel>Prefix currency symbol</guilabel> is "
+#~| "selected, the currency symbol appears before the numeric value. If this "
+#~| "checkbox is cleared, then the currency symbol appears after the numeric "
+#~| "value."
+#~ msgid ""
+#~ "If the check box labeled <guilabel>Prefix currency symbol</guilabel> is "
+#~ "selected, the currency symbol appears before the numeric value. If this "
+#~ "check box is cleared, then the currency symbol appears after the numeric "
+#~ "value."
+#~ msgstr ""
+#~ "If the checkbox labelled <guilabel>Prefix currency symbol</guilabel> is "
+#~ "selected, the currency symbol appears before the numeric value. If this "
+#~ "checkbox is cleared, then the currency symbol appears after the numeric "
+#~ "value."
+
+#~ msgid ""
+#~ "There are five choices for the way in which the sign of the currency "
+#~ "value is handled:"
+#~ msgstr ""
+#~ "There are five choices for the way in which the sign of the currency "
+#~ "value is handled:"
+
+#, fuzzy
+#~| msgid ""
+#~| "The <guilabel>Parens around</guilabel> option displays the numeric value "
+#~| "within a pair of parentheses."
+#~ msgid ""
+#~ "The <guilabel>Parentheses around</guilabel> option displays the numeric "
+#~ "value within a pair of parentheses."
+#~ msgstr ""
+#~ "The <guilabel>Parens around</guilabel> option displays the numeric value "
+#~ "within a pair of parentheses."
+
+#, fuzzy
+#~| msgid ""
+#~| "The <guilabel>Before quantity money</guilabel> option displays the sign "
+#~| "before the numeric value, but after any currency symbol that may be "
+#~| "present."
+#~ msgid ""
+#~ "The <guilabel>Before Quantity Money</guilabel> option displays the sign "
+#~ "before the numeric value, but after any currency symbol that may be "
+#~ "present."
+#~ msgstr ""
+#~ "The <guilabel>Before quantity money</guilabel> option displays the sign "
+#~ "before the numeric value, but after any currency symbol that may be "
+#~ "present."
+
+#, fuzzy
+#~| msgid ""
+#~| "The <guilabel>After quantity money</guilabel> option displays the sign "
+#~| "after the numeric value, but before any currency symbol that may be "
+#~| "present."
+#~ msgid ""
+#~ "The <guilabel>After Quantity Money</guilabel> option displays the sign "
+#~ "after the numeric value, but before any currency symbol that may be "
+#~ "present."
+#~ msgstr ""
+#~ "The <guilabel>After quantity money</guilabel> option displays the sign "
+#~ "after the numeric value, but before any currency symbol that may be "
+#~ "present."
+
+#, fuzzy
+#~| msgid ""
+#~| "The <guilabel>Before money</guilabel> option displays the sign before "
+#~| "the numeric value as well as any currency symbol that may be present."
+#~ msgid ""
+#~ "The <guilabel>Before Money</guilabel> option displays the sign before the "
+#~ "numeric value as well as any currency symbol that may be present."
+#~ msgstr ""
+#~ "The <guilabel>Before money</guilabel> option displays the sign before the "
+#~ "numeric value as well as any currency symbol that may be present."
+
+#, fuzzy
+#~| msgid ""
+#~| "The <guilabel>After money</guilabel> option displays the sign after the "
+#~| "numeric value as well as any currency symbol that may be present."
+#~ msgid ""
+#~ "The <guilabel>After Money</guilabel> option displays the sign after the "
+#~ "numeric value as well as any currency symbol that may be present."
+#~ msgstr ""
+#~ "The <guilabel>After money</guilabel> option displays the sign after the "
+#~ "numeric value as well as any currency symbol that may be present."
+
+#, fuzzy
+#~| msgid "Time and Dates"
+#~ msgid "Time &amp; Dates"
+#~ msgstr "Time and Dates"
+
+#, fuzzy
+#~| msgid ""
+#~| "If you use a different calendar system than Gregorian, you can choose "
+#~| "this from the first dropdown box."
+#~ msgid ""
+#~ "If you use a different calendar system than Gregorian, you can choose "
+#~ "this from the first drop down box."
+#~ msgstr ""
+#~ "If you use a different calendar system than Gregorian, you can choose "
+#~ "this from the first dropdown box."
+
+#~ msgid ""
+#~ "On the rest of this page, there are text boxes for the time, long date, "
+#~ "and short date, in which you can type format strings to control the way "
+#~ "in which times and dates are displayed."
+#~ msgstr ""
+#~ "On the rest of this page, there are text boxes for the time, long date, "
+#~ "and short date, in which you can type format strings to control the way "
+#~ "in which times and dates are displayed."
+
+#~ msgid ""
+#~ "Except for the special codes described below, any other characters in the "
+#~ "format strings are displayed literally. The special codes consist of a "
+#~ "<parameter>%</parameter> sign followed by a character, as shown in the "
+#~ "list of codes below:"
+#~ msgstr ""
+#~ "Except for the special codes described below, any other characters in the "
+#~ "format strings are displayed literally. The special codes consist of a "
+#~ "<parameter>%</parameter> sign followed by a character, as shown in the "
+#~ "list of codes below:"
+
+#~ msgid "Time format codes:"
+#~ msgstr "Time format codes:"
+
+#~ msgid ""
+#~ "<parameter>hH</parameter> - The hour according to a 24-hour clock, using "
+#~ "one or two digits (0 to 23)."
+#~ msgstr ""
+#~ "<parameter>hH</parameter> - The hour according to a 24-hour clock, using "
+#~ "one or two digits (0 to 23)."
+
+#, fuzzy
+#~ msgid ""
+#~ "<parameter>PH</parameter> (uppercase <quote>p</quote>) - The hour "
+#~ "according to a 12-hour clock, using two digits (01 to 12)."
+#~ msgstr ""
+#~ "<parameter>PH</parameter> (uppercase eye) - The hour according to a 12-"
+#~ "hour clock, using two digits (01 to 12)."
+
+#, fuzzy
+#~ msgid ""
+#~ "<parameter>pH</parameter> (lowercase <quote>p</quote>) - The hour "
+#~ "according to a 12-hour clock, using one or two digits (1 to 12)."
+#~ msgstr ""
+#~ "<parameter>pH</parameter> (lowercase ell) - The hour according to a 12-"
+#~ "hour clock, using one or two digits (1 to 12)."
+
+#~ msgid ""
+#~ "<parameter>AMPM</parameter> - Either <quote>am</quote> or <quote>pm</"
+#~ "quote> depending on the hour. Useful with <parameter>PH</parameter> or "
+#~ "<parameter>pH</parameter>."
+#~ msgstr ""
+#~ "<parameter>AMPM</parameter> - Either <quote>am</quote> or <quote>pm</"
+#~ "quote> depending on the hour. Useful with <parameter>PH</parameter> or "
+#~ "<parameter>pH</parameter>."
+
+#~ msgid "Date format codes:"
+#~ msgstr "Date format codes:"
+
+#~ msgid ""
+#~ "<parameter>mM</parameter> - The month, using 1 or 2 digits (1 to 12)."
+#~ msgstr ""
+#~ "<parameter>mM</parameter> - The month, using 1 or 2 digits (1 to 12)."
+
+#~ msgid ""
+#~ "You can select the default paper format with the combo box labeled "
+#~ "<guilabel>Paper Format</guilabel>."
+#~ msgstr ""
+#~ "You can select the default paper format with the combo box labelled "
+#~ "<guilabel>Paper Format</guilabel>."
+
+#~ msgid ""
+#~ "Use the drop down box labeled <guilabel>Measure system</guilabel> to "
+#~ "select Imperial or Metric systems of measurement."
+#~ msgstr ""
+#~ "Use the drop down box labelled <guilabel>Measure system</guilabel> to "
+#~ "select Imperial or Metric systems of measurement."
+
+#~ msgid "KControl"
+#~ msgstr "KControl"
+
+#~ msgid ""
+#~ "If the language for the country you have selected is available on your "
+#~ "system, it will be selected automatically. For instance, choosing "
+#~ "<guilabel>Germany</guilabel> as the country will select <guilabel>German</"
+#~ "guilabel> as the language, if it is available."
+#~ msgstr ""
+#~ "If the language for the country you have selected is available on your "
+#~ "system, it will be selected automatically. For instance, choosing "
+#~ "<guilabel>Germany</guilabel> as the country will select <guilabel>German</"
+#~ "guilabel> as the language, if it is available."
+
+#~ msgid ""
+#~ "Finally, there's a combobox labeled <guilabel>First day of the week</"
+#~ "guilabel> which lets you select which day is the first one of the week in "
+#~ "your country."
+#~ msgstr ""
+#~ "Finally, there's a combobox labelled <guilabel>First day of the week</"
+#~ "guilabel> which lets you select which day is the first one of the week in "
+#~ "your country."

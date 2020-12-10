@@ -1,0 +1,510 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-11-26 14:53+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: af/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Afrikaans"
+msgstr "អាហ្រ្វិក"
+
+#: ar/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Arabic"
+msgstr "អារ៉ាប់"
+
+#: as/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Assamese"
+msgstr "អាសាមីស"
+
+#: ast/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Asturian"
+msgstr "អេននីស"
+
+#: be@latin/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Belarusian Latin"
+msgstr "ឡាតាំងបេឡារុស្ស"
+
+#: be/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Belarusian"
+msgstr "បេឡារុស្ស"
+
+#: bg/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Bulgarian"
+msgstr "ប៊ុលហ្គារី"
+
+#: bn_IN/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Bengali (India)"
+msgstr "បង់ក្លាដែស (ឥណ្ឌា)"
+
+#: bn/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Bengali"
+msgstr "បង់ក្លាដែស"
+
+#: br/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Breton"
+msgstr "ប៊្រីក"
+
+#: bs/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Bosnian"
+msgstr "បូស្នី"
+
+#: ca/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Catalan"
+msgstr "កាតាឡាន"
+
+#: ca@valencia/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Catalan (Valencian)"
+msgstr "កាតាឡាន (វ៉ាឡេនសៀ)"
+
+#: crh/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Crimean Tatar"
+msgstr "គ្រីមៀន"
+
+#: csb/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Kashubian"
+msgstr "កាស្មៀរ"
+
+#: cs/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Czech"
+msgstr "ឆែក"
+
+#: cy/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Welsh"
+msgstr "វែល"
+
+#: da/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Danish"
+msgstr "ដាណឺម៉ាក"
+
+#: de/messages/entry.desktop:2
+msgctxt "Name"
+msgid "German"
+msgstr "អាឡឺម៉ង់"
+
+#: el/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Greek"
+msgstr "ក្រិក"
+
+#: en_GB/messages/entry.desktop:2
+msgctxt "Name"
+msgid "British English"
+msgstr "អង់គ្លេសអង់គ្លេស"
+
+#: eo/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Esperanto"
+msgstr "អេស្បើររ៉េនតូ"
+
+#: es/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Spanish"
+msgstr "អេស្ប៉ាញ"
+
+#: et/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Estonian"
+msgstr "អេស្តូនី"
+
+#: eu/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Basque"
+msgstr "បាស"
+
+#: fa/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Farsi"
+msgstr "ហ្វាស៊ី"
+
+#: fi/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Finnish"
+msgstr "ហ្វាំងឡង់"
+
+#: fr/messages/entry.desktop:2
+msgctxt "Name"
+msgid "French"
+msgstr "បារាំង"
+
+#: fy/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Frisian"
+msgstr "ហ្វ្រីស៊ាន"
+
+#: ga/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Irish"
+msgstr "អៀរឡង់"
+
+#: gl/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Galician"
+msgstr "ហ្គាលីស្យាន"
+
+#: gu/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Gujarati"
+msgstr "ហ្គូចាហ្គោ"
+
+#: ha/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Hausa"
+msgstr "ហូសា"
+
+#: he/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Hebrew"
+msgstr "ហេប្រ៊ូ"
+
+#: hi/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Hindi"
+msgstr "ហិណ្ឌូ"
+
+#: hne/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Chhattisgarhi"
+msgstr "ឆាតធីជីហ្គាហ៊ី"
+
+#: hr/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Croatian"
+msgstr "ក្រូអាត"
+
+#: hsb/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Upper Sorbian"
+msgstr "សូបៀនលើ"
+
+#: hu/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Hungarian"
+msgstr "ហុងគ្រី"
+
+#: hy/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Armenian"
+msgstr "អាមេនី"
+
+#: ia/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Interlingua"
+msgstr "អ៊ីនធ័រលីងគ័រ"
+
+#: id/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Indonesian"
+msgstr "ឥណ្ឌូនេស៊ី"
+
+#: is/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Icelandic"
+msgstr "អ៊ីស្លង់"
+
+#: it/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Italian"
+msgstr "អ៊ីតាលី"
+
+#: ja/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Japanese"
+msgstr "ជប៉ុន"
+
+#: ka/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Georgian"
+msgstr "ហ្សកហ្ស៊ី"
+
+#: kk/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Kazakh"
+msgstr "កាហ្សាក់ស្ថាន"
+
+#: km/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Khmer"
+msgstr "ខ្មែរ"
+
+#: kn/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Kannada"
+msgstr "កាណាដា"
+
+#: ko/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Korean"
+msgstr "កូរ៉េ"
+
+#: ku/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Kurdish"
+msgstr "ឃឺដ"
+
+#: lb/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Luxembourgish"
+msgstr "លុចសំបួរ"
+
+#: lt/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Lithuanian"
+msgstr "លីទុយអានី"
+
+#: lv/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Latvian"
+msgstr "ឡាតវីយ៉ា"
+
+#: mai/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Maithili"
+msgstr "ម៉ាធីលី"
+
+#: mk/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Macedonian"
+msgstr "ម៉ាសេដ្យាន"
+
+#: ml/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Malayalam"
+msgstr "ម៉ាឡាយ៉ាល់"
+
+#: mr/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Marathi"
+msgstr "ម៉ារ៉ាធី"
+
+#: ms/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Malay"
+msgstr "ម៉ាឡេ"
+
+#: nb/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Norwegian Bokmål"
+msgstr "ន័រវេស"
+
+#: nds/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Low Saxon"
+msgstr "ទាបសាសាន់"
+
+#: ne/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Nepali"
+msgstr "នេប៉ាល់"
+
+#: nl/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Dutch"
+msgstr "ហូឡង់"
+
+#: nn/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Norwegian Nynorsk"
+msgstr "ន័រវែសន័រវែស"
+
+#: or/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Oriya"
+msgstr "អូរីយ៉ា"
+
+#: pa/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Punjabi"
+msgstr "ពុនចាជ"
+
+#: pl/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Polish"
+msgstr "ប៉ូឡូញ"
+
+#: ps/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Pashto"
+msgstr "ផាសតូតូ"
+
+#: pt_BR/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Brazil portuguese"
+msgstr "ប្រេស៊ីល ព័រទុយហ្កាល់"
+
+#: pt/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Portuguese"
+msgstr "ព័រទុយហ្កាល់"
+
+#: ro/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Romanian"
+msgstr "រ៉ូម៉ានី"
+
+#: ru/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Russian"
+msgstr "រុស្ស៊ី"
+
+#: se/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Northern Sami"
+msgstr "នូធើនសាម៊ី"
+
+#: si/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Sinhala"
+msgstr "ស៊ីនហាឡា"
+
+#: sk/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Slovak"
+msgstr "ស្លូវ៉ាគី"
+
+#: sl/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Slovenian"
+msgstr "ស្លូវេនី"
+
+#: sq/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Albanian"
+msgstr "អាល់បានី"
+
+#: sr@ijekavianlatin/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Ijekavian Latin"
+msgstr "ស៊ែប៊ីអាយជេវ៉ាវីឡាតាំង"
+
+#: sr@ijekavian/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Ijekavian"
+msgstr "ស៊ែបអាយហ្សេវ៉ាវី"
+
+#: sr@latin/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Latin"
+msgstr "ឡាទីនស៊ែប៊ី"
+
+#: sr/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Serbian"
+msgstr "ស៊ែប៊ី"
+
+#: sv/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Swedish"
+msgstr "ស៊ុយអែត"
+
+#: ta/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Tamil"
+msgstr "តាមិល"
+
+#: te/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Telugu"
+msgstr "តេលូហ្គូ"
+
+#: tg/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Tajik"
+msgstr "តាជិក"
+
+#: th/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Thai"
+msgstr "ថៃ"
+
+#: tr/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Turkish"
+msgstr "ទួរគី"
+
+#: tt/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Tatar"
+msgstr "តាតាស"
+
+#: ug/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Uyghur"
+msgstr "អៃហួ"
+
+#: uk/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Ukrainian"
+msgstr "អ៊ុយក្រែន"
+
+#: uz@cyrillic/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Uzbek (Cyrillic)"
+msgstr "អ៊ូសបេគីស (ស៊ីរីលីក)"
+
+#: uz/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Uzbek"
+msgstr "អ៊ូសបេគីស"
+
+#: vi/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Vietnamese"
+msgstr "ជនជាតិវៀតណាម"
+
+#: wa/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Walloon"
+msgstr "វ៉ាលូន"
+
+#: xh/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Xhosa"
+msgstr "ហ្សូសា"
+
+#: x-test/messages/entry.desktop:2
+msgctxt "Name"
+msgid "KDE Test Language"
+msgstr "ភាសាតេស្តរបស់ KDE"
+
+#: zh_CN/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Simplified Chinese"
+msgstr "ភាសាចិនសាមញ្ញ"
+
+#: zh_HK/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Chinese (Hong Kong)"
+msgstr "ចិន (ហុងកុង)"
+
+#: zh_TW/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Traditional Chinese"
+msgstr "ប្រពៃណី​ចិន"

@@ -1,0 +1,505 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-09 18:42+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. Tag: author
+#: guides.docbook:4
+#, no-c-format
+msgid "<firstname>Neil</firstname> <surname>Lucock</surname>"
+msgstr "<firstname>Neil</firstname> <surname>Lucock</surname>"
+
+#. Tag: email
+#: guides.docbook:8
+#, no-c-format
+msgid "neil@nlucock.freeserve.co.uk"
+msgstr "neil@nlucock.freeserve.co.uk"
+
+#. Tag: author
+#: guides.docbook:11
+#, no-c-format
+msgid "<firstname>Krishna</firstname> <surname>Tateneni</surname>"
+msgstr "<firstname>Krishna</firstname> <surname>Tateneni</surname>"
+
+#. Tag: email
+#: guides.docbook:15
+#, no-c-format
+msgid "tateneni@pluto.njcc.com"
+msgstr "tateneni@pluto.njcc.com"
+
+#. Tag: author
+#: guides.docbook:18
+#, no-c-format
+msgid "<firstname>Brad</firstname> <surname>Hards</surname>"
+msgstr "<firstname>Brad</firstname> <surname>Hards</surname>"
+
+#. Tag: email
+#: guides.docbook:22
+#, no-c-format
+msgid "bradh@frogmouth.net"
+msgstr "bradh@frogmouth.net"
+
+#. Tag: author
+#: guides.docbook:25
+#, no-c-format
+msgid "<firstname>Danny</firstname> <surname>Allen</surname>"
+msgstr "<firstname>Danny</firstname> <surname>Allen</surname>"
+
+#. Tag: email
+#: guides.docbook:29
+#, no-c-format
+msgid "danny@dannyallen.co.uk"
+msgstr "danny@dannyallen.co.uk"
+
+#. Tag: author
+#: guides.docbook:32
+#, no-c-format
+msgid "<firstname>Anne-Marie</firstname> <surname>Mahfouf</surname>"
+msgstr "<firstname>Anne-Marie</firstname> <surname>Mahfouf</surname>"
+
+#. Tag: email
+#: guides.docbook:36
+#, no-c-format
+msgid "annemarie.mahfouf@free.fr"
+msgstr "annemarie.mahfouf@free.fr"
+
+#. Tag: trans_comment
+#: guides.docbook:40
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr "ROLES_OF_TRANSLATORS"
+
+#. Tag: title
+#: guides.docbook:43
+#, no-c-format
+msgid "Detailed Guides"
+msgstr "មគ្គុទេសក៍លម្អិត"
+
+#. Tag: para
+#: guides.docbook:45
+#, no-c-format
+msgid "This chapter describes how to perform some common tasks in &stage;."
+msgstr "ជំពូកនេះពិពណ៌នាអំពីរបៀបអនុវត្តការងារសាមញ្ញមួយចំនួននៅក្នុងឆាក។"
+
+#. Tag: title
+#: guides.docbook:49
+#, no-c-format
+msgid "Create a &HTML; Slideshow"
+msgstr "បង្កើតជា HTML; ការបញ្ចាំងស្លាយ"
+
+#. Tag: para
+#: guides.docbook:51
+#, no-c-format
+msgid "Turn an existing presentation into standard &HTML; pages with accompanying navigation aids."
+msgstr "បង្វែរបទបង្ហាញដែលមានស្រាប់ទៅជា HTML ស្តង់ដារ។ ទំព័រដែលមានជំនួយការរុករក។"
+
+#. Tag: para
+#: guides.docbook:54
+#, no-c-format
+msgid "First, either make a new presentation, or open an existing one. Then, click on <menuchoice><guimenu>File</guimenu><guimenuitem>Export as HTML...</guimenuitem></menuchoice>"
+msgstr "ទីមួយធ្វើបទបង្ហាញថ្មីឬបើកបទបង្ហាញដែលមានស្រាប់។ បន្ទាប់មកចុចលើ <menuchoice><guimenu> ឯកសារ </guimenu><guimenuitem> នាំចេញជា HTML ... </guimenuitem></menuchoice>"
+
+#. Tag: para
+#: guides.docbook:57
+#, no-c-format
+msgid "You will then get a dialog box asking for a few details:"
+msgstr "បន្ទាប់មកអ្នកនឹងទទួលបានប្រអប់មួយដែលសួររកព័ត៌មានលំអិតមួយចំនួន៖"
+
+#. Tag: screeninfo
+#: guides.docbook:60
+#, no-c-format
+msgid "<screeninfo>Fill in the details for your &HTML; slideshow</screeninfo>"
+msgstr "<screeninfo> បំពេញព័ត៌មានលម្អិតសម្រាប់ HTML របស់អ្នក។ ការបញ្ចាំងស្លាយ </screeninfo>"
+
+#. Tag: phrase
+#: guides.docbook:66
+#, no-c-format
+msgid "<phrase>Fill in the details for your &HTML; slideshow</phrase>"
+msgstr "<phrase> បំពេញព័ត៌មានលម្អិតសម្រាប់ HTML របស់អ្នក។ ការបញ្ចាំងស្លាយ </phrase>"
+
+#. Tag: para
+#: guides.docbook:71
+#, no-c-format
+msgid "Fill in <guilabel>Title</guilabel> and <guilabel>Author</guilabel> fields. Select the slides which should be exported. If you want to change a name used on the &HTML; page for each slide double click on the name and edit it inline."
+msgstr "បំពេញ​ក្នុង <guilabel> ចំណងជើង </guilabel> និង <guilabel> អ្នកនិពន្ធ </guilabel> វាល។ ជ្រើសស្លាយដែលគួរត្រូវបាននាំចេញ។ ប្រសិនបើអ្នកចង់ផ្លាស់ប្តូរឈ្មោះដែលបានប្រើនៅលើ HTML ។ ទំព័រសម្រាប់ស្លាយនីមួយៗចុចទ្វេដងលើឈ្មោះនិងកែសម្រួលវាក្នុងជួរ។"
+
+#. Tag: para
+#: guides.docbook:76
+#, no-c-format
+msgid "In the <guilabel>Output preview</guilabel> area the downsized slides are displayed and you can check the correct slide order and browse the presentation with the <guiicon>&lt;</guiicon> and <guiicon>&gt;</guiicon> buttons."
+msgstr "ក្នុង <guilabel> ការមើលលទ្ធផលជាមុន </guilabel> ផ្ទៃស្លាយដែលត្រូវបានបង្ហាញត្រូវបានបង្ហាញហើយអ្នកអាចពិនិត្យមើលលំដាប់ស្លាយដែលត្រឹមត្រូវនិងរកមើលបទបង្ហាញជាមួយ <guiicon> វា; </guiicon> និង <guiicon> gt; </guiicon> ប៊ូតុង។"
+
+#. Tag: para
+#: guides.docbook:81
+#, no-c-format
+msgid "Now you can select a stylesheet with the configuration of the &HTML; options."
+msgstr "ឥឡូវអ្នកអាចជ្រើសសន្លឹករចនាប័ទ្មដែលមានការកំណត់រចនាសម្ព័ន្ធ HTML ។ ជំរើស។"
+
+#. Tag: para
+#: guides.docbook:83
+#, no-c-format
+msgid "To actually produce your &HTML; presentation, press the <guibutton>Export</guibutton> button and select a folder."
+msgstr "ផលិត HTML របស់អ្នក បទបង្ហាញចុចប៊ូតុង <guibutton> នាំចេញ </guibutton> និងជ្រើសថតមួយ។"
+
+#. Tag: para
+#: guides.docbook:86
+#, no-c-format
+msgid "What we now have are the newly-produced <filename>html/</filename> and <filename>pics/</filename> folders, created where we earlier set the path:"
+msgstr "អ្វីដែលយើងមាននៅពេលនេះគឺផលិតផលដែលទើបនឹងផលិត <filename> html / </filename> និង <filename> រូបភាព / </filename> ថតឯកសារដែលបានបង្កើតកន្លែងដែលយើងបានកំណត់ផ្លូវ៖"
+
+#. Tag: screeninfo
+#: guides.docbook:91
+#, no-c-format
+msgid "<screeninfo>The newly created &HTML; slideshow folders</screeninfo>"
+msgstr "<screeninfo> HTML ដែលបានបង្កើតថ្មី; ថតស្លាយ </screeninfo>"
+
+#. Tag: phrase
+#: guides.docbook:97
+#, no-c-format
+msgid "<phrase>The newly created &HTML; slideshow folders</phrase>"
+msgstr "<phrase> HTML ដែលបានបង្កើតថ្មី; ថតស្លាយ </phrase>"
+
+#. Tag: para
+#: guides.docbook:102
+#, no-c-format
+msgid "There is also an <filename>index.html</filename> file to launch your web slideshow."
+msgstr "ក៏មានផងដែរ <filename> index.html </filename> ឯកសារដើម្បីចាប់ផ្តើមការបញ្ចាំងស្លាយបណ្ដាញរបស់អ្នក។"
+
+#. Tag: para
+#: guides.docbook:105
+#, no-c-format
+msgid "You can see how it works by using your file manager or web browser to open the <filename>index.html</filename> file. Click where prompted, and the first slide of your presentation is displayed. It will now behave as a &stage; slideshow."
+msgstr "អ្នកអាចមើលឃើញពីរបៀបដែលវាដំណើរការដោយប្រើកម្មវិធីគ្រប់គ្រងឯកសាររបស់អ្នកឬកម្មវិធីរុករកគេហទំព័រដើម្បីបើកឯកសារ <filename> index.html </filename> ឯកសារ ចុចកន្លែងដែលត្រូវបានជម្រុញហើយស្លាយដំបូងនៃបទបង្ហាញរបស់អ្នកត្រូវបានបង្ហាញ។ ឥឡូវនេះវានឹងមានឥរិយាបទជាដំណាក់កាលមួយ។ ការបញ្ចាំងស្លាយ។"
+
+#. Tag: para
+#: guides.docbook:110
+#, no-c-format
+msgid "Each click on the arrow icons take you to the next or previous slide. To get back to the start of the slideshow click on the slide icon."
+msgstr "ការចុចលើរូបតំណាងព្រួញនាំអ្នកទៅស្លាយបន្ទាប់ឬបន្ទាប់។ ដើម្បីត្រលប់ទៅការចាប់ផ្តើមនៃការបញ្ចាំងស្លាយសូមចុចលើរូបតំណាងស្លាយ។"
+
+#. Tag: para
+#: guides.docbook:113
+#, no-c-format
+msgid "To share your presentation with the world, transfer the newly-produced files to a network-accessible location (&ie; webspace), remembering to keep the folder structure intact."
+msgstr "ដើម្បីចែករំលែកបទបង្ហាញរបស់អ្នកទៅកាន់ពិភពលោកសូមផ្ទេរឯកសារដែលបានបង្កើតថ្មីទៅទីតាំងដែលអាចចូលដំណើរការបានតាមបណ្តាញ (ឧទាហរណ៍ webspace) ដោយចងចាំរក្សារចនាសម្ព័ន្ធថតនៅដដែល។"
+
+#. Tag: title
+#: guides.docbook:119
+#, no-c-format
+msgid "Creating &stage; Templates"
+msgstr "ការបង្កើតដំណាក់កាល; ពុម្ព"
+
+#. Tag: para
+#: guides.docbook:121
+#, no-c-format
+msgid "It is very easy to create a new template for &stage;."
+msgstr "វាងាយស្រួលណាស់ក្នុងការបង្កើតគំរូថ្មីសម្រាប់ឆាក។"
+
+#. Tag: para
+#: guides.docbook:123
+#, no-c-format
+msgid "If you have made a presentation in a style that you would like to use again, you can save it as a template."
+msgstr "ប្រសិនបើអ្នកបានធ្វើបទបង្ហាញតាមរបៀបមួយដែលអ្នកចង់ប្រើម្តងទៀតអ្នកអាចរក្សាទុកវាជាគំរូ។"
+
+#. Tag: para
+#: guides.docbook:126
+#, no-c-format
+msgid "This tutorial will show how we can make a new template and save it."
+msgstr "ការបង្រៀននេះនឹងបង្ហាញពីរបៀបដែលយើងអាចបង្កើតគំរូថ្មីហើយរក្សាទុកវា។"
+
+#. Tag: para
+#: guides.docbook:129
+#, no-c-format
+msgid "Open &stage; and create a new document."
+msgstr "ដំណាក់កាលបើកចំហ; និងបង្កើតឯកសារថ្មី។"
+
+#. Tag: para
+#: guides.docbook:131
+#, no-c-format
+msgid "To add a little sparkle to the blank slide, we can change the slide background - do this by selecting the <guilabel>Document background</guilabel> tool in the Tools docker."
+msgstr "ដើម្បីបន្ថែមពន្លឺភ្លើងបន្តិចបន្តួចទៅស្លាយទទេយើងអាចផ្លាស់ប្តូរផ្ទៃខាងក្រោយស្លាយ - ធ្វើដូចនេះដោយជ្រើសរើសប៊ូតុង <guilabel> សាវតាឯកសារ </guilabel> ឧបករណ៍នៅក្នុងឧបករណ៍ចត។"
+
+#. Tag: para
+#: guides.docbook:135
+#, no-c-format
+msgid "We want the background to look attractive, so you may choose to use an image as a background by clicking the <guibutton>Set image</guibutton> button: feel free to experiment, but keep it beautiful!"
+msgstr "យើងចង់ឱ្យផ្ទៃខាងក្រោយមើលទៅគួរឱ្យទាក់ទាញដូច្នេះអ្នកអាចជ្រើសរើសប្រើរូបភាពជាផ្ទៃខាងក្រោយដោយចុចលើប៊ូតុង <guibutton> កំណត់រូបភាព </guibutton> ប៊ូតុង: មានអារម្មណ៍ថាមានសេរីភាពក្នុងការពិសោធន៍ប៉ុន្តែរក្សាវាឱ្យស្រស់ស្អាត!"
+
+#. Tag: screeninfo
+#: guides.docbook:140
+#, no-c-format
+msgid "<screeninfo>Choosing a slide background</screeninfo>"
+msgstr "<screeninfo> ការជ្រើសរើសផ្ទៃខាងក្រោយស្លាយ </screeninfo>"
+
+#. Tag: phrase
+#: guides.docbook:145
+#, no-c-format
+msgid "<phrase>Choosing a slide background</phrase>"
+msgstr "<phrase> ការជ្រើសរើសផ្ទៃខាងក្រោយស្លាយ </phrase>"
+
+#. Tag: para
+#: guides.docbook:149
+#, no-c-format
+msgid "The page should now have the background you desire. Create a text box, and type a heading for your slide:"
+msgstr "ទំព័រគួរតែមានផ្ទៃខាងក្រោយដែលអ្នកចង់បាន។ បង្កើតប្រអប់អត្ថបទហើយវាយចំណងជើងសម្រាប់ស្លាយរបស់អ្នក៖"
+
+#. Tag: screeninfo
+#: guides.docbook:153
+#, no-c-format
+msgid "<screeninfo>Adding a Heading to the new template</screeninfo>"
+msgstr "<screeninfo> ការបន្ថែមក្បាលទៅទំព័រគំរូថ្មី </screeninfo>"
+
+#. Tag: phrase
+#: guides.docbook:158
+#, no-c-format
+msgid "<phrase>Adding a Heading to the new template</phrase>"
+msgstr "<phrase> ការបន្ថែមក្បាលទៅទំព័រគំរូថ្មី </phrase>"
+
+#. Tag: para
+#: guides.docbook:162
+#, no-c-format
+msgid "When you are happy with your template, go to <menuchoice><guimenu>File</guimenu> <guimenuitem>Save As</guimenuitem></menuchoice> and select <guilabel>Opendocument Presentation Template</guilabel> filetype in the file dialog."
+msgstr "នៅពេលអ្នកសប្បាយចិត្តនឹងគំរូរបស់អ្នកសូមចូលទៅ <menuchoice><guimenu> ឯកសារ </guimenu><guimenuitem> រក្សាទុក​ជា </guimenuitem></menuchoice> ហើយជ្រើសរើស <guilabel> គំរូបទបង្ហាញនៃអូឌីយ៉ូ </guilabel> ប្រភេទឯកសារក្នុងប្រអប់ឯកសារ។"
+
+#, fuzzy
+#~ msgid "<screeninfo>File menu option to <guimenuitem>Create HTML Slideshow...</guimenuitem></screeninfo>"
+#~ msgstr "<screeninfo> ជម្រើសម៉ឺនុយឯកសារទៅ <guimenuitem> បង្កើតការបញ្ចាំងស្លាយ HTML ... </guimenuitem></screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>File menu option to <guimenuitem>Create HTML Slideshow...</guimenuitem></phrase>"
+#~ msgstr "<phrase> ជម្រើសម៉ឺនុយឯកសារទៅ <guimenuitem> បង្កើតការបញ្ចាំងស្លាយ HTML ... </guimenuitem></phrase>"
+
+#, fuzzy
+#~ msgid "<screeninfo>Previous configuration dialog</screeninfo>"
+#~ msgstr "<screeninfo> ប្រអប់កំណត់រចនាសម្ព័ន្ធមុន </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>Previous configuration dialog</phrase>"
+#~ msgstr "<phrase> ប្រអប់កំណត់រចនាសម្ព័ន្ធមុន </phrase>"
+
+#, fuzzy
+#~ msgid "Click <guibutton>No</guibutton> if this is the first time that you have used this feature, or if you want to alter specific options. The <guibutton>Yes</guibutton> option allows you to use details that you have previously entered for your <acronym>HTML</acronym> slideshow, so that you can quickly create the slideshow without needing to adjust the options."
+#~ msgstr "ចុច <guibutton> ទេ </guibutton> ប្រសិនបើនេះជាលើកដំបូងដែលអ្នកបានប្រើលក្ខណៈពិសេសនេះឬប្រសិនបើអ្នកចង់ផ្លាស់ប្តូរជម្រើសជាក់លាក់។ នេះ <guibutton> ត្រូវហើយ </guibutton> ជម្រើសអនុញ្ញាតឱ្យអ្នកប្រើពត៌មានលំអិតដែលអ្នកបានបញ្ចូលពីមុន <acronym> HTML </acronym> ការបញ្ចាំងស្លាយដូច្នេះអ្នកអាចបង្កើតការបញ្ចាំងស្លាយបានយ៉ាងឆាប់រហ័សដោយមិនចាំបាច់កែជម្រើស។"
+
+#, fuzzy
+#~ msgid "Fill in each field (the dialog takes the informations from &kcontrolcenter; if they exist) and ensure that the path details are correct, as this is where &kpresenter; will save your new <acronym>HTML</acronym> files and pictures. Click on the <guibutton>Next</guibutton> when you are done."
+#~ msgstr "បំពេញក្នុងវាលនីមួយៗ (ប្រអប់ទទួលយកព័ត៌មានពី kcontrolcenter; ប្រសិនបើមាន) ហើយត្រូវប្រាកដថាព័ត៌មានលំអិតផ្លូវគឺត្រឹមត្រូវព្រោះនេះជាកន្លែងដែលអ្នកចូលរួម; នឹងរក្សាទុករបស់ថ្មីរបស់អ្នក <acronym> HTML </acronym> ឯកសារនិងរូបភាព។ ចុចលើប៊ូតុង <guibutton> បន្ទាប់ </guibutton> នៅពេលអ្នករួចរាល់។"
+
+#, fuzzy
+#~ msgid "If the path you select at this stage does not exist, &kpresenter; will ask if you would like to create it."
+#~ msgstr "ប្រសិនបើផ្លូវដែលអ្នកជ្រើសរើសនៅដំណាក់កាលនេះមិនមានទេ kpresenter; នឹងសួរប្រសិនបើអ្នកចង់បង្កើតវា។"
+
+#, fuzzy
+#~ msgid "<screeninfo>Fill in additional details for your <acronym>HTML</acronym> slideshow</screeninfo>"
+#~ msgstr "<screeninfo> បំពេញព័ត៌មានលម្អិតបន្ថែមសម្រាប់ឯកសាររបស់អ្នក <acronym> HTML </acronym> ការបញ្ចាំងស្លាយ </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>Fill in additional details for your <acronym>HTML</acronym> slideshow</phrase>"
+#~ msgstr "<phrase> បំពេញព័ត៌មានលម្អិតបន្ថែមសម្រាប់ឯកសាររបស់អ្នក <acronym> HTML </acronym> ការបញ្ចាំងស្លាយ </phrase>"
+
+#, fuzzy
+#~ msgid "Here, the encoding and format details can be changed, along with the zoom level of the slides. For example, if you originally designed your slides to display full screen on a 1280 x 1024 resolution screen, you could scale the slides to 50% to enable them to be easily viewed in a much smaller web browser window."
+#~ msgstr "នៅទីនេះការអ៊ិនកូដនិងព័ត៌មានលំអិតទ្រង់ទ្រាយអាចត្រូវបានផ្លាស់ប្តូររួមជាមួយកម្រិតពង្រីកនៃស្លាយ។ ឧទាហរណ៍ប្រសិនបើអ្នកបានរចនាស្លាយដំបូងរបស់អ្នកដើម្បីបង្ហាញពេញអេក្រង់លើអេក្រង់ទំហំ ១២៨០ x ១០២៤ អ្នកអាចពង្រីកស្លាយបានដល់ ៥០ % ដើម្បីឱ្យពួកវាអាចមើលបានយ៉ាងងាយស្រួលនៅក្នុងផ្ទាំងកម្មវិធីកម្មវិធីរុករកតូចជាង។"
+
+#, fuzzy
+#~ msgid "In most cases, the defaults will be fine, and you can safely press the <guibutton>Next</guibutton> to continue to the next page."
+#~ msgstr "ក្នុងករណីភាគច្រើនលំនាំដើមនឹងល្អហើយអ្នកអាចចុចប៊ូតុងសុវត្ថិភាព <guibutton> បន្ទាប់ </guibutton> ដើម្បីបន្តទៅទំព័របន្ទាប់។"
+
+#, fuzzy
+#~ msgid "Now you can customize the colors of the web pages:"
+#~ msgstr "ឥឡូវអ្នកអាចប្ដូរពណ៌តាមគេហទំព័រ៖"
+
+#, fuzzy
+#~ msgid "<screeninfo>Setting up the display style for your <acronym>HTML</acronym> slideshow</screeninfo>"
+#~ msgstr "<screeninfo> រៀបចំរចនាបទបង្ហាញសម្រាប់របស់អ្នក <acronym> HTML </acronym> ការបញ្ចាំងស្លាយ </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>Setting up the display style for your <acronym>HTML</acronym> slideshow</phrase>"
+#~ msgstr "<phrase> រៀបចំរចនាបទបង្ហាញសម្រាប់របស់អ្នក <acronym> HTML </acronym> ការបញ្ចាំងស្លាយ </phrase>"
+
+#, fuzzy
+#~ msgid "When &kpresenter; creates the web pages for you, the text colors for the navigation aids will follow whatever you set here. To change any of these colors, click the colored bar next to the corresponding text label. The colors used in your actual slides will be unchanged."
+#~ msgstr "ពេល kpresenter; បង្កើតទំព័របណ្តាញសម្រាប់អ្នកពណ៌អត្ថបទសម្រាប់ជំនួយនាវាចរណ៍នឹងធ្វើតាមអ្វីដែលអ្នកកំណត់នៅទីនេះ។ ដើម្បីផ្លាស់ប្តូរពណ៌ណាមួយចុចលើរបារពណ៌នៅជាប់ស្លាកអត្ថបទដែលត្រូវគ្នា។ ពណ៌ដែលប្រើក្នុងស្លាយពិតរបស់អ្នកនឹងមិនផ្លាស់ប្តូរទេ។"
+
+#, fuzzy
+#~ msgid "The <guibutton>Next</guibutton> button presents a dialog box that allows you to change the name used on the <acronym>HTML</acronym> page for each slide:"
+#~ msgstr "នេះ <guibutton> បន្ទាប់ </guibutton> ប៊ូតុងបង្ហាញប្រអប់មួយដែលអនុញ្ញាតឱ្យអ្នកផ្លាស់ប្តូរឈ្មោះដែលបានប្រើនៅលើប៊ូតុង <acronym> HTML </acronym> ទំព័រសំរាប់ស្លាយនីមួយៗ៖"
+
+#~ msgid "<screeninfo>Setting the slide names</screeninfo>"
+#~ msgstr "<screeninfo> ការកំណត់ឈ្មោះស្លាយ </screeninfo>"
+
+#~ msgid "<phrase>Setting the slide names</phrase>"
+#~ msgstr "<phrase> ការកំណត់ឈ្មោះស្លាយ </phrase>"
+
+#, fuzzy
+#~ msgid "<screeninfo>Unattended presentations</screeninfo>"
+#~ msgstr "<screeninfo> បទបង្ហាញដោយគ្មានការយកចិត្តទុកដាក់ </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>Unattended presentations</phrase>"
+#~ msgstr "<phrase> បទបង្ហាញដោយគ្មានការយកចិត្តទុកដាក់ </phrase>"
+
+#~ msgid "<screeninfo>Saving your configuration</screeninfo>"
+#~ msgstr "<screeninfo> រក្សាទុកការកំណត់រចនាសម្ព័ន្ធរបស់អ្នក </screeninfo>"
+
+#~ msgid "<phrase>Saving your configuration</phrase>"
+#~ msgstr "<phrase> រក្សាទុកការកំណត់រចនាសម្ព័ន្ធរបស់អ្នក </phrase>"
+
+#, fuzzy
+#~ msgid "Finally, you can save the configuration you have just used before you close the dialog box by pressing the <guibutton>Save Configuration...</guibutton> button."
+#~ msgstr "ចុងក្រោយអ្នកអាចរក្សាទុកការកំណត់រចនាសម្ព័ន្ធដែលអ្នកទើបតែបានប្រើមុនពេលអ្នកបិទប្រអប់ដោយចុចប៊ូតុង <guibutton> រក្សាទុកការកំណត់រចនាសម្ព័ន្ធ ... </guibutton> ប៊ូតុង។"
+
+#, fuzzy
+#~ msgid "Now, select the <guimenu>File</guimenu> menu and choose <guimenuitem>Create Memory Stick Slideshow...</guimenuitem>."
+#~ msgstr "ឥឡូវជ្រើសយក <guimenu> ឯកសារ </guimenu> ម៉ឺនុយនិងជ្រើស <guimenuitem> បង្កើតការបញ្ចាំងស្លាយដំបងសតិ ... </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<screeninfo>The &kpresenter; <guimenuitem>Create Memory Stick Slideshow...</guimenuitem> menu selection.</screeninfo>"
+#~ msgstr "<screeninfo> អ្នកតំណាង <guimenuitem> បង្កើតការបញ្ចាំងស្លាយដំបងសតិ ... </guimenuitem> ការជ្រើសរើសមីនុយ។ </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>The &kpresenter; <guimenuitem>Create Memory Stick Slideshow...</guimenuitem> menu selection.</phrase>"
+#~ msgstr "<phrase> អ្នកតំណាង <guimenuitem> បង្កើតការបញ្ចាំងស្លាយដំបងសតិ ... </guimenuitem> ការជ្រើសរើសមីនុយ។ </phrase>"
+
+#, fuzzy
+#~ msgid "This will bring up the <guilabel>Create Memory Stick Slideshow</guilabel> dialog."
+#~ msgstr "នេះនឹងនាំមកនូវឯកសារ <guilabel> បង្កើតការបញ្ចាំងស្លាយដំបងសតិ </guilabel> ប្រអប់។"
+
+#, fuzzy
+#~ msgid "<screeninfo>The &kpresenter; <guilabel>Create Memory Stick Slideshow</guilabel> dialog.</screeninfo>"
+#~ msgstr "<screeninfo> អ្នកតំណាង <guilabel> បង្កើតការបញ្ចាំងស្លាយដំបងសតិ </guilabel> ប្រអប់។ </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>The &kpresenter; <guilabel>Create Memory Stick Slideshow</guilabel> dialog.</phrase>"
+#~ msgstr "<phrase> អ្នកតំណាង <guilabel> បង្កើតការបញ្ចាំងស្លាយដំបងសតិ </guilabel> ប្រអប់។ </phrase>"
+
+#, fuzzy
+#~ msgid "<screeninfo>The &kpresenter; <guilabel>Create Memory Stick Slideshow</guilabel> dialog (extended).</screeninfo>"
+#~ msgstr "<screeninfo> អ្នកតំណាង <guilabel> បង្កើតការបញ្ចាំងស្លាយដំបងសតិ </guilabel> ប្រអប់ (ពង្រីក) ។ </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>The &kpresenter; <guilabel>Create Memory Stick Slideshow</guilabel> dialog (extended).</phrase>"
+#~ msgstr "<phrase> អ្នកតំណាង <guilabel> បង្កើតការបញ្ចាំងស្លាយដំបងសតិ </guilabel> ប្រអប់ (ពង្រីក) ។ </phrase>"
+
+#, fuzzy
+#~ msgid "<screeninfo>The &kpresenter; <guilabel>Create Memory Stick Slideshow</guilabel> progress dialog.</screeninfo>"
+#~ msgstr "<screeninfo> អ្នកតំណាង <guilabel> បង្កើតការបញ្ចាំងស្លាយដំបងសតិ </guilabel> ប្រអប់វឌ្ឍនភាព។ </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>The &kpresenter; <guilabel>Create Memory Stick Slideshow</guilabel> progress dialog.</phrase>"
+#~ msgstr "<phrase> អ្នកតំណាង <guilabel> បង្កើតការបញ្ចាំងស្លាយដំបងសតិ </guilabel> ប្រអប់វឌ្ឍនភាព។ </phrase>"
+
+#~ msgid "<screeninfo>The &kpresenter; <guilabel>Slide Background</guilabel> dialog.</screeninfo>"
+#~ msgstr "<screeninfo> អ្នកតំណាង <guilabel> ផ្ទៃខាងក្រោយស្លាយ </guilabel> ប្រអប់។ </screeninfo>"
+
+#~ msgid "<phrase>The &kpresenter; <guilabel>Slide Background</guilabel> dialog.</phrase>"
+#~ msgstr "<phrase> អ្នកតំណាង <guilabel> ផ្ទៃខាងក្រោយស្លាយ </guilabel> ប្រអប់។ </phrase>"
+
+#, fuzzy
+#~ msgid "<screeninfo><guimenu>File</guimenu><guimenuitem>Template Manager</guimenuitem></screeninfo>"
+#~ msgstr "<screeninfo><guimenu> ឯកសារ </guimenu><guimenuitem> អ្នកគ្រប់គ្រងគំរូ </guimenuitem></screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase><guimenu>File</guimenu><guimenuitem>Template Manager</guimenuitem></phrase>"
+#~ msgstr "<phrase><guimenu> ឯកសារ </guimenu><guimenuitem> អ្នកគ្រប់គ្រងគំរូ </guimenuitem></phrase>"
+
+#, fuzzy
+#~ msgid "This dialog box allows you to select where you would like your template to be saved:"
+#~ msgstr "ប្រអប់នេះអនុញ្ញាតឱ្យអ្នកជ្រើសរើសកន្លែងដែលអ្នកចង់រក្សាទុកគំរូរបស់អ្នក៖"
+
+#~ msgid "<screeninfo>Saving the new template</screeninfo>"
+#~ msgstr "<screeninfo> ការរក្សាទុកគំរូថ្មី </screeninfo>"
+
+#~ msgid "<phrase>Saving the new template</phrase>"
+#~ msgstr "<phrase> ការរក្សាទុកគំរូថ្មី </phrase>"
+
+#, fuzzy
+#~ msgid "I highly recommend that you save the template in the <guilabel>Screen Presentations</guilabel> group. You may call it whatever you wish, in this case, my template is named <userinput>Tutorial_Template</userinput>. Once you are happy with the settings, press <guibutton>OK</guibutton> to add your custom template to the template collection."
+#~ msgstr "ខ្ញុំសូមផ្តល់អនុសាសន៍យ៉ាងខ្លាំងឱ្យអ្នករក្សាទុកគំរូនៅក្នុងឯកសារអ៊ីម៉ែល <guilabel> បទបង្ហាញអេក្រង់ </guilabel> ក្រុម អ្នកអាចហៅវាតាមអ្វីដែលអ្នកចង់បានក្នុងករណីនេះពុម្ពរបស់ខ្ញុំមានឈ្មោះ <userinput> TutorialTemplate </userinput> ។ នៅពេលដែលអ្នកពេញចិត្តនឹងការកំណត់សូមចុច <guibutton> យល់ព្រម </guibutton> ដើម្បីបន្ថែមពុម្ពផ្ទាល់ខ្លួនរបស់អ្នកទៅការប្រមូលពុម្ព។"
+
+#, fuzzy
+#~ msgid "You can now close the document you have been working on (there is no need to save it). The next time you are presented with the startup dialog, your very own template will be available to select!"
+#~ msgstr "ឥឡូវអ្នកអាចបិទឯកសារដែលអ្នកបានធ្វើការ (មិនចាំបាច់រក្សាទុកវាទេ) ។ ពេលក្រោយដែលអ្នកត្រូវបានបង្ហាញជាមួយប្រអប់ចាប់ផ្តើមទំព័រគំរូផ្ទាល់ខ្លួនរបស់អ្នកនឹងអាចជ្រើសរើសបាន!"
+
+#, fuzzy
+#~ msgid "<screeninfo>Your new template in the &kpresenter; startup dialog.</screeninfo>"
+#~ msgstr "<screeninfo> គំរូថ្មីរបស់អ្នកនៅក្នុង kpresenter ។ ប្រអប់ចាប់ផ្តើម។ </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>Your new template in the &kpresenter; startup dialog.</phrase>"
+#~ msgstr "<phrase> គំរូថ្មីរបស់អ្នកនៅក្នុង kpresenter ។ ប្រអប់ចាប់ផ្តើម។ </phrase>"
+
+#, fuzzy
+#~ msgid "Each click on the slide image takes you to the next slide."
+#~ msgstr "ការចុចលើស្លាយនីមួយៗនឹងនាំអ្នកទៅស្លាយបន្ទាប់។"
+
+#~ msgid "<guilabel>Create an HTML Slideshow</guilabel> is a way of turning an existing presentation into <acronym>WWW</acronym> pages."
+#~ msgstr "<guilabel> បង្កើតការបញ្ចាំងស្លាយ HTML </guilabel> គឺជាវិធីនៃការបង្វែរបទបង្ហាញដែលមានស្រាប់ទៅជា <acronym> WWW </acronym> ទំព័រ។"
+
+#~ msgid "First make a few slides to include in the show. I reused the slides from the tutorial."
+#~ msgstr "ដំបូងដាក់ស្លាយពីរបីដើម្បីបញ្ចូលក្នុងកម្មវិធី។ ខ្ញុំបានប្រើស្លាយពីការណែនាំឡើងវិញ។"
+
+#~ msgid "<screeninfo>The presentation we are going to turn into HTML</screeninfo>"
+#~ msgstr "<screeninfo> បទបង្ហាញដែលយើងនឹងប្រែទៅជា HTML </screeninfo>"
+
+#~ msgid "<phrase>The presentation we are going to turn into HTML</phrase>"
+#~ msgstr "<phrase> បទបង្ហាញដែលយើងនឹងប្រែទៅជា HTML </phrase>"
+
+#~ msgid "You can then click on the <guiicon>Create HTML slideshow</guiicon> icon (outlined in red) <screenshot> <screeninfo>The <guiicon>Create HTML slideshow</guiicon> icon</screeninfo> <mediaobject> <imageobject> <imagedata fileref=\"htmlshow00.png\" format=\"PNG\"/> </imageobject> <textobject><phrase>The <guiicon>Create HTML slideshow</guiicon> icon</phrase></textobject> </mediaobject> </screenshot> or use the menu (under <guimenu>File</guimenu>) to start the wizard that guides you through the process."
+#~ msgstr "បន្ទាប់មកអ្នកអាចចុចលើប៊ូតុង <guiicon> បង្កើតការបញ្ចាំងស្លាយ HTML </guiicon> រូបតំណាង (គូសបញ្ជាក់ជាពណ៌ក្រហម) <screenshot><screeninfo> នេះ <guiicon> បង្កើតការបញ្ចាំងស្លាយ HTML </guiicon> រូបតំណាង </screeninfo><mediaobject><imageobject><imagedata fileref=\"htmlshow00.png\" format=\"PNG\"/></imageobject><textobject><phrase> នេះ <guiicon> បង្កើតការបញ្ចាំងស្លាយ HTML </guiicon> រូបតំណាង </phrase></textobject></mediaobject></screenshot> ឬប្រើម៉ឺនុយ (ក្រោម) <guimenu> ឯកសារ </guimenu> ) ដើម្បីចាប់ផ្តើមអ្នកជំនួយការដែលណែនាំអ្នកតាមរយៈដំណើរការ។"
+
+#~ msgid "You may also set a default text encoding, if necessary, and specify a document type for the pages."
+#~ msgstr "បើអ្នកចាំបាច់អ្នកអាចកំណត់ការអ៊ិនកូដអត្ថបទលំនាំដើមប្រសិនបើចាំបាច់និងបញ្ជាក់ប្រភេទឯកសារសម្រាប់ទំព័រ។"
+
+#~ msgid "Click the colored bars to choose a color scheme that suits you."
+#~ msgstr "ចុចលើរបារពណ៌ដើម្បីជ្រើសរើសពណ៌ចម្រុះដែលសមនឹងអ្នក។"
+
+#, fuzzy
+#~ msgid "&FTP; it all to your website, remembering to keep the folder structure intact, and the world can admire your work."
+#~ msgstr "FTP; វាទាំងអស់នៅលើគេហទំព័ររបស់អ្នកដោយចងចាំដើម្បីរក្សារចនាសម្ព័ន្ធថតនៅដដែលហើយពិភពលោកអាចកោតសរសើរការងាររបស់អ្នក។"
+
+#~ msgid "I chose a plain background with a text entry box. &RMB; click on the work area and you get a <guilabel>Slide Background</guilabel> dialog box."
+#~ msgstr "ខ្ញុំបានជ្រើសរើសយកផ្ទៃខាងក្រោយធម្មតាដែលមានប្រអប់បញ្ចូលអត្ថបទ។ RMB; ចុចលើតំបន់ធ្វើការហើយអ្នកនឹងទទួលបាន <guilabel> ផ្ទៃខាងក្រោយស្លាយ </guilabel> ប្រអប់។"
+
+#~ msgid "Under <guimenu>Format</guimenu> you will find <guimenuitem>Page Background</guimenuitem> which opens the same dialog box."
+#~ msgstr "ក្រោម <guimenu> ទ្រង់ទ្រាយ </guimenu> អ្នក​នឹង​រក​ឃើញ <guimenuitem> សាវតាទំព័រ </guimenuitem> ដែលបើកប្រអប់តែមួយ។"
+
+#~ msgid "I want the background to look attractive. In the top Combo box you can choose to use a picture or some clipart for the background."
+#~ msgstr "ខ្ញុំចង់ឱ្យផ្ទៃខាងក្រោយមើលទៅគួរឱ្យទាក់ទាញ។ នៅក្នុងប្រអប់បន្សំខាងលើអ្នកអាចជ្រើសរើសប្រើរូបភាពឬឈុតខ្លីៗសម្រាប់ផ្ទៃខាងក្រោយ។"
+
+#~ msgid "I have left this at the default <guilabel>Color/Gradient</guilabel> option. In the next Combo box down I have chosen <guilabel>Vertical gradient</guilabel>, clicked into the two long boxes below it and chosen two colors."
+#~ msgstr "ខ្ញុំបានទុករឿងនេះតាមលំនាំដើម <guilabel> ពណ៌ / ពណ៌ជម្រាល </guilabel> ជម្រើស។ នៅក្នុងប្រអប់បន្សំបន្ទាប់ដែលខ្ញុំបានជ្រើសរើស <guilabel> ជម្រាលបញ្ឈរ </guilabel> ចុចលើប្រអប់វែងពីរនៅពីក្រោមវាហើយជ្រើសរើសពីរពណ៌។"
+
+#~ msgid "You can alter the start positions of the colors in the gradients by clicking in the <guilabel>Unbalanced</guilabel> Check box. This lets you use the pair of X and Y sliders. Sometimes one slider will not do anything at all, it depends on what type of gradient you have chosen."
+#~ msgstr "អ្នកអាចផ្លាស់ប្តូរទីតាំងចាប់ផ្តើមនៃពណ៌នៅក្នុងពណ៌ជម្រាលដោយចុចលើប៊ូតុង <guilabel> គ្មានតុល្យភាព </guilabel> ប្រអប់ធីក។ នេះអនុញ្ញាតឱ្យអ្នកប្រើគ្រាប់រំកិល X និង Y ។ ពេលខ្លះគ្រាប់រំកិលមួយនឹងមិនធ្វើអ្វីទាំងអស់វាអាស្រ័យលើប្រភេទជម្រាលដែលអ្នកបានជ្រើសរើស។"
+
+#~ msgid "Remember to choose contrasting colors first. If you leave both white, you will not see anything. When you have a color scheme that you like, click <guibutton>Apply</guibutton> and <guibutton>OK</guibutton> to close the Dialog box."
+#~ msgstr "ចងចាំថាត្រូវជ្រើសរើសពណ៌ផ្ទុយគ្នាជាមុនសិន។ ប្រសិនបើអ្នកទុកពណ៌សទាំងពីរអ្នកនឹងមិនឃើញអ្វីទាំងអស់។ នៅពេលអ្នកមានពណ៌ចម្រុះដែលអ្នកចូលចិត្តសូមចុច <guibutton> អនុវត្ត </guibutton> និង <guibutton> យល់ព្រម </guibutton> ដើម្បីបិទប្រអប់ Dialog"
+
+#~ msgid "You want to <guilabel>Create a new document from a Template</guilabel>. Click to open the <guilabel>Screen Presentations</guilabel> tab and there is the template we made earlier."
+#~ msgstr "អ្នក​ចង់ <guilabel> បង្កើតឯកសារថ្មីពីគំរូមួយ </guilabel> ។ ចុចដើម្បីបើកឯកសារ <guilabel> បទបង្ហាញអេក្រង់ </guilabel> ផ្ទាំងហើយមានគំរូដែលយើងបានធ្វើពីមុន។"
+
+#~ msgid "First make a few slides to include in the show. I made one slide, used <menuchoice><guimenu>Edit </guimenu><guimenuitem>Duplicate Page</guimenuitem></menuchoice> to make a couple of copies, and added a little text and a couple of GNOME images that I found in <filename class=\"directory\">/usr/share/AbiSuite/clipart</filename>"
+#~ msgstr "ដំបូងដាក់ស្លាយពីរបីដើម្បីបញ្ចូលក្នុងកម្មវិធី។ ខ្ញុំបានធ្វើស្លាយមួយបានប្រើ <menuchoice><guimenu> កែសម្រួល </guimenu><guimenuitem> ទំព័រស្ទួន </guimenuitem></menuchoice> ដើម្បីបង្កើតច្បាប់ចម្លងពីរបីហើយបន្ថែមអត្ថបទតូចមួយនិងរូបភាពរបស់ GNOME ពីរបីដែលខ្ញុំបានរកឃើញ <filename class=\"directory\"> / usr / share / AbiSuite / clipart </filename>"
+
+#, fuzzy
+#~ msgid "<screeninfo>The <guiicon>Add Clipart</guiicon> icon</screeninfo>"
+#~ msgstr "<screeninfo> នេះ <guiicon> បន្ថែមឃ្លីប </guiicon> រូបតំណាង </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>The <guiicon>Add Clipart</guiicon> icon</phrase>"
+#~ msgstr "<phrase> នេះ <guiicon> បន្ថែមឃ្លីប </guiicon> រូបតំណាង </phrase>"
+
+#~ msgid "You then have a few display options to set."
+#~ msgstr "បន្ទាប់មកអ្នកមានជម្រើសបង្ហាញពីរបីដើម្បីកំណត់។"

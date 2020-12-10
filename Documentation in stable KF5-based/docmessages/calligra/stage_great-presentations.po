@@ -1,0 +1,111 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-09 12:11+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. Tag: author
+#: great-presentations.docbook:11
+#, no-c-format
+msgid "<firstname>Neil</firstname> <surname>Lucock</surname>"
+msgstr "<firstname> ណិល </firstname><surname> លូកូក </surname>"
+
+#. Tag: email
+#: great-presentations.docbook:15
+#, no-c-format
+msgid "neil@nlucock.freeserve.co.uk"
+msgstr "neil@nlucock.freeserve.co.uk"
+
+#. Tag: author
+#: great-presentations.docbook:18
+#, no-c-format
+msgid "<firstname>Krishna</firstname> <surname>Tateneni</surname>"
+msgstr "<firstname> គ្រីស្សាណា </firstname><surname> តាថេននី </surname>"
+
+#. Tag: email
+#: great-presentations.docbook:22
+#, no-c-format
+msgid "tateneni@pluto.njcc.com"
+msgstr "tateneni@pluto.njcc.com"
+
+#. Tag: trans_comment
+#: great-presentations.docbook:25
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr "ROLES_OF_TRANSLATORS"
+
+#. Tag: title
+#: great-presentations.docbook:28
+#, no-c-format
+msgid "General Hints and Tips for Great Presentations"
+msgstr "ព័ត៌មានជំនួយទូទៅនិងព័ត៌មានជំនួយសម្រាប់បទបង្ហាញដ៏អស្ចារ្យ"
+
+#. Tag: para
+#: great-presentations.docbook:30
+#, no-c-format
+msgid "Okay, you've decided to use &stage; for your presentation. Before you start making transparencies or animated slide shows, go and find a piece of paper and sit down at a desk away from the computer. It doesn't matter whether you are doing a teaching session or trying to convince the boss that your plan, policy or idea should be adopted, you need to figure out what you are trying to say. Write down all the subjects you need to cover, try to get them in the order you think will make sense. Don't put any details in yet, just decide on headings and the structure of your talk."
+msgstr "មិនអីទេ, អ្នកបានសម្រេចចិត្តប្រើដំណាក់កាល; សម្រាប់បទបង្ហាញរបស់អ្នក។ មុនពេលអ្នកចាប់ផ្តើមធ្វើឱ្យមានតម្លាភាពឬការបញ្ចាំងស្លាយដែលមានចលនាសូមទៅរកក្រដាសមួយសន្លឹកហើយអង្គុយនៅតុឆ្ងាយពីកុំព្យូទ័រ។ មិនថាអ្នកកំពុងបង្រៀនមេរៀនឬព្យាយាមបញ្ចុះបញ្ចូលថៅកែថាផែនការគោលនយោបាយឬគំនិតរបស់អ្នកគួរតែត្រូវបានអនុម័តទេអ្នកត្រូវគិតពីអ្វីដែលអ្នកកំពុងព្យាយាមនិយាយ។ សរសេរគ្រប់មុខវិជ្ជាដែលអ្នកត្រូវការដើម្បីព្យាយាមព្យាយាមធ្វើវាតាមលំដាប់លំដោយដែលអ្នកគិតថានឹងសមហេតុផល។ កុំដាក់ពត៌មានលំអិតណាមួយនៅឡើយទេគ្រាន់តែសម្រេចចិត្តលើក្បាលនិងរចនាសម្ព័ន្ធនៃការនិយាយរបស់អ្នក។"
+
+#. Tag: para
+#: great-presentations.docbook:40
+#, no-c-format
+msgid "Under each heading make a note of what facts you need to cover. You are trying to build a convincing argument. Consider grouping your facts into things must be included, things that should be included and things that it would be nice to cover if you had plenty of time."
+msgstr "នៅក្រោមក្បាលនីមួយៗកត់ចំណាំនូវអង្គហេតុអ្វីខ្លះដែលអ្នកត្រូវការដើម្បីបញ្ជាក់។ អ្នកកំពុងព្យាយាមបង្កើតអាគុយម៉ង់បញ្ចុះបញ្ចូល។ ពិចារណាការដាក់ជាក្រុមនូវអង្គហេតុរបស់អ្នកទៅជារបស់ដែលត្រូវរួមបញ្ចូលអ្វីដែលគួរតែរាប់បញ្ចូលនិងរឿងដែលវាល្អដើម្បីគ្របដណ្តប់ប្រសិនបើអ្នកមានពេលច្រើន។"
+
+#. Tag: para
+#: great-presentations.docbook:46
+#, no-c-format
+msgid "Once you have written down all the things you need to say, consider the time available to do it in. Ten minutes seems ages when you start, but it is very difficult to actually get much across in so short a time. Get your sheet of paper and a clock with a second hand. Practise your presentation over and over again. This has many benefits. Firstly, you get the timing right. If someone says you have ten minutes, never go over the allowed time. Secondly, when you actually do it in front of a live audience, it will not be the first time you have done that presentation. Third, you get the words right in your own head. You will find ways of saying things about the subject. If you've heard yourself do this presentation several times, you will know what you are going to say next and how you are going to say it."
+msgstr "នៅពេលដែលអ្នកបានសរសេរនូវអ្វីគ្រប់យ៉ាងដែលអ្នកត្រូវនិយាយសូមពិចារណាពីពេលវេលាដែលអាចធ្វើបាន។ រយៈពេលដប់នាទីហាក់ដូចជាមានអាយុនៅពេលអ្នកចាប់ផ្តើមប៉ុន្តែវាពិតជាលំបាកខ្លាំងណាស់ក្នុងការទាក់ទងគ្នាក្នុងរយៈពេលដ៏ខ្លី។ យកសន្លឹកក្រដាសរបស់អ្នកនិងនាឡិកាដោយដៃទីពីរ។ អនុវត្តបទបង្ហាញរបស់អ្នកម្តងហើយម្តងទៀត។ នេះមានអត្ថប្រយោជន៍ជាច្រើន។ ដំបូងអ្នកទទួលបានពេលវេលាត្រឹមត្រូវ។ ប្រសិនបើនរណាម្នាក់និយាយថាអ្នកមានដប់នាទីសូមកុំទៅតាមពេលវេលាដែលអនុញ្ញាត។ ទីពីរនៅពេលដែលអ្នកធ្វើវានៅចំពោះមុខទស្សនិកជនផ្សាយផ្ទាល់វាមិនមែនជាលើកទី ១ ទេដែលអ្នកបានធ្វើបទបង្ហាញនោះ។ ទីបីអ្នកទទួលបានពាក្យត្រឹមត្រូវនៅក្នុងក្បាលរបស់អ្នក។ អ្នកនឹងរកឃើញវិធីនៃការនិយាយអ្វីអំពីប្រធានបទ។ ប្រសិនបើអ្នកបាន heard ខ្លួនអ្នកធ្វើបទបង្ហាញនេះច្រើនដងអ្នកនឹងដឹងពីអ្វីដែលអ្នកនឹងនិយាយបន្ទាប់និងរបៀបដែលអ្នកនឹងនិយាយវា។"
+
+#. Tag: para
+#: great-presentations.docbook:60
+#, no-c-format
+msgid "&stage; does not produce Speaker's Notes at the time of writing, but I am happy to just use ordinary slides. Produce some slides for yourself, printed on plain paper, and some for use with the Overhead Projector. Make the text on your slides nice and big, you need to be able to read it at a distance. I use 14 or 16 point text, experiment to find a size that you can read easily. I never write out a script."
+msgstr "ឆាក; មិនបានផលិតកំណត់ចំណាំរបស់អ្នកនិយាយនៅពេលសរសេរនោះទេប៉ុន្តែខ្ញុំរីករាយដែលគ្រាន់តែប្រើស្លាយធម្មតា។ ផលិតស្លាយមួយចំនួនសម្រាប់ខ្លួនអ្នកបោះពុម្ពលើក្រដាសធម្មតានិងខ្លះទៀតប្រើជាមួយឧបករណ៍បញ្ចាំងរូបភាព។ ធ្វើឱ្យអត្ថបទនៅលើស្លាយរបស់អ្នកស្រស់ស្អាតនិងធំអ្នកត្រូវអាចអានវានៅចម្ងាយ។ ខ្ញុំប្រើអត្ថបទ ១៤ ឬ ១៦ ចំណុចពិសោធន៍ដើម្បីរកទំហំដែលអ្នកអាចអានបានយ៉ាងងាយស្រួល។ ខ្ញុំមិនដែលសរសេរស្គ្រីបទេ។"
+
+#. Tag: para
+#: great-presentations.docbook:68
+#, no-c-format
+msgid "If you are using an Overhead projector, learn how to use it beforehand. Make sure that the bulb works, that the spare bulb is still okay. Clean the lens and display plates. If you are not used to working with projectors, practice. Ensure that the projection screen itself is clean. It's probably best, when timing yourself, to allow for five seconds (count <quote>one thousand and one, one thousand and two....</quote>) to change each slide. That way you know you don't have to rush. If you need to point at something on a slide, you can use a pointer and point at the display screen, find a laser pointer or put a pencil on the transparency itself. Be warned, these tend to roll out of place when you nudge the table."
+msgstr "ប្រសិនបើអ្នកកំពុងប្រើ Projector Overhead សូមរៀនពីរបៀបប្រើវាជាមុន។ ត្រូវប្រាកដថាអំពូលដំណើរការហើយអំពូលដែលទំនេរនៅតែមិនអី។ សម្អាតកញ្ចក់និងផ្លាកផ្លាក។ ប្រសិនបើអ្នកមិនត្រូវបានប្រើដើម្បីធ្វើការជាមួយម៉ាស៊ីនបញ្ចាំងសូមអនុវត្ត។ ធានាថាអេក្រង់បញ្ចាំងដោយខ្លួនវាគឺស្អាត។ វាប្រហែលជាល្អបំផុតនៅពេលកំណត់ពេលវេលាដោយខ្លួនឯងដើម្បីអនុញ្ញាតឱ្យប្រាំវិនាទី (រាប់ <quote> មួយពាន់មួយមួយមួយពាន់ពីរ ... </quote> ) ដើម្បីផ្លាស់ប្តូរស្លាយនីមួយៗ។ វិធីនោះអ្នកដឹងថាអ្នកមិនចាំបាច់ប្រញាប់ទេ។ ប្រសិនបើអ្នកត្រូវការចង្អុលបង្ហាញអ្វីមួយនៅលើស្លាយអ្នកអាចប្រើទ្រនិចនិងចង្អុលនៅអេក្រង់បង្ហាញរកព្រួញឡាស៊ែរឬដាក់ខ្មៅដៃលើតម្លាភាពដោយខ្លួនឯង។ ត្រូវបានព្រមាន, ទាំងនេះមាននិន្នាការដើម្បីរមៀលចេញពីកន្លែងនៅពេលដែលអ្នករុញតារាង។"
+
+#. Tag: para
+#: great-presentations.docbook:80
+#, no-c-format
+msgid "Consider where you are going to stand. You cannot stand in front of your display, so off to one side is probably your best option if you want your audience to be able to see. I often project a picture onto a wipeboard and draw over the top of it. If you are using a PC with a digital projector you can draw over the top of your slides with &stage;'s pen tool. Remember, drawing freehand with a mouse is a skill that needs practice. If you are using an Overhead projector, you can use transparent overlay slides and a pen over the top of your computer generated ones."
+msgstr "ពិចារណាកន្លែងដែលអ្នកនឹងឈរ។ អ្នកមិនអាចឈរនៅពីមុខអេក្រង់របស់អ្នកបានទេដូច្នេះនៅម្ខាងវាប្រហែលជាជម្រើសដ៏ល្អបំផុតរបស់អ្នកប្រសិនបើអ្នកចង់អោយទស្សនិកជនអ្នកបានឃើញ។ ជារឿយៗខ្ញុំដាក់រូបភាពលើក្តារជូតហើយគូរលើកំពូលរបស់វា។ ប្រសិនបើអ្នកកំពុងប្រើកុំព្យូទ័រជាមួយម៉ាស៊ីនបញ្ចាំងឌីជីថលអ្នកអាចគូរលើកំពូលនៃស្លាយរបស់អ្នកជាមួយឧបករណ៍ប៊ិចរបស់ឆាក។ សូមចងចាំថាការគូរដោយដៃដោយប្រើម៉ៅគឺជាជំនាញមួយដែលត្រូវការការអនុវត្ត។ ប្រសិនបើអ្នកកំពុងប្រើឧបករណ៍បញ្ចាំងស្លាយ Overhead អ្នកអាចប្រើស្លាយត្រួតលើគ្នាដែលមានតម្លាភាពនិងប៊ិចមួយនៅខាងលើកុំព្យូទ័រដែលអ្នកបានបង្កើត។"
+
+#. Tag: para
+#: great-presentations.docbook:90
+#, no-c-format
+msgid "When you are doing the presentation do not accidently look into the light, it's easy to do. If you are not going to use the machine for a few minutes, turn it off. Practise to get where you are going to stand sorted out. Check the room you intend to use for electrical sockets and learn how the blinds work and where the light switches are. Good preparation not only makes you less likely to make mistakes (inanimate things can be a nightmare in front of an audience) but also gives you confidence. Always have a <quote>Plan B</quote> ready if something refuses to work. Have a paper copy of your slides with you. You can photocopy and distribute these to your audience if the equipment fails."
+msgstr "នៅពេលអ្នកកំពុងធ្វើបទបង្ហាញមិនមើលទៅពន្លឺដោយចៃដន្យវាងាយស្រួលធ្វើ។ ប្រសិនបើអ្នកមិនប្រើម៉ាស៊ីនពីរបីនាទីសូមបិទវាចោល។ អនុវត្តដើម្បីទទួលបានកន្លែងដែលអ្នកនឹងឈរតម្រៀបចេញ។ ពិនិត្យបន្ទប់ដែលអ្នកចង់ប្រើសម្រាប់រន្ធអគ្គិសនីនិងសិក្សាពីរបៀបដែលពិការភ្នែកដំណើរការនិងកន្លែងប្តូរពន្លឺ។ ការរៀបចំបានល្អមិនត្រឹមតែធ្វើឱ្យអ្នកមិនសូវមានកំហុសទេ (វត្ថុដែលគ្មានជីវិតអាចជាសុបិន្តអាក្រក់នៅចំពោះមុខទស្សនិកជន) ប៉ុន្តែថែមទាំងផ្តល់ឱ្យអ្នកនូវទំនុកចិត្ត។ តែងតែមាន <quote> ផែនការខ </quote> ត្រៀមខ្លួនជាស្រេចប្រសិនបើមានអ្វីមួយបដិសេធមិនធ្វើការ។ សូមចម្លងក្រដាសស្លាយរបស់អ្នកជាមួយអ្នក។ អ្នកអាចថតចម្លងនិងចែកចាយឯកសារទាំងនេះដល់ទស្សនិកជនរបស់អ្នកប្រសិនបើឧបករណ៍នោះបរាជ័យ។"
+
+#. Tag: para
+#: great-presentations.docbook:102
+#, no-c-format
+msgid "I have not said much about the content yet. At present all you have is a piece of paper with everything you want to say on it. Before you make anything, ask youself if their understanding of what you are saying is going to improved by showing them a picture. Bad presentations consist of a series of slides full of text. The presenter then reads the slide to the audience (who have already read it as they can read faster than someone can say it aloud). Try to avoid writing anything on the slide, except a title and a number. Draw a picture of what you need to say, then explain the picture to them. That way they do not get ahead of you (they can read faster than you can speak, remember?) and you look like you know it. You do not know it, you are using the picture as a series of prompts. A slide should support what you are saying, not duplicate it. A slide should be the focus of the audience's attention, not a distraction."
+msgstr "ខ្ញុំមិនទាន់និយាយច្រើនអំពីខ្លឹមសារនៅឡើយទេ។ បច្ចុប្បន្នអ្វីដែលអ្នកមានគឺក្រដាសមួយសន្លឹកដែលមានអ្វីគ្រប់យ៉ាងដែលអ្នកចង់និយាយនៅលើវា។ មុនពេលអ្នកធ្វើអ្វីមួយសូមសួរខ្លួនឯងប្រសិនបើការយល់ដឹងរបស់ពួកគេអំពីអ្វីដែលអ្នកកំពុងនិយាយនឹងត្រូវបានធ្វើឱ្យប្រសើរឡើងដោយបង្ហាញរូបភាពឱ្យពួកគេ។ បទបង្ហាញមិនល្អមានស៊េរីនៃស្លាយដែលមានអត្ថបទពេញ។ អ្នកធ្វើបទបង្ហាញបន្ទាប់មកអានផ្ទាំងបង្ហាញដល់ទស្សនិកជន (អ្នកដែលបានអានរួចហើយព្រោះពួកគេអាចអានលឿនជាងអ្នកណាម្នាក់អាចនិយាយវាបាន) ។ ព្យាយាមជៀសវាងការសរសេរអ្វីនៅលើស្លាយលើកលែងតែចំណងជើងនិងលេខ។ គូររូបភាពនៃអ្វីដែលអ្នកត្រូវនិយាយបន្ទាប់មកពន្យល់រូបភាពដល់ពួកគេ។ វិធីនោះពួកគេមិនឈានមុខអ្នកទេ (ពួកគេអាចអានលឿនជាងអ្នកអាចនិយាយចងចាំបាន) ហើយអ្នកមើលទៅដូចជាអ្នកស្គាល់វា។ អ្នកមិនដឹងទេអ្នកកំពុងប្រើរូបភាពជាស៊េរីនៃការបំផុស។ ស្លាយគួរតែគាំទ្រអ្វីដែលអ្នកកំពុងនិយាយមិនមែនស្ទួនវាទេ។ ស្លាយមួយគួរតែជាចំណុចសំខាន់នៃការចាប់អារម្មណ៍របស់ទស្សនិកជនមិនមែនជាការរំខានទេ។"
+
+#. Tag: para
+#: great-presentations.docbook:117
+#, no-c-format
+msgid "An example. I teach Railway staff how to respond to accidents. I wanted to use a slide to discuss how you can move dangerous loads from a derailed or damaged rail vehicle to a road vehicle after an accident. The slide I made had a simple drawing of tank wagon, the kind used for carrying gases or oils. On the side I wrote <quote>Lethal Chemical Company</quote> so that I do not have to explain it. I wanted to make several important points. First, you must get any overhead electric wires turned off before you do anything if they are within a certain distance. I drew one of the supporting structures and drew an arrow with the safety distance on it. Then I wanted to say that you must not transfer the wagon's contents in darkness or thunderstorms. I drew a moon and a lightning bolt above the vehicle. You must get specialist advice, so I drew a sheet of paper and wrote the word <quote>Plan</quote> near the vehicle. You also have to ensure that the vehicle does not move when the weight inside is removed. I drew little red wedges by the wheels. Everything I need to talk about is on this drawing. All I have to do is look at the drawing and it tells me what I need to cover. When I have covered all the things in the drawing, I have finished on that subject."
+msgstr "ឧទាហរណ៍មួយ។ ខ្ញុំបង្រៀនបុគ្គលិកផ្លូវដែកពីរបៀបឆ្លើយតបនឹងគ្រោះថ្នាក់។ ខ្ញុំចង់ប្រើស្លាយដើម្បីពិភាក្សាអំពីវិធីដែលអ្នកអាចរើបន្ទុកធ្ងន់ ៗ ពីរថយន្តដឹកផ្លូវដែកដែលខូចឬខូចទៅជាយានផ្លូវបន្ទាប់ពីគ្រោះថ្នាក់។ ស្លាយដែលខ្ញុំបានធ្វើមានគំនូរសាមញ្ញនៃរទេះរុញធុងដែលជាប្រភេទប្រើសម្រាប់ដឹកឧស្ម័នឬប្រេង។ នៅខាងខ្ញុំបានសរសេរ <quote> ក្រុមហ៊ុនគីមីដ៍សាហាវ </quote> ដូច្នេះខ្ញុំមិនចាំបាច់ពន្យល់ទេ។ ខ្ញុំចង់លើកចំណុចសំខាន់ៗជាច្រើន។ ដំបូងអ្នកត្រូវតែដាច់ខ្សែភ្លើងដែលនៅពីលើមុនពេលអ្នកធ្វើអ្វីមួយប្រសិនបើវាស្ថិតនៅចម្ងាយណាមួយ។ ខ្ញុំបានគូររចនាសម្ព័ន្ធគាំទ្រមួយហើយគូរព្រួញមួយដែលមានចម្ងាយសុវត្ថិភាពនៅលើវា។ បន្ទាប់មកខ្ញុំចង់និយាយថាអ្នកមិនត្រូវផ្ទេរខ្លឹមសាររបស់រទេះភ្លើងនៅក្នុងភាពងងឹតឬព្យុះផ្គររន្ទះឡើយ។ ខ្ញុំបានគូរព្រះចន្ទនិងផ្លេកបន្ទោរពីលើយាន។ អ្នកត្រូវតែទទួលបានដំបូន្មានជំនាញដូច្នេះខ្ញុំបានគូរក្រដាសមួយសន្លឹកហើយសរសេរពាក្យនោះ <quote> ផែនការ </quote> នៅក្បែររថយន្ត។ អ្នកក៏ត្រូវធានាថាយានយន្តមិនផ្លាស់ប្តូរនៅពេលទម្ងន់នៅខាងក្នុងត្រូវបានដកចេញ។ ខ្ញុំបានគូរក្រូចឆ្មារពណ៌ក្រហមតូចៗដោយកង់។ អ្វីគ្រប់យ៉ាងដែលខ្ញុំត្រូវនិយាយគឺស្ថិតនៅលើគំនូរនេះ។ អ្វីដែលខ្ញុំត្រូវធ្វើគឺមើលគំនូរហើយវាប្រាប់ខ្ញុំពីអ្វីដែលខ្ញុំត្រូវបិទបាំង។ នៅពេលដែលខ្ញុំបានយករឿងទាំងអស់នៅក្នុងគំនូរខ្ញុំបានបញ្ចប់លើប្រធានបទនោះ។"
+
+#. Tag: para
+#: great-presentations.docbook:138
+#, no-c-format
+msgid "In general, only use a slide or picture if it shows something that adds to what you are saying. Finally, relax and try not to rush through it all. Talk to them, not at them and remember that a presentation is about whatever message you are trying to get across. &stage; is a useful tool. It can help you to get that message over, but it cannot do the job for you."
+msgstr "ជាទូទៅប្រើតែស្លាយឬរូបភាពប្រសិនបើវាបង្ហាញអ្វីមួយដែលបន្ថែមលើអ្វីដែលអ្នកកំពុងនិយាយ។ ចុងបញ្ចប់សូមសម្រាកហើយព្យាយាមមិនប្រញាប់ប្រញាល់ឆ្លងកាត់វាទាំងអស់។ និយាយជាមួយពួកគេមិនមែននៅពួកគេទេហើយចងចាំថាបទបង្ហាញមួយគឺអំពីសារអ្វីដែលអ្នកកំពុងព្យាយាមឆ្លងកាត់។ ឆាក; គឺជាឧបករណ៍មានប្រយោជន៍។ វាអាចជួយអ្នកឱ្យទទួលបានសារនោះប៉ុន្តែវាមិនអាចធ្វើការបានសម្រាប់អ្នកទេ។"

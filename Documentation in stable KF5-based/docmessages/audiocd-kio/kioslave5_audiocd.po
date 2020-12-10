@@ -1,0 +1,269 @@
+# translation of kio_audiocd_audiocd.po to British English
+# translation of kioslave_audiocd.po to British English
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-11-30 15:20+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. Tag: title
+#: index.docbook:9
+#, no-c-format
+msgid "audiocd"
+msgstr "audiocd"
+
+#. Tag: author
+#: index.docbook:12
+#, no-c-format
+msgid "&Rik.Hemsley; &Rik.Hemsley.mail;"
+msgstr "&Rik.Hemsley; &Rik.Hemsley.mail;"
+
+#. Tag: personname
+#: index.docbook:13
+#, no-c-format
+msgid "<firstname>Benjamin</firstname><surname>Meyer</surname>"
+msgstr "<firstname> Benjamin </firstname><surname> Meyer </surname>"
+
+#. Tag: trans_comment
+#: index.docbook:14
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr "ROLES_OF_TRANSLATORS"
+
+#. Tag: date
+#: index.docbook:17
+#, no-c-format
+msgid "2004-09-16"
+msgstr "២០០៤-០៩-១៦"
+
+#. Tag: releaseinfo
+#: index.docbook:18
+#, no-c-format
+msgid "2.30.00"
+msgstr "២.៣០.០០"
+
+#. Tag: para
+#: index.docbook:22
+#, no-c-format
+msgid "Allows treating audio <acronym>CD</acronym>s like a <quote>real</quote> filesystem, where tracks are represented as files and, when copied from the folder, are digitally extracted from the <acronym>CD</acronym>. This ensures a perfect copy of the audio data."
+msgstr "អនុញ្ញាតឱ្យព្យាបាលសម្លេង <acronym> ស៊ីឌី </acronym> ដូច a <quote> ពិតប្រាកដ </quote> ប្រព័ន្ធឯកសារដែលបទត្រូវបានតំណាងជាឯកសារហើយពេលចម្លងពីថតឯកសារត្រូវបានដកស្រង់ពីឌីជីថល <acronym> ស៊ីឌី </acronym> ។ នេះធានានូវការថតចម្លងទិន្នន័យសម្លេងឥតខ្ចោះ។"
+
+#. Tag: para
+#: index.docbook:28
+#, no-c-format
+msgid "To see how this slave works, insert an audio <acronym>CD</acronym> in your &CD-ROM; drive and type <userinput>audiocd:/</userinput> into &konqueror;. Within a few seconds you should see a list of tracks and some folders."
+msgstr "ដើម្បីមើលពីរបៀបដែលទាសករនេះធ្វើការសូមបញ្ចូលសម្លេង <acronym> ស៊ីឌី </acronym> នៅក្នុងស៊ីឌីរ៉ូមរបស់អ្នក; ដ្រាយនិងប្រភេទ <userinput> សវនដ្ឋាន៖ / </userinput> ចូលទៅក្នុង konqueror; ។ ក្នុងរយៈពេលពីរបីវិនាទីអ្នកគួរតែឃើញបញ្ជីបទនិងថតមួយចំនួន។"
+
+#. Tag: para
+#: index.docbook:33
+#, no-c-format
+msgid "Audio <acronym>CD</acronym>s don't really have folders, but the audiocd slave provides them as a convenience. If you look inside these folders you will see that they all contain the same number of tracks. If you are connected to the Internet, some folders will have the actual track titles shown as the filenames."
+msgstr "សំលេង <acronym> ស៊ីឌី </acronym> ពិតជាមិនមានថតឯកសារទេប៉ុន្តែទាសករ audiocd ផ្តល់ឱ្យពួកគេនូវភាពងាយស្រួល។ ប្រសិនបើអ្នកក្រឡេកមើលនៅខាងក្នុងថតទាំងនេះអ្នកនឹងឃើញថាពួកគេទាំងអស់មានចំនួនបទដូចគ្នា។ ប្រសិនបើអ្នកបានភ្ជាប់ទៅអ៊ីនធឺរណែតថតខ្លះនឹងមានចំណងជើងបទដែលបង្ហាញជាឈ្មោះឯកសារ។"
+
+#. Tag: para
+#: index.docbook:39
+#, no-c-format
+msgid "The reason that these separate folders exist are so that you can choose in which format you would like to listen to (or copy) the tracks on the <acronym>CD</acronym>."
+msgstr "ហេតុផលដែលមានថតឯកសារដាច់ដោយឡែកទាំងនេះមានដូច្នេះអ្នកអាចជ្រើសរើសទ្រង់ទ្រាយណាមួយដែលអ្នកចង់ស្តាប់ (ឬចម្លងបទ) នៅលើ <acronym> ស៊ីឌី </acronym>"
+
+#. Tag: para
+#: index.docbook:43
+#, no-c-format
+msgid "If you drag a track from the <filename class=\"directory\">Ogg Vorbis</filename> folder and drop it on another &konqueror; window open at your home folder, you should see a progress window showing you that the track is being extracted from the <acronym>CD</acronym> and saved to a file. Note that Ogg Vorbis is a compressed format, so the file in your home folder will appear a great deal smaller than it would have been if you had copied the raw data."
+msgstr "ប្រសិនបើអ្នកអូសបទចេញពីឯកសារ <filename class= \" directory \" > Ogg Vorbis </filename> ថតនិងទម្លាក់វានៅលើ konqueror ផ្សេងទៀត; ផ្ទាំងកម្មវិធីបើកនៅថតផ្ទះរបស់អ្នកអ្នកគួរតែឃើញផ្ទាំងកម្មវិធីវឌ្ឍនភាពបង្ហាញអ្នកថាបទកំពុងត្រូវបានស្រង់ចេញពីឯកសារ <acronym> ស៊ីឌី </acronym> ហើយបានរក្សាទុកក្នុងឯកសារមួយ។ ចំណាំថា Ogg Vorbis គឺជាទ្រង់ទ្រាយដែលបានបង្រួមដូច្នេះឯកសារនៅក្នុងថតផ្ទះរបស់អ្នកនឹងលេចចេញនូវទំហំតូចជាងបើអ្នកបានចម្លងទិន្នន័យដើម។"
+
+#. Tag: para
+#: index.docbook:51
+#, no-c-format
+msgid "The mechanism behind this is quite simple. When the audiocd slave is asked to retrieve a track from the <filename class=\"directory\">Ogg Vorbis</filename> folder, it starts extracting the digital audio data from the <acronym>CD</acronym>. As it sends the data over to the file in your home folder, it simultaneously encodes it in Ogg Vorbis format (<acronym>CD</acronym> audio is in an uncompressed format to start with)."
+msgstr "យន្តការនៅពីក្រោយនេះគឺសាមញ្ញណាស់។ នៅពេលដែលទាសករ audiocd ត្រូវបានស្នើសុំឱ្យទាញយកបទមួយពីឯកសារ <filename class= \" directory \" > Ogg Vorbis </filename> ថតវាចាប់ផ្តើមស្រង់ទិន្នន័យអូឌីយ៉ូឌីជីថលពីឯកសារ <acronym> ស៊ីឌី </acronym> ។ នៅពេលដែលវាបញ្ជូនទិន្នន័យទៅឯកសារនៅក្នុងថតផ្ទះរបស់អ្នកវានឹងសរសេរកូដវាជាទម្រង់ Ogg Vorbis (ក្នុងពេលដំណាលគ្នា) ។ <acronym> ស៊ីឌី </acronym> អូឌីយ៉ូគឺនៅក្នុងទ្រង់ទ្រាយដែលមិនបានបង្ហាប់ដើម្បីចាប់ផ្តើមជាមួយនឹង) ។"
+
+#. Tag: para
+#: index.docbook:59
+#, no-c-format
+msgid "You could also try dragging a file ending in <literal role=\"extension\">.wav</literal> and dropping it on the &kde; Media Player, &juk;. In this case, the procedure that happens behind the scenes is similar, except that instead of encoding the audio data in Ogg Vorbis format, it is put through a very simple conversion, from raw binary data (which the <literal role=\"extension\">.cda</literal> files in the toplevel folder represent) to <quote>RIFF WAV</quote> format, a non-compressed format that most media players understand."
+msgstr "អ្នកក៏អាចព្យាយាមអូសឯកសារបញ្ចប់ដោយ <literal role= \" extension \" > .wav </literal> ហើយទម្លាក់វានៅលើ KDE ។ កម្មវិធីចាក់មេឌៀ, juk; ។ ក្នុងករណីនេះនីតិវិធីដែលកើតឡើងនៅពីក្រោយឆាកគឺស្រដៀងគ្នាលើកលែងតែជំនួសឱ្យការអ៊ិនកូដទិន្នន័យអូឌីយ៉ូក្នុងទ្រង់ទ្រាយអូហ្គូវីវីសត្រូវបានដាក់តាមរយៈការបំលែងសាមញ្ញបំផុតពីទិន្នន័យគោលពីរឆៅ (ដែល <literal role= \" extension \" > .cda </literal> ឯកសារនៅក្នុងថតតំណាងគឺតំណាងឱ្យ) <quote> RIFF WAV </quote> ទ្រង់ទ្រាយជាទ្រង់ទ្រាយដែលមិនបង្រួមដែលអ្នកលេងប្រព័ន្ធផ្សព្វផ្សាយភាគច្រើនយល់។"
+
+#. Tag: para
+#: index.docbook:68
+#, no-c-format
+msgid "&juk; should quite happily play the <literal role=\"extension\">.wav</literal> file, but if it has trouble, you may consider using the <option>paranoia_level</option> option, explained below."
+msgstr "ចូក; គួរលេងដោយរីករាយ <literal role= \" extension \" > .wav </literal> ប្រសិនបើវាមានបញ្ហាអ្នកអាចពិចារណាប្រើឯកសារ <option> paranoialevel </option> ជម្រើសបានពន្យល់ដូចខាងក្រោម។"
+
+#. Tag: title
+#: index.docbook:74
+#, no-c-format
+msgid "Options"
+msgstr "ជម្រើស"
+
+#. Tag: option
+#: index.docbook:77
+#, no-c-format
+msgid "device"
+msgstr "ឧបករណ៍"
+
+#. Tag: para
+#: index.docbook:79
+#, no-c-format
+msgid "Set the path to the audio <acronym>CD</acronym> device, &eg; <userinput>audiocd:/<option>?device</option>=<parameter>/dev/sdc</parameter></userinput>. Normally, the slave will try to find a <acronym>CD</acronym> drive with an audio <acronym>CD</acronym> inserted, but if it fails or you have more than one <acronym>CD</acronym> drive, you may want to try this option. Note that the configuration dialog allows you to set a default value for this option."
+msgstr "កំណត់ផ្លូវទៅសំលេង <acronym> ស៊ីឌី </acronym> ឧបករណ៍ឧ។ <userinput> សវនដ្ឋាន៖ / <option> ឧបករណ៍ </option> = <parameter> / dev / sdc </parameter></userinput> ។ ជាធម្មតាទាសករនឹងព្យាយាមស្វែងរក <acronym> ស៊ីឌី </acronym> ដ្រាយជាមួយអូឌីយ៉ូមួយ <acronym> ស៊ីឌី </acronym> បញ្ចូលប៉ុន្តែប្រសិនបើវាបរាជ័យឬអ្នកមានច្រើនជាងមួយ <acronym> ស៊ីឌី </acronym> ដ្រាយអ្នកប្រហែលជាចង់សាកល្បងជំរើសនេះ។ ចំណាំថាប្រអប់កំណត់រចនាសម្ព័ន្ធអនុញ្ញាតឱ្យអ្នកកំណត់តម្លៃលំនាំដើមសម្រាប់ជម្រើសនេះ។"
+
+#. Tag: option
+#: index.docbook:90
+#, no-c-format
+msgid "fileNameTemplate"
+msgstr "ឯកសារឈ្មោះទំព័រគំរូ"
+
+#. Tag: para
+#: index.docbook:92
+#, no-c-format
+msgid "Set the file name template, &eg; <userinput>audiocd:/<option>?fileNameTemplate</option>=<parameter>Track %{number}</parameter></userinput>. Note that the configuration dialog allows you to set a default value for this option. A warning that if you set it to an empty string no files will show up."
+msgstr "កំណត់ពុម្ពឈ្មោះឯកសារឧ។ <userinput> សវនដ្ឋាន៖ / <option> ? fileNameTemplate </option> = <parameter> តាមដាន % {ចំនួន} </parameter></userinput> ។ ចំណាំថាប្រអប់កំណត់រចនាសម្ព័ន្ធអនុញ្ញាតឱ្យអ្នកកំណត់តម្លៃលំនាំដើមសម្រាប់ជម្រើសនេះ។ ការព្រមានមួយថាប្រសិនបើអ្នកកំណត់វាជាខ្សែរទទេឯកសារនឹងមិនបង្ហាញទេ។"
+
+#. Tag: option
+#: index.docbook:98
+#, no-c-format
+msgid "albumNameTemplate"
+msgstr "គំរូឈ្មោះអាល់ប៊ុម"
+
+#. Tag: para
+#: index.docbook:100
+#, no-c-format
+msgid "Set the album name template, &eg; <userinput>audiocd:/<option>?albumNameTemplate</option>=<parameter>%{albumartist} %{albumtitle}</parameter></userinput>. Note that the configuration dialog allows you to set a default value for this option."
+msgstr "កំណត់ពុម្ពឈ្មោះអាល់ប៊ុមឧទាហរណ៍; <userinput> សវនដ្ឋាន៖ / <option> ? អាល់ប៊ុមNameTemplate </option> = <parameter> % {អ្នកនិពន្ធអាល់ប៊ុម} % {អាល់ប៊ុមtitle} </parameter></userinput> ។ ចំណាំថាប្រអប់កំណត់រចនាសម្ព័ន្ធអនុញ្ញាតឱ្យអ្នកកំណត់តម្លៃលំនាំដើមសម្រាប់ជម្រើសនេះ។"
+
+#. Tag: option
+#: index.docbook:106
+#, no-c-format
+msgid "niceLevel"
+msgstr "ស្រស់ស្អាត"
+
+#. Tag: para
+#: index.docbook:108
+#, no-c-format
+msgid "Sets the process nice level for encoders, &eg; <userinput>audiocd:/<option>?albumNameTemplate</option>=<parameter>niceLevel=10</parameter></userinput>. Note that the configuration dialog allows you to set a default value for this option."
+msgstr "កំណត់កម្រិតដំណើរការល្អសម្រាប់អ៊ិនកូដឌ័រ; <userinput> សវនដ្ឋាន៖ / <option> ? អាល់ប៊ុមNameTemplate </option> = <parameter> niceLevel = ១០ </parameter></userinput> ។ ចំណាំថាប្រអប់កំណត់រចនាសម្ព័ន្ធអនុញ្ញាតឱ្យអ្នកកំណត់តម្លៃលំនាំដើមសម្រាប់ជម្រើសនេះ។"
+
+#. Tag: option
+#: index.docbook:114
+#, no-c-format
+msgid "paranoia_level"
+msgstr "កម្រិត paranoia"
+
+#. Tag: para
+#: index.docbook:116
+#, no-c-format
+msgid "Set the amount of error detection and correction used when extracting data."
+msgstr "កំណត់ចំនួននៃការរកឃើញកំហុសនិងកែតម្រូវដែលត្រូវបានប្រើនៅពេលស្រង់ទិន្នន័យ។"
+
+#. Tag: term
+#: index.docbook:121
+#, no-c-format
+msgid "Level 0"
+msgstr "កំរិត ០"
+
+#. Tag: para
+#: index.docbook:123
+#, no-c-format
+msgid "No detection or correction. Only useful if you have a perfect <acronym>CD</acronym> drive (unlikely)."
+msgstr "គ្មានការរកឃើញឬការកែតម្រូវទេ។ មានប្រយោជន៍តែប្រសិនបើអ្នកមានល្អឥតខ្ចោះ <acronym> ស៊ីឌី </acronym> ដ្រាយ (មិនទំនង) ។"
+
+#. Tag: term
+#: index.docbook:129
+#, no-c-format
+msgid "Level 1"
+msgstr "កំរិត ១"
+
+#. Tag: para
+#: index.docbook:131
+#, no-c-format
+msgid "Enable basic error checking and correction."
+msgstr "បើកដំណើរការត្រួតពិនិត្យនិងកែកំហុសមូលដ្ឋាន។"
+
+#. Tag: term
+#: index.docbook:136
+#, no-c-format
+msgid "Level 2"
+msgstr "កំរិត ២"
+
+#. Tag: para
+#: index.docbook:138
+#, no-c-format
+msgid "Default. Specifies that only a perfect extraction will be accepted."
+msgstr "លំនាំដើម។ បញ្ជាក់ថាមានតែការស្រង់ចេញល្អឥតខ្ចោះនឹងត្រូវទទួលយក។"
+
+#. Tag: para
+#: index.docbook:144
+#, no-c-format
+msgid "Note that there is a disadvantage to level 2. Extraction can be very slow, so real-time digital playback may not work properly. If you have a good quality <acronym>CD</acronym> drive (note that more expensive does not necessarily mean better quality) then you probably won't experience very slow extraction, but a poor drive may take days (!) to extract the audio from one <acronym>CD</acronym>."
+msgstr "ចំណាំថាមានគុណវិបត្តិដល់កំរិតទី ២ ។ ការស្រង់ចេញអាចយឺតណាស់ដូច្នេះការចាក់ឌីជីថលតាមពេលវេលាជាក់ស្តែងអាចនឹងមិនដំណើរការបានត្រឹមត្រូវ។ ប្រសិនបើអ្នកមានគុណភាពល្អ <acronym> ស៊ីឌី </acronym> ដ្រាយវ៍ (ចំណាំថាថ្លៃជាងមិនចាំបាច់មានន័យថាគុណភាពល្អជាងនេះទេ) ពេលនោះអ្នកប្រហែលជាមិនមានបទពិសោធន៍ក្នុងការទាញយកយឺតទេប៉ុន្តែដ្រាយខ្សោយប្រហែលជាចំណាយពេលច្រើនថ្ងៃ (!) ដើម្បីទាញយកសំលេងពីមួយ។ <acronym> ស៊ីឌី </acronym>"
+
+#. Tag: option
+#: index.docbook:154
+#, no-c-format
+msgid "cddbChoice"
+msgstr "cddbChoice"
+
+#. Tag: para
+#: index.docbook:157
+#, no-c-format
+msgid "Specify which Internet <acronym>CD</acronym> Database entry to use. Audio <acronym>CD</acronym>s don't have track names, but the Internet <acronym>CD</acronym> Database is a clever system which uses a special unique identifier generated from the number and length of tracks on each <acronym>CD</acronym> to cross-reference a track listing. Track listings are contributed by the Internet community and made available to all. Occasionally there will be multiple entries. You can specify which one to use."
+msgstr "បញ្ជាក់អ៊ិនធឺណិតមួយណា <acronym> ស៊ីឌី </acronym> ការបញ្ចូលមូលដ្ឋានទិន្នន័យដើម្បីប្រើ។ សំលេង <acronym> ស៊ីឌី </acronym> មិនមានឈ្មោះបទទេប៉ុន្តែអ៊ីនធឺណិត <acronym> ស៊ីឌី </acronym> មូលដ្ឋានទិន្នន័យគឺជាប្រព័ន្ធឆ្លាតវៃមួយដែលប្រើឧបករណ៍សម្គាល់ពិសេសដែលបង្កើតចេញពីចំនួននិងប្រវែងនៃបទនីមួយៗ <acronym> ស៊ីឌី </acronym> ដើម្បីឆ្លងសេចក្តីយោងបញ្ជីបទ។ បញ្ជីបទត្រូវបានចូលរួមដោយសហគមន៍អ៊ិនធឺរណែតនិងអាចរកបានសម្រាប់ទាំងអស់គ្នា។ យូរ ៗ ម្តងនឹងមានការចូលរួមច្រើន។ អ្នកអាចបញ្ជាក់មួយណាដែលត្រូវប្រើ។"
+
+#. Tag: para
+#: index.docbook:165
+#, no-c-format
+msgid "You can submit your own track listings using &kscd;, the &kde; <acronym>CD</acronym> player."
+msgstr "អ្នកអាចដាក់ស្នើបញ្ជីបទផ្ទាល់ខ្លួនរបស់អ្នកដោយប្រើ kscd, kde ។ <acronym> ស៊ីឌី </acronym> អ្នកលេង។"
+
+#. Tag: para
+#: index.docbook:168
+#, no-c-format
+msgid "By default audiocd tries to pick the best one."
+msgstr "តាមលំនាំដើមអូឌីជីព្យាយាមជ្រើសរើសយកមួយណាដែលល្អបំផុត។"
+
+#. Tag: title
+#: index.docbook:174
+#, no-c-format
+msgid "Examples"
+msgstr "ឧទាហរណ៍"
+
+#. Tag: userinput
+#: index.docbook:176
+#, no-c-format
+msgid "audiocd:/?device=/dev/scd0&amp;paranoia_level=0&amp;cddbChoice=0"
+msgstr "audiocd:/?device=/dev/scd0&amp;paranoia_level=0&amp;cddbChoice=0"
+
+#. Tag: para
+#: index.docbook:178
+#, no-c-format
+msgid "Gives a listing of the tracks on the audio <acronym>CD</acronym> inserted in <filename class=\"devicefile\">/dev/scd0</filename>, which on &Linux; specifies the first <acronym>SCSI</acronym> &CD-ROM; device. If you copy tracks from the <acronym>CD</acronym>, digital extraction will be performed without error correction or detection. The <acronym>CDDB</acronym> Database entry 0 will be used."
+msgstr "ផ្តល់បញ្ជីនៃបទនៅលើសំលេង <acronym> ស៊ីឌី </acronym> បញ្ចូលទៅក្នុង <filename class= \" devicefile \" > / dev / scd0 </filename> , ដែលនៅលើលីនុច; បញ្ជាក់ទីមួយ <acronym> អេស។ ស៊ី </acronym> ស៊ីឌី​រ៉ូម; ឧបករណ៍។ បើអ្នកចម្លងបទពីឯកសារ <acronym> ស៊ីឌី </acronym> , ការទាញយកឌីជីថលនឹងត្រូវបានអនុវត្តដោយគ្មានការកែកំហុសឬការរកឃើញ។ នេះ <acronym> ស៊ីឌីឌីប៊ី </acronym> ធាតុមូលដ្ឋានទិន្នន័យ ០ នឹងត្រូវបានប្រើ។"
+
+#. Tag: title
+#: index.docbook:189
+#, no-c-format
+msgid "Frequently Asked Question"
+msgstr "សំណួរដែលគេសួរជាញឹកញាប់"
+
+#. Tag: para
+#: index.docbook:192
+#, no-c-format
+msgid "I get <errorname>The file or folder / does not exist</errorname>. How do I fix that? I have an audio <acronym>CD</acronym> in my drive!"
+msgstr "ខ្ញុំទទួលបាន <errorname> ឯកសារឬថតឯកសារ / មិនមានទេ </errorname> ។ តើខ្ញុំត្រូវដោះស្រាយយ៉ាងដូចម្តេច? ខ្ញុំមានសំលេង <acronym> ស៊ីឌី </acronym> នៅក្នុងដ្រាយរបស់ខ្ញុំ!"
+
+#. Tag: para
+#: index.docbook:198
+#, no-c-format
+msgid "Try running <userinput><command>cdparanoia</command> <option>-vsQ</option></userinput> as yourself (not <systemitem class=\"username\">root</systemitem>). Do you see a track list? If not, make sure you have permission to access the <acronym>CD</acronym> device. If you're using <acronym>SCSI</acronym> emulation (possible if you have an <acronym>IDE</acronym> <acronym>CD</acronym> writer) then make sure you check that you have read and write permissions on the generic <acronym>SCSI</acronym> device, which is probably <filename class=\"devicefile\">/dev/sg0</filename>, <filename class=\"devicefile\">/dev/sg1</filename>, &etc; If it still doesn't work, try typing <userinput>audiocd:/?device=/dev/sg0</userinput> (or similar) to tell kio_audiocd which device your &CD-ROM; is."
+msgstr "ព្យាយាមរត់ <userinput><command> cdparanoia </command><option> -vsQ </option></userinput> ដូចជាខ្លួនអ្នក (មិនមែនទេ <systemitem class= \" username \" > ឬស </systemitem> ) ។ តើអ្នកឃើញបញ្ជីបទទេ? បើមិនដូច្នោះទេសូមប្រាកដថាអ្នកមានសិទ្ធិចូលប្រើឯកសារនេះ <acronym> ស៊ីឌី </acronym> ឧបករណ៍។ ប្រសិនបើអ្នកកំពុងប្រើ <acronym> អេស។ ស៊ី </acronym> ការធ្វើត្រាប់តាម (អាចធ្វើទៅបានប្រសិនបើអ្នកមាន <acronym> អាយឌីអ៊ី </acronym><acronym> ស៊ីឌី </acronym> បន្ទាប់មកអ្នកត្រូវប្រាកដថាអ្នកបានឆែកមើលថាអ្នកបានអាននិងសរសេរសិទ្ធិលើប្រភេទទូទៅ <acronym> អេស។ ស៊ី </acronym> ឧបករណ៍ដែលប្រហែលជា <filename class= \" devicefile \" > / dev / sg0 </filename> , <filename class= \" devicefile \" > / dev / sg1 </filename> , ល។ ប្រសិនបើវានៅតែមិនដំណើរការព្យាយាមវាយ <userinput> audiocd: /? device = / dev / sg0 </userinput> (ឬស្រដៀងគ្នា) ដើម្បីប្រាប់ kioaudiocd ថាតើឧបករណ៍មួយណាដែលស៊ីឌីរ៉ូមរបស់អ្នក; គឺ។"

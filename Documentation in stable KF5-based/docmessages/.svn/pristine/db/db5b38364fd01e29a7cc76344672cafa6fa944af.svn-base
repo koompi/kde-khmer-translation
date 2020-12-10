@@ -1,0 +1,160 @@
+# translation of kcontrol_kcmlaunch.po to British English
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Jonathan Riddell <kde-en-gb@jriddell.org>, 2003.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcontrol_kcmlaunch\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-28 00:39+0000\n"
+"PO-Revision-Date: 2003-12-29 21:57+0000\n"
+"Last-Translator: Jonathan Riddell <kde-en-gb@jriddell.org>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. Tag: title
+#: index.docbook:10
+#, fuzzy, no-c-format
+#| msgid "launch feedback"
+msgid "Launch Feedback"
+msgstr "launch feedback"
+
+#. Tag: author
+#: index.docbook:12
+#, no-c-format
+msgid "&Lauri.Watts; &Lauri.Watts.mail;"
+msgstr "&Lauri.Watts; &Lauri.Watts.mail;"
+
+#. Tag: trans_comment
+#: index.docbook:13
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr ""
+"<othercredit role=\"translator\"><firstname>Malcolm</"
+"firstname><surname>Hunter</surname><affiliation><address><email>malcolm."
+"hunter@gmx.co.uk</email></address></affiliation><contrib>Conversion to "
+"British English</contrib></othercredit>"
+
+#. Tag: date
+#: index.docbook:16
+#, no-c-format
+msgid "2018-03-25"
+msgstr ""
+
+#. Tag: releaseinfo
+#: index.docbook:17
+#, no-c-format
+msgid "Plasma 5.12"
+msgstr ""
+
+#. Tag: para
+#: index.docbook:21
+#, no-c-format
+msgid ""
+"Sometimes it is reassuring to know that your computer didn't just ignore "
+"your command, and something is happening behind the scenes. In this module "
+"you can configure visible feedback to help you know if you really hit that "
+"icon or not."
+msgstr ""
+"Sometimes it is reassuring to know that your computer didn't just ignore "
+"your command, and something is happening behind the scenes. In this module "
+"you can configure visible feedback to help you know if you really hit that "
+"icon or not."
+
+#. Tag: para
+#: index.docbook:26
+#, fuzzy, no-c-format
+msgid ""
+"The traditional way to indicate that your computer is busy is to modify the "
+"cursor, and you can turn this on by choosing a <guilabel>Cursor</guilabel>."
+msgstr ""
+"The traditional way to indicate that your computer is busy is to modify the "
+"cursor, and you can turn this on by choosing a <guilabel>Busy Cursor</"
+"guilabel> checkbox."
+
+#. Tag: para
+#: index.docbook:30
+#, fuzzy, no-c-format
+msgid ""
+"With this option enabled, your cursor will have an icon attached to it for a "
+"short time, when a new application is being launched. You can configure how "
+"long this icon is displayed beside your cursor with the <guilabel>Stop "
+"animation after:</guilabel> spinbox. The default is 5 seconds."
+msgstr ""
+"With this option enabled, your cursor will have an icon attached to it for a "
+"short time, when a new application is being launched. You can configure how "
+"long this icon is displayed beside your cursor with the <guilabel>Startup "
+"indication timeout (seconds):</guilabel> spinbox. The default is 30 seconds."
+
+#. Tag: para
+#: index.docbook:36
+#, fuzzy, no-c-format
+msgid ""
+"There are several variations of busy cursor available, including a "
+"<guilabel>Blinking</guilabel>, a <guilabel>Bouncing</guilabel> or a "
+"<guilabel>Static</guilabel> cursor icon with no animation."
+msgstr ""
+"There are several variations of busy cursor available, including a blinking "
+"cursor, a bouncing cursor or a passive icon with no animation."
+
+#. Tag: para
+#: index.docbook:40
+#, fuzzy, no-c-format
+msgid ""
+"Traditional &plasma; launch notification has taken another form, which you "
+"can also enable and disable here. Normally when you start an application, it "
+"gets an immediate entry in the taskbar, with the icon replaced by a spinning "
+"hourglass to let you know something is happening. You can toggle this "
+"behavior on and off with the <guilabel>Enable animation</guilabel> checkbox."
+msgstr ""
+"Traditional &kde; launch notification has taken another form, which you can "
+"also enable and disable here. Normally when you start an application, it "
+"gets an immediate entry in the taskbar, with the icon replaced by a spinning "
+"hourglass to let you know something is happening. You can toggle this "
+"behaviour on and off with the <guilabel>Enable Taskbar Notification</"
+"guilabel> checkbox, and when it's enabled, you can set a time in the "
+"<guilabel>Startup indication timeout (seconds):</guilabel> spinbox."
+
+#. Tag: para
+#: index.docbook:47
+#, fuzzy, no-c-format
+msgid ""
+"Not all applications that you start will eventually show a window, or an "
+"entry in the taskbar. Some of them, for example, are docked into the "
+"&plasma; system tray. Alternatively, it might be that you sent it off to a "
+"different virtual desktop, and in the <guilabel>Filters</guilabel> section "
+"of the <ulink url=\"help:/plasma-desktop/panel.html\"> <guilabel>Task "
+"Manager Settings</guilabel></ulink> the option <guilabel>Only show tasks "
+"from the current desktop</guilabel> is checked. Setting a timeout ensures "
+"that, even in these cases, you can still get launch feedback, but also that "
+"it will go away when the job is done."
+msgstr ""
+"Not all applications that you start will eventually show a window, or an "
+"entry in the taskbar. Some of them, for example, are docked into the &kde; "
+"system tray. Alternatively, it might be that you sent it off to a different "
+"virtual desktop, and <quote>Show all windows</quote> is unchecked in the "
+"&kcontrolcenter; module <guimenuitem>Taskbar</guimenuitem>. Setting a "
+"timeout ensures that, even in these cases, you can still get launch "
+"feedback, but also that it will go away when the job is done."
+
+#, fuzzy
+#~| msgid "Launch Feedback"
+#~ msgid "<title>Launch Feedback</title>"
+#~ msgstr "Launch Feedback"
+
+#~ msgid "<keyword>KDE</keyword>"
+#~ msgstr "<keyword>KDE</keyword>"
+
+#~ msgid "KControl"
+#~ msgstr "KControl"
+
+#~ msgid "cursor"
+#~ msgstr "cursor"
+
+#~ msgid "busy"
+#~ msgstr "busy"

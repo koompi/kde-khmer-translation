@@ -1,0 +1,193 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-11-26 14:53+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: developer-doc/phb/kmymoney-developer.desktop:2
+msgctxt "Name"
+msgid "KMyMoney developer handbook"
+msgstr "សៀវភៅណែនាំអ្នកអភិវឌ្ឍន៍ KMyMoney"
+
+#: kmymoney/mymoney/storage/kmymoney-sqlstorageplugin.desktop:4
+msgctxt "Name"
+msgid "Enables plugins to store data in the sql database"
+msgstr "បើកដំណើរការកម្មវិធីជំនួយដើម្បីផ្ទុកទិន្នន័យនៅក្នុងមូលដ្ឋានទិន្នន័យ sql"
+
+#: kmymoney/org.kde.kmymoney.desktop:2
+msgctxt "Name"
+msgid "KMyMoney"
+msgstr "ខេម៉ីម៉ាន់នី"
+
+#: kmymoney/org.kde.kmymoney.desktop:39
+msgctxt "GenericName"
+msgid "Personal Finance Manager"
+msgstr "ការគ្រប់គ្រងហិរញ្ញវត្ថុផ្ទាល់ខ្លួន"
+
+#: kmymoney/org.kde.kmymoney.desktop:77
+msgctxt "Comment"
+msgid "Personal Finance Manager"
+msgstr "អ្នកគ្រប់គ្រងហិរញ្ញវត្ថុផ្ទាល់ខ្លួន"
+
+#: kmymoney/plugins/csvexport/kmm_csvexport.desktop:2
+msgctxt "Name"
+msgid "csvexport"
+msgstr "នាំ csv ចេញ"
+
+#: kmymoney/plugins/csvexport/kmm_csvexport.desktop:33
+msgctxt "Comment"
+msgid "Add CSV exporting to KMyMoney"
+msgstr "បន្ថែមការនាំចេញស៊ីអេសវីទៅខេខេមីយនីយ"
+
+#: kmymoney/plugins/csvimport/kmm_csvimport.desktop:2
+msgctxt "Name"
+msgid "csvimport"
+msgstr "នាំ csv ចូល"
+
+#: kmymoney/plugins/csvimport/kmm_csvimport.desktop:36
+msgctxt "Comment"
+msgid "Add CSV importing to KMyMoney"
+msgstr "បន្ថែមការនាំចូលស៊ីអេសវីចូលខេខេមីយនីយ"
+
+#: kmymoney/plugins/icalendarexport/kcm_kmm_icalendarexport.desktop:2
+msgctxt "Name"
+msgid "Configure icalendar export plugin"
+msgstr "កំណត់រចនាសម្ព័ន្ធកម្មវិធីជំនួយនាំចេញ icalendar"
+
+#: kmymoney/plugins/icalendarexport/kcm_kmm_icalendarexport.desktop:38
+msgctxt "Keywords"
+msgid "icalendar;kmymoney;"
+msgstr "icalendar; kmymoney;"
+
+#: kmymoney/plugins/icalendarexport/kcm_kmm_icalendarexport.desktop:72
+msgctxt "Comment"
+msgid "Permits the configuration of the iCalendar plugin's options"
+msgstr "អនុញ្ញាតការកំណត់រចនាសម្ព័ន្ធជម្រើសរបស់កម្មវិធីជំនួយ iCalendar"
+
+#: kmymoney/plugins/icalendarexport/kmm_icalendarexport.desktop:2
+msgctxt "Name"
+msgid "iCalendar"
+msgstr "iCalendar"
+
+#: kmymoney/plugins/icalendarexport/kmm_icalendarexport.desktop:38
+msgctxt "Comment"
+msgid "Exports schedules to iCalendar files"
+msgstr "នាំចេញកាលវិភាគទៅឯកសារ iCalendar"
+
+#: kmymoney/plugins/kbanking5/kmm_kbanking.desktop:2
+#: kmymoney/plugins/kbanking/kmm_kbanking.desktop:2
+msgctxt "Name"
+msgid "KBanking"
+msgstr "ខេប៊ីកឃីង"
+
+#: kmymoney/plugins/kbanking5/kmm_kbanking.desktop:36
+#: kmymoney/plugins/kbanking/kmm_kbanking.desktop:36
+msgctxt "Comment"
+msgid "Add online banking to KMyMoney"
+msgstr "បន្ថែមសេវាកម្មធនាគារតាមអ៊ិនធឺរណែតទៅខេខេមីយនី"
+
+#: kmymoney/plugins/kmymoney-importerplugin.desktop:3
+msgctxt "Name"
+msgid "KMyMoney Importer Plugin"
+msgstr "កម្មវិធីជំនួយអ្នកនាំចូលខេម៉ីនី"
+
+#: kmymoney/plugins/kmymoney-importerplugin.desktop:37
+#: kmymoney/plugins/kmymoney-plugin.desktop:38
+msgctxt "Comment"
+msgid "A KMyMoney plugin"
+msgstr "កម្មវិធីជំនួយ KMyMoney"
+
+#: kmymoney/plugins/kmymoney-onlinetaskui.desktop:4
+msgctxt "Name"
+msgid "Form to edit online orders/tasks"
+msgstr "សំណុំបែបបទដើម្បីកែសម្រួលការបញ្ជាទិញ / ភារកិច្ចតាមអ៊ីនធឺណិត"
+
+#: kmymoney/plugins/kmymoney-payeeidentifierdelegate.desktop:4
+msgctxt "Name"
+msgid "Painter of payee identifier"
+msgstr "វិចិត្រករអ្នកកំណត់អត្តសញ្ញាណអ្នកបង់ប្រាក់"
+
+#: kmymoney/plugins/kmymoney-plugin.desktop:3
+msgctxt "Name"
+msgid "KMyMoney Plugin"
+msgstr "កម្មវិធីជំនួយខេអិមមីនី"
+
+#: kmymoney/plugins/ofx/import/kmm_ofximport.desktop:2
+msgctxt "Name"
+msgid "KMyMoney OFX"
+msgstr "ខេម៉ីម៉ាន់នីអេច"
+
+#: kmymoney/plugins/ofx/import/kmm_ofximport.desktop:36
+msgctxt "Comment"
+msgid "Add OFX importing to KMyMoney"
+msgstr "បន្ថែមការនាំចូល OFX ទៅ KMyMoney"
+
+#: kmymoney/plugins/onlinejobpluginmockup/kmm_onlinejobpluginmockup.desktop:2
+msgctxt "Name"
+msgid "onlinejobpluginmockup"
+msgstr "កម្មវិធីជំនួយការងារតាមអ៊ីនធឺណិត"
+
+#: kmymoney/plugins/onlinejobpluginmockup/kmm_onlinejobpluginmockup.desktop:20
+msgctxt "Comment"
+msgid "If mapped to an account, it pretends it could handle all onlineTasks (for developers only)."
+msgstr "ប្រសិនបើគូសផែនទីចូលគណនីវាធ្វើពុតថាវាអាចគ្រប់គ្រងលើអ៊ីនធឺណិតទាំងអស់ (សម្រាប់តែអ្នកអភិវឌ្ឍន៍) ។"
+
+#: kmymoney/plugins/printcheck/kcm_kmm_printcheck.desktop:2
+msgctxt "Name"
+msgid "Configure the print check plugin"
+msgstr "កំណត់រចនាសម្ព័ន្ធកម្មវិធីជំនួយពិនិត្យការបោះពុម្ព"
+
+#: kmymoney/plugins/printcheck/kcm_kmm_printcheck.desktop:38
+msgctxt "Keywords"
+msgid "printcheck;kmymoney;"
+msgstr "ពិនិត្យការបោះពុម្ភ; kmymoney;"
+
+#: kmymoney/plugins/printcheck/kcm_kmm_printcheck.desktop:72
+msgctxt "Comment"
+msgid "Permits the configuration of the print check plugin's options"
+msgstr "អនុញ្ញាតការកំណត់រចនាសម្ព័ន្ធជម្រើសរបស់កម្មវិធីជំនួយការត្រួតពិនិត្យការបោះពុម្ព"
+
+#: kmymoney/plugins/printcheck/kmm_printcheck.desktop:2
+msgctxt "Name"
+msgid "Print check"
+msgstr "បោះពុម្ពមូលប្បទានប័ត្រ"
+
+#: kmymoney/plugins/printcheck/kmm_printcheck.desktop:36
+msgctxt "Comment"
+msgid "Provides the capability to print checks"
+msgstr "ផ្តល់នូវសមត្ថភាពក្នុងការបោះពុម្ពមូលប្បទានប័ត្រ"
+
+#: kmymoney/plugins/reconciliationreport/kmm_reconciliationreport.desktop:2
+msgctxt "Name"
+msgid "Reconciliation report"
+msgstr "របាយការណ៍ការផ្សះផ្សា"
+
+#: kmymoney/plugins/reconciliationreport/kmm_reconciliationreport.desktop:35
+msgctxt "Comment"
+msgid "Creates a report after each reconciliation containing data about the reconciliation process"
+msgstr "បង្កើតរបាយការណ៍បន្ទាប់ពីការផ្សះផ្សាគ្នាដែលមានទិន្នន័យអំពីដំណើរការផ្សះផ្សា"
+
+#: kmymoney/plugins/weboob/kmm_weboob.desktop:2
+msgctxt "Name"
+msgid "Weboob"
+msgstr "Weboob"
+
+#: kmymoney/plugins/weboob/kmm_weboob.desktop:22
+msgctxt "Comment"
+msgid "Plugin for weboob"
+msgstr "កម្មវិធីជំនួយសម្រាប់ weboob"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "KMyMoney CSV"
+#~ msgstr "ខេអិមមីនីស៊ីអេសអេស"

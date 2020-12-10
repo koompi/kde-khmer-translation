@@ -1,0 +1,597 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-09 18:55+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. Tag: author
+#: options.docbook:4
+#, no-c-format
+msgid "<firstname>Neil</firstname> <surname>Lucock</surname>"
+msgstr "<firstname>Neil</firstname> <surname>Lucock</surname>"
+
+#. Tag: email
+#: options.docbook:8
+#, no-c-format
+msgid "neil@nlucock.freeserve.co.uk"
+msgstr "neil@nlucock.freeserve.co.uk"
+
+#. Tag: author
+#: options.docbook:11
+#, no-c-format
+msgid "<firstname>Krishna</firstname> <surname>Tateneni</surname>"
+msgstr "<firstname>Krishna</firstname> <surname>Tateneni</surname>"
+
+#. Tag: email
+#: options.docbook:15
+#, no-c-format
+msgid "tateneni@pluto.njcc.com"
+msgstr "tateneni@pluto.njcc.com"
+
+#. Tag: author
+#: options.docbook:18
+#, no-c-format
+msgid "<firstname>Anne-Marie</firstname> <surname>Mahfouf</surname>"
+msgstr "<firstname>Anne-Marie</firstname> <surname>Mahfouf</surname>"
+
+#. Tag: email
+#: options.docbook:22
+#, no-c-format
+msgid "annemarie.mahfouf@free.fr"
+msgstr "annemarie.mahfouf@free.fr"
+
+#. Tag: trans_comment
+#: options.docbook:25
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr "ROLES_OF_TRANSLATORS"
+
+#. Tag: title
+#: options.docbook:28
+#, no-c-format
+msgid "Configuring &stage;"
+msgstr "កំណត់រចនាសម្ព័ន្ធដំណាក់កាល;"
+
+#. Tag: title
+#: options.docbook:31
+#, no-c-format
+msgid "The Configure - Stage Dialog"
+msgstr "កំណត់រចនាសម្ព័ន្ធ - ប្រអប់ដំណាក់កាល"
+
+#. Tag: title
+#: options.docbook:34
+#, no-c-format
+msgid "<title>Misc</title>"
+msgstr "<title> ផ្សេងៗ </title>"
+
+#. Tag: screeninfo
+#: options.docbook:37
+#, no-c-format
+msgid "<screeninfo>Misc</screeninfo>"
+msgstr "<screeninfo> ផ្សេងៗ </screeninfo>"
+
+#. Tag: phrase
+#: options.docbook:42
+#, no-c-format
+msgid "<phrase>Misc</phrase>"
+msgstr "<phrase> ផ្សេងៗ </phrase>"
+
+#. Tag: guilabel
+#: options.docbook:48
+#, no-c-format
+msgid "Units"
+msgstr "ឯកតា"
+
+#. Tag: para
+#: options.docbook:49
+#, no-c-format
+msgid "Choose the default unit that will be used in your slides."
+msgstr "ជ្រើសរើសឯកតាលំនាំដើមដែលនឹងត្រូវប្រើក្នុងស្លាយរបស់អ្នក។"
+
+#. Tag: guilabel
+#: options.docbook:53
+#, no-c-format
+msgid "Handle radius"
+msgstr "ដោះស្រាយកាំ"
+
+#. Tag: para
+#: options.docbook:54
+#, no-c-format
+msgid "If you select a shape with the default tool (arrow) you see the yellow and red rectangles. These are called handles (used for resizing, rotation, ...). The handle radius changes the size of the handles. If you make them bigger it is easier to hit them."
+msgstr "ប្រសិនបើអ្នកជ្រើសរើសរូបរាងដោយប្រើឧបករណ៍ព្រួញ (ព្រួញ) អ្នកនឹងឃើញចតុកោណកែងពណ៌លឿងនិងក្រហម។ ទាំងនេះត្រូវបានគេហៅថាចំណុចទាញ (ប្រើសម្រាប់ប្តូរទំហំ, បង្វិល, ... ) ។ កាំចំណុចទាញផ្លាស់ប្តូរទំហំនៃចំណុចទាញ។ ប្រសិនបើអ្នកធ្វើឱ្យពួកគេធំជាងមុនវាងាយស្រួលក្នុងការវាយពួកគេ។"
+
+#. Tag: guilabel
+#: options.docbook:61
+#, no-c-format
+msgid "Grab sensitivity"
+msgstr "ចាប់យកអារម្មណ៍"
+
+#. Tag: para
+#: options.docbook:62
+#, no-c-format
+msgid "This option defines how exactly you need to hit a handle to select it."
+msgstr "ជម្រើសនេះកំណត់ថាតើអ្នកត្រូវការវាយចំណុចទាញដើម្បីជ្រើសរើសវាយ៉ាងដូចម្តេច។"
+
+#. Tag: guilabel
+#: options.docbook:67
+#, no-c-format
+msgid "Paste offset"
+msgstr "បិទភ្ជាប់អុហ្វសិត"
+
+#. Tag: para
+#: options.docbook:68
+#, no-c-format
+msgid "This is only active if <guilabel>Paste at Cursor</guilabel> is disabled. If you copy a shape with the shortcut <keycombo action=\"simul\">&Ctrl;<keycap>C</keycap></keycombo> and paste it with <keycombo action=\"simul\">&Ctrl;<keycap>V</keycap></keycombo>, and do that at a place where already a shape is this offset is used to paste the new shape to the bottom/right."
+msgstr "នេះសកម្មតែក្នុងករណី <guilabel> បិទភ្ជាប់នៅទស្សន៍ទ្រនិច </guilabel> ត្រូវបានបិទ។ ប្រសិនបើអ្នកចម្លងរូបរាងដោយប្រើផ្លូវកាត់ <keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> គ </keycap></keycombo> ហើយបិទភ្ជាប់វាជាមួយ <keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> វី </keycap></keycombo> ហើយធ្វើនៅកន្លែងដែលមានរូបរាងរួចហើយអុហ្វសិតនេះត្រូវបានប្រើដើម្បីបិទភ្ជាប់រាងថ្មីទៅខាងក្រោម / ខាងស្ដាំ។"
+
+#. Tag: guilabel
+#: options.docbook:76
+#, no-c-format
+msgid "Paste at Cursor"
+msgstr "បិទភ្ជាប់នៅទស្សន៍ទ្រនិច"
+
+#. Tag: para
+#: options.docbook:77
+#, no-c-format
+msgid "Disables the paste offset and insert a pasted shape at the mouse cursor position."
+msgstr "បិទអុហ្វសិតបិទភ្ជាប់និងបញ្ចូលរាងបិទភ្ជាប់នៅទីតាំងទស្សន៍ទ្រនិចកណ្តុរ។"
+
+#. Tag: title
+#: options.docbook:86
+#, no-c-format
+msgid "<title>Grid</title>"
+msgstr "<title> ក្រឡាចត្រង្គ </title>"
+
+#. Tag: screeninfo
+#: options.docbook:89
+#, no-c-format
+msgid "<screeninfo>Grid</screeninfo>"
+msgstr "<screeninfo> ក្រឡាចត្រង្គ </screeninfo>"
+
+#. Tag: phrase
+#: options.docbook:94
+#, no-c-format
+msgid "<phrase>Grid</phrase>"
+msgstr "<phrase> ក្រឡាចត្រង្គ </phrase>"
+
+#. Tag: guilabel
+#: options.docbook:99
+#, no-c-format
+msgid "<guilabel>Grid</guilabel>"
+msgstr "<guilabel> ក្រឡាចត្រង្គ </guilabel>"
+
+#. Tag: guilabel
+#: options.docbook:101
+#, no-c-format
+msgid "Show grid"
+msgstr "បង្ហាញក្រឡាចត្រង្គ"
+
+#. Tag: para
+#: options.docbook:102
+#, no-c-format
+msgid "If enabled, &stage; will display a grid of dots representing the intersections of imaginary horizontal and vertical lines. You can use these dots to precisely position objects on the slide."
+msgstr "ប្រសិនបើបានបើកដំណើរការ; នឹងបង្ហាញក្រឡាចត្រង្គនៃចំនុចតំណាងអោយចំនុចប្រសព្វនៃបន្ទាត់ផ្តេកនិងបញ្ឈរ។ អ្នកអាចប្រើចំណុចទាំងនេះដើម្បីកំណត់ទីតាំងវត្ថុនៅលើស្លាយ។"
+
+#. Tag: guilabel
+#: options.docbook:109
+#, no-c-format
+msgid "Snap to grid"
+msgstr "ខ្ទាស់ទៅក្រឡាចត្រង្គ"
+
+#. Tag: para
+#: options.docbook:110
+#, no-c-format
+msgid "If this is enabled, when dropping or moving objects on the slide the top left corner of the object will <quote>snap</quote> or move, to the nearest grid point."
+msgstr "ប្រសិនបើបើកដំណើរការនៅពេលទម្លាក់ឬផ្លាស់ទីវត្ថុលើស្លាយជ្រុងខាងឆ្វេងខាងលើនៃវត្ថុនឹង <quote> ខ្ទាស់ </quote> ឬផ្លាស់ទីទៅចំណុចក្រឡាចត្រង្គដែលនៅជិតបំផុត។"
+
+#. Tag: para
+#: options.docbook:113
+#, no-c-format
+msgid "This does reduce your freedom to freely position objects on the slide, however it also helps to line up objects precisely. It is easily disabled or enabled with this option, allowing you the best of both worlds."
+msgstr "នេះពិតជាកាត់បន្ថយសេរីភាពរបស់អ្នកក្នុងការដាក់វត្ថុនៅលើស្លាយដោយសេរីទោះយ៉ាងណាវាក៏ជួយតម្រង់ជួរវត្ថុយ៉ាងជាក់លាក់ដែរ។ វាត្រូវបានបិទឬបើកដំណើរការបានយ៉ាងងាយស្រួលជាមួយជម្រើសនេះដែលអនុញ្ញាតឱ្យអ្នកមានភាពល្អបំផុតនៃពិភពលោកទាំងពីរ។"
+
+#. Tag: guilabel
+#: options.docbook:120
+#, no-c-format
+msgid "Grid color:"
+msgstr "ពណ៌ក្រឡាចត្រង្គ៖"
+
+#. Tag: para
+#: options.docbook:121
+#, no-c-format
+msgid "You can change here the grid color which is black as default."
+msgstr "អ្នកអាចប្តូរពណ៌ក្រឡាចត្រង្គដែលមានពណ៌ខ្មៅជាលំនាំដើម។"
+
+#. Tag: guilabel
+#: options.docbook:127
+#, no-c-format
+msgid "Spacing"
+msgstr "គម្លាត"
+
+#. Tag: para
+#: options.docbook:128
+#, no-c-format
+msgid "You can choose to keep the same ratio for the two settings below by having the <inlinemediaobject><imageobject> <imagedata fileref=\"link.png\" format=\"PNG\"/></imageobject></inlinemediaobject> icon or to separate the two settings by using the <inlinemediaobject><imageobject> <imagedata fileref=\"break.png\" format=\"PNG\"/></imageobject></inlinemediaobject> icon."
+msgstr "អ្នកអាចជ្រើសដើម្បីរក្សាសមាមាត្រដូចគ្នាសម្រាប់ការកំណត់ពីរខាងក្រោមដោយមានលេខកូដ <inlinemediaobject><imageobject><imagedata fileref=\"link.png\" format=\"PNG\"/></imageobject></inlinemediaobject> រូបតំណាងឬដើម្បីបំបែកការកំណត់ទាំងពីរដោយប្រើប៊ូតុង <inlinemediaobject><imageobject><imagedata fileref=\"break.png\" format=\"PNG\"/></imageobject></inlinemediaobject> រូបតំណាង។"
+
+#. Tag: guilabel
+#: options.docbook:132
+#, no-c-format
+msgid "Horizontal:"
+msgstr "ផ្តេក៖"
+
+#. Tag: para
+#: options.docbook:133
+#, no-c-format
+msgid "Set the space in centimeters between two points on an horizontal line on the grid. Default is 0.5 centimeter."
+msgstr "កំណត់ចន្លោះគិតជាសង់ទីម៉ែត្ររវាងពីរចំនុចនៅលើបន្ទាត់ផ្តេកនៅលើក្រឡាចត្រង្គ។ លំនាំដើមគឺ 0,5 សង់ទីម៉ែត្រ។"
+
+#. Tag: guilabel
+#: options.docbook:137
+#, no-c-format
+msgid "Vertical:"
+msgstr "បញ្ឈរ៖"
+
+#. Tag: para
+#: options.docbook:138
+#, no-c-format
+msgid "Set the space in centimeters between two points on a vertical line on the grid. Default is 0.5 centimeter."
+msgstr "កំណត់ចន្លោះគិតជាសង់ទីម៉ែត្ររវាងពីរចំនុចនៅលើបន្ទាត់បញ្ឈរនៅលើក្រឡាចត្រង្គ។ លំនាំដើមគឺ 0,5 សង់ទីម៉ែត្រ។"
+
+#. Tag: title
+#: options.docbook:145
+#, no-c-format
+msgid "<title>Document</title>"
+msgstr "<title> ឯកសារ </title>"
+
+#. Tag: screeninfo
+#: options.docbook:148
+#, no-c-format
+msgid "<screeninfo>Document</screeninfo>"
+msgstr "<screeninfo> ឯកសារ </screeninfo>"
+
+#. Tag: phrase
+#: options.docbook:153 options.docbook:182
+#, no-c-format
+msgid "<phrase>Document</phrase>"
+msgstr "<phrase> ឯកសារ </phrase>"
+
+#. Tag: guilabel
+#: options.docbook:158
+#, no-c-format
+msgid "Document Settings"
+msgstr "ការកំណត់ឯកសារ"
+
+#. Tag: guilabel
+#: options.docbook:160
+#, no-c-format
+msgid "Autosave interval:"
+msgstr "ចន្លោះពេលរក្សាទុកស្វ័យប្រវត្តិ៖"
+
+#. Tag: para
+#: options.docbook:161
+#, no-c-format
+msgid "You can use this to adjust how often &stage; saves a temporary file. If you set this value to <guilabel>No autosave</guilabel>, &stage; will not autosave. You can adjust the autosave from 1 minute to 60 minutes."
+msgstr "អ្នកអាចប្រើវាដើម្បីកែតម្រូវដំណាក់កាលដែលបានញឹកញាប់។ រក្សាទុកឯកសារបណ្តោះអាសន្ន។ ប្រសិនបើអ្នកកំណត់តម្លៃនេះទៅ <guilabel> មិនរក្សាទុកដោយស្វ័យប្រវត្តិទេ </guilabel> , ដំណាក់កាល; នឹងមិនរក្សាទុកដោយស្វ័យប្រវត្តិទេ។ អ្នកអាចកែសំរួលស្វ័យប្រវត្តិពី ១ នាទីទៅ ៦០ នាទី។"
+
+#. Tag: guilabel
+#: options.docbook:165
+#, no-c-format
+msgid "Create backup file:"
+msgstr "បង្កើតឯកសារបម្រុងទុក៖"
+
+#. Tag: para
+#: options.docbook:166
+#, no-c-format
+msgid "If checked, this will create a <filename>.&lt;name&gt;.odp.autosave.odp</filename> in the folder where your file is. This backup file can then be used in case of a problem. The backup file is updated everytime you save your document or everytime there is an autosave."
+msgstr "បើធីកវានឹងបង្កើតឯកសារ <filename> .lt; namegt; .odp.autosave.odp </filename> នៅក្នុងសឺមីដែលឯកសាររបស់អ្នកស្ថិតនៅ។ ឯកសារបម្រុងទុកនេះអាចត្រូវបានប្រើក្នុងករណីមានបញ្ហា។ ឯកសារបម្រុងទុកត្រូវបានធ្វើបច្ចុប្បន្នភាពរៀងរាល់ពេលដែលអ្នករក្សាទុកឯកសាររបស់អ្នកឬរាល់ពេលដែលមានរក្សាទុកដោយស្វ័យប្រវត្តិ។"
+
+#. Tag: title
+#: options.docbook:174
+#, no-c-format
+msgid "<title>Author</title>"
+msgstr "<title> អ្នកនិពន្ធ </title>"
+
+#. Tag: screeninfo
+#: options.docbook:177
+#, no-c-format
+msgid "<screeninfo>Author</screeninfo>"
+msgstr "<screeninfo> អ្នកនិពន្ធ </screeninfo>"
+
+#. Tag: para
+#: options.docbook:186
+#, no-c-format
+msgid "Choose an author profile for your document."
+msgstr "ជ្រើសរើសទម្រង់អ្នកនិពន្ធសម្រាប់ឯកសាររបស់អ្នក។"
+
+#. Tag: para
+#: options.docbook:189
+#, no-c-format
+msgid "You can add a new profile or delete the current profile using the buttons to the right of the profiles drop-down list."
+msgstr "អ្នកអាចបន្ថែមទម្រង់ថ្មីឬលុបទម្រង់បច្ចុប្បន្នដោយប្រើប៊ូតុងនៅខាងស្តាំនៃបញ្ជីទម្លាក់ចុះទម្រង់។"
+
+#, fuzzy
+#~ msgid "The <guilabel>Configure Autocorrection...</guilabel> Dialog"
+#~ msgstr "នេះ <guilabel> កំណត់រចនាសម្ព័ន្ធការកែស្វ័យប្រវត្តិ ... </guilabel> ប្រអប់"
+
+#, fuzzy
+#~ msgid "<guilabel>Simple Autocorrection</guilabel>"
+#~ msgstr "<guilabel> ការកែតម្រូវស្វ័យប្រវត្តិកម្មសាមញ្ញ </guilabel>"
+
+#, fuzzy
+#~ msgid "<guilabel>Custom Quotes</guilabel>"
+#~ msgstr "<guilabel> សម្រង់ផ្ទាល់ខ្លួន </guilabel>"
+
+#, fuzzy
+#~ msgid "<guilabel>Advanced Autocorrection</guilabel>"
+#~ msgstr "<guilabel> ការកែតម្រូវស្វ័យប្រវត្តិកម្មកម្រិតខ្ពស់ </guilabel>"
+
+#, fuzzy
+#~ msgid "<guilabel>Color:</guilabel> and <guilabel>Background color:</guilabel>"
+#~ msgstr "<guilabel> ពណ៌៖ </guilabel> និង <guilabel> ពណ៌ផ្ទៃខាងក្រោយ៖ </guilabel>"
+
+#, fuzzy
+#~ msgid "<guilabel>Bold:</guilabel> and <guilabel>Italic:</guilabel>"
+#~ msgstr "<guilabel> ដិត: </guilabel> និង <guilabel> ទ្រេត៖ </guilabel>"
+
+#, fuzzy
+#~ msgid "Underline:"
+#~ msgstr "គូសបញ្ជាក់៖"
+
+#, fuzzy
+#~ msgid "<guilabel>Shadow:</guilabel> and <guilabel>Word by word:</guilabel>"
+#~ msgstr "<guilabel> ស្រមោល៖ </guilabel> និង <guilabel> ពាក្យម្តងមួយៗ៖ </guilabel>"
+
+#, fuzzy
+#~ msgid "Language:"
+#~ msgstr "ភាសា៖"
+
+#, fuzzy
+#~ msgid "<guilabel>Exceptions</guilabel>"
+#~ msgstr "<guilabel> ករណីលើកលែង </guilabel>"
+
+#, fuzzy
+#~ msgid "Configuring autocomplete"
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធការបំពេញស្វ័យប្រវត្តិ"
+
+#, fuzzy
+#~ msgid "<screeninfo><guilabel>Completion</guilabel> Dialog</screeninfo>"
+#~ msgstr "<screeninfo><guilabel> ការបញ្ចប់ </guilabel> ប្រអប់ </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase><guilabel>Completion</guilabel> Dialog</phrase>"
+#~ msgstr "<phrase><guilabel> ការបញ្ចប់ </guilabel> ប្រអប់ </phrase>"
+
+#~ msgid "Remove"
+#~ msgstr "លុប"
+
+#, fuzzy
+#~ msgid "Show words in tooltip"
+#~ msgstr "បង្ហាញពាក្យក្នុងព័ត៌មានជំនួយ"
+
+#, fuzzy
+#~ msgid "Make Default"
+#~ msgstr "ធ្វើឱ្យលំនាំដើម"
+
+#, fuzzy
+#~ msgid "The <guilabel>Configure &kpresenter;</guilabel> Dialog"
+#~ msgstr "នេះ <guilabel> កំណត់រចនាសម្ព័ន្ធ kpresenter; </guilabel> ប្រអប់"
+
+#~ msgid "Interface"
+#~ msgstr "ចំណុចប្រទាក់"
+
+#~ msgid "Show status bar"
+#~ msgstr "បង្ហាញរបារស្ថានភាព"
+
+#~ msgid "Number of recent files:"
+#~ msgstr "ចំនួនឯកសារថ្មីៗ៖"
+
+#, fuzzy
+#~ msgid "<guilabel>Color</guilabel>"
+#~ msgstr "<guilabel> ពណ៌ </guilabel>"
+
+#~ msgid "Background object color:"
+#~ msgstr "ពណ៌វត្ថុផ្ទៃខាងក្រោយ៖"
+
+#, fuzzy
+#~ msgid "<guilabel>Spelling</guilabel>"
+#~ msgstr "<guilabel> អក្ខរាវិរុទ្ធ </guilabel>"
+
+#, fuzzy
+#~ msgid "Default language:"
+#~ msgstr "ភាសាលំនាំដើម៖"
+
+#, fuzzy
+#~ msgid "Skip all uppercase words"
+#~ msgstr "រំលងពាក្យអក្សរធំទាំងអស់"
+
+#, fuzzy
+#~ msgid "Ignore These Words"
+#~ msgstr "មិនអើពើនឹងពាក្យទាំងនេះ"
+
+#~ msgid "Undo/Redo limit:"
+#~ msgstr "មិនធ្វើវិញ / កំណត់មិនធ្វើវិញ៖"
+
+#~ msgid "Display links"
+#~ msgstr "បង្ហាញតំណ"
+
+#~ msgid "Underline all links"
+#~ msgstr "គូសបញ្ជាក់តំណទាំងអស់"
+
+#~ msgid "Display comments"
+#~ msgstr "បង្ហាញមតិយោបល់"
+
+#~ msgid "Display field code"
+#~ msgstr "បង្ហាញលេខកូដវាល"
+
+#~ msgid "Print slide notes"
+#~ msgstr "បោះពុម្ពកំណត់ចំណាំស្លាយ"
+
+#~ msgid "Grid"
+#~ msgstr "ក្រឡាចត្រង្គ"
+
+#~ msgid "Document Defaults"
+#~ msgstr "លំនាំដើមឯកសារ"
+
+#~ msgid "Default font:"
+#~ msgstr "ពុម្ពអក្សរលំនាំដើម៖"
+
+#~ msgid "Global language:"
+#~ msgstr "ភាសាសកល៖"
+
+#~ msgid "Starting page number:"
+#~ msgstr "ចាប់ផ្តើមលេខទំព័រ៖"
+
+#, fuzzy
+#~ msgid "Tab stop:"
+#~ msgstr "ឈប់ថេប៖"
+
+#~ msgid "Cursor"
+#~ msgstr "ទស្សន៍ទ្រនិច"
+
+#~ msgid "Cursor in protected area"
+#~ msgstr "ទស្សន៍ទ្រនិចនៅក្នុងតំបន់ការពារ"
+
+#~ msgid "Direct insert cursor"
+#~ msgstr "ទស្សន៍ទ្រនិចបញ្ចូលដោយផ្ទាល់"
+
+#~ msgid "Tools"
+#~ msgstr "ឧបករណ៍"
+
+#, fuzzy
+#~ msgid "<screeninfo>The <guilabel>Outline</guilabel> tab</screeninfo>"
+#~ msgstr "<screeninfo> នេះ <guilabel> គ្រោង </guilabel> ផ្ទាំង </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>The <guilabel>Outline</guilabel> tab</phrase>"
+#~ msgstr "<phrase> នេះ <guilabel> គ្រោង </guilabel> ផ្ទាំង </phrase>"
+
+#, fuzzy
+#~ msgid "Color:"
+#~ msgstr "ពណ៌៖"
+
+#, fuzzy
+#~ msgid "<screeninfo>The <guilabel>Fill</guilabel> tab</screeninfo>"
+#~ msgstr "<screeninfo> នេះ <guilabel> បំពេញ </guilabel> ផ្ទាំង </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>The <guilabel>Fill</guilabel> tab</phrase>"
+#~ msgstr "<phrase> នេះ <guilabel> បំពេញ </guilabel> ផ្ទាំង </phrase>"
+
+#, fuzzy
+#~ msgid "<screeninfo>The <guilabel>Rectangle</guilabel> tab</screeninfo>"
+#~ msgstr "<screeninfo> នេះ <guilabel> ចតុកោណ </guilabel> ផ្ទាំង </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>The <guilabel>Rectangle</guilabel> tab</phrase>"
+#~ msgstr "<phrase> នេះ <guilabel> ចតុកោណ </guilabel> ផ្ទាំង </phrase>"
+
+#, fuzzy
+#~ msgid "<screeninfo>The <guilabel>Polygon</guilabel> tab</screeninfo>"
+#~ msgstr "<screeninfo> នេះ <guilabel> ពហុកោណ </guilabel> ផ្ទាំង </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>The <guilabel>Polygon</guilabel> tab</phrase>"
+#~ msgstr "<phrase> នេះ <guilabel> ពហុកោណ </guilabel> ផ្ទាំង </phrase>"
+
+#, fuzzy
+#~ msgid "<guilabel>Pie</guilabel>"
+#~ msgstr "<guilabel> ចំណិត </guilabel>"
+
+#, fuzzy
+#~ msgid "<phrase>The <guilabel>Pie</guilabel> tab</phrase>"
+#~ msgstr "<phrase> នេះ <guilabel> ចំណិត </guilabel> ផ្ទាំង </phrase>"
+
+#, fuzzy
+#~ msgid "<guilabel>Paths</guilabel>"
+#~ msgstr "<guilabel> ផ្លូវ </guilabel>"
+
+#, fuzzy
+#~ msgid "<phrase>Configure Completion... Dialog</phrase>"
+#~ msgstr "<phrase> កំណត់រចនាសម្ព័ន្ធការបញ្ចប់ ... ប្រអប់ </phrase>"
+
+#~ msgid "Resolution X (mm):"
+#~ msgstr "គុណភាពបង្ហាញ X (ម។ ម។ )៖"
+
+#~ msgid "Resolution Y (mm):"
+#~ msgstr "គុណភាពបង្ហាញ Y (មម)៖"
+
+#, fuzzy
+#~ msgid "<guilabel>Tools</guilabel>"
+#~ msgstr "<guilabel> ឧបករណ៍ </guilabel>"
+
+#~ msgid "FIXME: Does this set defaults, or do these change every time a tool setting is altered from anywhere in the app."
+#~ msgstr "FIXME: តើវាកំណត់លំនាំដើមឬផ្លាស់ប្តូររាល់ពេលដែលឧបករណ៍ត្រូវបានផ្លាស់ប្តូរពីគ្រប់ទីកន្លែងនៅក្នុងកម្មវិធី។"
+
+#~ msgid "Paragraph indent by toolbar buttons:"
+#~ msgstr "ចូលបន្ទាត់កថាខណ្ឌដោយប៊ូតុងរបារឧបករណ៍៖"
+
+#~ msgid "Spelling"
+#~ msgstr "អក្ខរាវិរុទ្ធ"
+
+#~ msgid "General Tab"
+#~ msgstr "ផ្ទាំងទូទៅ"
+
+#~ msgid "Create root/affix combinations not in dictionary"
+#~ msgstr "បង្កើតបន្សំជា root / affix មិនមាននៅក្នុងវចនានុក្រម"
+
+#~ msgid "Consider run-together words as spelling errors"
+#~ msgstr "ពិចារណាពាក្យដែលរត់ជាមួយគ្នាជាកំហុសអក្ខរាវិរុទ្ធ"
+
+#~ msgid "Dictionary:"
+#~ msgstr "វចនានុក្រម៖"
+
+#~ msgid "Encoding"
+#~ msgstr "ការអ៊ិនកូដ"
+
+#~ msgid "Client"
+#~ msgstr "អតិថិជន"
+
+#~ msgid "Ignore case when checking words"
+#~ msgstr "មិនអើពើករណីនៅពេលពិនិត្យមើលពាក្យ"
+
+#~ msgid "Ignore accents when checking words"
+#~ msgstr "មិនអើពើការសង្កត់សំឡេងនៅពេលពិនិត្យមើលពាក្យ"
+
+#~ msgid "Check words with numbers"
+#~ msgstr "ពិនិត្យពាក្យដែលមានលេខ"
+
+#~ msgid "<guilabel>IgnoreAll</guilabel> Tab"
+#~ msgstr "<guilabel> IgnoreAll </guilabel> ផ្ទាំង"
+
+#~ msgid "Word"
+#~ msgstr "ពាក្យ"
+
+#~ msgid "Clear Ignore All Word History"
+#~ msgstr "ជម្រះមិនអើពើប្រវត្តិពាក្យទាំងអស់"
+
+#~ msgid "<guilabel>Dictionary</guilabel> Tab"
+#~ msgstr "<guilabel> វចនានុក្រម </guilabel> ផ្ទាំង"
+
+#~ msgid "Clear Dictionary"
+#~ msgstr "សម្អាតវចនានុក្រម"
+
+#~ msgid "Misc"
+#~ msgstr "ផ្សេងៗ"
+
+#~ msgid "Document"
+#~ msgstr "ឯកសារ"
+
+#~ msgid "Paths"
+#~ msgstr "ផ្លូវ"
+
+#~ msgid "&kpresenter; Options"
+#~ msgstr "kp អ្នកបង្ហាញ; ជម្រើស"
+
+#~ msgid "This chapter should describe the options that are available for customizing &kpresenter;."
+#~ msgstr "ជំពូកនេះគួរតែពិពណ៌នាអំពីជំរើសដែលមានសម្រាប់ការប្តូរឈ្មោះអ្នកចូលរួម។"

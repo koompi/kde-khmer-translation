@@ -1,0 +1,1661 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-09 18:54+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. Tag: author
+#: menus.docbook:11
+#, no-c-format
+msgid "<firstname>Neil</firstname> <surname>Lucock</surname>"
+msgstr "<firstname>Neil</firstname> <surname>Lucock</surname>"
+
+#. Tag: email
+#: menus.docbook:15
+#, no-c-format
+msgid "neil@nlucock.freeserve.co.uk"
+msgstr "neil@nlucock.freeserve.co.uk"
+
+#. Tag: author
+#: menus.docbook:18
+#, no-c-format
+msgid "<firstname>Krishna</firstname> <surname>Tateneni</surname>"
+msgstr "<firstname>Krishna</firstname> <surname>Tateneni</surname>"
+
+#. Tag: email
+#: menus.docbook:22
+#, no-c-format
+msgid "tateneni@pluto.njcc.com"
+msgstr "tateneni@pluto.njcc.com"
+
+#. Tag: author
+#: menus.docbook:25
+#, no-c-format
+msgid "<firstname>Anne-Marie</firstname> <surname>Mahfouf</surname>"
+msgstr "<firstname>Anne-Marie</firstname> <surname>Mahfouf</surname>"
+
+#. Tag: email
+#: menus.docbook:29
+#, no-c-format
+msgid "annemarie.mahfouf@free.fr"
+msgstr "annemarie.mahfouf@free.fr"
+
+#. Tag: trans_comment
+#: menus.docbook:32
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr "ROLES_OF_TRANSLATORS"
+
+#. Tag: title
+#: menus.docbook:35
+#, no-c-format
+msgid "The Menu and Toolbar Items"
+msgstr "ធាតុម៉ឺនុយនិងរបារឧបករណ៍"
+
+#. Tag: para
+#: menus.docbook:37
+#, no-c-format
+msgid "&stage; presents different types of interfaces for you to interact with the program. Perhaps the most familiar type of interface is the menu which appears on the top of the &stage; window."
+msgstr "ឆាក; បង្ហាញនូវចំណុចប្រទាក់ផ្សេងៗគ្នាសម្រាប់អ្នកដើម្បីធ្វើអន្តរកម្មជាមួយកម្មវិធី។ ប្រហែលជាប្រភេទនៃចំណុចប្រទាក់ដែលធ្លាប់ស្គាល់បំផុតគឺម៉ឺនុយដែលលេចឡើងនៅលើកំពូលនៃឆាក; ផ្ទាំងកម្មវិធី"
+
+#. Tag: para
+#: menus.docbook:41
+#, no-c-format
+msgid "Clicking on the menu items gives you a list of commands from which you can choose the one you want. Many of the commands can also be accessed directly by holding down &Ctrl; or &Alt; and pressing another key on your keyboard. In the next section, each of the menu commands is described in brief."
+msgstr "ចុចលើធាតុម៉ឺនុយផ្តល់ឱ្យអ្នកនូវបញ្ជីពាក្យបញ្ជាដែលអ្នកអាចជ្រើសរើសមួយដែលអ្នកចង់បាន។ ពាក្យបញ្ជាជាច្រើនក៏អាចចូលប្រើដោយផ្ទាល់ផងដែរដោយចុចបញ្ជា (Ctrl) ។ ឬជំនួស; ហើយចុចគ្រាប់ចុចផ្សេងទៀតនៅលើក្តារចុចរបស់អ្នក។ នៅក្នុងផ្នែកបន្ទាប់ពាក្យបញ្ជាម៉ឺនុយនីមួយៗត្រូវបានពិពណ៌នាដោយសង្ខេប។"
+
+#. Tag: title
+#: menus.docbook:48
+#, no-c-format
+msgid "The Toolbars"
+msgstr "របារឧបករណ៍"
+
+#. Tag: title
+#: menus.docbook:51
+#, no-c-format
+msgid "Manipulating the Toolbars"
+msgstr "រៀបចំរបារឧបករណ៍"
+
+#. Tag: para
+#: menus.docbook:53
+#, no-c-format
+msgid "In addition to the menus, &stage; also has a toolbar. The toolbar consists of a collection of icons. A toolbar icon often presents a convenient shortcut to a command that is found in one of the menus."
+msgstr "បន្ថែមលើម៉ឺនុយ, ឆាក; ក៏មានរបាឧបករណ៍ផងដែរ។ របារឧបករណ៍មានបណ្តុំរូបតំណាង។ រូបតំណាងរបារឧបករណ៍ជារឿយៗបង្ហាញផ្លូវកាត់ងាយស្រួលដល់ពាក្យបញ្ជាដែលមាននៅក្នុងមឺនុយមួយ។"
+
+#. Tag: para
+#: menus.docbook:57
+#, no-c-format
+msgid "You can move the unlocked toolbar around by dragging the handle at the left. The unlocked toolbar can be <quote>docked</quote> or attached to any side of the &stage; window. If you like, you can also have the toolbar <quote>float</quote> in its own window, separated from the main &stage; window."
+msgstr "អ្នកអាចផ្លាស់ទីរបារឧបករណ៍ដោះសោជុំវិញដោយអូសចំណុចទាញនៅខាងឆ្វេង។ របារឧបករណ៍ដោះសោអាចមាន <quote> ចត </quote> ឬភ្ជាប់ទៅផ្នែកណាមួយនៃឆាក ផ្ទាំងកម្មវិធី ប្រសិនបើអ្នកចូលចិត្តអ្នកក៏អាចមានរបារឧបករណ៍ដែរ <quote> អណ្តែត </quote> នៅក្នុងផ្ទាំងកម្មវិធីផ្ទាល់ខ្លួនរបស់វា, បំបែកពីដំណាក់កាលសំខាន់; ផ្ទាំងកម្មវិធី"
+
+#. Tag: para
+#: menus.docbook:62
+#, no-c-format
+msgid "If you don't like dragging toolbars around, <mousebutton>right</mousebutton> click on the handle and a menu pops up."
+msgstr "ប្រសិនបើអ្នកមិនចូលចិត្តអូសរបារឧបករណ៍នៅជុំវិញ, <mousebutton> ត្រឹមត្រូវ </mousebutton> ចុចលើចំណុចទាញហើយម៉ឺនុយនឹងលេចចេញមក។"
+
+#. Tag: para
+#: menus.docbook:66
+#, no-c-format
+msgid "Choosing the item <guisubmenu>Text Position</guisubmenu> leads to an additional menu which lets you control the appearance of the items in toolbar. This additional cascading menu is shown in the screenshot below:"
+msgstr "ការជ្រើសរើសធាផ្ទៃ Desktop<guisubmenu> ទីតាំងអត្ថបទ </guisubmenu> នាំឱ្យមានម៉ឺនុយបន្ថែមដែលអនុញ្ញាតឱ្យអ្នកត្រួតពិនិត្យរូបរាងនៃធាតុនៅក្នុងរបាឧបករណ៍។ ម៉ឺនុយល្បាក់បន្ថែមនេះត្រូវបានបង្ហាញនៅក្នុងរូបថតអេក្រង់ខាងក្រោម៖"
+
+#. Tag: screeninfo
+#: menus.docbook:74
+#, no-c-format
+msgid "<screeninfo>Text Position</screeninfo>"
+msgstr "<screeninfo> ទីតាំងអត្ថបទ </screeninfo>"
+
+#. Tag: phrase
+#: menus.docbook:80
+#, no-c-format
+msgid "<phrase>Text Position</phrase>"
+msgstr "<phrase> ទីតាំងអត្ថបទ </phrase>"
+
+#. Tag: para
+#: menus.docbook:85
+#, no-c-format
+msgid "You can choose to display the toolbar items as text instead of icons, or even to combine both icons and text. If you want both text and icons, the cascading menu allows you to select whether the text appears beside the icons or below them."
+msgstr "អ្នកអាចជ្រើសរើសបង្ហាញធាតុរបារឧបករណ៍ជាអត្ថបទជំនួសឱ្យរូបតំណាងឬបញ្ចូលទាំងរូបតំណាងនិងអត្ថបទ។ ប្រសិនបើអ្នកចង់បានទាំងអត្ថបទនិងរូបតំណាងម៉ឺនុយល្បាក់អនុញ្ញាតឱ្យអ្នកជ្រើសរើសថាតើអត្ថបទលេចឡើងនៅក្បែររូបតំណាងឬនៅពីក្រោមពួកវា។"
+
+#. Tag: para
+#: menus.docbook:92
+#, no-c-format
+msgid "In icons only view, if you don't know what a particular icon means, you can hold the mouse over the icon, and after a second or so, a little hint pops up in a highlighted text box."
+msgstr "ក្នុងរូបតំណាងបានត្រឹមតែមើលប្រសិនបើអ្នកមិនដឹងថារូបតំណាងជាក់លាក់មួយមានន័យយ៉ាងដូចម្តេចទេអ្នកអាចសង្កត់កណ្តុរលើរូបតំណាងហើយបន្ទាប់ពីមួយវិនាទីក្រោយមកគន្លឹះតូចមួយលេចឡើងនៅក្នុងប្រអប់អត្ថបទដែលបានបន្លិច។"
+
+#. Tag: para
+#: menus.docbook:99
+#, no-c-format
+msgid "The <guilabel>Orientation</guilabel> item in the popup menu has to do with the placement of the toolbar. You can choose any of the four sides of the &stage; window."
+msgstr "នេះ <guilabel> ការតំរង់ទិស </guilabel> ធាតុនៅក្នុងម៉ឺនុយលេចឡើងត្រូវធ្វើជាមួយការដាក់របារឧបករណ៍។ អ្នកអាចជ្រើសរើសផ្នែកណាមួយនៃផ្នែកទាំងបួននៃឆាក។ ផ្ទាំងកម្មវិធី"
+
+#. Tag: para
+#: menus.docbook:106
+#, no-c-format
+msgid "The &stage; menus are discussed in the following sections."
+msgstr "ដំណាក់កាល; ម៉ឺនុយត្រូវបានពិភាក្សានៅក្នុងផ្នែកដូចខាងក្រោម។"
+
+#. Tag: title
+#: menus.docbook:114
+#, no-c-format
+msgid "File Menu"
+msgstr "ម៉ឺនុយឯកសារ"
+
+#. Tag: menuchoice
+#: menus.docbook:119
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>N</keycap></keycombo> </shortcut> <guimenu>File</guimenu> <guimenuitem>New</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> អិន </keycap></keycombo></shortcut><guimenu> ឯកសារ </guimenu><guimenuitem> ថ្មី </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:128
+#, no-c-format
+msgid "<action>Begins a new presentation.</action> The startup dialog will open, allowing you to choose a template for your presentation."
+msgstr "<action> ចាប់ផ្តើមបទបង្ហាញថ្មី។ </action> ប្រអប់ចាប់ផ្តើមនឹងបើកដែលអនុញ្ញាតឱ្យអ្នកជ្រើសរើសគំរូសម្រាប់បទបង្ហាញរបស់អ្នក។"
+
+#. Tag: menuchoice
+#: menus.docbook:137
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>O</keycap></keycombo> </shortcut> <guimenu>File</guimenu> <guimenuitem>Open...</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> ឱ </keycap></keycombo></shortcut><guimenu> ឯកសារ </guimenu><guimenuitem> បើក ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:145
+#, no-c-format
+msgid "<action>Opens an existing presentation.</action> A standard &kde; file open dialog will appear, allowing you to choose a file to open."
+msgstr "<action> បើកបទបង្ហាញដែលមានស្រាប់។ </action> KDE ស្តង់ដារមួយ; ប្រអប់បើកឯកសារនឹងលេចឡើងដែលអនុញ្ញាត ឲ្យ អ្នកជ្រើសឯកសារបើក។"
+
+#. Tag: menuchoice
+#: menus.docbook:154
+#, no-c-format
+msgid "<guimenu>File</guimenu> <guisubmenu>Open Recent</guisubmenu>"
+msgstr "<guimenu> ឯកសារ </guimenu><guisubmenu> បើកថ្មីៗ </guisubmenu>"
+
+#. Tag: action
+#: menus.docbook:161
+#, no-c-format
+msgid "Displays a list of recently opened files for you to choose from."
+msgstr "បង្ហាញបញ្ជីឯកសារដែលទើបនឹងបើកឱ្យអ្នកជ្រើសរើស។"
+
+#. Tag: menuchoice
+#: menus.docbook:169
+#, no-c-format
+msgid "<shortcut><keycombo action=\"simul\"> &Ctrl;<keycap>S</keycap> </keycombo></shortcut> <guimenu>File</guimenu> <guimenuitem>Save</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> ស </keycap></keycombo></shortcut><guimenu> ឯកសារ </guimenu><guimenuitem> រក្សាទុក </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:178
+#, no-c-format
+msgid "<action>Saves the currently open presentation.</action> If you have not previously saved it, you will be asked to name the file. If you have previously saved the presentation, it will be resaved with the same name."
+msgstr "<action> រក្សាទុកបទបង្ហាញបើកបច្ចុប្បន្ន។ </action> ប្រសិនបើអ្នកមិនបានរក្សាទុកវាពីមុនទេអ្នកនឹងត្រូវបានស្នើសុំឱ្យដាក់ឈ្មោះឯកសារ។ ប្រសិនបើអ្នកបានរក្សាទុកបទបង្ហាញពីមុនវានឹងត្រូវបានរក្សាទុកជាមួយឈ្មោះដដែល។"
+
+#. Tag: menuchoice
+#: menus.docbook:188
+#, no-c-format
+msgid "<guimenu>File</guimenu> <guimenuitem>Save As...</guimenuitem>"
+msgstr "<guimenu> ឯកសារ </guimenu><guimenuitem> រក្សាទុក​ជា... </guimenuitem>"
+
+#. Tag: action
+#: menus.docbook:195
+#, no-c-format
+msgid "Saves the currently open presentation with a new name."
+msgstr "រក្សាទុកបទបង្ហាញបើកថ្មីដែលមានឈ្មោះថ្មី។"
+
+#. Tag: menuchoice
+#: menus.docbook:202
+#, no-c-format
+msgid "<guimenu>File</guimenu> <guimenuitem>Reload</guimenuitem>"
+msgstr "<guimenu> ឯកសារ </guimenu><guimenuitem> ផ្ទុកឡើងវិញ </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:208
+#, no-c-format
+msgid "Reload the currently active file."
+msgstr "ផ្ទុកឯកសារសកម្មបច្ចុប្បន្នឡើងវិញ។"
+
+#. Tag: menuchoice
+#: menus.docbook:217
+#, no-c-format
+msgid "<guimenu>File</guimenu> <guimenuitem>Import...</guimenuitem>"
+msgstr "<guimenu> ឯកសារ </guimenu><guimenuitem> នាំចូល ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:223
+#, no-c-format
+msgid "Import a presentation that was previously created in one of several common formats."
+msgstr "នាំចូលបទបង្ហាញដែលត្រូវបានបង្កើតពីមុនក្នុងទម្រង់មួយក្នុងចំណោមទម្រង់ទូទៅជាច្រើន។"
+
+#. Tag: menuchoice
+#: menus.docbook:230
+#, no-c-format
+msgid "<guimenu>File</guimenu> <guimenuitem>Export...</guimenuitem>"
+msgstr "<guimenu> ឯកសារ </guimenu><guimenuitem> នាំចេញ ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:236
+#, no-c-format
+msgid "Export the currently open presentation to one of several common formats for use in another application, or for exchange with someone who does not have access to &stage;."
+msgstr "នាំចេញបទបង្ហាញដែលបើកចំហរជាទម្រង់សាមញ្ញមួយក្នុងចំណោមទំរង់ទូទៅជាច្រើនសំរាប់ប្រើក្នុងកម្មវិធីមួយផ្សេងទៀតរឺសំរាប់ផ្លាស់ប្តូរជាមួយអ្នកដែលមិនមានលទ្ធភាពចូលឆាក។"
+
+#. Tag: menuchoice
+#: menus.docbook:244
+#, no-c-format
+msgid "<guimenu>File</guimenu> <guimenuitem>Mail...</guimenuitem>"
+msgstr "<guimenu> ឯកសារ </guimenu><guimenuitem> អ៊ីមែល ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:250
+#, no-c-format
+msgid "<action>Open</action> a new email message in your selected email client with the current &stage; document attached."
+msgstr "<action> បើក </action> សារអ៊ីមែលថ្មីនៅក្នុងកម្មវិធីអ៊ីមែលដែលអ្នកបានជ្រើសរើសជាមួយនឹងដំណាក់កាលបច្ចុប្បន្ន។ ឯកសារភ្ជាប់"
+
+#. Tag: menuchoice
+#: menus.docbook:257
+#, no-c-format
+msgid "<guimenu>File</guimenu> <guimenuitem>Export as HTML...</guimenuitem>"
+msgstr "<guimenu> ឯកសារ </guimenu><guimenuitem> នាំចេញជា HTML ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:263
+#, no-c-format
+msgid "<action>Starts the HTML wizard</action>, which is described in the section <xref linkend=\"html-wizard\"/>."
+msgstr "<action> ចាប់ផ្តើមអ្នកជំនួយការ HTML </action> ដែលត្រូវបានពិពណ៌នានៅក្នុងផ្នែក <xref linkend=\"html-wizard\"/>"
+
+#. Tag: menuchoice
+#: menus.docbook:302
+#, no-c-format
+msgid "<shortcut><keycombo action=\"simul\">&Ctrl;<keycap>P</keycap></keycombo></shortcut> <guimenu>File</guimenu> <guimenuitem>Print...</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> ទំ </keycap></keycombo></shortcut><guimenu> ឯកសារ </guimenu><guimenuitem> បោះពុម្ព ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:309
+#, no-c-format
+msgid "<action>Prints the presentation</action>. More precisely, it opens the print settings dialog, where you can adjust the settings before printing your presentation."
+msgstr "<action> បោះពុម្ពបទបង្ហាញ </action> ។ ច្បាស់ជាងនេះទៅទៀតវាបើកប្រអប់កំណត់ការបោះពុម្ពដែលអ្នកអាចកែសម្រួលការកំណត់មុនពេលបោះពុម្ពបទបង្ហាញរបស់អ្នក។"
+
+#. Tag: menuchoice
+#: menus.docbook:317
+#, no-c-format
+msgid "<guimenu>File</guimenu> <guimenuitem>Print Preview...</guimenuitem>"
+msgstr "<guimenu> ឯកសារ </guimenu><guimenuitem> មើលការបោះពុម្ព ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:323
+#, no-c-format
+msgid "<action>Displays the presentation</action> with a viewer, exactly as it would look if printed."
+msgstr "<action> បង្ហាញបទបង្ហាញ </action> ជាមួយនឹងអ្នកមើលពិតប្រាកដដូចដែលវានឹងមើលទៅប្រសិនបើបានបោះពុម្ព។"
+
+#. Tag: menuchoice
+#: menus.docbook:332
+#, no-c-format
+msgid "<guimenu>File</guimenu> <guimenuitem>Document Information</guimenuitem>"
+msgstr "<guimenu> ឯកសារ </guimenu><guimenuitem> ព័ត៌មានឯកសារ </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:338
+#, no-c-format
+msgid "<action>Allows you to enter information about the document.</action> This includes information about the author, and an abstract on the documents contents."
+msgstr "<action> អនុញ្ញាតឱ្យអ្នកបញ្ចូលព័ត៌មានអំពីឯកសារ។ </action> នេះរួមបញ្ចូលទាំងព័ត៌មានអំពីអ្នកនិពន្ធនិងការអរូបីលើមាតិកាឯកសារ។"
+
+#. Tag: menuchoice
+#: menus.docbook:346
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>W</keycap></keycombo></shortcut> <guimenu>File</guimenu> <guimenuitem>Close</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> វ </keycap></keycombo></shortcut><guimenu> ឯកសារ </guimenu><guimenuitem> បិទ </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:354
+#, no-c-format
+msgid "<action>Close the current presentation.</action> You will be given an opportunity to save any changes first."
+msgstr "<action> បិទបទបង្ហាញបច្ចុប្បន្ន។ </action> អ្នកនឹងត្រូវបានផ្តល់ឱកាសដើម្បីរក្សាទុកការផ្លាស់ប្តូរណាមួយជាមុន។"
+
+#. Tag: menuchoice
+#: menus.docbook:361
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>Q</keycap></keycombo></shortcut> <guimenu>File</guimenu> <guimenuitem>Quit</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> សំណួរ </keycap></keycombo></shortcut><guimenu> ឯកសារ </guimenu><guimenuitem> ឈប់ </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:369
+#, no-c-format
+msgid "<action>Close</action> &stage;. You will be given an opportunity to save all changes in all open presentations first."
+msgstr "<action> បិទ </action> ដំណាក់កាល; ។ អ្នកនឹងត្រូវបានផ្តល់ឱកាសដើម្បីរក្សាទុកការផ្លាស់ប្តូរទាំងអស់នៅក្នុងបទបង្ហាញបើកចំហទាំងអស់ជាមុន។"
+
+#. Tag: title
+#: menus.docbook:378
+#, no-c-format
+msgid "Edit Menu"
+msgstr "កែសម្រួលម៉ឺនុយ"
+
+#. Tag: menuchoice
+#: menus.docbook:384
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>Z</keycap></keycombo></shortcut> <guimenu>Edit</guimenu> <guimenuitem>Undo: <replaceable>Last task</replaceable></guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> Z </keycap></keycombo></shortcut><guimenu> កែសម្រួល </guimenu><guimenuitem> មិនធ្វើវិញ៖ <replaceable> កិច្ចការចុងក្រោយ </replaceable></guimenuitem>"
+
+#. Tag: action
+#: menus.docbook:392
+#, no-c-format
+msgid "Undo the last action you performed."
+msgstr "មិនធ្វើសកម្មភាពចុងក្រោយដែលអ្នកបានធ្វើ។"
+
+#. Tag: menuchoice
+#: menus.docbook:398
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;&Shift;<keycap>Z</keycap></keycombo> </shortcut> <guimenu>Edit</guimenu> <guimenuitem>Redo: <replaceable>Last undone task</replaceable></guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) ប្ដូរ; <keycap> Z </keycap></keycombo></shortcut><guimenu> កែសម្រួល </guimenu><guimenuitem> ធ្វើវិញ៖ <replaceable> កិច្ចការដែលមិនធ្វើវិញចុងក្រោយ </replaceable></guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:407
+#, no-c-format
+msgid "<action>Redo the last action you undid.</action> If you have not undone any actions, or the last undo action is not reversible, this menu item is disabled."
+msgstr "<action> ធ្វើសកម្មភាពចុងក្រោយដែលអ្នកមិនធ្វើ។ </action> ប្រសិនបើអ្នកមិនធ្វើវិញសកម្មភាពណាមួយឬសកម្មភាពមិនធ្វើវិញចុងក្រោយមិនអាចត្រឡប់វិញបានទេធាតុម៉ឺនុយនេះត្រូវបានបិទ។"
+
+#. Tag: menuchoice
+#: menus.docbook:415
+#, no-c-format
+msgid "<shortcut><keycombo action=\"simul\">&Ctrl;<keycap>X</keycap></keycombo></shortcut> <guimenu>Edit</guimenu> <guimenuitem>Cut</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> X </keycap></keycombo></shortcut><guimenu> កែសម្រួល </guimenu><guimenuitem> កាត់ </guimenuitem>"
+
+#. Tag: action
+#: menus.docbook:423
+#, no-c-format
+msgid "Copy the selected item to the clipboard, and remove it from the document."
+msgstr "ចម្លងធាតុដែលបានជ្រើសរើសទៅក្តារតម្បៀតខ្ទាស់ហើយយកវាចេញពីឯកសារ។"
+
+#. Tag: menuchoice
+#: menus.docbook:430
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>C</keycap></keycombo></shortcut> <guimenu>Edit</guimenu> <guimenuitem>Copy</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> គ </keycap></keycombo></shortcut><guimenu> កែសម្រួល </guimenu><guimenuitem> ចម្លង </guimenuitem>"
+
+#. Tag: action
+#: menus.docbook:438
+#, no-c-format
+msgid "Copy the selected item to the clipboard, while leaving it intact in your presentation."
+msgstr "ចម្លងធាតុដែលបានជ្រើសរើសទៅក្តារតម្បៀតខ្ទាស់ខណៈពេលដែលទុកវានៅដដែលនៅក្នុងបទបង្ហាញរបស់អ្នក។"
+
+#. Tag: menuchoice
+#: menus.docbook:445
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>V</keycap></keycombo></shortcut> <guimenu>Edit</guimenu> <guimenuitem>Paste</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> វី </keycap></keycombo></shortcut><guimenu> កែសម្រួល </guimenu><guimenuitem> បិទភ្ជាប់ </guimenuitem>"
+
+#. Tag: action
+#: menus.docbook:453
+#, no-c-format
+msgid "Insert the contents of the clipboard into your presentation."
+msgstr "បញ្ចូលមាតិកាក្តារតម្បៀតខ្ទាស់ទៅក្នុងបទបង្ហាញរបស់អ្នក។"
+
+#. Tag: menuchoice
+#: menus.docbook:460
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>Del</keycap></keycombo></shortcut> <guimenu>Edit</guimenu> <guimenuitem>Delete</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> ដេល </keycap></keycombo></shortcut><guimenu> កែសម្រួល </guimenu><guimenuitem> លុប </guimenuitem>"
+
+#. Tag: action
+#: menus.docbook:468
+#, no-c-format
+msgid "Remove the currently selected item from your presentation."
+msgstr "យកធាតុដែលបានជ្រើសចេញពីបទបង្ហាញរបស់អ្នក។"
+
+#. Tag: menuchoice
+#: menus.docbook:475
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>A</keycap></keycombo></shortcut> <guimenu>Edit</guimenu> <guimenuitem>Select All</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> ក </keycap></keycombo></shortcut><guimenu> កែសម្រួល </guimenu><guimenuitem> ជ្រើស​យក​ទាំងអស់ </guimenuitem>"
+
+#. Tag: action
+#: menus.docbook:483
+#, no-c-format
+msgid "Select all the objects and text on the current slide."
+msgstr "ជ្រើសវត្ថុនិងអត្ថបទទាំងអស់នៅលើស្លាយបច្ចុប្បន្ន។"
+
+#. Tag: menuchoice
+#: menus.docbook:490
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;&Shift;<keycap>A</keycap></keycombo> </shortcut> <guimenu>Edit</guimenu> <guimenuitem>Deselect</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) ប្ដូរ; <keycap> ក </keycap></keycombo></shortcut><guimenu> កែសម្រួល </guimenu><guimenuitem> ដោះការជ្រើសរើស </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:499
+#, no-c-format
+msgid "Deselect any currently selected objects."
+msgstr "មិនជ្រើសវត្ថុដែលបានជ្រើសបច្ចុប្បន្ន។"
+
+#. Tag: menuchoice
+#: menus.docbook:505
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>F</keycap></keycombo></shortcut> <guimenu>Edit</guimenu> <guimenuitem>Find...</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> ច </keycap></keycombo></shortcut><guimenu> កែសម្រួល </guimenu><guimenuitem> ស្វែងរក ... </guimenuitem>"
+
+#. Tag: action
+#: menus.docbook:514
+#, no-c-format
+msgid "Search for text within the presentation."
+msgstr "ស្វែងរកអត្ថបទនៅក្នុងបទបង្ហាញ។"
+
+#. Tag: menuchoice
+#: menus.docbook:521
+#, no-c-format
+msgid "<shortcut> <keycap>F3</keycap> </shortcut> <guimenu>Edit</guimenu><guimenuitem>Find Next</guimenuitem>"
+msgstr "<shortcut><keycap> F3 </keycap></shortcut><guimenu> កែសម្រួល </guimenu><guimenuitem> រកបន្ទាប់ </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:529
+#, no-c-format
+msgid "Find the next occurrence of a piece of text within a presentation."
+msgstr "ស្វែងរកការកើតឡើងនៃអត្ថបទបន្ទាប់នៅក្នុងបទបង្ហាញ។"
+
+#. Tag: menuchoice
+#: menus.docbook:535
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Shift;<keycap>F3</keycap></keycombo> </shortcut> <guimenu>Edit</guimenu><guimenuitem>Find Previous</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> ការផ្លាស់ប្តូរ; <keycap> F3 </keycap></keycombo></shortcut><guimenu> កែសម្រួល </guimenu><guimenuitem> ស្វែងរកមុន </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:543
+#, no-c-format
+msgid "Find the previous occurrence of a piece of text within a presentation."
+msgstr "ស្វែងរកការកើតឡើងនៃអត្ថបទពីមុននៅក្នុងបទបង្ហាញ។"
+
+#. Tag: menuchoice
+#: menus.docbook:550
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>R</keycap></keycombo> </shortcut> <guimenu>Edit</guimenu><guimenuitem>Replace...</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> R </keycap></keycombo></shortcut><guimenu> កែសម្រួល </guimenu><guimenuitem> ជំនួស ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:558
+#, no-c-format
+msgid "Replace one or more occurrences of a piece of text in your presentation with a different piece of text."
+msgstr "ជំនួសការកើតឡើងនៃអត្ថបទមួយឬច្រើននៅក្នុងបទបង្ហាញរបស់អ្នកជាមួយនឹងបំណែកនៃអត្ថបទខុសគ្នា។"
+
+#. Tag: title
+#: menus.docbook:598
+#, no-c-format
+msgid "View Menu"
+msgstr "មើលម៉ឺនុយ"
+
+#. Tag: menuchoice
+#: menus.docbook:604
+#, no-c-format
+msgid "<guimenu>View</guimenu> <guimenuitem>New View</guimenuitem>"
+msgstr "<guimenu> មើល </guimenu><guimenuitem> ទិដ្ឋភាពថ្មី </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:609
+#, no-c-format
+msgid "<action>Opens another window with the same presentation loaded</action> so you can work on more than one slide at a time."
+msgstr "<action> បើកផ្ទាំងកម្មវិធីផ្សេងទៀតដែលមានផ្ទុកបទបង្ហាញដូចគ្នា </action> ដូច្នេះអ្នកអាចធ្វើការលើស្លាយច្រើនជាងមួយក្នុងពេលតែមួយ។"
+
+#. Tag: term
+#: menus.docbook:684
+#, no-c-format
+msgid "<menuchoice> <shortcut><keycombo action=\"simul\">&Ctrl;<keycap>F5</keycap></keycombo></shortcut> <guimenu>View</guimenu> <guimenuitem>Normal</guimenuitem> </menuchoice> <menuchoice> <shortcut><keycombo action=\"simul\">&Ctrl;<keycap>F6</keycap></keycombo></shortcut> <guimenu>View</guimenu> <guimenuitem>Notes</guimenuitem> </menuchoice> <menuchoice> <shortcut><keycombo action=\"simul\">&Ctrl;<keycap>F7</keycap></keycombo></shortcut> <guimenu>View</guimenu> <guimenuitem>Slides Sorter</guimenuitem> </menuchoice>"
+msgstr "<menuchoice><shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> F5 </keycap></keycombo></shortcut><guimenu> មើល </guimenu><guimenuitem> ធម្មតា </guimenuitem></menuchoice><menuchoice><shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> F6 </keycap></keycombo></shortcut><guimenu> មើល </guimenu><guimenuitem> កំណត់ចំណាំ </guimenuitem></menuchoice><menuchoice><shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> F7 </keycap></keycombo></shortcut><guimenu> មើល </guimenu><guimenuitem> ឧបករណ៍តម្រៀបស្លាយ </guimenuitem></menuchoice>"
+
+#. Tag: para
+#: menus.docbook:702
+#, no-c-format
+msgid "Switch with these actions between the view modes Normal, where you edit slides, Notes, which shows a slide preview with a textbox for your annotations for the actual slide and the Slides Sorter view, where you can rename, cut, copy and paste slides and arrange them for your presentation."
+msgstr "ផ្លាស់ប្តូរជាមួយសកម្មភាពទាំងនេះរវាងទម្រង់ទិដ្ឋភាពធម្មតាដែលអ្នកកែសម្រួលស្លាយចំណាំដែលបង្ហាញការមើលស្លាយជាមុនជាមួយប្រអប់អត្ថបទសម្រាប់ចំណារពន្យល់របស់អ្នកសម្រាប់ស្លាយពិតនិងទិដ្ឋភាពស្លាយ Sorter ដែលអ្នកអាចប្តូរឈ្មោះកាត់ចម្លងនិងបិទភ្ជាប់ស្លាយនិង រៀបចំឱ្យពួកគេសម្រាប់បទបង្ហាញរបស់អ្នក។"
+
+#. Tag: menuchoice
+#: menus.docbook:711
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>F8</keycap></keycombo></shortcut> <guimenu>View</guimenu> <guimenuitem>Show Master Slides</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> F8 </keycap></keycombo></shortcut><guimenu> មើល </guimenu><guimenuitem> បង្ហាញស្លាយមេ </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:719
+#, no-c-format
+msgid "<action>Toggle the display of the slide master</action> where you can put objects that you want to appear on each slide in your presentation."
+msgstr "<action> បិទបើកការបង្ហាញរបស់មេស្លាយ </action> កន្លែងដែលអ្នកអាចដាក់វត្ថុដែលអ្នកចង់បង្ហាញនៅលើស្លាយនីមួយៗក្នុងបទបង្ហាញរបស់អ្នក។"
+
+#. Tag: menuchoice
+#: menus.docbook:745
+#, no-c-format
+msgid "<guimenu>View</guimenu> <guimenuitem>Show Grid</guimenuitem>"
+msgstr "<guimenu> មើល </guimenu><guimenuitem> បង្ហាញក្រឡាចត្រង្គ </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:751
+#, no-c-format
+msgid "If enabled, &stage; will display a grid of dots representing the intersections of imaginary horizontal and vertical lines. You can use these dots to precisely position objects on the slide."
+msgstr "ប្រសិនបើបានបើកដំណើរការ; នឹងបង្ហាញក្រឡាចត្រង្គនៃចំនុចតំណាងអោយចំនុចប្រសព្វនៃបន្ទាត់ផ្តេកនិងបញ្ឈរ។ អ្នកអាចប្រើចំណុចទាំងនេះដើម្បីកំណត់ទីតាំងវត្ថុនៅលើស្លាយ។"
+
+#. Tag: menuchoice
+#: menus.docbook:759
+#, no-c-format
+msgid "<guimenu>View</guimenu><guimenuitem> Snap to Grid</guimenuitem>"
+msgstr "<guimenu> មើល </guimenu><guimenuitem> ខ្ទាស់ទៅក្រឡាចត្រង្គ </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:762
+#, no-c-format
+msgid "If this is enabled, when dropping or moving objects on the slide the top left corner of the object will <quote>snap</quote> or move, to the nearest grid point."
+msgstr "ប្រសិនបើបើកដំណើរការនៅពេលទម្លាក់ឬផ្លាស់ទីវត្ថុលើស្លាយជ្រុងខាងឆ្វេងខាងលើនៃវត្ថុនឹង <quote> ខ្ទាស់ </quote> ឬផ្លាស់ទីទៅចំណុចក្រឡាចត្រង្គដែលនៅជិតបំផុត។"
+
+#. Tag: para
+#: menus.docbook:765
+#, no-c-format
+msgid "This does reduce your freedom to freely position objects on the slide, however it also helps to line up objects precisely. It is easily disabled or enabled with this menu entry, allowing you the best of both worlds."
+msgstr "នេះពិតជាកាត់បន្ថយសេរីភាពរបស់អ្នកក្នុងការដាក់វត្ថុនៅលើស្លាយដោយសេរីទោះយ៉ាងណាវាក៏ជួយតម្រង់ជួរវត្ថុយ៉ាងជាក់លាក់ដែរ។ វាត្រូវបានបិទឬបើកដំណើរការយ៉ាងងាយស្រួលជាមួយធាតុម៉ឺនុយនេះដែលអនុញ្ញាតឱ្យអ្នកល្អបំផុតនៃពិភពលោកទាំងពីរ។"
+
+#. Tag: menuchoice
+#: menus.docbook:774
+#, no-c-format
+msgid "<guimenu>View</guimenu> <guimenuitem>Show Guides</guimenuitem>"
+msgstr "<guimenu> មើល </guimenu><guimenuitem> បង្ហាញមគ្គុទេសក៍ </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:780
+#, no-c-format
+msgid "When working in &stage; you can drag a <quote>guide line</quote> from either the horizontal or vertical ruler onto your document. This guide-line will not print or display in the finished presentation, it is simply to help you align objects on screen. If this item is enabled, these guide lines will be visible. If this is disabled, they will not be visible."
+msgstr "នៅពេលធ្វើការនៅក្នុងដំណាក់កាល; អ្នកអាចអូសមួយ <quote> បន្ទាត់ណែនាំ </quote> ពីបន្ទាត់ផ្តេកឬបញ្ឈរលើឯកសាររបស់អ្នក។ មគ្គុទ្ទេសក៍នេះនឹងមិនបោះពុម្ពឬបង្ហាញនៅក្នុងបទបង្ហាញចប់ទេវាគ្រាន់តែជួយអ្នកតម្រឹមវត្ថុនៅលើអេក្រង់ប៉ុណ្ណោះ។ ប្រសិនបើធាតុនេះត្រូវបានបើកបន្ទាត់ណែនាំទាំងនេះនឹងអាចមើលឃើញ។ ប្រសិនបើវាត្រូវបានបិទពួកវានឹងមិនអាចមើលឃើញទេ។"
+
+#. Tag: para
+#: menus.docbook:787
+#, no-c-format
+msgid "Guide lines work across slides, allowing you to align objects the same way across multiple slides."
+msgstr "បន្ទាត់មគ្គុទេសក៍ធ្វើការនៅលើស្លាយដែលអនុញ្ញាតឱ្យអ្នកតម្រឹមវត្ថុតាមវិធីដូចគ្នាកាត់ស្លាយជាច្រើន។"
+
+#. Tag: para
+#: menus.docbook:790
+#, no-c-format
+msgid "Disabling (hiding) guide lines does not delete them. If you have created guide lines, and then disabled this item, enabling it again will retain the guide lines you created."
+msgstr "ការបិទ (លាក់) បន្ទាត់ណែនាំមិនលុបពួកវាទេ។ ប្រសិនបើអ្នកបានបង្កើតបន្ទាត់ណែនាំហើយបន្ទាប់មកបិទធាតុនេះការបើកវាម្តងទៀតនឹងរក្សាបន្ទាត់ណែនាំដែលអ្នកបានបង្កើត។"
+
+#. Tag: menuchoice
+#: menus.docbook:815
+#, no-c-format
+msgid "<guimenu>View</guimenu> <guisubmenu>Zoom</guisubmenu>"
+msgstr "<guimenu> មើល </guimenu><guisubmenu> ពង្រីក </guisubmenu>"
+
+#. Tag: para
+#: menus.docbook:821
+#, no-c-format
+msgid "This submenu allows you to zoom in or out of the slide. Several predefined zoom levels are available, including <guimenuitem>Fit Page</guimenuitem> to scale the entire slide so as to be visible in the size window you have open, and <guimenuitem>Fit Page Width</guimenuitem> to scale the slide so it fills the entire width of the window, although you may now have to scroll vertically. There are also several other scaling choices, from <guimenuitem>33%</guimenuitem> up to <guimenuitem>500%</guimenuitem>."
+msgstr "ម៉ឺនុយរងនេះអនុញ្ញាតឱ្យអ្នកពង្រីកឬបង្រួមស្លាយ។ កម្រិតពង្រីកដែលបានកំណត់ជាមុនអាចរកបានរួមទាំង <guimenuitem> សមទំព័រ </guimenuitem> ដើម្បីធ្វើមាត្រដ្ឋានស្លាយទាំងមូលដើម្បីឱ្យមើលឃើញនៅក្នុងផ្ទាំងកម្មវិធីទំហំដែលអ្នកបានបើកនិង <guimenuitem> សមទំព័រទទឹង </guimenuitem> ដើម្បីធ្វើមាត្រដ្ឋានស្លាយដូច្នេះវាបំពេញទទឹងផ្ទាំងកម្មវិធីទាំងមូលទោះបីជាអ្នកត្រូវរមូរបញ្ឈរក៏ដោយ។ ក៏មានជម្រើសធ្វើមាត្រដ្ឋានផ្សេងទៀតជាច្រើនពី <guimenuitem> 33 % </guimenuitem> រហូតដល់ <guimenuitem> 500 % </guimenuitem>"
+
+#. Tag: title
+#: menus.docbook:840
+#, no-c-format
+msgid "Insert Menu"
+msgstr "បញ្ចូលម៉ឺនុយ"
+
+#. Tag: menuchoice
+#: menus.docbook:863
+#, no-c-format
+msgid "<guimenu>Insert</guimenu> <guisubmenu>Variable</guisubmenu>"
+msgstr "<guimenu> បញ្ចូល </guimenu><guisubmenu> អថេរ </guisubmenu>"
+
+#. Tag: para
+#: menus.docbook:869
+#, no-c-format
+msgid "Here you can insert a variable that is filled in with a value that may be updated as you update the document."
+msgstr "នៅទីនេះអ្នកអាចបញ្ចូលអថេរមួយដែលត្រូវបានបំពេញដោយតម្លៃដែលអាចត្រូវបានធ្វើបច្ចុប្បន្នភាពនៅពេលអ្នកធ្វើបច្ចុប្បន្នភាពឯកសារ។"
+
+#. Tag: menuchoice
+#: menus.docbook:921
+#, no-c-format
+msgid "<guimenu>Insert</guimenu><guimenuitem>Import Slideshow...</guimenuitem>"
+msgstr "<guimenu> បញ្ចូល </guimenu><guimenuitem> នាំចូលការបញ្ចាំងស្លាយ ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:926
+#, no-c-format
+msgid "<action>Insert an already existing presentation.</action> A standard &kde; file open dialog will appear, allowing you to choose a <guilabel>OpenDocument Presentation</guilabel> (.odp), which will be inserted after the last slide in your current presentation."
+msgstr "<action> បញ្ចូលបទបង្ហាញដែលមានស្រាប់។ </action> KDE ស្តង់ដារមួយ; ប្រអប់បើកឯកសារនឹងលេចឡើងដែលអនុញ្ញាត ឲ្យ អ្នកជ្រើសរើស <guilabel> បទបង្ហាញ OpenDocument </guilabel> (.odp) ដែលនឹងត្រូវបានបញ្ចូលបន្ទាប់ពីស្លាយចុងក្រោយនៅក្នុងបទបង្ហាញបច្ចុប្បន្នរបស់អ្នក។"
+
+#. Tag: menuchoice
+#: menus.docbook:934
+#, no-c-format
+msgid "<guimenu>Insert</guimenu> <guimenuitem>Insert Pictures as Slides...</guimenuitem>"
+msgstr "<guimenu> បញ្ចូល </guimenu><guimenuitem> បញ្ចូលរូបភាពជាស្លាយ ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:940
+#, no-c-format
+msgid "Use this menu item to insert one or more pictures, each is inserted on a new slide. This is useful for the people who want to use &stage; to make a slide show."
+msgstr "ប្រើធាតុម៉ឺនុយនេះដើម្បីបញ្ចូលរូបភាពមួយឬច្រើនដែលនីមួយៗត្រូវបានបញ្ចូលនៅលើស្លាយថ្មី។ នេះមានប្រយោជន៍សម្រាប់មនុស្សដែលចង់ប្រើដំណាក់កាល; ដើម្បីបញ្ចាំងស្លាយ។"
+
+#. Tag: menuchoice
+#: menus.docbook:1061
+#, no-c-format
+msgid "<guimenu>Insert</guimenu> <guimenuitem>Scan Image...</guimenuitem>"
+msgstr "<guimenu> បញ្ចូល </guimenu><guimenuitem> ស្កេនរូបភាព ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1067
+#, no-c-format
+msgid "<action>Scan an image with a scanner.</action> This requires you have a scanner installed. It opens a scan dialog to allow the use of the scanner."
+msgstr "<action> ស្កេនរូបភាពជាមួយម៉ាស៊ីនស្កេន។ </action> នេះតម្រូវឱ្យអ្នកតំឡើងម៉ាស៊ីនស្កេន។ វាបើកប្រអប់ស្កេនដើម្បីអនុញ្ញាតឱ្យប្រើម៉ាស៊ីនស្កេន។"
+
+#. Tag: title
+#: menus.docbook:1077
+#, no-c-format
+msgid "Format Menu"
+msgstr "ម៉ឺនុយទ្រង់ទ្រាយ"
+
+#. Tag: menuchoice
+#: menus.docbook:1084
+#, no-c-format
+msgid "<guimenu>Format</guimenu> <guimenuitem>Font...</guimenuitem>"
+msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> ពុម្ពអក្សរ ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1091
+#, no-c-format
+msgid "The <guilabel>Select Font</guilabel> dialog contains options for selected segments of text."
+msgstr "នេះ <guilabel> ជ្រើសរើសពុម្ពអក្សរ </guilabel> ប្រអប់មានជម្រើសសម្រាប់ផ្នែកអត្ថបទដែលបានជ្រើសរើស។"
+
+#. Tag: para
+#: menus.docbook:1094
+#, no-c-format
+msgid "With this dialog, you can <action>change the font, style and size of selected text</action>. The <interface>preview box</interface> at the bottom allows you to <action>approximate changes before you make them</action>."
+msgstr "ជាមួយប្រអប់នេះអ្នកអាចធ្វើបាន <action> ផ្លាស់ប្តូរពុម្ពអក្សរ, រចនាប័ទ្មនិងទំហំនៃអត្ថបទដែលបានជ្រើស </action> ។ នេះ <interface> ប្រអប់មើលជាមុន </interface> នៅខាងក្រោមអនុញ្ញាតឱ្យអ្នកធ្វើ <action> ការផ្លាស់ប្តូរប្រហាក់ប្រហែលមុនពេលអ្នកធ្វើវា </action>"
+
+#. Tag: menuchoice
+#: menus.docbook:1103
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\"> &Ctrl;&Alt;<keycap>P</keycap> </keycombo> </shortcut> <guimenu>Format</guimenu> <guimenuitem>Paragraph...</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) ជំនួស (Alt); <keycap> ទំ </keycap></keycombo></shortcut><guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> កថាខណ្ឌ ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1115
+#, no-c-format
+msgid "The <guilabel>Paragraph Format</guilabel> dialog contains settings for larger blocks of text, such as paragraphs. Using this dialog, you can set indenting, line spacing, bullet/numbered list and border settings."
+msgstr "នេះ <guilabel> ទ្រង់ទ្រាយកថាខណ្ឌ </guilabel> ប្រអប់មានការកំណត់សម្រាប់អត្ថបទធំ ៗ ដូចជាកថាខណ្ឌ។ ដោយប្រើប្រអប់នេះអ្នកអាចកំណត់ការចូលបន្ទាត់គម្លាតបន្ទាត់បញ្ជីចំណុច / លេខរៀងនិងការកំណត់ព្រំដែន។"
+
+#. Tag: menuchoice
+#: menus.docbook:1124
+#, no-c-format
+msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;&Alt;<keycap>S</keycap></keycombo> </shortcut> <guimenu>Format</guimenu> <guimenuitem>Style Manager</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) ជំនួស (Alt); <keycap> ស </keycap></keycombo></shortcut><guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> កម្មវិធីគ្រប់គ្រងស្ទីល </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1133
+#, no-c-format
+msgid "The <guilabel>Style Manager</guilabel> allows you to create an entire set of attributes that will be applied to selected text all at once."
+msgstr "នេះ <guilabel> កម្មវិធីគ្រប់គ្រងស្ទីល </guilabel> អនុញ្ញាតឱ្យអ្នកបង្កើតសំណុំគុណលក្ខណៈទាំងមូលដែលនឹងត្រូវបានអនុវត្តចំពោះអត្ថបទដែលបានជ្រើសរើសក្នុងពេលតែមួយ។"
+
+#. Tag: menuchoice
+#: menus.docbook:1325
+#, no-c-format
+msgid "<guimenu>Format</guimenu> <guimenuitem>Page Layout...</guimenuitem>"
+msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> ប្លង់ទំព័រ ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1330
+#, no-c-format
+msgid "Allows you to set the page details. You can specify the margins, the orientation, either portrait (higher than wide) or Landscape (wider than high) formats. There are many templates, such as screen, A4, US legal."
+msgstr "អនុញ្ញាតឱ្យអ្នកកំណត់ពត៌មានលំអិតទំព័រ។ អ្នកអាចបញ្ជាក់រឹម, ទិស, ទាំងបញ្ឈរ (ខ្ពស់ជាងទទឹង) ឬទ្រង់ទ្រាយផ្ដេក (ធំជាងខ្ពស់) ។ មានគំរូជាច្រើនដូចជាស្គ្រីនអេ ៤ អាមេរិចស្របច្បាប់។"
+
+#. Tag: title
+#: menus.docbook:1659
+#, no-c-format
+msgid "Slide Menu"
+msgstr "ម៉ឺនុយស្លាយ"
+
+#. Tag: menuchoice
+#: menus.docbook:1664
+#, no-c-format
+msgid "<guimenu>Slide</guimenu> <guimenuitem>Insert Slide</guimenuitem>"
+msgstr "<guimenu> រុញ </guimenu><guimenuitem> បញ្ចូលស្លាយ </guimenuitem>"
+
+#. Tag: action
+#: menus.docbook:1670
+#, no-c-format
+msgid "Insert a new slide after the current one."
+msgstr "បញ្ចូលស្លាយថ្មីបន្ទាប់ពីស្លាយបច្ចុប្បន្ន។"
+
+#. Tag: menuchoice
+#: menus.docbook:1676
+#, no-c-format
+msgid "<guimenu>Slide</guimenu> <guimenuitem>Copy Slide</guimenuitem>"
+msgstr "<guimenu> រុញ </guimenu><guimenuitem> ចម្លងស្លាយ </guimenuitem>"
+
+#. Tag: action
+#: menus.docbook:1682
+#, no-c-format
+msgid "Copy the current slide to the clipboard."
+msgstr "ចម្លងស្លាយបច្ចុប្បន្នទៅក្ដារតម្បៀតខ្ទាស់។"
+
+#. Tag: menuchoice
+#: menus.docbook:1688
+#, no-c-format
+msgid "<guimenu>Slide</guimenu> <guimenuitem>Delete Slide</guimenuitem>"
+msgstr "<guimenu> រុញ </guimenu><guimenuitem> លុបស្លាយ </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1693
+#, no-c-format
+msgid "<action>Delete the current page from the presentation.</action> You will be asked to confirm this action."
+msgstr "<action> លុបទំព័របច្ចុប្បន្នចេញពីបទបង្ហាញ។ </action> អ្នកនឹងត្រូវបានស្នើសុំឱ្យបញ្ជាក់ពីសកម្មភាពនេះ។"
+
+#. Tag: menuchoice
+#: menus.docbook:1700
+#, no-c-format
+msgid "<shortcut><keycap>PageUp</keycap></shortcut> <guimenu>Slide</guimenu> <guimenuitem>Previous Slide</guimenuitem>"
+msgstr "<shortcut><keycap> គេហទំព័រ </keycap></shortcut><guimenu> រុញ </guimenu><guimenuitem> ស្លាយមុន </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1707
+#, no-c-format
+msgid "Go back to the previous slide in the slide show."
+msgstr "ត្រលប់ទៅស្លាយមុននៅក្នុងការបញ្ចាំងស្លាយ។"
+
+#. Tag: menuchoice
+#: menus.docbook:1713
+#, no-c-format
+msgid "<shortcut><keycap>PageDown</keycap></shortcut> <guimenu>Slide</guimenu> <guimenuitem>Next Slide</guimenuitem>"
+msgstr "<shortcut><keycap> ទំព័រ </keycap></shortcut><guimenu> រុញ </guimenu><guimenuitem> ស្លាយបន្ទាប់ </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1720
+#, no-c-format
+msgid "Go to the next slide in the slide show."
+msgstr "ទៅកាន់ស្លាយបន្ទាប់នៅក្នុងការបញ្ចាំងស្លាយ។"
+
+#. Tag: menuchoice
+#: menus.docbook:1726
+#, no-c-format
+msgid "<shortcut><keycombo action=\"simul\">&Ctrl;<keycap>Home</keycap></keycombo></shortcut> <guimenu>Slide</guimenu> <guimenuitem>First Slide</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> ផ្ទះ </keycap></keycombo></shortcut><guimenu> រុញ </guimenu><guimenuitem> ស្លាយដំបូង </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1733
+#, no-c-format
+msgid "Go directly to the first slide in the slide show."
+msgstr "ចូលដោយផ្ទាល់ទៅស្លាយទីមួយនៅក្នុងការបញ្ចាំងស្លាយ។"
+
+#. Tag: menuchoice
+#: menus.docbook:1739
+#, no-c-format
+msgid "<shortcut><keycombo action=\"simul\">&Ctrl;<keycap>End</keycap></keycombo></shortcut> <guimenu>Slide</guimenu> <guimenuitem>Last Slide</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> បញ្ចប់ </keycap></keycombo></shortcut><guimenu> រុញ </guimenu><guimenuitem> ស្លាយចុងក្រោយ </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1746
+#, no-c-format
+msgid "Go immediately to the final slide in the slide show."
+msgstr "ទៅភ្លាមៗទៅស្លាយចុងក្រោយនៅក្នុងការបញ្ចាំងស្លាយ។"
+
+#. Tag: title
+#: menus.docbook:1753
+#, no-c-format
+msgid "Slide Show Menu"
+msgstr "ម៉ឺនុយបញ្ចាំងស្លាយ"
+
+#. Tag: menuchoice
+#: menus.docbook:1759
+#, no-c-format
+msgid "<shortcut><keycombo action=\"simul\">&Shift;<keycap>F5</keycap></keycombo></shortcut> <guimenu>Slide Show</guimenu> <guisubmenu>Start Presentation</guisubmenu> <guimenuitem>From Current Slide</guimenuitem>"
+msgstr "<shortcut><keycombo action=\"simul\"> ការផ្លាស់ប្តូរ; <keycap> F5 </keycap></keycombo></shortcut><guimenu> បញ្ចាំងស្លាយ </guimenu><guisubmenu> ចាប់ផ្តើមបទបង្ហាញ </guisubmenu><guimenuitem> ពីស្លាយបច្ចុប្បន្ន </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1767
+#, no-c-format
+msgid "Begin the slideshow from the current slide."
+msgstr "ចាប់ផ្តើមការបញ្ចាំងស្លាយពីស្លាយបច្ចុប្បន្ន។"
+
+#. Tag: menuchoice
+#: menus.docbook:1773
+#, no-c-format
+msgid "<shortcut><keycap>F5</keycap></shortcut> <guimenu>Slide Show</guimenu> <guisubmenu>Start Presentation</guisubmenu> <guimenuitem>From First Slide</guimenuitem>"
+msgstr "<shortcut><keycap> F5 </keycap></shortcut><guimenu> បញ្ចាំងស្លាយ </guimenu><guisubmenu> ចាប់ផ្តើមបទបង្ហាញ </guisubmenu><guimenuitem> ពីស្លាយទីមួយ </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1781
+#, no-c-format
+msgid "Begin the slideshow from the first slide."
+msgstr "ចាប់ផ្តើមការបញ្ចាំងស្លាយពីស្លាយទីមួយ។"
+
+#. Tag: menuchoice
+#: menus.docbook:1787
+#, no-c-format
+msgid "<guimenu>Slide Show</guimenu> <guimenuitem>Configure Slide Show...</guimenuitem>"
+msgstr "<guimenu> បញ្ចាំងស្លាយ </guimenu><guimenuitem> កំណត់រចនាសម្ព័ន្ធបញ្ចាំងស្លាយ ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1793
+#, no-c-format
+msgid "You can set up the properties for the entire slide show here, including whether to show the duration on screen, which of the slides in a presentation to include, and several other global settings."
+msgstr "អ្នកអាចតំឡើងលក្ខណសម្បត្តិសម្រាប់ការបញ្ចាំងស្លាយទាំងមូលនៅទីនេះរួមទាំងថាតើត្រូវបង្ហាញថិរវេលានៅលើអេក្រង់ដែលស្លាយមួយនៅក្នុងបទបង្ហាញដែលត្រូវដាក់បញ្ចូលនិងការកំណត់សកលផ្សេងទៀត។"
+
+#. Tag: title
+#: menus.docbook:1851
+#, no-c-format
+msgid "Settings Menu"
+msgstr "ការកំណត់ម៉ឺនុយ"
+
+#. Tag: para
+#: menus.docbook:1853
+#, no-c-format
+msgid "The <guimenu>Settings</guimenu> menu allows you to customize &stage;."
+msgstr "នេះ <guimenu> ការកំណត់ </guimenu> ម៉ឺនុយអនុញ្ញាតឱ្យអ្នកប្ដូរតាមបំណងដំណាក់កាល;"
+
+#. Tag: menuchoice
+#: menus.docbook:1860
+#, no-c-format
+msgid "<guimenu>Settings</guimenu> <guisubmenu>Show Toolbar</guisubmenu>"
+msgstr "<guimenu> ការកំណត់ </guimenu><guisubmenu> បង្ហាញរបារឧបករណ៍ </guisubmenu>"
+
+#. Tag: para
+#: menus.docbook:1866
+#, no-c-format
+msgid "In this menu you can both enable and disable the display of toolbar."
+msgstr "នៅក្នុងម៉ឺនុយនេះអ្នកអាចបើកនិងបិទការបង្ហាញរបារឧបករណ៍បាន។"
+
+#. Tag: menuchoice
+#: menus.docbook:1877
+#, no-c-format
+msgid "<guimenu>Settings</guimenu> <guimenuitem>Configure Shortcuts...</guimenuitem>"
+msgstr "<guimenu> ការកំណត់ </guimenu><guimenuitem> កំណត់រចនាសម្ព័ន្ធផ្លូវកាត់ ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1884
+#, no-c-format
+msgid "<guimenuitem>Configure Shortcuts</guimenuitem> allows you to assign a keyboard shortcut to actions that &stage; menus or icons contain."
+msgstr "<guimenuitem> កំណត់រចនាសម្ព័ន្ធផ្លូវកាត់ </guimenuitem> អនុញ្ញាតឱ្យអ្នកកំណត់ផ្លូវកាត់ក្តារចុចទៅសកម្មភាពដែលដំណាក់កាល; ម៉ឺនុយឬរូបតំណាងមាន។"
+
+#. Tag: screeninfo
+#: menus.docbook:1889
+#, no-c-format
+msgid "Customize Shortcuts"
+msgstr "ប្ដូរផ្លូវកាត់តាមបំណង"
+
+#. Tag: phrase
+#: menus.docbook:1895
+#, no-c-format
+msgid "Customizing the shortcuts"
+msgstr "ប្ដូរផ្លូវកាត់តាមបំណង"
+
+#. Tag: para
+#: menus.docbook:1900
+#, no-c-format
+msgid "If you try to assign a shortcut that is already used, it will give you a warning message. Highlight what you want to do (in the picture, I have chosen to make a keyboard shortcut to <guilabel>About KDE</guilabel>)."
+msgstr "ប្រសិនបើអ្នកព្យាយាមកំណត់ផ្លូវកាត់ដែលត្រូវបានប្រើរួចហើយវានឹងផ្តល់ឱ្យអ្នកនូវសារព្រមាន។ រំលេចអ្វីដែលអ្នកចង់ធ្វើ (ក្នុងរូបភាពខ្ញុំបានជ្រើសរើសធ្វើផ្លូវកាត់ក្តារចុច <guilabel> អំពី KDE </guilabel> ) ។"
+
+#. Tag: para
+#: menus.docbook:1905
+#, no-c-format
+msgid "Click the radio button to the <guilabel>Custom</guilabel> key setting and type the key you want to use. I assigned <keycap>Control</keycap> key and <keycap>Y</keycap> to bring up the <quote>About KDE</quote> dialog box."
+msgstr "ចុចប៊ូតុងវិទ្យុទៅឯកសារ <guilabel> ផ្ទាល់ខ្លួន </guilabel> ការកំណត់និងវាយបញ្ចូលកូនសោដែលអ្នកចង់ប្រើ។ ខ្ញុំបានចាត់តាំង <keycap> ការត្រួតពិនិត្យ </keycap> គន្លឹះនិង <keycap> អ៊ី </keycap> ដើម្បីនាំយកឡើង <quote> អំពី KDE </quote> ប្រអប់។"
+
+#. Tag: para
+#: menus.docbook:1910
+#, no-c-format
+msgid "The button shows what has been assigned. Click <guibutton>OK</guibutton> to make the changes, click <guibutton>Default</guibutton> to restore whatever was assigned as default, click <guibutton>Cancel</guibutton> to do nothing and leave the dialog."
+msgstr "ប៊ូតុងបង្ហាញពីអ្វីដែលបានកំណត់។ ចុច <guibutton> យល់ព្រម </guibutton> ដើម្បីធ្វើការផ្លាស់ប្តូរសូមចុច <guibutton> លំនាំដើម </guibutton> ដើម្បីស្តារអ្វីៗដែលបានកំណត់ជាលំនាំដើមចុច <guibutton> បោះបង់ </guibutton> កុំធ្វើអ្វីទាំងអស់ហើយទុកឱ្យប្រអប់។"
+
+#. Tag: menuchoice
+#: menus.docbook:1921
+#, no-c-format
+msgid "<guimenu>Settings</guimenu> <guimenuitem>Configure Toolbars...</guimenuitem>"
+msgstr "<guimenu> ការកំណត់ </guimenu><guimenuitem> កំណត់រចនាសម្ព័ន្ធរបារឧបករណ៍ ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1927
+#, no-c-format
+msgid "Configure Toolbars allows you to add or delete icons on each of the toolbars."
+msgstr "កំណត់រចនាសម្ព័ន្ធរបារឧបករណ៍អនុញ្ញាតឱ្យអ្នកបន្ថែមឬលុបរូបតំណាងនៅលើរបារឧបករណ៍នីមួយៗ។"
+
+#. Tag: screeninfo
+#: menus.docbook:1931
+#, no-c-format
+msgid "<screeninfo>Configuring &stage; toolbars</screeninfo>"
+msgstr "<screeninfo> កំណត់រចនាសម្ព័ន្ធដំណាក់កាល; របារឧបករណ៍ </screeninfo>"
+
+#. Tag: phrase
+#: menus.docbook:1937
+#, no-c-format
+msgid "<phrase>Configuring &stage; toolbars</phrase>"
+msgstr "<phrase> កំណត់រចនាសម្ព័ន្ធដំណាក់កាល; របារឧបករណ៍ </phrase>"
+
+#. Tag: para
+#: menus.docbook:1942
+#, no-c-format
+msgid "At the top is a drop down box to enable you to choose which toolbar you want to modify. In the picture the <guilabel>File</guilabel> toolbar is selected. If I want to add the <guiicon>Dockers</guiicon> icon to that toolbar, I click the entry in the left window. The arrow pointing right becomes available, if I click the arrow the <guiicon>Dockers</guiicon> entry is added to the selected toolbar. The left arrow is available when you click in the right side window. It allows you to remove an icon from a toolbar. The up and down arrows become active when an item on the right side is selected. You can also move the highlight in the right side window up and down with the keyboard arrow keys. By clicking on the arrows with the mouse you can change the order of the entries in the menu."
+msgstr "នៅផ្នែកខាងលើគឺជាប្រអប់ធ្លាក់ចុះដើម្បីឱ្យអ្នកជ្រើសរើសរបារឧបករណ៍ណាមួយដែលអ្នកចង់កែប្រែ។ នៅក្នុងរូបភាពនេះ <guilabel> ឯកសារ </guilabel> របារឧបករណ៍ត្រូវបានជ្រើសរើស។ ប្រសិនបើខ្ញុំចង់បន្ថែមឯកសារ <guiicon> អ្នកចត </guiicon> រូបតំណាងនៅលើរបារឧបករណ៍នោះខ្ញុំចុចលើធាតុនៅខាងឆ្វេង។ ព្រួញចង្អុលខាងស្តាំអាចប្រើបានប្រសិនបើខ្ញុំចុចព្រួញ <guiicon> អ្នកចត </guiicon> ធាតុត្រូវបានបន្ថែមទៅរបារឧបករណ៍ដែលបានជ្រើស។ ព្រួញខាងឆ្វេងអាចប្រើបាននៅពេលអ្នកចុចលើផ្ទាំងកម្មវិធីខាងស្តាំ។ វាអនុញ្ញាតឱ្យអ្នកដករូបតំណាងចេញពីរបារឧបករណ៍។ ព្រួញឡើងលើនិងចុះក្រោមក្លាយជាសកម្មនៅពេលដែលធាតុនៅផ្នែកខាងស្តាំត្រូវបានជ្រើសរើស។ អ្នកក៏អាចផ្លាស់ទីបន្លិចនៅក្នុងផ្ទាំងកម្មវិធីផ្នែកខាងស្តាំឡើងលើនិងចុះក្រោមដោយប្រើគ្រាប់ចុចព្រួញក្តារចុច។ ដោយចុចលើព្រួញដោយប្រើកណ្តុរអ្នកអាចផ្លាស់ប្តូរលំដាប់នៃធាតុនៅក្នុងម៉ឺនុយ។"
+
+#. Tag: menuchoice
+#: menus.docbook:1961
+#, no-c-format
+msgid "<guimenu>Settings</guimenu> <guimenuitem>Themes</guimenuitem>"
+msgstr "<guimenu> ការកំណត់ </guimenu><guimenuitem> ស្បែក </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1965
+#, no-c-format
+msgid "<action>Choose the color theme for &stage; window.</action> You can choose one of the predefined color schemes or select <guimenuitem>Configuration...</guimenuitem> to open <ulink url=\"help:/kcontrol/colors\">&systemsettings; color selection module</ulink>."
+msgstr "<action> ជ្រើសរើសប្រធានបទពណ៌សម្រាប់ឆាក; ផ្ទាំងកម្មវិធី </action> អ្នកអាចជ្រើសរើសពណ៌ចម្រុះដែលបានកំណត់ជាមុនឬជ្រើសរើស <guimenuitem> ការកំណត់​រចនាសម្ព័ន្ធ... </guimenuitem> បើក <ulink url=\"help:/kcontrol/colors\"> systemsettings; ម៉ូឌុលជ្រើសរើសពណ៌ </ulink>"
+
+#. Tag: menuchoice
+#: menus.docbook:1973
+#, no-c-format
+msgid "<guimenu>Settings</guimenu> <guimenuitem>Configure Stage...</guimenuitem>"
+msgstr "<guimenu> ការកំណត់ </guimenu><guimenuitem> តំឡើងតំណាក់កាល ... </guimenuitem>"
+
+#. Tag: para
+#: menus.docbook:1979
+#, no-c-format
+msgid "See the <link linkend=\"configure-dialog\">Configure &stage;</link> section for a complete explanation of all &stage; settings."
+msgstr "សូមមើលឯកសារ <link linkend=\"configure-dialog\"> កំណត់រចនាសម្ព័ន្ធដំណាក់កាល; </link> ផ្នែកសម្រាប់ការពន្យល់ពេញលេញនៃដំណាក់កាលទាំងអស់; ការកំណត់។"
+
+#. Tag: title
+#: menus.docbook:1988
+#, no-c-format
+msgid "Help Menu"
+msgstr "បញ្ជីជំនួយ"
+
+#. Tag: sect1
+#: menus.docbook:1988
+#, no-c-format
+msgid "&help.menu.documentation;"
+msgstr "ជំនួយ។ មីនុយ។​ អត្ធបទ;"
+
+#~ msgid "<screeninfo>The toolbars</screeninfo>"
+#~ msgstr "<screeninfo> របារឧបករណ៍ </screeninfo>"
+
+#~ msgid "<phrase>The toolbars</phrase>"
+#~ msgstr "<phrase> របារឧបករណ៍ </phrase>"
+
+#~ msgid "<screeninfo>Floating toolbar</screeninfo>"
+#~ msgstr "<screeninfo> របារឧបករណ៍អណ្តែត </screeninfo>"
+
+#~ msgid "<phrase>Floating toolbar</phrase>"
+#~ msgstr "<phrase> របារឧបករណ៍អណ្តែត </phrase>"
+
+#~ msgid "<screeninfo>Toolbar context menu</screeninfo>"
+#~ msgstr "<screeninfo> ម៉ឺនុយបរិបទរបស់របារឧបករណ៍ </screeninfo>"
+
+#~ msgid "<phrase>Toolbar context menu</phrase>"
+#~ msgstr "<phrase> ម៉ឺនុយបរិបទរបស់របារឧបករណ៍ </phrase>"
+
+#, fuzzy
+#~ msgid "The first few items in the popup menu have to do with the placement of the toolbar. You can choose any of the four sides of the &kpresenter; window, or have the toolbar <quote>float</quote> in a separate window. Choosing <guimenuitem>Flat</guimenuitem> hides the toolbar. To unflat a hidden toolbar, &LMB; click on its handle."
+#~ msgstr "ធាតុពីរបីដំបូងនៅក្នុងម៉ឺនុយលេចឡើងត្រូវតែទាក់ទងនឹងការដាក់របារឧបករណ៍។ អ្នកអាចជ្រើសរើសផ្នែកណាមួយនៃជ្រុងទាំងបួនរបស់អ្នកចូលរួម។ ឬមានរបារឧបករណ៍ <quote> អណ្តែត </quote> នៅក្នុងផ្ទាំងកម្មវិធីដាច់ដោយឡែក។ ការជ្រើសរើស <guimenuitem> ផ្ទះល្វែង </guimenuitem> លាក់របារឧបករណ៍។ ដើម្បីពន្លារបារឧបករណ៍ដែលលាក់, LMB; ចុចលើចំណុចទាញរបស់វា។"
+
+#~ msgid "<screeninfo>The toolbar modes menu</screeninfo>"
+#~ msgstr "<screeninfo> ម៉ឺនុយរបៀបរបារឧបករណ៍ </screeninfo>"
+
+#~ msgid "<phrase>The toolbar modes menu</phrase>"
+#~ msgstr "<phrase> ម៉ឺនុយរបៀបរបារឧបករណ៍ </phrase>"
+
+#~ msgid "<screeninfo>The toolbar styles</screeninfo>"
+#~ msgstr "<screeninfo> រចនាប័ទ្មរបារឧបករណ៍ </screeninfo>"
+
+#~ msgid "<phrase>The toolbar styles</phrase>"
+#~ msgstr "<phrase> រចនាប័ទ្មរបារឧបករណ៍ </phrase>"
+
+#~ msgid "<guimenu>File</guimenu> Menu"
+#~ msgstr "<guimenu> ឯកសារ </guimenu> មឺនុយ"
+
+#~ msgid "<guimenu>File</guimenu> <guimenuitem>Create HTML Slideshow...</guimenuitem>"
+#~ msgstr "<guimenu> ឯកសារ </guimenu><guimenuitem> បង្កើតការបញ្ចាំងស្លាយ HTML ... </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<guimenu>File</guimenu> <guimenuitem>Create Memory Stick Slideshow...</guimenuitem>"
+#~ msgstr "<guimenu> ឯកសារ </guimenu><guimenuitem> បង្កើតការបញ្ចាំងស្លាយដំបងសតិ ... </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<action>Starts the Memory Stick dialog</action>, which is described in the section <xref linkend=\"ms-export\"/>."
+#~ msgstr "<action> ចាប់ផ្តើមប្រអប់ដំបងសតិ </action> ដែលត្រូវបានពិពណ៌នានៅក្នុងផ្នែក <xref linkend=\"ms-export\"/>"
+
+#~ msgid "Template Manager"
+#~ msgstr "អ្នកគ្រប់គ្រងគំរូ"
+
+#~ msgid "<action>Allows you to save the current slide as a template.</action> In future the template will be available for you to use to build slides with. Creating a template is further discussed in section <xref linkend=\"creating-templates\"/>."
+#~ msgstr "<action> អនុញ្ញាតឱ្យអ្នករក្សាទុកស្លាយបច្ចុប្បន្នជាគំរូ។ </action> នៅពេលអនាគតគំរូនឹងមានសម្រាប់អ្នកដើម្បីប្រើដើម្បីបង្កើតស្លាយជាមួយ។ ការបង្កើតគំរូត្រូវបានពិភាក្សាបន្ថែមទៀតនៅក្នុងផ្នែក <xref linkend=\"creating-templates\"/>"
+
+#, fuzzy
+#~ msgid "<guimenu>File</guimenu> <guimenuitem>Use Current Slide as Default Template</guimenuitem>"
+#~ msgstr "<guimenu> ឯកសារ </guimenu><guimenuitem> ប្រើស្លាយបច្ចុប្បន្នជាគំរូលំនាំដើម </guimenuitem>"
+
+#~ msgid "<action>Sets the current slide as your default template</action>. Especially useful if you have created a template of your own to fit into corporate style guidelines, or if you just use a particular layout very often."
+#~ msgstr "<action> កំណត់ស្លាយបច្ចុប្បន្នជាគំរូលំនាំដើមរបស់អ្នក </action> ។ មានប្រយោជន៍ជាពិសេសប្រសិនបើអ្នកបានបង្កើតគំរូផ្ទាល់ខ្លួនរបស់អ្នកឱ្យសមនឹងគោលការណ៍ណែនាំរបស់ក្រុមហ៊ុនឬប្រសិនបើអ្នកគ្រាន់តែប្រើប្លង់ជាក់លាក់មួយញឹកញាប់។"
+
+#~ msgid "<guimenu>Edit</guimenu> Menu"
+#~ msgstr "<guimenu> កែសម្រួល </guimenu> មឺនុយ"
+
+#~ msgid "<guimenu>Edit</guimenu> <guimenuitem>Duplicate Slide</guimenuitem>"
+#~ msgstr "<guimenu> កែសម្រួល </guimenu><guimenuitem> ស្លាយស្ទួន </guimenuitem>"
+
+#~ msgid "<guimenu>Edit</guimenu> <guimenuitem>Duplicate Object...</guimenuitem>"
+#~ msgstr "<guimenu> កែសម្រួល </guimenu><guimenuitem> ចម្លងវត្ថុ ... </guimenuitem>"
+
+#~ msgid "Create a duplicate of the currently selected object. A dialog will display allowing you to set some options for the duplicate, &eg; if it should be rotated, or scaled, or offset to a new position on the slide."
+#~ msgstr "បង្កើតស្ទួននៃវត្ថុដែលបានជ្រើសរើសបច្ចុប្បន្ន។ ប្រអប់នឹងបង្ហាញដែលអនុញ្ញាតឱ្យអ្នកកំណត់ជម្រើសមួយចំនួនសម្រាប់លេខមួយស្ទួន។ ប្រសិនបើវាគួរតែត្រូវបានបង្វិលឬធ្វើមាត្រដ្ឋានឬទូទាត់ទៅទីតាំងថ្មីនៅលើស្លាយ។"
+
+#~ msgid "<guimenu>View</guimenu> Menu"
+#~ msgstr "<guimenu> មើល </guimenu> មឺនុយ"
+
+#, fuzzy
+#~ msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;&Shift;<keycap>W</keycap></keycombo></shortcut> <guimenu>View</guimenu> <guimenuitem>Close All Views</guimenuitem>"
+#~ msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) ប្ដូរ; <keycap> វ </keycap></keycombo></shortcut><guimenu> មើល </guimenu><guimenuitem> បិទការមើលទាំងអស់ </guimenuitem>"
+
+#~ msgid "<action>Close all views on the presentation.</action> You will be given a chance to save any changes, or to cancel closing."
+#~ msgstr "<action> បិទទស្សនៈទាំងអស់លើបទបង្ហាញ។ </action> អ្នកនឹងត្រូវបានផ្តល់ឱកាសដើម្បីរក្សាទុកការផ្លាស់ប្តូរណាមួយឬបោះបង់ចោលការបិទ។"
+
+#~ msgid "<guimenu>View</guimenu> <guimenuitem>Split View</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> បំបែកទិដ្ឋភាព </guimenuitem>"
+
+#~ msgid "<action>Splits the window into two (or more) views on the same presentation.</action> The default split is horizontal."
+#~ msgstr "<action> បំបែកផ្ទាំងកម្មវិធីជាពីរ (ឬច្រើន) លើការបង្ហាញដូចគ្នា។ </action> ការបំបែកលំនាំដើមគឺផ្ដេក។"
+
+#~ msgid "<guimenu>View</guimenu> <guimenuitem>Remove View</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> យកទិដ្ឋភាពចេញ </guimenuitem>"
+
+#~ msgid "<action>Close only the currently active view</action>. The presentation, and any other views you have open, remain open, and any changes you have made remain unsaved."
+#~ msgstr "<action> បិទតែទិដ្ឋភាពសកម្មបច្ចុប្បន្នប៉ុណ្ណោះ </action> ។ បទបង្ហាញនិងទស្សនៈផ្សេងទៀតដែលអ្នកបានបើកនៅតែបើកចំហរហើយរាល់ការផ្លាស់ប្តូរដែលអ្នកបានធ្វើនៅតែមិនទាន់បានរក្សាទុក។"
+
+#~ msgid "<guimenu>View</guimenu> <guisubmenu>Splitter Orientation</guisubmenu>"
+#~ msgstr "<guimenu> មើល </guimenu><guisubmenu> តំរង់ទិសពុះ </guisubmenu>"
+
+#~ msgid "<action>Toggle the split view</action> between <guimenuitem>Horizontal</guimenuitem> (the default) and <guimenuitem>Vertical</guimenuitem>."
+#~ msgstr "<action> បិទបើកទិដ្ឋភាពបំបែក </action> រវាង <guimenuitem> ផ្ដេក </guimenuitem> (លំនាំដើម) និង <guimenuitem> បញ្ឈរ </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<action>Toggle the display of the sidebar</action> where you can see an overview of all the slides in your presentation."
+#~ msgstr "<action> បិទបើកការបង្ហាញរបារចំហៀង </action> កន្លែងដែលអ្នកអាចមើលឃើញទិដ្ឋភាពទូទៅនៃស្លាយទាំងអស់នៅក្នុងបទបង្ហាញរបស់អ្នក។"
+
+#, fuzzy
+#~ msgid "<guimenu>View</guimenu> <guimenuitem>Show Notebar</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> បង្ហាញ Notebar </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<action>Toggle the display of the notebar</action> where you can see an overview of all the notes in your presentation."
+#~ msgstr "<action> បិទបើកការបង្ហាញរបស់ផ្ទាំងបាស </action> ដែលជាកន្លែងដែលអ្នកអាចមើលឃើញទិដ្ឋភាពទូទៅនៃកំណត់ត្រាទាំងអស់នៅក្នុងបទបង្ហាញរបស់អ្នក។"
+
+#, fuzzy
+#~ msgid "<guimenu>View</guimenu> <guimenuitem>Slide Master</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> ស្លាយមេ </guimenuitem>"
+
+#~ msgid "<guimenu>View</guimenu> <guimenuitem>Formatting Characters</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> លក្ខណៈទ្រង់ទ្រាយ </guimenuitem>"
+
+#~ msgid "Show a visual representation of <quote>non-printing characters</quote>, such as tabs and paragraph markers. This can be a useful aid to precisely positioning text."
+#~ msgstr "បង្ហាញតំណាងដែលមើលឃើញ <quote> តួអក្សរមិនបោះពុម្ព </quote> ដូចជាផ្ទាំងនិងសញ្ញាសម្គាល់កថាខណ្ឌ។ នេះអាចជាជំនួយដែលមានប្រយោជន៍ក្នុងការកំណត់ទីតាំងអត្ថបទយ៉ាងជាក់លាក់។"
+
+#~ msgid "This item can be toggled. If enabled, formatting characters are visible; if disabled, they are not."
+#~ msgstr "ធាតុនេះអាចត្រូវបានបិទបើក។ ប្រសិនបើបានបើកដំណើរការតួអក្សរអាចមើលឃើញ។ បើពិការពួកគេមិនមែនទេ។"
+
+#, fuzzy
+#~ msgid "<guimenu>View</guimenu> <guimenuitem>Guide Lines</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> បន្ទាត់ណែនាំ </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<guimenu>View</guimenu> <guimenuitem>Add Guide Line...</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> បន្ថែមបន្ទាត់ណែនាំ ... </guimenuitem>"
+
+#~ msgid "<guimenu>Insert</guimenu> Menu"
+#~ msgstr "<guimenu> បញ្ចូល </guimenu> មឺនុយ"
+
+#, fuzzy
+#~ msgid "<shortcut> <keycombo action=\"simul\">&Alt;&Shift;<keycap>C</keycap></keycombo> </shortcut> <guimenu>Insert</guimenu> <guimenuitem>Special Character...</guimenuitem>"
+#~ msgstr "<shortcut><keycombo action=\"simul\"> ជំនួស; ប្តូរ; <keycap> គ </keycap></keycombo></shortcut><guimenu> បញ្ចូល </guimenu><guimenuitem> ចរិតពិសេស ... </guimenuitem>"
+
+#~ msgid "Insert a special character. This might be a character you don't have a key for on your keyboard layout, for instance &uuml; on a US Keyboard."
+#~ msgstr "បញ្ចូលតួអក្សរពិសេស។ នេះអាចជាតួអក្សរដែលអ្នកមិនមានកូនសោរសម្រាប់ប្លង់ក្តារចុចរបស់អ្នកឧទាហរណ៍ uuml; នៅលើក្តារចុចសហរដ្ឋអាមេរិក។"
+
+#~ msgid "<guimenu>Insert</guimenu> <guimenuitem>Link...</guimenuitem>"
+#~ msgstr "<guimenu> បញ្ចូល </guimenu><guimenuitem> តំណភ្ជាប់ ... </guimenuitem>"
+
+#~ msgid "<guimenu>Insert</guimenu> <guimenuitem>Comment...</guimenuitem>"
+#~ msgstr "<guimenu> បញ្ចូល </guimenu><guimenuitem> វិចារ ... </guimenuitem>"
+
+#~ msgid "Enter a small note that does not display during the real presentation. You might use this to comment on a colleague's text, or to leave a note for yourself about something to do later."
+#~ msgstr "បញ្ចូលកំណត់ត្រាតូចមួយដែលមិនបង្ហាញក្នុងពេលធ្វើបទបង្ហាញពិត។ អ្នកអាចប្រើវាដើម្បីអត្ថាធិប្បាយលើអត្ថបទរបស់មិត្តរួមការងារឬទុកកំណត់ចំណាំសម្រាប់ខ្លួនអ្នកអំពីអ្វីដែលត្រូវធ្វើនៅពេលក្រោយ។"
+
+#~ msgid "<shortcut><keycap>F2</keycap></shortcut> <guimenu>Insert</guimenu> <guimenuitem>Slide...</guimenuitem>"
+#~ msgstr "<shortcut><keycap> F2 </keycap></shortcut><guimenu> បញ្ចូល </guimenu><guimenuitem> ស្លាយ ... </guimenuitem>"
+
+#~ msgid "<action>Add a new page to your presentation.</action> A dialog will open allowing you to choose a template, and whether to insert the new page before or after the currently selected page."
+#~ msgstr "<action> បន្ថែមទំព័រថ្មីទៅបទបង្ហាញរបស់អ្នក។ </action> ប្រអប់មួយនឹងបើកដែលអនុញ្ញាតឱ្យអ្នកជ្រើសរើសគំរូនិងថាតើត្រូវបញ្ចូលទំព័រថ្មីមុនរឺក្រោយទំព័រដែលបានជ្រើសរើសបច្ចុប្បន្ន។"
+
+#~ msgid "<shortcut><keycap>F10</keycap></shortcut> <guimenu>Insert</guimenu><guimenuitem>Text</guimenuitem>"
+#~ msgstr "<shortcut><keycap> F10 </keycap></shortcut><guimenu> បញ្ចូល </guimenu><guimenuitem> អត្ថបទ </guimenuitem>"
+
+#~ msgid "Add a new text object. Click and drag to create a frame where you wish the text to appear."
+#~ msgstr "បន្ថែមវត្ថុអត្ថបទថ្មី។ ចុចហើយអូសដើម្បីបង្កើតស៊ុមដែលអ្នកចង់អោយអត្ថបទលេចចេញមក។"
+
+#, fuzzy
+#~ msgid "<guimenu>Insert</guimenu> <guimenuitem>Chart</guimenuitem>"
+#~ msgstr "<guimenu> បញ្ចូល </guimenu><guimenuitem> គំនូសតាង </guimenuitem>"
+
+#~ msgid "Insert a chart. Click and drag to define the size of the chart. Some default data will be displayed. Double click to edit the data and choose the type of chart to display, using the embedded &kchart; editor."
+#~ msgstr "បញ្ចូលគំនូសតាង។ ចុចហើយអូសដើម្បីកំណត់ទំហំតារាង។ ទិន្នន័យលំនាំដើមមួយចំនួននឹងត្រូវបានបង្ហាញ។ ចុចទ្វេដងដើម្បីកែសម្រួលទិន្នន័យនិងជ្រើសរើសប្រភេទគំនូសតាងដើម្បីបង្ហាញដោយប្រើកាស្តាតដែលបានបង្កប់។ កម្មវិធីនិពន្ធ។"
+
+#~ msgid "<shortcut><keycap>F5</keycap></shortcut> <guimenu>Insert</guimenu><guimenuitem>Table</guimenuitem>"
+#~ msgstr "<shortcut><keycap> F5 </keycap></shortcut><guimenu> បញ្ចូល </guimenu><guimenuitem> ផ្ទៃ Desktop</guimenuitem>"
+
+#~ msgid "Insert a table. Click and drag to define the size of the table."
+#~ msgstr "បញ្ចូលតារាង។ ចុចហើយអូសដើម្បីកំណត់ទំហំតារាង។"
+
+#~ msgid "A &kspread; open dialog will display. You may import a spreadsheet that you have saved in one of many formats, including plain text files. You may also choose to create a new and empty table."
+#~ msgstr "kspread មួយ; ប្រអប់បើកនឹងបង្ហាញ។ អ្នកអាចនាំចូលសៀវភៅបញ្ជីដែលអ្នកបានរក្សាទុកក្នុងទម្រង់មួយក្នុងចំណោមទ្រង់ទ្រាយជាច្រើនរួមទាំងឯកសារអត្ថបទធម្មតា។ អ្នកក៏អាចជ្រើសរើសបង្កើតតារាងថ្មីនិងទទេ។"
+
+#~ msgid "Double clicking on the table will allow you to edit the contents."
+#~ msgstr "ការចុចទ្វេដងលើតុនឹងអនុញ្ញាតឱ្យអ្នកកែសម្រួលមាតិកា។"
+
+#~ msgid "<guimenu>Insert</guimenu> <guisubmenu>Object</guisubmenu>"
+#~ msgstr "<guimenu> បញ្ចូល </guimenu><guisubmenu> វត្ថុ </guisubmenu>"
+
+#~ msgid "An object is an embeddable file, in one of many formats."
+#~ msgstr "វត្ថុគឺជាឯកសារដែលអាចបង្កប់បានក្នុងទម្រង់មួយក្នុងចំណោមទំរង់ជាច្រើន។"
+
+#~ msgid "A common use of this action is to insert scaleable clipart in vector format."
+#~ msgstr "ការប្រើជាទូទៅនៃសកម្មភាពនេះគឺបញ្ចូលខ្ទាស់ដែលអាចពង្រីកបានក្នុងទ្រង់ទ្រាយវ៉ិចទ័រ។"
+
+#~ msgid "<action>Insert a raster image.</action> These are not as easily scaleable as vector images or <quote>clipart</quote>. &kpresenter; currently understands many formats, including <literal role=\"extension\">.tiff</literal>, <literal role=\"extension\">.jpg</literal>, <literal role=\"extension\">.png</literal> and many more."
+#~ msgstr "<action> បញ្ចូលរូបភាពជួរបញ្ឈរ។ </action> ទាំងនេះមិនអាចវាស់វែងបានដូចរូបភាពវ៉ិចទ័រឬ <quote> គំនូរ​រូបភាព </quote> ។ kp អ្នកបង្ហាញ; បច្ចុប្បន្នយល់ពីទ្រង់ទ្រាយជាច្រើនរួមទាំង <literal role=\"extension\"> .tiff </literal> , <literal role=\"extension\"> .jpg </literal> , <literal role=\"extension\"> ។ ភីង </literal> និងច្រើនទៀត។"
+
+#~ msgid "<guimenu>Insert</guimenu> <guisubmenu>Line</guisubmenu>"
+#~ msgstr "<guimenu> បញ្ចូល </guimenu><guisubmenu> បន្ទាត់ </guisubmenu>"
+
+#, fuzzy
+#~ msgid "You can insert several types of lines. Line drawing is described further in the drawing tools section."
+#~ msgstr "អ្នកអាចបញ្ចូលប្រភេទខ្សែជាច្រើនប្រភេទ។ ការគូរបន្ទាត់ត្រូវបានពិពណ៌នាបន្ថែមទៀតនៅក្នុងផ្នែកឧបករណ៍គំនូរ។"
+
+#~ msgid "<guimenu>Insert</guimenu> <guisubmenu>Shape</guisubmenu>"
+#~ msgstr "<guimenu> បញ្ចូល </guimenu><guisubmenu> រាង </guisubmenu>"
+
+#~ msgid "You can insert several prepared shapes, in vector format. These are editable just like lines you have drawn yourself. Using the drawing tools is described in detail in the drawing tools section."
+#~ msgstr "អ្នកអាចបញ្ចូលរាងដែលបានរៀបចំជាច្រើនតាមទ្រង់ទ្រាយវ៉ិចទ័រ។ ទាំងនេះអាចកែប្រែបានដូចបណ្តាញដែលអ្នកបានគូរ។ ការប្រើប្រាស់ឧបករណ៍គំនូរត្រូវបានពិពណ៌នាលម្អិតនៅក្នុងផ្នែកឧបករណ៍គំនូរ។"
+
+#~ msgid "<guimenu>Format</guimenu> Menu"
+#~ msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu> មឺនុយ"
+
+#~ msgid "<guimenu>Format</guimenu> <guimenuitem>Select</guimenuitem>"
+#~ msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> ជ្រើសរើស </guimenuitem>"
+
+#~ msgid "If you have been using a tool such as the line drawing tool which does not allow you to select other objects, you can use this menu item to return to the normal selection cursor."
+#~ msgstr "ប្រសិនបើអ្នកបានប្រើឧបករណ៍ដូចជាឧបករណ៍គូរបន្ទាត់ដែលមិនអនុញ្ញាតឱ្យអ្នកជ្រើសរើសវត្ថុផ្សេងទៀតអ្នកអាចប្រើធាតុម៉ឺនុយនេះដើម្បីត្រឡប់ទៅទស្សន៍ទ្រនិចជម្រើសធម្មតា។"
+
+#~ msgid "<guimenu>Format</guimenu> <guimenuitem>Rotate</guimenuitem>"
+#~ msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> បង្វិល </guimenuitem>"
+
+#, fuzzy
+#~ msgid "Changes the cursor to a double headed curved arrow. Click with the &LMB; onto an object and keep the button pressed. Drag with the cursor to rotate the object on the slide around its center. When you are happy with the position of the object, release the mousebutton to stop rotating."
+#~ msgstr "ផ្លាស់ប្តូរទស្សន៍ទ្រនិចទៅព្រួញក្បាលកោងទ្វេ។ ចុចជាមួយអិលអូអិល។ ទៅលើវត្ថុហើយចុចប៊ូតុង។ អូសជាមួយទស្សន៍ទ្រនិចដើម្បីបង្វិលវត្ថុនៅលើស្លាយជុំវិញមជ្ឈមណ្ឌលរបស់វា។ នៅពេលអ្នកសប្បាយចិត្តនឹងទីតាំងរបស់វត្ថុសូមលែងប៊ូតុងកណ្តុរដើម្បីបញ្ឈប់ការបង្វិល។"
+
+#, fuzzy
+#~ msgid "If you change your mind and wish to cancel the rotation, use <menuchoice><guimenu>Edit</guimenu><guimenuitem>Undo</guimenuitem> </menuchoice> to later undo it."
+#~ msgstr "ប្រសិនបើអ្នកផ្លាស់ប្តូរគំនិតរបស់អ្នកហើយចង់បោះបង់ចោលការបង្វិលសូមប្រើ <menuchoice><guimenu> កែសម្រួល </guimenu><guimenuitem> មិនធ្វើវិញ </guimenuitem></menuchoice> ដើម្បីមិនធ្វើវិញនៅពេលក្រោយ។"
+
+#, fuzzy
+#~ msgid "<guimenu>Format</guimenu> <guimenuitem>Zoom</guimenuitem>"
+#~ msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> ពង្រីក </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<screeninfo>The <guilabel>zoom factor</guilabel> indicator</screeninfo>"
+#~ msgstr "<screeninfo> នេះ <guilabel> កត្តាពង្រីក </guilabel> សូចនាករ </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>The <guilabel>zoom factor</guilabel> indicator</phrase>"
+#~ msgstr "<phrase> នេះ <guilabel> កត្តាពង្រីក </guilabel> សូចនាករ </phrase>"
+
+#, fuzzy
+#~ msgid "This action has the same effect as <menuchoice><guimenu>View</guimenu><guimenuitem>Zoom</guimenuitem> </menuchoice> on another form."
+#~ msgstr "សកម្មភាពនេះមានឥទ្ធិពលដូចគ្នា <menuchoice><guimenu> មើល </guimenu><guimenuitem> ពង្រីក </guimenuitem></menuchoice> នៅលើសំណុំបែបបទមួយផ្សេងទៀត។"
+
+#~ msgid "<guimenu>Format</guimenu> <guimenuitem>Properties</guimenuitem>"
+#~ msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> លក្ខណៈសម្បត្តិ </guimenuitem>"
+
+#, fuzzy
+#~ msgid "The <guilabel>Properties</guilabel> dialog"
+#~ msgstr "នេះ <guilabel> លក្ខណៈសម្បត្តិ </guilabel> ប្រអប់"
+
+#, fuzzy
+#~ msgid "The <guilabel>Properties</guilabel>dialog"
+#~ msgstr "នេះ <guilabel> លក្ខណៈសម្បត្តិ </guilabel> ប្រអប់"
+
+#~ msgid "<guimenu>Format</guimenu> <guisubmenu>Arrange Objects</guisubmenu>"
+#~ msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guisubmenu> រៀបចំវត្ថុ </guisubmenu>"
+
+#~ msgid "This is where you can manipulate the stacking order of objects on the slide."
+#~ msgstr "នេះគឺជាកន្លែងដែលអ្នកអាចរៀបចំលំដាប់នៃវត្ថុនៅលើស្លាយ។"
+
+#~ msgid "An object that is on top will cover, either partially or fully depending on its size, all other objects beneath it. Meanwhile an object on the bottom of the stack may not be visible at all, as it is covered up by other objects. An object in the middle may be partially covered by other objects, while partially covering yet more objects itself."
+#~ msgstr "វត្ថុដែលស្ថិតនៅពីលើនឹងគ្របលើទាំងផ្នែកខ្លះឬទាំងស្រុងអាស្រ័យលើទំហំរបស់វាវត្ថុផ្សេងទៀតនៅពីក្រោមវា។ ទន្ទឹមនឹងនេះវត្ថុមួយនៅផ្នែកខាងក្រោមនៃជង់ប្រហែលជាមិនអាចមើលឃើញទាល់តែសោះព្រោះវាត្រូវបានបិទបាំងដោយវត្ថុផ្សេងទៀត។ វត្ថុមួយនៅកណ្តាលអាចត្រូវបានគ្របដណ្ដប់ដោយផ្នែកខ្លះនៃវត្ថុផ្សេងទៀតខណៈពេលដែលផ្នែកខ្លះគ្របលើវត្ថុជាច្រើនទៀត។"
+
+#~ msgid "You can send the selected object down or up a layer, or directly to the top or bottom of the stack."
+#~ msgstr "អ្នកអាចផ្ញើវត្ថុដែលបានជ្រើសចុះក្រោមឬឡើងលើស្រទាប់ឬដោយផ្ទាល់ទៅខាងលើឬខាងក្រោមនៃជង់។"
+
+#~ msgid "<guimenu>Format</guimenu> <guisubmenu>Align Objects</guisubmenu>"
+#~ msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guisubmenu> តម្រឹមវត្ថុ </guisubmenu>"
+
+#~ msgid "In the submenu you can quickly align all the currently selected objects with a side of the slide, or center them either vertically or horizontally."
+#~ msgstr "នៅក្នុងម៉ឺនុយរងអ្នកអាចតម្រឹមវត្ថុដែលបានជ្រើសបច្ចុប្បន្នទាំងអស់យ៉ាងរហ័សជាមួយផ្នែកម្ខាងនៃស្លាយឬដាក់កណ្តាលពួកវាទាំងបញ្ឈរឬផ្ដេក។"
+
+#, fuzzy
+#~ msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>G</keycap></keycombo> </shortcut> <guimenu>Format</guimenu> <guimenuitem>Group Objects</guimenuitem>"
+#~ msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap> ឆ </keycap></keycombo></shortcut><guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> វត្ថុក្រុម </guimenuitem>"
+
+#, fuzzy
+#~ msgid "If you are drawing, you might want to make something out of several objects. Arrange the individual parts where you want them, select one, then hold down the &Ctrl; key as you click in the others you want to group together. Click <guimenuitem>Group Objects</guimenuitem> and from then on they act as if they are just one thing. It glues things together."
+#~ msgstr "ប្រសិនបើអ្នកកំពុងគូរអ្នកប្រហែលជាចង់បង្កើតអ្វីមួយចេញពីវត្ថុមួយចំនួន។ រៀបចំផ្នែកនីមួយៗដែលអ្នកចង់បានសូមជ្រើសរើសផ្នែកមួយបន្ទាប់មកសង្កត់បញ្ជា (Ctrl) ។ ចុចលើប៊ូតុងដែលអ្នកចង់ដាក់ជាក្រុម។ ចុច <guimenuitem> វត្ថុក្រុម </guimenuitem> ហើយចាប់ពីពេលនោះមកពួកគេធ្វើសកម្មភាពដូចជាពួកគេគ្រាន់តែជារឿងមួយ។ វាលាយវត្ថុជាមួយគ្នា។"
+
+#, fuzzy
+#~ msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;&Shift;<keycap>G</keycap></keycombo> </shortcut> <guimenu>Format</guimenu> <guimenuitem>Ungroup Objects</guimenuitem>"
+#~ msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) ប្ដូរ; <keycap> ឆ </keycap></keycombo></shortcut><guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> បំបែកក្រុម </guimenuitem>"
+
+#~ msgid "If you decide that you want to alter an object that is made out of several pieces, you can unglue it with this tool. Click somewhere away from the object to deselect it, then click to select one of its parts."
+#~ msgstr "ប្រសិនបើអ្នកសំរេចថាអ្នកចង់ផ្លាស់ប្តូរវត្ថុមួយដែលត្រូវបានបង្កើតឡើងពីបំណែកជាច្រើនអ្នកអាចធ្វើឱ្យវាមិនដំណើរការដោយឧបករណ៍នេះ។ ចុចកន្លែងណាមួយឆ្ងាយពីវត្ថុដើម្បីដោះជម្រើសបន្ទាប់មកចុចដើម្បីជ្រើសរើសផ្នែកមួយរបស់វា។"
+
+#, fuzzy
+#~ msgid "<guimenu>Format</guimenu> <guimenuitem>Shadow Objects...</guimenuitem>"
+#~ msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> វត្ថុស្រមោល ... </guimenuitem>"
+
+#, fuzzy
+#~ msgid "This puts a colored copy of either text or a drawn object behind it. You can make nice <quote>dropped shadows</quote> for logos with this tool. To enable this item, ensure that you have object(s) selected (you will see the eight small squares around the outline.) You choose the color, select which way the shadow is going to fall and select a distance. For text it looks nice if you set the distance to two or three. Click <guibutton>Apply</guibutton> to see the result of your settings for all selected objects on the slide without leaving the dialog."
+#~ msgstr "នេះដាក់ច្បាប់ចម្លងពណ៌នៃអត្ថបទឬវត្ថុដែលគូរនៅពីក្រោយវា។ អ្នកអាចធ្វើឱ្យស្រស់ស្អាត <quote> ទម្លាក់ស្រមោល </quote> សម្រាប់ស្លាកសញ្ញាជាមួយឧបករណ៍នេះ។ ដើម្បីបើកធាតុនេះត្រូវប្រាកដថាអ្នកបានជ្រើសរើសវត្ថុ (អ្នកនឹងឃើញការ៉េតូចៗចំនួនប្រាំបីនៅជុំវិញគ្រោង។ ) អ្នកជ្រើសរើសពណ៌ជ្រើសរើសវិធីណាដែលស្រមោលនឹងធ្លាក់ចុះហើយជ្រើសរើសចម្ងាយ។ សម្រាប់អត្ថបទវាមើលទៅស្រស់ស្អាតប្រសិនបើអ្នកកំណត់ចម្ងាយពីរឬបី។ ចុច <guibutton> អនុវត្ត </guibutton> ដើម្បីមើលលទ្ធផលនៃការកំណត់របស់អ្នកសម្រាប់វត្ថុដែលបានជ្រើសរើសនៅលើស្លាយដោយមិនចាំបាច់ទុកប្រអប់។"
+
+#, fuzzy
+#~ msgid "<guimenu>Format</guimenu> <guimenuitem>Enable/Disable Document Header</guimenuitem>"
+#~ msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> បើក / បិទបឋមកថាឯកសារ </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<guimenu>Format</guimenu> <guimenuitem>Enable/Disable Document Footer</guimenuitem>"
+#~ msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> បើក / បិទដំណើរការបាតកថាឯកសារ </guimenuitem>"
+
+#~ msgid "<guimenu>Format</guimenu> <guimenuitem>Slide Background...</guimenuitem>"
+#~ msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> ផ្ទៃខាងក្រោយស្លាយ ... </guimenuitem>"
+
+#, fuzzy
+#~ msgid "Allows you to alter the background to your presentation slides. Your options are <guilabel>Color/Gradient</guilabel>, (which lets you set either a plain color or one of many gradients) or <guilabel>Picture</guilabel>, which gives a dialog box to find the picture you want. Set the <guilabel>View mode:</guilabel> for this picture to <guilabel>Scaled</guilabel>, <guilabel>Centered</guilabel>, or <guilabel>Tiled</guilabel>."
+#~ msgstr "អនុញ្ញាតឱ្យអ្នកផ្លាស់ប្តូរផ្ទៃខាងក្រោយទៅស្លាយបទបង្ហាញរបស់អ្នក។ ជម្រើសរបស់អ្នកគឺ <guilabel> ពណ៌ / ពណ៌ជម្រាល </guilabel> , (ដែលអនុញ្ញាតឱ្យអ្នកកំណត់ពណ៌ធម្មតាឬពណ៌ជម្រាលមួយក្នុងចំណោមពណ៌ជម្រាលជាច្រើន) ឬ <guilabel> រូបភាព </guilabel> ដែលផ្តល់នូវប្រអប់មួយដើម្បីរករូបភាពដែលអ្នកចង់បាន។ កំណត់ <guilabel> របៀបមើល៖ </guilabel> សម្រាប់រូបភាពនេះ <guilabel> ធ្វើមាត្រដ្ឋាន </guilabel> , <guilabel> កណ្តាល </guilabel> , ឬ <guilabel> ក្បឿង </guilabel>"
+
+#~ msgid "If you want a plain color, click in the box to select it. Gradients only work when you have chosen two colors. The picture option allows you to center the picture, zoom it to cover the entire slide (if it is smaller than the screen, this is very useful) or tile it. This is used when you want a small pattern to repeat across the page. It's probably best used with patterns rather than pictures of logos."
+#~ msgstr "ប្រសិនបើអ្នកចង់បានពណ៌ធម្មតាសូមចុចក្នុងប្រអប់ដើម្បីជ្រើសរើសវា។ ជម្រាលដំណើរការតែនៅពេលអ្នកជ្រើសរើសពណ៌ពីរប៉ុណ្ណោះ។ ជម្រើសរូបភាពអនុញ្ញាតឱ្យអ្នកដាក់រូបភាពកណ្តាលពង្រីកវាដើម្បីគ្របលើស្លាយទាំងមូល (ប្រសិនបើវាតូចជាងអេក្រង់វាមានប្រយោជន៍ណាស់) ឬដាក់ក្បឿង។ វាត្រូវបានប្រើនៅពេលអ្នកចង់បានលំនាំតូចមួយដើម្បីធ្វើម្តងទៀតនៅលើទំព័រ។ វាប្រហែលជាត្រូវបានប្រើជាមួយលំនាំជាជាងរូបភាពឡូហ្គោ។"
+
+#~ msgid "You can get rid of a picture by selecting another one or choosing a color/gradient."
+#~ msgstr "អ្នកអាចកម្ចាត់រូបភាពដោយជ្រើសរើសរូបភាពមួយផ្សេងទៀតឬជ្រើសរើសពណ៌ / ពណ៌ជម្រាល។"
+
+#~ msgid "<guimenu>Text</guimenu> Menu"
+#~ msgstr "<guimenu> អត្ថបទ </guimenu> មឺនុយ"
+
+#, fuzzy
+#~ msgid "This menu modifies selected text and provides a few tools familiar from word processing applications for your convienience for when you are making presentations with large amounts of text in them. The <guimenu>Text</guimenu> menu will only effect selected or highlighted text."
+#~ msgstr "មឺនុយនេះកែប្រែអត្ថបទដែលបានជ្រើសរើសនិងផ្តល់នូវឧបករណ៍មួយចំនួនដែលធ្លាប់ស្គាល់ពីកម្មវិធីដំណើរការពាក្យសម្រាប់ភាពងាយស្រួលរបស់អ្នកនៅពេលអ្នកធ្វើបទបង្ហាញដែលមានបរិមាណដ៏ច្រើននៃអត្ថបទនៅក្នុងនោះ។ នេះ <guimenu> អត្ថបទ </guimenu> ម៉ឺនុយនឹងមានប្រសិទ្ធិភាពតែអត្ថបទដែលបានជ្រើសឬបានបន្លិចប៉ុណ្ណោះ។"
+
+#~ msgid "<guimenu>Text</guimenu> <guimenuitem>Default Format</guimenuitem>"
+#~ msgstr "<guimenu> អត្ថបទ </guimenu><guimenuitem> ទ្រង់ទ្រាយលំនាំដើម </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<screeninfo>The <guilabel>Select Font</guilabel> dialog</screeninfo>"
+#~ msgstr "<screeninfo> នេះ <guilabel> ជ្រើសរើសពុម្ពអក្សរ </guilabel> ប្រអប់ </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>The <guilabel>Select Font</guilabel> dialog</phrase>"
+#~ msgstr "<phrase> នេះ <guilabel> ជ្រើសរើសពុម្ពអក្សរ </guilabel> ប្រអប់ </phrase>"
+
+#~ msgid "<guimenu>Text</guimenu> <guimenuitem>Color...</guimenuitem>"
+#~ msgstr "<guimenu> អត្ថបទ </guimenu><guimenuitem> ពណ៌ ... </guimenuitem>"
+
+#, fuzzy
+#~ msgid "Use the <guilabel>Select Color</guilabel> dialog to have precise control over the color of selected text:"
+#~ msgstr "ប្រើ <guilabel> ជ្រើសរើសពណ៌ </guilabel> ប្រអប់ដែលមានការគ្រប់គ្រងច្បាស់លាស់លើពណ៌នៃអត្ថបទដែលបានជ្រើសរើស៖"
+
+#, fuzzy
+#~ msgid "<screeninfo>The <guilabel>Select Color</guilabel> dialog</screeninfo>"
+#~ msgstr "<screeninfo> នេះ <guilabel> ជ្រើសរើសពណ៌ </guilabel> ប្រអប់ </screeninfo>"
+
+#, fuzzy
+#~ msgid "<phrase>The <guilabel>Select Color</guilabel> dialog</phrase>"
+#~ msgstr "<phrase> នេះ <guilabel> ជ្រើសរើសពណ៌ </guilabel> ប្រអប់ </phrase>"
+
+#, fuzzy
+#~ msgid "Here you can import styles that you have defined in another &kpresenter; document."
+#~ msgstr "នៅទីនេះអ្នកអាចនាំចូលរចនាប័ទ្មដែលអ្នកបានកំណត់នៅក្នុងអ្នកចូលរួមផ្សេងទៀត។ ឯកសារ"
+
+#~ msgid "<guimenu>Text</guimenu> <guisubmenu>Style</guisubmenu>"
+#~ msgstr "<guimenu> អត្ថបទ </guimenu><guisubmenu> ស្តាយ </guisubmenu>"
+
+#, fuzzy
+#~ msgid "Using this submenu, you can apply a style that you have previously defined to the currently selected text."
+#~ msgstr "ដោយប្រើម៉ឺនុយរងនេះអ្នកអាចអនុវត្តរចនាប័ទ្មដែលអ្នកបានកំណត់ពីមុនទៅអត្ថបទដែលបានជ្រើសរើសបច្ចុប្បន្ន។"
+
+#~ msgid "<guimenu>Text</guimenu> <guimenuitem>Create Style From Selection</guimenuitem>"
+#~ msgstr "<guimenu> អត្ថបទ </guimenu><guimenuitem> បង្កើតស្ទីលពីការជ្រើសរើស </guimenuitem>"
+
+#~ msgid "Copy the properties of the currently selected text and save them as a style that you may apply to other text."
+#~ msgstr "ចម្លងលក្ខណសម្បត្តិនៃអត្ថបទដែលបានជ្រើសរើសបច្ចុប្បន្នហើយរក្សាទុកវាជាស្ទីលដែលអ្នកអាចអនុវត្តចំពោះអត្ថបទផ្សេងទៀត។"
+
+#, fuzzy
+#~ msgid "<guimenu>Text</guimenu> <guisubmenu>Align</guisubmenu>"
+#~ msgstr "<guimenu> អត្ថបទ </guimenu><guisubmenu> តម្រឹម </guisubmenu>"
+
+#, fuzzy
+#~ msgid "<guisubmenu>Align</guisubmenu> has a submenu with several options: <guimenuitem>Align Left</guimenuitem> (<keycombo action=\"simul\">&Alt;<keycap>L</keycap></keycombo>), <guimenuitem>Align Center</guimenuitem> (<keycombo action=\"simul\">&Alt;<keycap>C</keycap></keycombo>), <guimenuitem>Align Right</guimenuitem> (<keycombo action=\"simul\">&Alt;<keycap>R</keycap></keycombo>), and <guimenuitem>Align Block</guimenuitem> (<keycombo action=\"simul\">&Alt;<keycap>J</keycap></keycombo>) which is also commonly known as <quote>Justify</quote>."
+#~ msgstr "<guisubmenu> តម្រឹម </guisubmenu> មានម៉ឺនុយរងដែលមានជំរើសជាច្រើន៖ <guimenuitem> តម្រឹមឆ្វេង </guimenuitem> ( <keycombo action=\"simul\"> Alt; <keycap> អិល </keycap></keycombo> ), <guimenuitem> តម្រឹមមជ្ឈមណ្ឌល </guimenuitem> ( <keycombo action=\"simul\"> Alt; <keycap> គ </keycap></keycombo> ), <guimenuitem> តម្រឹមស្តាំ </guimenuitem> ( <keycombo action=\"simul\"> Alt; <keycap> R </keycap></keycombo> ) និង <guimenuitem> តម្រឹមប្លុក </guimenuitem> ( <keycombo action=\"simul\"> Alt; <keycap> ច </keycap></keycombo> ) ដែលត្រូវបានគេស្គាល់ជាទូទៅផងដែរ <quote> រាប់ជាសុចរិត </quote>"
+
+#, fuzzy
+#~ msgid "Text is by default left-aligned."
+#~ msgstr "អត្ថបទតម្រឹមឆ្វេងឆ្វេងតាមលំនាំដើម។"
+
+#~ msgid "<guimenu>Text</guimenu> <guisubmenu>Type</guisubmenu>"
+#~ msgstr "<guimenu> អត្ថបទ </guimenu><guisubmenu> ប្រភេទ </guisubmenu>"
+
+#, fuzzy
+#~ msgid "Using this submenu, you can format the currently selected text as a list, either of the numbered or bulleted type. If you choose numbered, you can then select a numbering style, and likewise if you choose bulleted, you can choose the style of bullets to use."
+#~ msgstr "ដោយប្រើម៉ឺនុយរងនេះអ្នកអាចធ្វើទ្រង់ទ្រាយអត្ថបទដែលបានជ្រើសបច្ចុប្បន្នជាបញ្ជីទាំងប្រភេទលេខឬចំណុច។ ប្រសិនបើអ្នកជ្រើសរើសលេខរៀងបន្ទាប់មកអ្នកអាចជ្រើសរើសរចនាប័ទ្មលេខរៀងហើយដូចគ្នានេះដែរប្រសិនបើអ្នកជ្រើសរើសចំណុចអ្នកអាចជ្រើសរើសស្ទីលចំណុចដែលត្រូវប្រើ។"
+
+#~ msgid "To change a list back to plain text, select <guimenuitem>None</guimenuitem> as the style."
+#~ msgstr "ដើម្បីផ្លាស់ប្តូរបញ្ជីត្រឡប់ទៅអត្ថបទធម្មតាវិញជ្រើសរើស <guimenuitem> គ្មាន </guimenuitem> ដូចស្ទីល។"
+
+#~ msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>+</keycap></keycombo> </shortcut> <guimenu>Text</guimenu> <guimenuitem>Increase Depth</guimenuitem>"
+#~ msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap>+</keycap></keycombo></shortcut><guimenu> អត្ថបទ </guimenu><guimenuitem> បង្កើនជម្រៅ </guimenuitem>"
+
+#~ msgid "<shortcut> <keycombo action=\"simul\">&Ctrl;<keycap>-</keycap></keycombo> </shortcut> <guimenu>Text</guimenu> <guimenuitem>Decrease Depth</guimenuitem>"
+#~ msgstr "<shortcut><keycombo action=\"simul\"> បញ្ជា (Ctrl) <keycap>-</keycap></keycombo></shortcut><guimenu> អត្ថបទ </guimenu><guimenuitem> បន្ថយជម្រៅ </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<guimenuitem>Increase Depth</guimenuitem> and <guimenuitem>Decrease Depth</guimenuitem> move paragraphs in a list either to the right (<guimenuitem>Increase Depth</guimenuitem>) or back to the left (<guimenuitem>Decrease Depth</guimenuitem>)."
+#~ msgstr "<guimenuitem> បង្កើនជម្រៅ </guimenuitem> និង <guimenuitem> បន្ថយជម្រៅ </guimenuitem> ផ្លាស់ទីកថាខណ្ឌក្នុងបញ្ជីទាំងទៅខាងស្ដាំ ( <guimenuitem> បង្កើនជម្រៅ </guimenuitem> ) ឬត្រលប់ទៅខាងឆ្វេង ( <guimenuitem> បន្ថយជម្រៅ </guimenuitem> ) ។"
+
+#, fuzzy
+#~ msgid "<guimenu>Text</guimenu> <guimenuitem>Extend Contents to Object Height</guimenuitem>"
+#~ msgstr "<guimenu> អត្ថបទ </guimenu><guimenuitem> ពង្រីកមាតិកាចំពោះកម្ពស់វត្ថុ </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<guimenu>Text</guimenu> <guimenuitem>Extend Object to Fit Contents</guimenuitem>"
+#~ msgstr "<guimenu> អត្ថបទ </guimenu><guimenuitem> ពង្រីកវត្ថុឱ្យសមនឹងមាតិកា </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<guimenuitem>Extend Contents to Object Height</guimenuitem> and <guimenuitem>Extend Object to Fit Contents</guimenuitem> help to resize text within the text box or make the text box fit the text you have typed or pasted into it."
+#~ msgstr "<guimenuitem> ពង្រីកមាតិកាចំពោះកម្ពស់វត្ថុ </guimenuitem> និង <guimenuitem> ពង្រីកវត្ថុឱ្យសមនឹងមាតិកា </guimenuitem> ជួយក្នុងការផ្លាស់ប្តូរទំហំអក្សរនៅក្នុងប្រអប់អត្ថបទឬធ្វើឱ្យប្រអប់អត្ថបទសមនឹងអត្ថបទដែលអ្នកបានវាយឬបិទភ្ជាប់ទៅក្នុងនោះ។"
+
+#~ msgid "<guimenu>Text</guimenu> <guimenuitem>Change Case...</guimenuitem>"
+#~ msgstr "<guimenu> អត្ថបទ </guimenu><guimenuitem> ផ្លាស់ប្តូរករណី ... </guimenuitem>"
+
+#, fuzzy
+#~ msgid "Presents a dialog that provides a variety of different case/capitalization options for the currently selected text."
+#~ msgstr "បង្ហាញប្រអប់ដែលផ្តល់នូវជម្រើសករណី / មូលធនកម្មផ្សេងៗគ្នាសម្រាប់អត្ថបទដែលបានជ្រើសរើសបច្ចុប្បន្ន។"
+
+#, fuzzy
+#~ msgid "You may choose between several styles of capitalization, including all lower or uppercase, book style capitalization where each word except conjunctions has an initial capital letter, and sentence style capitalization where the first word in a sentence is capitalized. You can also toggle the case, so that uppercase becomes lowercase, and vice versa."
+#~ msgstr "អ្នកអាចជ្រើសរើសរវាងអក្សរជាច្រើននៃអក្សរធំរួមទាំងអក្សរធំឬអក្សរធំអក្សរធំដែលពាក្យនីមួយៗលើកលែងតែការភ្ជាប់គ្នាមានអក្សរធំដំបូងនិងអក្សរធំបែបប្រយោគដែលពាក្យដំបូងក្នុងប្រយោគត្រូវបានសរសេរជាអក្សរធំ។ អ្នកក៏អាចបិទបើកករណីដូច្នេះអក្សរធំក្លាយជាអក្សរតូចនិងច្រាសមកវិញ។"
+
+#~ msgid "<guimenu>Text</guimenu> <guisubmenu>Spellcheck</guisubmenu>"
+#~ msgstr "<guimenu> អត្ថបទ </guimenu><guisubmenu> អក្ខរាវិរុទ្ធ </guisubmenu>"
+
+#, fuzzy
+#~ msgid "If you prefer to check spelling explicitly, rather than automatically, you can also force a <guimenuitem>Spelling...</guimenuitem> check here."
+#~ msgstr "ប្រសិនបើអ្នកចូលចិត្តពិនិត្យអក្ខរាវិរុទ្ធយ៉ាងជាក់លាក់ជាជាងស្វ័យប្រវត្តិអ្នកក៏អាចបង្ខំ a ដែរ <guimenuitem> អក្ខរាវិរុទ្ធ ... </guimenuitem> ពិនិត្យនៅទីនេះ។"
+
+#, fuzzy
+#~ msgid "<guimenu>Text</guimenu> <guisubmenu>Autocorrection</guisubmenu>"
+#~ msgstr "<guimenu> អត្ថបទ </guimenu><guisubmenu> ការកែស្វ័យប្រវត្តិ </guisubmenu>"
+
+#, fuzzy
+#~ msgid "Use this submenu to utilize autocorrection options. If you <guimenuitem>Enable Autocorrection</guimenuitem>, common spelling errors will be corrected as you type. For example, if you entered <userinput>Teh</userinput>, it would be autocorrected to <userinput>The</userinput>."
+#~ msgstr "ប្រើម៉ឺនុយរងនេះដើម្បីប្រើជម្រើសកែស្វ័យប្រវត្តិ។ ប្រសិនបើ​អ្នក <guimenuitem> បើកដំណើរការកែស្វ័យប្រវត្តិ </guimenuitem> កំហុសអក្ខរាវិរុទ្ធទូទៅនឹងត្រូវបានកែតម្រូវនៅពេលអ្នកវាយបញ្ចូល។ ឧទាហរណ៍ប្រសិនបើអ្នកបានបញ្ចូល <userinput> តេ </userinput> វានឹងត្រូវបានបង្កើតដោយស្វ័យប្រវត្តិទៅ <userinput> នេះ </userinput>"
+
+#, fuzzy
+#~ msgid "<guimenu>Slide Show</guimenu> <guimenuitem>Edit Object Effect...</guimenuitem>"
+#~ msgstr "<guimenu> បញ្ចាំងស្លាយ </guimenu><guimenuitem> កែបែបផែនវត្ថុ ... </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<guimenu>Slide Show</guimenu> <guimenuitem>Edit Slide Transition...</guimenuitem>"
+#~ msgstr "<guimenu> បញ្ចាំងស្លាយ </guimenu><guimenuitem> កែដំណើរផ្លាស់ប្តូរស្លាយ ... </guimenuitem>"
+
+#~ msgid "Apply transition effects to the currently open slide. This is where you can choose how the transition from one slide to the next will be handled."
+#~ msgstr "អនុវត្តបែបផែនដំណើរផ្លាស់ប្តូរទៅស្លាយបើកបច្ចុប្បន្ន។ នេះជាកន្លែងដែលអ្នកអាចជ្រើសរើសវិធីផ្លាស់ប្តូរពីស្លាយមួយទៅផ្ទាំងមួយទៀតនឹងត្រូវបានដោះស្រាយ។"
+
+#~ msgid "The transition effects you select here are applied on the transition <emphasis>from</emphasis> this slide <emphasis>to</emphasis> the next."
+#~ msgstr "ផលប៉ះពាល់នៃការផ្លាស់ប្តូរដែលអ្នកជ្រើសរើសនៅទីនេះត្រូវបានអនុវត្តលើការផ្លាស់ប្តូរ <emphasis> ពី </emphasis> ស្លាយនេះ <emphasis> ទៅ </emphasis> បន្ទាប់។"
+
+#, fuzzy
+#~ msgid "<shortcut><keycap>F12</keycap></shortcut> <guimenu>Slide Show</guimenu> <guimenuitem>Start</guimenuitem>"
+#~ msgstr "<shortcut><keycap> F12 </keycap></shortcut><guimenu> បញ្ចាំងស្លាយ </guimenu><guimenuitem> ចាប់ផ្តើម </guimenuitem>"
+
+#~ msgid "<guimenu>Slide Show</guimenu> <guimenuitem>Start From First Slide</guimenuitem>"
+#~ msgstr "<guimenu> បញ្ចាំងស្លាយ </guimenu><guimenuitem> ចាប់ផ្តើមពីស្លាយទីមួយ </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<guimenu>Slide Show</guimenu> <guimenuitem>Custom Slide Show...</guimenuitem>"
+#~ msgstr "<guimenu> បញ្ចាំងស្លាយ </guimenu><guimenuitem> បញ្ចាំងស្លាយផ្ទាល់ខ្លួន ... </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<shortcut><keycap>Home</keycap></shortcut> <guimenu>Slide Show</guimenu> <guimenuitem>Go to Start</guimenuitem>"
+#~ msgstr "<shortcut><keycap> ផ្ទះ </keycap></shortcut><guimenu> បញ្ចាំងស្លាយ </guimenu><guimenuitem> ចូលទៅចាប់ផ្តើម </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<shortcut><keycap>End</keycap></shortcut> <guimenu>Slide Show</guimenu> <guimenuitem>Go to End</guimenuitem>"
+#~ msgstr "<shortcut><keycap> បញ្ចប់ </keycap></shortcut><guimenu> បញ្ចាំងស្លាយ </guimenu><guimenuitem> ទៅចប់ </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<guimenu>Settings</guimenu> Menu"
+#~ msgstr "<guimenu> ការកំណត់ </guimenu> មឺនុយ"
+
+#~ msgid "<guimenu>Settings</guimenu> <guimenuitem>Configure Autocorrection...</guimenuitem>"
+#~ msgstr "<guimenu> ការកំណត់ </guimenu><guimenuitem> កំណត់រចនាសម្ព័ន្ធការកែស្វ័យប្រវត្តិ ... </guimenuitem>"
+
+#~ msgid "Autocorrection is &kpresenter;'s ability to correct common typing errors or expand abbreviations independently of the spell checking function. There are several common typing errors entered for you by default such as replacing <userinput>teh</userinput> with <userinput>the</userinput> and you can add as many more as you like."
+#~ msgstr "ការកែស្វ័យប្រវត្តិគឺជាសមត្ថភាពរបស់អ្នកជំនាញក្នុងការកែកំហុសវាយទូទៅឬពង្រីកអក្សរកាត់ដោយឯករាជ្យនៃមុខងារពិនិត្យអក្ខរាវិរុទ្ធ។ មានកំហុសវាយអក្សរទូទៅជាច្រើនដែលបានបញ្ចូលសម្រាប់អ្នកតាមលំនាំដើមដូចជាការជំនួស <userinput> teh </userinput> ជាមួយ <userinput> នេះ </userinput> ហើយអ្នកអាចបន្ថែមជាច្រើនទៀតតាមដែលអ្នកចូលចិត្ត។"
+
+#~ msgid "The ability to expand abbreviations can save you a lot of typing time, if you often repeat text whether in the same presentation or in multiple presentations."
+#~ msgstr "សមត្ថភាពក្នុងការពង្រីកអក្សរកាត់អាចជួយសន្សំសំចៃពេលវេលាវាយអត្ថបទប្រសិនបើអ្នកឧស្សាហ៍សរសេរអត្ថបទម្តងទៀតមិនថានៅក្នុងបទបង្ហាញដដែលឬក្នុងបទបង្ហាញច្រើនទេ។"
+
+#~ msgid "For instance, if you work for <quote>Company with a really really long name Inc.</quote> then you might define an autocorrection entry so that whenever you type <userinput>myJob</userinput> or some other piece of unique text, it will be replaced with <quote>Company with a really really long name Inc.</quote>."
+#~ msgstr "ឧទាហរណ៍ប្រសិនបើអ្នកធ្វើការ <quote> ក្រុមហ៊ុនដែលមានឈ្មោះពិតជាយូរអង្វែង។ </quote> បន្ទាប់មកអ្នកអាចកំណត់ធាតុបញ្ចូលការកែតម្រូវដូច្នេះនៅពេលអ្នកវាយ <userinput> ការងារ​របស់ខ្ញុំ </userinput> ឬបំណែកនៃអត្ថបទប្លែកៗខ្លះទៀតវានឹងត្រូវជំនួសដោយ <quote> ក្រុមហ៊ុនដែលមានឈ្មោះពិតជាយូរអង្វែង។ </quote>"
+
+#~ msgid "Autocorrection can be applied automatically as you type, or only on demand when you choose it from the <guimenu>Text</guimenu> menu."
+#~ msgstr "ការកែស្វ័យប្រវត្តិអាចត្រូវបានអនុវត្តដោយស្វ័យប្រវត្តិនៅពេលអ្នកវាយបញ្ចូលឬនៅពេលមានតម្រូវការនៅពេលអ្នកជ្រើសរើសវា <guimenu> អត្ថបទ </guimenu> ម៉ឺនុយ។"
+
+#, fuzzy
+#~ msgid "<guimenu>Settings</guimenu> <guimenuitem>Configure Completion...</guimenuitem>"
+#~ msgstr "<guimenu> ការកំណត់ </guimenu><guimenuitem> កំណត់រចនាសម្ព័ន្ធការបញ្ចប់ ... </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<guimenu>Settings</guimenu> <guimenuitem>Configure &kpresenter;...</guimenuitem>"
+#~ msgstr "<guimenu> ការកំណត់ </guimenu><guimenuitem> កំណត់រចនាសម្ព័ន្ធ kpresenter; ... </guimenuitem>"
+
+#~ msgid "<guimenu>Help</guimenu> Menu"
+#~ msgstr "<guimenu> ជំនួយ </guimenu> មឺនុយ"
+
+#~ msgid "<guimenu>View</guimenu> <guimenuitem>Show Header</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> បង្ហាញបឋមកថា </guimenuitem>"
+
+#~ msgid "<guimenu>View</guimenu> <guimenuitem>Show Footer</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> បង្ហាញបាតកថា </guimenuitem>"
+
+#~ msgid "<guimenu>Format</guimenu> <guimenuitem>Group Objects</guimenuitem>"
+#~ msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> វត្ថុក្រុម </guimenuitem>"
+
+#~ msgid "<guimenu>Format</guimenu> <guimenuitem>Ungroup Objects</guimenuitem>"
+#~ msgstr "<guimenu> ទ្រង់ទ្រាយ </guimenu><guimenuitem> បំបែកក្រុម </guimenuitem>"
+
+#, fuzzy
+#~ msgid "<guimenu>Slide Show</guimenu> <guimenuitem>Go to Start</guimenuitem>"
+#~ msgstr "<guimenu> បញ្ចាំងស្លាយ </guimenu><guimenuitem> ចូលទៅចាប់ផ្តើម </guimenuitem>"
+
+#~ msgid "<guimenu>View</guimenu> <guimenuitem>Close All Views</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> បិទការមើលទាំងអស់ </guimenuitem>"
+
+#~ msgid "<guimenu>View</guimenu> <guimenuitem>Help Line to Front</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> ខ្សែជំនួយទៅមុខ </guimenuitem>"
+
+#~ msgid "By default, placing objects on a slide will cover any displayed help lines. You can make them visible again with this menu item, and while it is enabled, they will not be covered up."
+#~ msgstr "តាមលំនាំដើមការដាក់វត្ថុនៅលើស្លាយនឹងគ្របដណ្តប់លើបន្ទាត់ជំនួយដែលបានបង្ហាញ។ អ្នកអាចធ្វើឱ្យពួកវាអាចមើលឃើញម្តងទៀតជាមួយធាតុម៉ឺនុយនេះហើយខណៈពេលដែលវាបើកពួកវានឹងមិនត្រូវបានបិទបាំងឡើយ។"
+
+#~ msgid "<guimenu>View</guimenu> <guimenuitem>Grid</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> ក្រឡាចត្រង្គ </guimenuitem>"
+
+#~ msgid "<guimenu>View</guimenu><guimenuitem> Grid to Front</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> ក្រឡាចត្រង្គទៅមុខ </guimenuitem>"
+
+#~ msgid "By default, placing objects on a slide will cover the displayed grid. You can make it visible again with this menu item, and while it is enabled, it will not be covered up."
+#~ msgstr "តាមលំនាំដើមការដាក់វត្ថុនៅលើស្លាយនឹងគ្របលើក្រឡាចត្រង្គដែលបានបង្ហាញ។ អ្នកអាចធ្វើឱ្យវាមើលឃើញម្តងទៀតជាមួយធាតុម៉ឺនុយនេះហើយខណៈពេលដែលវាបើកវានឹងមិនត្រូវបានបិទបាំងឡើយ។"
+
+#~ msgid "<guimenu>Insert</guimenu> <guimenuitem>Autoform</guimenuitem>"
+#~ msgstr "<guimenu> បញ្ចូល </guimenu><guimenuitem> អូតូហ្វីស </guimenuitem>"
+
+#~ msgid "Insert a pre-drawn shape, such as an arrow or a connecting line."
+#~ msgstr "បញ្ចូលរូបរាងដែលបានគូរជាមុនដូចជាព្រួញឬខ្សែតភ្ជាប់។"
+
+#, fuzzy
+#~ msgid "The Insert Autoform dialog appears with two tabs: Arrows and Connections. Click on a form then on OK. On your slide, click and drag to draw a box stretching from the top left to the lower right, where you wish the autoform to display. It will be inserted and automatically scaled to the size of your box."
+#~ msgstr "ប្រអប់បញ្ចូលស្វ័យប្រវត្តិកម្មលេចឡើងជាមួយផ្ទាំងពីរគឺព្រួញនិងការតភ្ជាប់។ ចុចលើទម្រង់បន្ទាប់មកចុចយល់ព្រម។ នៅលើស្លាយរបស់អ្នកចុចហើយអូសដើម្បីគូរប្រអប់មួយដែលលាតសន្ធឹងពីឆ្វេងទៅស្តាំក្រោមដែលអ្នកចង់ឱ្យអូតូដ្យូមបង្ហាញ។ វានឹងត្រូវបានបញ្ចូលនិងបង្រួមដោយស្វ័យប្រវត្តិទៅនឹងទំហំប្រអប់របស់អ្នក។"
+
+#~ msgid "<shortcut><keycap>F12</keycap></shortcut> <guimenu>Insert</guimenu> <guimenuitem>Chart</guimenuitem>"
+#~ msgstr "<shortcut><keycap> F12 </keycap></shortcut><guimenu> បញ្ចូល </guimenu><guimenuitem> គំនូសតាង </guimenuitem>"
+
+#~ msgid "<shortcut> <keycombo action=\"simul\">&Alt;<keycap>L</keycap></keycombo> </shortcut> <guimenu>Text</guimenu> <guisubmenu>Align</guisubmenu>"
+#~ msgstr "<shortcut><keycombo action=\"simul\"> Alt; <keycap> អិល </keycap></keycombo></shortcut><guimenu> អត្ថបទ </guimenu><guisubmenu> តម្រឹម </guisubmenu>"
+
+#~ msgid "FIXME: Find out about headers"
+#~ msgstr "FIXME: ស្វែងយល់អំពីបឋមកថា"
+
+#~ msgid "FIXME: Find out about footers"
+#~ msgstr "FIXME: ស្វែងយល់អំពីជើង"
+
+#~ msgid "<guimenu>File</guimenu><guimenuitem>Send File...</guimenuitem>"
+#~ msgstr "<guimenu> ឯកសារ </guimenu><guimenuitem> ផ្ញើឯកសារ ... </guimenuitem>"
+
+#~ msgid "Create a new email message and attach the file so you can send it to someone else."
+#~ msgstr "បង្កើតសារអ៊ីមែលថ្មីនិងភ្ជាប់ឯកសារដូច្នេះអ្នកអាចផ្ញើវាទៅអ្នកផ្សេង។"
+
+#, fuzzy
+#~ msgid "<guimenu>View</guimenu> <guimenuitem>Show Navigation Panel</guimenuitem>"
+#~ msgstr "<guimenu> មើល </guimenu><guimenuitem> បង្ហាញផ្ទាំងរុករក </guimenuitem>"
+
+#~ msgid "FIXME: What to do with this?"
+#~ msgstr "FIXME: តើត្រូវធ្វើអ្វីជាមួយនេះ?"
+
+#~ msgid "FIXME: This name is a little awkward, I didn't know what it was. Perhaps 'stencil' might be a better term? Shape would work, but it's already used."
+#~ msgstr "FIXME: ឈ្មោះនេះឆ្គងបន្តិចខ្ញុំមិនដឹងថាវាជាអ្វីទេ។ ប្រហែលជា 'stencil' អាចជាពាក្យល្អជាងនេះ? រាងនឹងដំណើរការប៉ុន្តែវាត្រូវបានប្រើរួចហើយ។"
+
+#~ msgid "FIXME: KChart has it's own help file, but a brief overview of charting in this doc wouldn't go astray either."
+#~ msgstr "FIXME: KChart មានឯកសារជំនួយផ្ទាល់របស់ខ្លួនប៉ុន្តែការសង្ខេបអំពីការធ្វើតារាងនៅក្នុងឯកសារនេះក៏មិនមានអ្វីខុសដែរ។"
+
+#~ msgid "FIXME: This needs a section of it's own"
+#~ msgstr "FIXME: នេះត្រូវការផ្នែករបស់វា"
+
+#, fuzzy
+#~ msgid "The properties dialog for an object allows you to manipulate it in a very detailed manner."
+#~ msgstr "ប្រអប់លក្ខណៈសម្បត្តិសម្រាប់វត្ថុអនុញ្ញាតឱ្យអ្នករៀបចំវាតាមលក្ខណៈលម្អិត។"
+
+#~ msgid "FIXME: Write a working with slideshows section"
+#~ msgstr "FIXME: សរសេរការធ្វើការជាមួយផ្នែកបញ្ចាំងស្លាយ"
+
+#~ msgid "This is discussed in detail in the FIXME: link to presentation section."
+#~ msgstr "នេះត្រូវបានពិភាក្សាលម្អិតនៅក្នុង FIXME: តំណភ្ជាប់ទៅផ្នែកបទបង្ហាញ។"
+
+#~ msgid "FIXME: Find out what this is"
+#~ msgstr "FIXME: ស្វែងយល់ថានេះជាអ្វី"
+
+#, fuzzy
+#~ msgid "The <guiicon>Interface</guiicon> icon on the left allows us to adjust the time settings on the autosave feature. The bottom two sliders allow the Raster settings to be adjusted. This still needs a little more work. They control the minimum size of objects (such as boxes) drawn on screen. You may find that you cannot make a box smaller than a certain size."
+#~ msgstr "នេះ <guiicon> ចំណុចប្រទាក់ </guiicon> រូបតំណាងនៅខាងឆ្វេងអនុញ្ញាតឱ្យយើងកែតម្រូវការកំណត់ពេលវេលាលើមុខងាររក្សាទុកដោយស្វ័យប្រវត្តិ។ គ្រាប់រំកិលពីរខាងក្រោមអនុញ្ញាតឱ្យកែតម្រូវ Raster ។ នេះនៅតែត្រូវការការងារបន្ថែមទៀត។ ពួកគេគ្រប់គ្រងទំហំវត្ថុអប្បបរមា (ដូចជាប្រអប់) ដែលត្រូវបានគូរលើអេក្រង់។ អ្នកអាចឃើញថាអ្នកមិនអាចធ្វើប្រអប់តូចជាងទំហំជាក់លាក់បានទេ។"
+
+#~ msgid "The second icon is labelled Color"
+#~ msgstr "រូបតំណាងទីពីរមានស្លាកពណ៌"
+
+#~ msgid "It changes the background color of the text box as you type text in (in the picture, I have made it green. There is a color choice dialog box). The Text boxes are white by default. If you had a dark background color and you wanted to put some white text over it, you could color the text box so that you could see what you were typing. When you have finished, the area around the text would revert to whatever the background color was. The <guibutton>Default</guibutton> button restores the original settings."
+#~ msgstr "វាផ្លាស់ប្តូរពណ៌ផ្ទៃខាងក្រោយនៃប្រអប់អត្ថបទនៅពេលអ្នកវាយអក្សរចូល (ក្នុងរូបភាពខ្ញុំបានធ្វើឱ្យវាមានពណ៌បៃតង។ មានប្រអប់ជម្រើសពណ៌) ។ ប្រអប់អត្ថបទគឺពណ៌សតាមលំនាំដើម។ ប្រសិនបើអ្នកមានពណ៌ផ្ទៃខាងក្រោយងងឹតហើយអ្នកចង់ដាក់អត្ថបទពណ៌សលើវាអ្នកអាចដាក់ពណ៌លើប្រអប់អត្ថបទដូច្នេះអ្នកអាចមើលឃើញអ្វីដែលអ្នកកំពុងវាយ។ នៅពេលអ្នកបានបញ្ចប់ផ្ទៃជុំវិញអត្ថបទនឹងត្រលប់ទៅអ្វីដែលផ្ទៃខាងក្រោយមានពណ៌។ នេះ <guibutton> លំនាំដើម </guibutton> ប៊ូតុងស្តារការកំណត់ដើម។"
+
+#~ msgid "Insert a hyperlink to a file, a website, or an email address."
+#~ msgstr "បញ្ចូលតំណខ្ពស់ទៅឯកសារគេហទំព័រឬអាសយដ្ឋានអ៊ីមែល។"
+
+#~ msgid "To have any effect you must have first created some text by making a text box (the tool to the left of the main screen with <guiicon>ab</guiicon> in the center). Once you have a text box, double click inside it to make the insertion point appear. It looks like a vertical line. Write a few words, &eg; <quote><userinput>Kpresenter can do everything I need</userinput></quote>, then sweep across the text while holding the <mousebutton>left</mousebutton> mouse button to highlight it. It should make a gray rectangle appear behind the text. Anything included within the rectangle will be affected by the tools you use under this menu."
+#~ msgstr "ដើម្បីឱ្យមានប្រសិទ្ធិភាពណាមួយអ្នកត្រូវតែបង្កើតអត្ថបទដំបូងដោយបង្កើតប្រអប់អត្ថបទ (ឧបករណ៍នៅខាងឆ្វេងនៃអេក្រង់មេជាមួយ <guiicon> ab </guiicon> នៅ​ក​ណ្តា​ល)។ នៅពេលអ្នកមានប្រអប់អត្ថបទសូមចុចទ្វេដងនៅខាងក្នុងវាដើម្បីធ្វើឱ្យចំណុចបញ្ចូលលេចចេញមក។ វាមើលទៅដូចជាបន្ទាត់បញ្ឈរ។ សរសេរពាក្យពីរបីឧទាហរណ៍ៈ <quote><userinput> អ្នកចូលរួមអាចធ្វើអ្វីគ្រប់យ៉ាងដែលខ្ញុំត្រូវការ </userinput></quote> បន្ទាប់មកវាយអត្ថបទពេលកាន់ឯកសារ <mousebutton> ឆ្វេង </mousebutton> ប៊ូតុងកណ្ដុរដើម្បីបន្លិចវា។ វាគួរតែធ្វើឱ្យចតុកោណកែងពណ៌ប្រផេះលេចឡើងនៅខាងក្រោយអត្ថបទ។ អ្វីដែលបានបញ្ចូលក្នុងចតុកោណនឹងត្រូវបានប៉ះពាល់ដោយឧបករណ៍ដែលអ្នកប្រើក្រោមម៉ឺនុយនេះ។"
+
+#~ msgid "FIXME: What is this? A reset to defaults? Find out."
+#~ msgstr "FIXME: តើនេះជាអ្វី? កំណត់ឡើងវិញទៅលំនាំដើម? ស្វែងយល់។"
+
+#~ msgid "Click the Font menu entry to show the dialog box."
+#~ msgstr "ចុចលើធាតុម៉ឺនុយពុម្ពអក្សរដើម្បីបង្ហាញប្រអប់។"
+
+#~ msgid "This lets you change the font you are using, the style &eg; change from Bold to Italic, the size and the character set. A preview window shows how it will look, click <guibutton>Ok</guibutton> to change the selected text in your presentation or <guibutton>Cancel</guibutton> to return without making changes."
+#~ msgstr "នេះអនុញ្ញាតឱ្យអ្នកផ្លាស់ប្តូរពុម្ពអក្សរដែលអ្នកកំពុងប្រើឧទាហរណ៍ៈ ផ្លាស់ប្តូរពីដិតទៅជាទ្រេត, ទំហំនិងសំណុំតួអក្សរ។ ផ្ទាំងកម្មវិធីមើលជាមុនបង្ហាញពីរបៀបដែលវានឹងមើល <guibutton> យល់ព្រម </guibutton> ដើម្បីផ្លាស់ប្តូរអត្ថបទដែលបានជ្រើសរើសនៅក្នុងបទបង្ហាញរបស់អ្នកឬ <guibutton> បោះបង់ </guibutton> ដើម្បីត្រឡប់ដោយគ្មានការផ្លាស់ប្តូរ។"
+
+#~ msgid "FIXME: Find out and describe how this works"
+#~ msgstr "FIXME: ស្វែងយល់និងពណ៌នាអំពីដំណើរការនេះ"
+
+#~ msgid "This tool is used to change the color of the selected text."
+#~ msgstr "ឧបករណ៍នេះត្រូវបានប្រើដើម្បីផ្លាស់ប្តូរពណ៌នៃអត្ថបទដែលបានជ្រើសរើស។"
+
+#~ msgid "<screeninfo>The color selector</screeninfo>"
+#~ msgstr "<screeninfo> ឧបករណ៍ជ្រើសរើសពណ៌ </screeninfo>"
+
+#~ msgid "<phrase>The color selector</phrase>"
+#~ msgstr "<phrase> ឧបករណ៍ជ្រើសរើសពណ៌ </phrase>"
+
+#~ msgid "On the left is a box with various colors in it. Clicking on the color you want selects it and makes it appear in the square box in the lower center of this dialog box."
+#~ msgstr "នៅខាងឆ្វេងគឺជាប្រអប់មួយដែលមានពណ៌ផ្សេងៗគ្នានៅក្នុងនោះ។ ចុចលើពណ៌ដែលអ្នកចង់បានជ្រើសរើសវាហើយធ្វើឱ្យវាបង្ហាញនៅក្នុងប្រអប់ការ៉េនៅកណ្តាលប្រអប់ខាងក្រោម។"
+
+#~ msgid "To the right of the colored box is a vertical grayscale slider tool. You can make the color you have chosen darker or lighter by sliding the small triangle to the right or clicking in the slider box itself."
+#~ msgstr "នៅផ្នែកខាងស្តាំនៃប្រអប់ពណ៌គឺជាឧបករណ៍រំកិលប្រផេះបញ្ឈរ។ អ្នកអាចធ្វើឱ្យពណ៌ដែលអ្នកបានជ្រើសរើសងងឹតឬស្រាលជាងមុនដោយរុញត្រីកោណតូចទៅខាងស្តាំឬចុចលើប្រអប់រំកិលដោយខ្លួនឯង។"
+
+#~ msgid "Underneath the color choice box on the left are values for H, S &amp; V (Hue, Saturation and Value) and R, G &amp; B (Red Green and Blue). Color values can be typed into the boxes if you want to match a known color used in a drawing or picture."
+#~ msgstr "នៅក្រោមប្រអប់ជម្រើសពណ៌នៅខាងឆ្វេងគឺជាតម្លៃសម្រាប់ក្រុមហ៊ុន H, S &amp; V (ពណ៌លាំ, តិត្ថិភាពនិងតម្លៃ) និង R, G &amp; ខ (ក្រហមបៃតងនិងខៀវ) ។ តម្លៃពណ៌អាចត្រូវបានវាយបញ្ចូលទៅក្នុងប្រអប់ប្រសិនបើអ្នកចង់ផ្គូរផ្គងពណ៌ដែលគេស្គាល់នៅក្នុងគំនូរឬរូបភាព។"
+
+#, fuzzy
+#~ msgid "On the top right is a combo box. The default display is <guilabel>Recent Colors</guilabel>. Click the colored square you want in the display to choose it. <guilabel>Custom Colors</guilabel> allows you to maintain a separate group of colors you prefer to use. Once you have found a color you like, add it to this group with the <guibutton>Add to Custom Colors</guibutton> button underneath this dialog box. There is no tool provided to remove colors from this."
+#~ msgstr "នៅខាងស្តាំខាងលើគឺជាប្រអប់បន្សំមួយ។ ការបង្ហាញលំនាំដើមគឺ <guilabel> ពណ៌ថ្មីៗ </guilabel> ។ ចុចការ៉េពណ៌ដែលអ្នកចង់បាននៅក្នុងការបង្ហាញដើម្បីជ្រើសរើសវា។ <guilabel> ពណ៌ផ្ទាល់ខ្លួន </guilabel> អនុញ្ញាតឱ្យអ្នករក្សាក្រុមពណ៌ផ្សេងគ្នាដែលអ្នកចូលចិត្តប្រើ។ នៅពេលដែលអ្នកបានរកឃើញពណ៌ដែលអ្នកចូលចិត្តសូមបន្ថែមវាទៅក្នុងក្រុមនេះជាមួយ <guibutton> បន្ថែមទៅពណ៌ផ្ទាល់ខ្លួន </guibutton> ប៊ូតុងនៅពីក្រោមប្រអប់នេះ។ មិនមានឧបករណ៍ដែលត្រូវបានផ្តល់ឱ្យដើម្បីយកពណ៌ចេញពីនេះទេ។"
+
+#, fuzzy
+#~ msgid "<guilabel>40 Colors</guilabel> and <guilabel>Web Colors</guilabel> might be used if you wanted to make a web page with a small number of colors to keep the filesize small for faster downloads. The <guilabel>Royal</guilabel> group gives colors from brown to purple via yellow and blue. <guilabel>Named Colors</guilabel> are a nice spread of colors with names."
+#~ msgstr "<guilabel> 40 ពណ៌ </guilabel> និង <guilabel> ពណ៌គេហទំព័រ </guilabel> អាចត្រូវបានប្រើប្រសិនបើអ្នកចង់បង្កើតទំព័របណ្តាញដែលមានចំនួនតិចតួចដើម្បីរក្សាទំហំឯកសារឱ្យតូចដើម្បីងាយស្រួលទាញយក។ នេះ <guilabel> រាជ </guilabel> ក្រុមផ្តល់ពណ៌ពីពណ៌ត្នោតទៅពណ៌ស្វាយតាមរយៈពណ៌លឿងនិងខៀវ។ <guilabel> ដាក់ឈ្មោះពណ៌ </guilabel> គឺជាការរីករាលដាលដ៏ស្រស់ស្អាតនៃពណ៌ដែលមានឈ្មោះ។"
+
+#~ msgid "At the bottom of the right side we have a color picker. It is the pipette icon from art programs. If you have a picture displayed on your screen, you can choose a color you like from the picture. Click the tool, then click on the picture to select a color you like. Underneath is the name of the color (if it has one) and the <acronym>HTML</acronym> value (starting with <literal>#</literal>) of the color. If you want the text in a web page to match a color you have chosen, you can put this value in your html code."
+#~ msgstr "នៅផ្នែកខាងក្រោមនៃផ្នែកខាងស្តាំយើងមានអ្នករើសពណ៌។ វាជារូបតំណាងបំពង់ពីកម្មវិធីសិល្បៈ។ ប្រសិនបើអ្នកមានរូបភាពដែលបង្ហាញនៅលើអេក្រង់អ្នកអាចជ្រើសរើសពណ៌ដែលអ្នកចូលចិត្តពីរូបភាព។ ចុចឧបករណ៍បន្ទាប់មកចុចលើរូបភាពដើម្បីជ្រើសរើសពណ៌ដែលអ្នកចូលចិត្ត។ នៅពីក្រោមគឺជាឈ្មោះនៃពណ៌ (ប្រសិនបើវាមានមួយ) និងលេខ <acronym> HTML </acronym> តម្លៃ (ចាប់ផ្តើមជាមួយ <literal> ) នៃពណ៌។ ប្រសិនបើអ្នកចង់អោយអត្ថបទនៅក្នុងទំព័របណ្តាញត្រូវនឹងពណ៌ដែលអ្នកបានជ្រើសរើសអ្នកអាចដាក់តម្លៃនេះនៅក្នុងកូដ HTML របស់អ្នក។ </literal>"
+
+#~ msgid "Once you have a color you like, click <guibutton>Ok</guibutton> to change its color on the page or <guibutton>Cancel</guibutton> to return without making changes."
+#~ msgstr "នៅពេលអ្នកមានពណ៌ដែលអ្នកចូលចិត្តសូមចុច <guibutton> យល់ព្រម </guibutton> ដើម្បីផ្លាស់ប្តូរពណ៌របស់វានៅលើទំព័រឬ <guibutton> បោះបង់ </guibutton> ដើម្បីត្រឡប់ដោយគ្មានការផ្លាស់ប្តូរ។"
+
+#~ msgid "FIXME: Write a separate 'Working with styles' section"
+#~ msgstr "FIXME៖ សរសេរផ្នែក“ ធ្វើការជាមួយស្ទីល” ដាច់ដោយឡែក"
+
+#~ msgid "<screeninfo>&kpresenter; gets clever with bullet points</screeninfo>"
+#~ msgstr "<screeninfo> kp អ្នកបង្ហាញ; ឆ្លាតជាងមុនជាមួយចំណុចគ្រាប់កាំភ្លើង </screeninfo>"
+
+#~ msgid "<phrase>&kpresenter; gets clever with bullet points</phrase>"
+#~ msgstr "<phrase> kp អ្នកបង្ហាញ; ឆ្លាតជាងមុនជាមួយចំណុចគ្រាប់កាំភ្លើង </phrase>"
+
+#~ msgid "The diagram shows indented text, different styles and colors of bullet points."
+#~ msgstr "ដ្យាក្រាមបង្ហាញអត្ថបទចូលបន្ទាត់រចនាប័ទ្មនិងពណ៌ខុសគ្នានៃចំណុចគ្រាប់កាំភ្លើង។"
+
+#~ msgid "FIXME: Find out if this is dynamic"
+#~ msgstr "FIXME: ស្វែងយល់ថាតើនេះជាថាមវន្តដែរឬទេ"
+
+#, fuzzy
+#~ msgid "&kpresenter; can automatically spellcheck text as you type it, which you can enable and disable here."
+#~ msgstr "kp អ្នកបង្ហាញ; អាចវាយអត្ថបទដោយស្វ័យប្រវត្តិនៅពេលអ្នកវាយវាដែលអ្នកអាចបើកនិងបិទនៅទីនេះ។"
+
+#~ msgid "<guimenu>Edit</guimenu><guimenuitem>Enable Autocorrection</guimenuitem>"
+#~ msgstr "<guimenu> កែសម្រួល </guimenu><guimenuitem> បើកដំណើរការកែស្វ័យប្រវត្តិ </guimenuitem>"
+
+#~ msgid "FIXME: Confirm what this does:"
+#~ msgstr "FIXME៖ បញ្ជាក់ពីអ្វីដែលវាធ្វើ៖"
+
+#~ msgid "If you did not choose to enable autocorrection, you can apply it on demand here."
+#~ msgstr "ប្រសិនបើអ្នកមិនបានជ្រើសរើសបើកដំណើរការកែស្វ័យប្រវត្តិកម្មទេអ្នកអាចអនុវត្តវាតាមតម្រូវការនៅទីនេះ។"
+
+#~ msgid "<shortcut><keycap>F4</keycap></shortcut> <guimenu>Insert</guimenu> <guimenuitem>Clipart...</guimenuitem>"
+#~ msgstr "<shortcut><keycap> F4 </keycap></shortcut><guimenu> បញ្ចូល </guimenu><guimenuitem> គំនូរ​រូបភាព... </guimenuitem>"
+
+#~ msgid "<action>Insert scaleable clipart in vector format.</action> &kpresenter; can currently import clipart in the <literal role=\"extension\">.wmf</literal> or <quote>Windows Meta File</quote> format, which is common on &Windows;."
+#~ msgstr "<action> បញ្ចូលឃ្លីបដែលអាចធ្វើមាត្រដ្ឋានបានក្នុងទ្រង់ទ្រាយវ៉ិចទ័រ។ </action> kp អ្នកបង្ហាញ; បច្ចុប្បន្នអាចនាំចូលឃ្លីបក្នុងឯកសារ <literal role=\"extension\"> .wmf </literal> ឬ <quote> ឯកសារមេតាវីនដូ </quote> ទ្រង់ទ្រាយដែលជារឿងធម្មតានៅលើវីនដូ។"
+
+#~ msgid "<guimenu>Settings</guimenu> <guimenuitem>Configure Key Bindings</guimenuitem>"
+#~ msgstr "<guimenu> ការកំណត់ </guimenu><guimenuitem> កំណត់រចនាសម្ព័ន្ធការចងកូនសោ </guimenuitem>"
+
+#~ msgid "Customize Keybindings"
+#~ msgstr "ប្តូរ Keybindings តាមបំណង"

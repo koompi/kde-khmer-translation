@@ -1,0 +1,510 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 00:00+0000\n"
+"PO-Revision-Date: 2017-11-26 20:34+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: af/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: ar/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Arabic"
+msgstr "Arabic"
+
+#: as/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Assamese"
+msgstr "Assamese"
+
+#: ast/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Asturian"
+msgstr "Asturian"
+
+#: be@latin/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Belarusian Latin"
+msgstr "Belarusian Latin"
+
+#: be/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Belarusian"
+msgstr "Belarusian"
+
+#: bg/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Bulgarian"
+msgstr "Bulgarian"
+
+#: bn_IN/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Bengali (India)"
+msgstr "Bengali (India)"
+
+#: bn/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Bengali"
+msgstr "Bengali"
+
+#: br/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Breton"
+msgstr "Breton"
+
+#: bs/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Bosnian"
+msgstr "Bosnian"
+
+#: ca/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Catalan"
+msgstr "Catalan"
+
+#: ca@valencia/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Catalan (Valencian)"
+msgstr "Catalan (Valencian)"
+
+#: crh/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Crimean Tatar"
+msgstr "Crimean Tatar"
+
+#: csb/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Kashubian"
+msgstr "Kashubian"
+
+#: cs/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Czech"
+msgstr "Czech"
+
+#: cy/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Welsh"
+msgstr "Welsh"
+
+#: da/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Danish"
+msgstr "Danish"
+
+#: de/messages/entry.desktop:2
+msgctxt "Name"
+msgid "German"
+msgstr "German"
+
+#: el/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Greek"
+msgstr "Greek"
+
+#: en_GB/messages/entry.desktop:2
+msgctxt "Name"
+msgid "British English"
+msgstr "British English"
+
+#: eo/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: es/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Spanish"
+msgstr "Spanish"
+
+#: et/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Estonian"
+msgstr "Estonian"
+
+#: eu/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Basque"
+msgstr "Basque"
+
+#: fa/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Farsi"
+msgstr "Farsi"
+
+#: fi/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Finnish"
+msgstr "Finnish"
+
+#: fr/messages/entry.desktop:2
+msgctxt "Name"
+msgid "French"
+msgstr "French"
+
+#: fy/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Frisian"
+msgstr "Frisian"
+
+#: ga/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Irish"
+msgstr "Irish"
+
+#: gl/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Galician"
+msgstr "Galician"
+
+#: gu/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: ha/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Hausa"
+msgstr "Hausa"
+
+#: he/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Hebrew"
+msgstr "Hebrew"
+
+#: hi/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Hindi"
+msgstr "Hindi"
+
+#: hne/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Chhattisgarhi"
+msgstr "Chhattisgarhi"
+
+#: hr/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Croatian"
+msgstr "Croatian"
+
+#: hsb/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Upper Sorbian"
+msgstr "Upper Sorbian"
+
+#: hu/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Hungarian"
+msgstr "Hungarian"
+
+#: hy/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Armenian"
+msgstr "Armenian"
+
+#: ia/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Interlingua"
+msgstr "Interlingua"
+
+#: id/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Indonesian"
+msgstr "Indonesian"
+
+#: is/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Icelandic"
+msgstr "Icelandic"
+
+#: it/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Italian"
+msgstr "Italian"
+
+#: ja/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Japanese"
+msgstr "Japanese"
+
+#: ka/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Georgian"
+msgstr "Georgian"
+
+#: kk/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Kazakh"
+msgstr "Kazakh"
+
+#: km/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Khmer"
+msgstr "Khmer"
+
+#: kn/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Kannada"
+msgstr "Kannada"
+
+#: ko/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Korean"
+msgstr "Korean"
+
+#: ku/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Kurdish"
+msgstr "Kurdish"
+
+#: lb/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Luxembourgish"
+msgstr "Luxembourgish"
+
+#: lt/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Lithuanian"
+msgstr "Lithuanian"
+
+#: lv/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Latvian"
+msgstr "Latvian"
+
+#: mai/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Maithili"
+msgstr "Maithili"
+
+#: mk/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Macedonian"
+msgstr "Macedonian"
+
+#: ml/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: mr/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Marathi"
+msgstr "Marathi"
+
+#: ms/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Malay"
+msgstr "Malay"
+
+#: nb/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Norwegian Bokmål"
+msgstr "Norwegian Bokmål"
+
+#: nds/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Low Saxon"
+msgstr "Low Saxon"
+
+#: ne/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Nepali"
+msgstr "Nepali"
+
+#: nl/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Dutch"
+msgstr "Dutch"
+
+#: nn/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Norwegian Nynorsk"
+msgstr "Norwegian Nynorsk"
+
+#: or/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Oriya"
+msgstr "Oriya"
+
+#: pa/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Punjabi"
+msgstr "Punjabi"
+
+#: pl/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Polish"
+msgstr "Polish"
+
+#: ps/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Pashto"
+msgstr "Pashto"
+
+#: pt_BR/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Brazil portuguese"
+msgstr "Brazil portuguese"
+
+#: pt/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Portuguese"
+msgstr "Portuguese"
+
+#: ro/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Romanian"
+msgstr "Romanian"
+
+#: ru/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Russian"
+msgstr "Russian"
+
+#: se/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Northern Sami"
+msgstr "Northern Sami"
+
+#: si/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Sinhala"
+msgstr "Sinhala"
+
+#: sk/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Slovak"
+msgstr "Slovak"
+
+#: sl/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Slovenian"
+msgstr "Slovenian"
+
+#: sq/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Albanian"
+msgstr "Albanian"
+
+#: sr@ijekavianlatin/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Ijekavian Latin"
+msgstr "Serbian Ijekavian Latin"
+
+#: sr@ijekavian/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Ijekavian"
+msgstr "Serbian Ijekavian"
+
+#: sr@latin/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Latin"
+msgstr "Serbian Latin"
+
+#: sr/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Serbian"
+msgstr "Serbian"
+
+#: sv/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Swedish"
+msgstr "Swedish"
+
+#: ta/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Tamil"
+msgstr "Tamil"
+
+#: te/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Telugu"
+msgstr "Telugu"
+
+#: tg/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Tajik"
+msgstr "Tajik"
+
+#: th/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Thai"
+msgstr "Thai"
+
+#: tr/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Turkish"
+msgstr "Turkish"
+
+#: tt/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Tatar"
+msgstr "Tatar"
+
+#: ug/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Uyghur"
+msgstr "Uyghur"
+
+#: uk/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+#: uz@cyrillic/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Uzbek (Cyrillic)"
+msgstr "Uzbek (Cyrillic)"
+
+#: uz/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Uzbek"
+msgstr "Uzbek"
+
+#: vi/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+#: wa/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Walloon"
+msgstr "Walloon"
+
+#: xh/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Xhosa"
+msgstr "Xhosa"
+
+#: x-test/messages/entry.desktop:2
+msgctxt "Name"
+msgid "KDE Test Language"
+msgstr "KDE Test Language"
+
+#: zh_CN/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Simplified Chinese"
+msgstr "Simplified Chinese"
+
+#: zh_HK/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Chinese (Hong Kong)"
+msgstr "Chinese (Hong Kong)"
+
+#: zh_TW/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Traditional Chinese"
+msgstr "Traditional Chinese"
