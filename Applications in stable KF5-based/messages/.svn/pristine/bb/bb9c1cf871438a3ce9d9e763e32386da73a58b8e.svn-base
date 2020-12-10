@@ -1,0 +1,269 @@
+# Andrew Coles <andrew_coles@yahoo.co.uk>, 2010.
+# Steve Allewell <steve.allewell@gmail.com>, 2014, 2015, 2016, 2017, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-07 07:36+0000\n"
+"PO-Revision-Date: 2018-10-27 20:37+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: kmymoney/org.kde.kmymoney.desktop:2
+msgctxt "Name"
+msgid "KMyMoney"
+msgstr "KMyMoney"
+
+#: kmymoney/org.kde.kmymoney.desktop:43
+msgctxt "GenericName"
+msgid "Personal Finance Manager"
+msgstr "Personal Finance Manager"
+
+#: kmymoney/org.kde.kmymoney.desktop:83
+msgctxt "Comment"
+msgid "Personal Finance Manager"
+msgstr "Personal Finance Manager"
+
+#: kmymoney/plugins/checkprinting/kcm_checkprinting.desktop:2
+msgctxt "Name"
+msgid "Configure the check printing plugin"
+msgstr "Configure the check printing plugin"
+
+#: kmymoney/plugins/checkprinting/kcm_checkprinting.desktop:27
+msgctxt "Keywords"
+msgid "checkprinting;kmymoney;"
+msgstr "checkprinting;kmymoney;"
+
+#: kmymoney/plugins/checkprinting/kcm_checkprinting.desktop:52
+msgctxt "Comment"
+msgid "Permits the configuration of the print check plugin's options"
+msgstr "Permits the configuration of the print cheque plugin's options"
+
+#: kmymoney/plugins/csv/import/kcm_csvimporter.desktop:2
+msgctxt "Name"
+msgid "CSV Importer configuration"
+msgstr "CSV Importer configuration"
+
+#: kmymoney/plugins/csv/import/kcm_csvimporter.desktop:32
+msgctxt "Keywords"
+msgid "csvimporter;kmymoney;"
+msgstr "csvimporter;kmymoney;"
+
+#: kmymoney/plugins/csv/import/kcm_csvimporter.desktop:58
+msgctxt "Comment"
+msgid "Configuration for CSV Importer plugin"
+msgstr "Configuration for CSV Importer plugin"
+
+#: kmymoney/plugins/icalendar/export/kcm_icalendarexporter.desktop:2
+msgctxt "Name"
+msgid "Configure icalendar export plugin"
+msgstr "Configure icalendar export plugin"
+
+#: kmymoney/plugins/icalendar/export/kcm_icalendarexporter.desktop:40
+msgctxt "Keywords"
+msgid "icalendarexporter;kmymoney;"
+msgstr "icalendarexporter;kmymoney;"
+
+#: kmymoney/plugins/icalendar/export/kcm_icalendarexporter.desktop:66
+msgctxt "Comment"
+msgid "Permits the configuration of the iCalendar plugin's options"
+msgstr "Permits the configuration of the iCalendar plugin's options"
+
+#: kmymoney/plugins/kmymoney-importerplugin.desktop:3
+msgctxt "Name"
+msgid "KMyMoney Importer Plugin"
+msgstr "KMyMoney Importer Plugin"
+
+#: kmymoney/plugins/kmymoney-importerplugin.desktop:38
+msgctxt "Comment"
+msgid "A KMyMoney plugin"
+msgstr "A KMyMoney plugin"
+
+#: kmymoney/plugins/kmymoney-payeeidentifierdelegate.desktop:4
+msgctxt "Name"
+msgid "Painter of payee identifier"
+msgstr "Painter of payee identifier"
+
+#: kmymoney/plugins/qif/config/kcm_qifexporter.desktop:2
+#: kmymoney/plugins/qif/config/kcm_qifimporter.desktop:2
+msgctxt "Name"
+msgid "QIF Importer configuration"
+msgstr "QIF Importer configuration"
+
+#: kmymoney/plugins/qif/config/kcm_qifexporter.desktop:30
+msgctxt "Keywords"
+msgid "qifexporter;kmymoney;"
+msgstr "qifexporter;kmymoney;"
+
+#: kmymoney/plugins/qif/config/kcm_qifexporter.desktop:55
+#: kmymoney/plugins/qif/config/kcm_qifimporter.desktop:55
+msgctxt "Comment"
+msgid "Configuration for QIF Importer plugin"
+msgstr "Configuration for QIF Importer plugin"
+
+#: kmymoney/plugins/qif/config/kcm_qifimporter.desktop:30
+msgctxt "Keywords"
+msgid "qifimporter;kmymoney;"
+msgstr "qifimporter;kmymoney;"
+
+#: kmymoney/plugins/views/forecast/kcm_forecastview.desktop:2
+msgctxt "Name"
+msgid "Forecast view configuration"
+msgstr "Forecast view configuration"
+
+#: kmymoney/plugins/views/forecast/kcm_forecastview.desktop:28
+msgctxt "Keywords"
+msgid "forecastview;kmymoney;"
+msgstr "forecastview;kmymoney;"
+
+#: kmymoney/plugins/views/forecast/kcm_forecastview.desktop:53
+msgctxt "Comment"
+msgid "Configuration for forecast view plugin"
+msgstr "Configuration for forecast view plugin"
+
+#: kmymoney/plugins/views/reports/kcm_reportsview.desktop:2
+msgctxt "Name"
+msgid "Reports view configuration"
+msgstr "Reports view configuration"
+
+#: kmymoney/plugins/views/reports/kcm_reportsview.desktop:28
+msgctxt "Keywords"
+msgid "reportsview;kmymoney;"
+msgstr "reportsview;kmymoney;"
+
+#: kmymoney/plugins/views/reports/kcm_reportsview.desktop:53
+msgctxt "Comment"
+msgid "Configuration for reports view plugin"
+msgstr "Configuration for reports view plugin"
+
+#: kmymoney/plugins/xml/kcm_xmlstorage.desktop:2
+msgctxt "Name"
+msgid "XML storage configuration"
+msgstr "XML storage configuration"
+
+#: kmymoney/plugins/xml/kcm_xmlstorage.desktop:29
+msgctxt "Keywords"
+msgid "xmlstorage;kmymoney;"
+msgstr "xmlstorage;kmymoney;"
+
+#: kmymoney/plugins/xml/kcm_xmlstorage.desktop:55
+msgctxt "Comment"
+msgid "Configuration for XML storage plugin"
+msgstr "Configuration for XML storage plugin"
+
+#~ msgctxt "Name"
+#~ msgid "Enables plugins to store data in the sql database"
+#~ msgstr "Enables plugins to store data in the sql database"
+
+#~ msgctxt "Name"
+#~ msgid "CSV Exporter"
+#~ msgstr "CSV Exporter"
+
+#~ msgctxt "Comment"
+#~ msgid "Add CSV exporting to KMyMoney"
+#~ msgstr "Add CSV exporting to KMyMoney"
+
+#~ msgctxt "Name"
+#~ msgid "CSV Importer"
+#~ msgstr "CSV Importer"
+
+#~ msgctxt "Comment"
+#~ msgid "Add CSV importing to KMyMoney"
+#~ msgstr "Add CSV importing to KMyMoney"
+
+#~ msgctxt "Name"
+#~ msgid "iCalendar"
+#~ msgstr "iCalendar"
+
+#~ msgctxt "Comment"
+#~ msgid "Exports schedules to iCalendar files"
+#~ msgstr "Exports schedules to iCalendar files"
+
+#~ msgctxt "Name"
+#~ msgid "KBanking"
+#~ msgstr "KBanking"
+
+#~ msgctxt "Comment"
+#~ msgid "Add online banking to KMyMoney"
+#~ msgstr "Add online banking to KMyMoney"
+
+#~ msgctxt "Name"
+#~ msgid "Form to edit online orders/tasks"
+#~ msgstr "Form to edit online orders/tasks"
+
+#~ msgctxt "Name"
+#~ msgid "KMyMoney Plugin"
+#~ msgstr "KMyMoney Plugin"
+
+#~ msgctxt "Name"
+#~ msgid "KMyMoney OFX"
+#~ msgstr "KMyMoney OFX"
+
+#~ msgctxt "Comment"
+#~ msgid "Add OFX importing to KMyMoney"
+#~ msgstr "Add OFX importing to KMyMoney"
+
+#~ msgctxt "Name"
+#~ msgid "onlinejobpluginmockup"
+#~ msgstr "onlinejobpluginmockup"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "If mapped to an account, it pretends it could handle all onlineTasks (for "
+#~ "developers only)."
+#~ msgstr ""
+#~ "If mapped to an account, it pretends it could handle all onlineTasks (for "
+#~ "developers only)."
+
+#~ msgctxt "Name"
+#~ msgid "Print check"
+#~ msgstr "Print cheque"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides the capability to print checks"
+#~ msgstr "Provides the capability to print cheques"
+
+#~ msgctxt "Name"
+#~ msgid "Reconciliation report"
+#~ msgstr "Reconciliation report"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Creates a report after each reconciliation containing data about the "
+#~ "reconciliation process"
+#~ msgstr ""
+#~ "Creates a report after each reconciliation containing data about the "
+#~ "reconciliation process"
+
+#~ msgctxt "Name"
+#~ msgid "Weboob"
+#~ msgstr "Weboob"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for weboob"
+#~ msgstr "Plugin for weboob"
+
+#~ msgctxt "Name"
+#~ msgid "csvexport"
+#~ msgstr "csvexport"
+
+#~ msgctxt "Name"
+#~ msgid "csvimport"
+#~ msgstr "csvimport"
+
+#~ msgctxt "Name"
+#~ msgid "KMyMoney developer handbook"
+#~ msgstr "KMyMoney developer handbook"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KMyMoney"
+#~ msgctxt "Name"
+#~ msgid "KMyMoney CSV"
+#~ msgstr "KMyMoney"

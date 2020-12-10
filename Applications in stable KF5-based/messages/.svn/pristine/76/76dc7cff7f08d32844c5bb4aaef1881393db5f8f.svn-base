@@ -1,0 +1,60 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2016, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-10-29 03:28+0100\n"
+"PO-Revision-Date: 2018-12-02 11:53+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.Help.appdata.xml:6
+msgid "KHelpCenter"
+msgstr "KHelpCenter"
+
+#. (itstool) path: component/summary
+#: org.kde.Help.appdata.xml:7
+msgid "Help Center"
+msgstr "Help Centre"
+
+#. (itstool) path: description/p
+#: org.kde.Help.appdata.xml:9
+msgid ""
+"An application to search and read the documentation for all your KDE "
+"applications and system utilities"
+msgstr ""
+"An application to search and read the documentation for all your KDE "
+"applications and system utilities"
+
+#. (itstool) path: description/p
+#: org.kde.Help.appdata.xml:12
+msgid "Features:"
+msgstr "Features:"
+
+#. (itstool) path: ul/li
+#: org.kde.Help.appdata.xml:14
+msgid ""
+"Show documentation from various sources (applications from KDE community, "
+"man pages, etc)"
+msgstr ""
+"Show documentation from various sources (applications from KDE community, "
+"man pages, etc)"
+
+#. (itstool) path: ul/li
+#: org.kde.Help.appdata.xml:15
+msgid "Search through the available documentation"
+msgstr "Search through the available documentation"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.Help.appdata.xml:20
+msgid "KHelpCenter main window"
+msgstr "KHelpCenter main window"
+
+#~ msgid "Documentation viewer"
+#~ msgstr "Documentation viewer"

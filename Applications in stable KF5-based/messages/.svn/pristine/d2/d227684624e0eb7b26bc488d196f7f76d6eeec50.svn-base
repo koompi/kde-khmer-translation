@@ -1,0 +1,189 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-19 00:26+0000\n"
+"PO-Revision-Date: 2017-05-21 16:30+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: kwave/org.kde.kwave.desktop.in:4
+msgctxt "GenericName"
+msgid "Sound Editor"
+msgstr "Sound Editor"
+
+#: kwave/org.kde.kwave.desktop.in:36
+msgctxt "Name"
+msgid "Kwave Sound Editor"
+msgstr "Kwave Sound Editor"
+
+#: kwave/org.kde.kwave.desktop.in:68
+msgctxt "Comment"
+msgid "A sound editor by KDE"
+msgstr "A sound editor by KDE"
+
+#: plugins/about/kwaveplugin_about.desktop.in:2
+msgctxt "Name"
+msgid "About Kwave"
+msgstr "About Kwave"
+
+#: plugins/amplifyfree/kwaveplugin_amplifyfree.desktop.in:2
+msgctxt "Name"
+msgid "Amplify Free"
+msgstr "Amplify Free"
+
+#: plugins/band_pass/kwaveplugin_band_pass.desktop.in:2
+msgctxt "Name"
+msgid "Band Pass Filter"
+msgstr "Band Pass Filter"
+
+#: plugins/codec_ascii/kwaveplugin_codec_ascii.desktop.in:2
+msgctxt "Name"
+msgid "ASCII Codec"
+msgstr "ASCII Codec"
+
+#: plugins/codec_audiofile/kwaveplugin_codec_audiofile.desktop.in:2
+msgctxt "Name"
+msgid "Audiofile Codec"
+msgstr "Audiofile Codec"
+
+#: plugins/codec_flac/kwaveplugin_codec_flac.desktop.in:2
+msgctxt "Name"
+msgid "FLAC Codec"
+msgstr "FLAC Codec"
+
+#: plugins/codec_mp3/kwaveplugin_codec_mp3.desktop.in:2
+msgctxt "Name"
+msgid "MP3 Codec"
+msgstr "MP3 Codec"
+
+#: plugins/codec_ogg/kwaveplugin_codec_ogg.desktop.in:2
+msgctxt "Name"
+msgid "Ogg Codec"
+msgstr "Ogg Codec"
+
+#: plugins/codec_wav/kwaveplugin_codec_wav.desktop.in:2
+msgctxt "Name"
+msgid "WAV Codec"
+msgstr "WAV Codec"
+
+#: plugins/debug/kwaveplugin_debug.desktop.in:2
+msgctxt "Name"
+msgid "Debug Functions"
+msgstr "Debug Functions"
+
+#: plugins/export_k3b/kwaveplugin_export_k3b.desktop.in:2
+msgctxt "Name"
+msgid "K3b Project Export"
+msgstr "K3b Project Export"
+
+#: plugins/fileinfo/kwaveplugin_fileinfo.desktop.in:2
+msgctxt "Name"
+msgid "File Info"
+msgstr "File Info"
+
+#: plugins/goto/kwaveplugin_goto.desktop.in:2
+msgctxt "Name"
+msgid "Goto Position"
+msgstr "Goto Position"
+
+#: plugins/goto/kwaveplugin_insert_at.desktop.in:2
+msgctxt "Name"
+msgid "Insert At"
+msgstr "Insert At"
+
+#: plugins/kwave-plugin.desktop:4
+msgctxt "Comment"
+msgid "Kwave Plugin"
+msgstr "Kwave Plugin"
+
+#: plugins/lowpass/kwaveplugin_lowpass.desktop.in:2
+msgctxt "Name"
+msgid "Low Pass Filter"
+msgstr "Low Pass Filter"
+
+#: plugins/newsignal/kwaveplugin_newsignal.desktop.in:2
+msgctxt "Name"
+msgid "New Signal"
+msgstr "New Signal"
+
+#: plugins/noise/kwaveplugin_noise.desktop.in:2
+msgctxt "Name"
+msgid "Noise Generator"
+msgstr "Noise Generator"
+
+#: plugins/normalize/kwaveplugin_normalize.desktop.in:2
+msgctxt "Name"
+msgid "Normalizer"
+msgstr "Normaliser"
+
+#: plugins/notch_filter/kwaveplugin_notch_filter.desktop.in:2
+msgctxt "Name"
+msgid "Notch Filter"
+msgstr "Notch Filter"
+
+#: plugins/pitch_shift/kwaveplugin_pitch_shift.desktop.in:2
+msgctxt "Name"
+msgid "Pitch Shift"
+msgstr "Pitch Shift"
+
+#: plugins/playback/kwaveplugin_playback.desktop.in:2
+msgctxt "Name"
+msgid "Playback"
+msgstr "Playback"
+
+#: plugins/record/kwaveplugin_record.desktop.in:2
+msgctxt "Name"
+msgid "Record"
+msgstr "Record"
+
+#: plugins/reverse/kwaveplugin_reverse.desktop.in:2
+msgctxt "Name"
+msgid "Reverse"
+msgstr "Reverse"
+
+#: plugins/samplerate/kwaveplugin_samplerate.desktop.in:2
+msgctxt "Name"
+msgid "Sample Rate Conversion"
+msgstr "Sample Rate Conversion"
+
+#: plugins/saveblocks/kwaveplugin_saveblocks.desktop.in:2
+msgctxt "Name"
+msgid "Save Blocks"
+msgstr "Save Blocks"
+
+#: plugins/selectrange/kwaveplugin_selectrange.desktop.in:2
+msgctxt "Name"
+msgid "Select Range"
+msgstr "Select Range"
+
+#: plugins/sonagram/kwaveplugin_sonagram.desktop.in:2
+msgctxt "Name"
+msgid "Sonagram"
+msgstr "Sonagram"
+
+#: plugins/stringenter/kwaveplugin_stringenter.desktop.in:2
+msgctxt "Name"
+msgid "Enter Command"
+msgstr "Enter Command"
+
+#: plugins/volume/kwaveplugin_volume.desktop.in:2
+msgctxt "Name"
+msgid "Volume"
+msgstr "Volume"
+
+#: plugins/zero/kwaveplugin_zero.desktop.in:2
+msgctxt "Name"
+msgid "Zero Generator"
+msgstr "Zero Generator"
+
+#~ msgctxt "Name"
+#~ msgid "Memory Settings"
+#~ msgstr "Memory Settings"

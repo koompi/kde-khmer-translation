@@ -1,0 +1,77 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-11-30 14:41+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: agent/agent.cpp:67
+#, kde-format
+msgctxt "@info:status"
+msgid "No indexers available"
+msgstr "មិនមានលិបិក្រមទេ"
+
+#: agent/collectionindexingjob.cpp:63
+#, kde-format
+msgid "Indexing collection: %1"
+msgstr "ការប្រមូលសន្ទស្សន៍៖ %1"
+
+#: agent/scheduler.cpp:190 agent/scheduler.cpp:222 agent/scheduler.cpp:233
+#, kde-format
+msgid "Ready"
+msgstr "រួចរាល់ហើយ"
+
+#: agent/scheduler.cpp:266
+#, kde-format
+msgid "Collection \"%1\" indexed"
+msgstr "ការប្រមូល \" %1\" បានធ្វើលិបិក្រម"
+
+#: debug/akonadisearchdebugdialog.cpp:90
+#, kde-format
+msgid "Text Files (*.txt);;All Files (*)"
+msgstr "ឯកសារអត្ថបទ (* .txt);; ឯកសារទាំងអស់ (*)"
+
+#: debug/akonadisearchdebugdialog.cpp:102
+#, kde-format
+msgid ""
+"Could not write the file %1:\n"
+"\"%2\" is the detailed error description."
+msgstr ""
+"មិនអាចសរសេរឯកសារបានទេ %1៖\n"
+"\" %2\" គឺជាការពិពណ៌នាកំហុសលម្អិត។"
+
+#: debug/akonadisearchdebugdialog.cpp:106
+#, kde-format
+msgid "Save File Error"
+msgstr "រក្សាទុកឯកសារកំហុស"
+
+#: runner/pimcontactsrunner.cpp:127 runner/pimcontactsrunner.cpp:196
+#, kde-format
+msgid "Contacts"
+msgstr "ទំនាក់ទំនង"
+
+#: runner/pimcontactsrunner.cpp:173 runner/pimcontactsrunner.cpp:179
+#: runner/pimcontactsrunner.cpp:211
+#, kde-format
+msgctxt "Name (email)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: runner/pimcontactsrunner.cpp:197
+#, kde-format
+msgid "Autocompleted from received and sent emails"
+msgstr "បំពេញដោយស្វ័យប្រវត្តិពីអ៊ីមែលដែលបានទទួលនិងផ្ញើ"
+
+#: runner/pimcontactsrunnerconfig.cpp:25
+#, kde-format
+msgid "Search in contacts indexed from sent and received emails too"
+msgstr "ស្វែងរកទំនាក់ទំនងដែលបានស្រង់ចេញពីអ៊ីមែលដែលបានផ្ញើនិងទទួលផងដែរ"

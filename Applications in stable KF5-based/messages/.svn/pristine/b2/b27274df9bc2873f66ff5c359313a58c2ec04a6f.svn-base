@@ -1,0 +1,30 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-26 03:44+0000\n"
+"PO-Revision-Date: 2019-12-01 12:35+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#: mtp/kiod_module/kmtpd.json
+msgctxt "Name"
+msgid "KDE MTP daemon"
+msgstr "KDE MTP daemon"
+
+#: activities/fileitemplugin/kactivitymanagerd_fileitem_linking_plugin.json
+msgctxt "Name"
+msgid "Link Files to Activities"
+msgstr "Link Files to Activities"
+
+#: mtp/kiod_module/kmtpd.json
+msgctxt "Description"
+msgid "TODO"
+msgstr "TODO"

@@ -1,0 +1,65 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2014, 2017, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-10-03 04:00+0200\n"
+"PO-Revision-Date: 2018-10-27 18:00+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/developer_name
+#: org.kde.knotes.appdata.xml:6
+msgid "The KDE Community"
+msgstr "The KDE Community"
+
+#. (itstool) path: component/name
+#: org.kde.knotes.appdata.xml:7
+msgid "KNotes"
+msgstr "KNotes"
+
+#. (itstool) path: component/summary
+#: org.kde.knotes.appdata.xml:8
+msgid "Sticky notes application"
+msgstr "Sticky notes application"
+
+#. (itstool) path: description/p
+#: org.kde.knotes.appdata.xml:10
+msgid ""
+"KNotes is a program that lets you write the computer equivalent of sticky "
+"notes. The notes are saved automatically when you exit the program, and they "
+"display when you open the program."
+msgstr ""
+"KNotes is a program that lets you write the computer equivalent of sticky "
+"notes. The notes are saved automatically when you exit the program, and they "
+"display when you open the program."
+
+#. (itstool) path: description/p
+#: org.kde.knotes.appdata.xml:14
+msgid "Features:"
+msgstr "Features:"
+
+#. (itstool) path: ul/li
+#: org.kde.knotes.appdata.xml:16
+msgid "Write notes in your choice of font and background color"
+msgstr "Write notes in your choice of font and background colour"
+
+#. (itstool) path: ul/li
+#: org.kde.knotes.appdata.xml:17
+msgid "Use drag and drop to email your notes"
+msgstr "Use drag and drop to email your notes"
+
+#. (itstool) path: ul/li
+#: org.kde.knotes.appdata.xml:18
+msgid "Can be dragged into Calendar to book a time-slot"
+msgstr "Can be dragged into Calendar to book a time-slot"
+
+#. (itstool) path: ul/li
+#: org.kde.knotes.appdata.xml:19
+msgid "Notes can be printed"
+msgstr "Notes can be printed"

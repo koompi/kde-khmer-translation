@@ -1,0 +1,378 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-10 16:14+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ឈ្មោះរបស់អ្នក"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "អ៊ីមែលរបស់អ្នក"
+
+#: backuper.cpp:35
+#, kde-format
+msgid "Backup was successful. %1 incidence was saved."
+msgid_plural "Backup was successful. %1 incidences were saved."
+msgstr[0] "ការបម្រុងទុកបានជោគជ័យ។ ឧប្បត្តិហេតុ %1 ត្រូវបានរក្សាទុក។"
+msgstr[1] "ការបម្រុងទុកបានជោគជ័យ។ ឧប្បត្តិហេតុ %1 ត្រូវបានរក្សាទុក។"
+
+#: backuper.cpp:54
+#, kde-format
+msgid "File is empty."
+msgstr "ឯកសារទទេ។"
+
+#: backuper.cpp:59
+#, kde-format
+msgid "A backup is already in progress."
+msgstr "ការបម្រុងទុកកំពុងដំណើរការរួចហើយ។"
+
+#: backuper.cpp:62
+#, kde-format
+msgid "Backing up your calendar data..."
+msgstr "កំពុងបម្រុងទុកទិន្នន័យប្រតិទិនរបស់អ្នក ..."
+
+#: backuper.cpp:103
+#, kde-format
+msgid "No data to backup."
+msgstr "គ្មានទិន្នន័យត្រូវបម្រុងទុក។"
+
+#: backuper.cpp:114 calendarjanitor.cpp:169
+#, kde-format
+msgid "Processing collection %1 (id=%2)..."
+msgstr "ដំណើរការប្រមូល %1 (id = %2) ..."
+
+#: backuper.cpp:144
+#, kde-format
+msgid "An error occurred"
+msgstr "កំហុស​មួយ​បាន​កើត​ឡើង"
+
+#: calendarjanitor.cpp:37
+#, kde-format
+msgid "Bailing out. Fix your akonadi setup first. These kind of errors should not happen."
+msgstr "ការបង់ប្រាក់ធានា។ ជួសជុលការរៀបចំ akonadi របស់អ្នកជាមុន។ ប្រភេទនៃកំហុសទាំងនេះមិនគួរកើតឡើងទេ។"
+
+#: calendarjanitor.cpp:85
+#, kde-format
+msgid "Error while fetching collections"
+msgstr "មានកំហុសខណៈពេលទៅប្រមូលយក"
+
+#: calendarjanitor.cpp:98
+#, kde-format
+msgid "There are no collections to process."
+msgstr "មិនមានការប្រមូលដើម្បីដំណើរការទេ។"
+
+#: calendarjanitor.cpp:125
+#, kde-format
+msgid "Error while modifying incidence: %1"
+msgstr "កំហុសខណៈពេលកែប្រែឧប្បត្តិហេតុ៖ %1"
+
+#: calendarjanitor.cpp:130
+#, kde-format
+msgid "Fixed item %1"
+msgstr "ធាតុថេរ %1"
+
+#: calendarjanitor.cpp:143
+#, kde-format
+msgid "Error while deleting incidence: %1"
+msgstr "កំហុសពេលលុបឧប្បត្តិហេតុ៖ %1"
+
+#: calendarjanitor.cpp:147
+#, kde-format
+msgid "Deleted item %1"
+msgstr "បានលុបធាតុ %1"
+
+#: calendarjanitor.cpp:173
+#, kde-format
+msgid "Collection is read only, disabling fix mode."
+msgstr "ការប្រមូលត្រូវបានអានតែប៉ុណ្ណោះបិទរបៀបជួសជុល។"
+
+#: calendarjanitor.cpp:175
+#, kde-format
+msgid "Collection is read only, skipping it."
+msgstr "ការប្រមូលត្រូវបានអានតែរំលងវា។"
+
+#: calendarjanitor.cpp:183
+#, kde-format
+msgid "Collection is empty, ignoring it."
+msgstr "ការប្រមូលគឺទទេដោយមិនអើពើនឹងវា។"
+
+#: calendarjanitor.cpp:251
+#, kde-format
+msgid "Checking for incidences with empty summary and description..."
+msgstr "កំពុងពិនិត្យមើលឧប្បត្តិហេតុដោយមានការសង្ខេបនិងការពិពណ៌នាលំអិត ..."
+
+#: calendarjanitor.cpp:267
+#, kde-format
+msgid "Checking for incidences with empty UID..."
+msgstr "កំពុងពិនិត្យមើលឧប្បត្តិហេតុដែលមាន UID ទទេ ..."
+
+#: calendarjanitor.cpp:286
+#, kde-format
+msgid "Checking for events with invalid DTSTART..."
+msgstr "កំពុងពិនិត្យមើលព្រឹត្តិការណ៍ដែលមាន DTSTART មិនត្រឹមត្រូវ ..."
+
+#: calendarjanitor.cpp:323
+#, kde-format
+msgid "Checking for recurring to-dos with invalid DTSTART..."
+msgstr "កំពុងពិនិត្យមើលការងារត្រូវធ្វើដដែលៗជាមួយ DTSTART មិនត្រឹមត្រូវ ..."
+
+#: calendarjanitor.cpp:359
+#, kde-format
+msgid "Checking for journals with invalid DTSTART..."
+msgstr "ពិនិត្យទិនានុប្បវត្តិដែលមាន DTSTART មិនត្រឹមត្រូវ ..."
+
+#: calendarjanitor.cpp:380
+#, kde-format
+msgid "Checking for orphans..."
+msgstr "កំពុងពិនិត្យរកក្មេងកំព្រា…"
+
+#: calendarjanitor.cpp:386
+#, kde-format
+msgid "The following incidences are children of nonexistent parents"
+msgstr "ឧប្បត្តិហេតុខាងក្រោមនេះគឺជាកូនរបស់ឪពុកម្តាយដែលមិនមាន"
+
+#: calendarjanitor.cpp:395
+#, kde-format
+msgid "In fix mode these children will be unparented."
+msgstr "នៅក្នុងរបៀបជួសជុលកុមារទាំងនេះនឹងមិនមានតម្លាភាពទេ។"
+
+#: calendarjanitor.cpp:395
+#, kde-format
+msgid "Children were successfully unparented."
+msgstr "កុមារមិនមានតម្លាភាពដោយជោគជ័យ។"
+
+#: calendarjanitor.cpp:400
+#, kde-format
+msgid "Checking for duplicate UIDs..."
+msgstr "កំពុងពិនិត្យមើល UIDs ស្ទួន ..."
+
+#: calendarjanitor.cpp:457
+#, kde-format
+msgid "Gathering statistics..."
+msgstr "កំពុងប្រមូលស្ថិតិ ..."
+
+#: calendarjanitor.cpp:494
+#, kde-format
+msgid "Events"
+msgstr "ព្រឹត្តិការណ៍"
+
+#: calendarjanitor.cpp:495
+#, kde-format
+msgid "Todos"
+msgstr "ថូម៉ាស"
+
+#: calendarjanitor.cpp:496
+#, kde-format
+msgid "Journals"
+msgstr "ទិនានុប្បវត្តិ"
+
+#: calendarjanitor.cpp:497
+#, kde-format
+msgid "Passed events and to-dos (>365 days)"
+msgstr "ព្រឹត្តិការណ៍និងការងារត្រូវធ្វើដែលបានឆ្លងកាត់ (> ៣៦៥ ថ្ងៃ)"
+
+#: calendarjanitor.cpp:498
+#, kde-format
+msgid "Old incidences with alarms"
+msgstr "ឧប្បត្តិហេតុចាស់ជាមួយនឹងការជូនដំណឹង"
+
+#: calendarjanitor.cpp:499
+#, kde-format
+msgid "Inline attachments"
+msgstr "ឯកសារភ្ជាប់ក្នុងតួ"
+
+#: calendarjanitor.cpp:500
+#, kde-format
+msgid "Items with empty remote id [!!]"
+msgstr "ធាតុដែលមានលេខសម្គាល់ពីចម្ងាយទទេ [!!]"
+
+#: calendarjanitor.cpp:503
+#, kde-format
+msgid "Total size of inline attachments (bytes)"
+msgstr "ទំហំសរុបនៃឯកសារភ្ជាប់ក្នុងបណ្តាញ (បៃ)"
+
+#: calendarjanitor.cpp:505
+#, kde-format
+msgid "Total size of inline attachments (KB)"
+msgstr "ទំហំសរុបនៃឯកសារភ្ជាប់ក្នុងជួរ (KB)"
+
+#: calendarjanitor.cpp:517
+#, kde-format
+msgid "Checking for RECURRING-ID incidences with nonexistent master incidence..."
+msgstr "កំពុងពិនិត្យមើលឧប្បត្តិហេតុលេខសម្គាល់ដោយគ្មានឧប្បត្តិហេតុមេដែលមិនមាន ..."
+
+#: calendarjanitor.cpp:558
+#, kde-format
+msgid "In fix mode the RECURRING-ID property will be unset and UID changed."
+msgstr "នៅក្នុងរបៀបជួសជុលលក្ខណៈសម្បត្តិ RECURRING-ID នឹងមិនត្រូវបានកំណត់ហើយ UID ត្រូវបានផ្លាស់ប្តូរ។"
+
+#: calendarjanitor.cpp:559
+#, kde-format
+msgid "Recurrence cleared."
+msgstr "ការបោសសំអាតកើតឡើង។"
+
+#: calendarjanitor.cpp:564
+#, kde-format
+msgid "Deleting alarms older than 365 days..."
+msgstr "ការលុបសំឡេងរោទិ៍ចាស់ជាង ៣៦៥ ថ្ងៃ ..."
+
+#: calendarjanitor.cpp:582 calendarjanitor.cpp:596
+#, kde-format
+msgid "invalid"
+msgstr "មិនត្រឹមត្រូវ"
+
+#: calendarjanitor.cpp:599
+#, kde-format
+msgid "recurrent"
+msgstr "ចរន្ត"
+
+#: calendarjanitor.cpp:617
+#, kde-format
+msgid "Found buggy incidence:"
+msgstr "រកឃើញឧប្បត្តិហេតុ buggy៖"
+
+#: calendarjanitor.cpp:618
+#, kde-format
+msgid "id=%1; summary=\"%2\""
+msgstr "លេខសម្គាល់ = %1; សង្ខេប = \" %2\""
+
+#: main.cpp:31
+#, kde-format
+msgid "CalendarJanitor"
+msgstr "ប្រតិទិន Janitor"
+
+#: main.cpp:34
+#, kde-format
+msgid "A command line interface to report and fix errors in your calendar data"
+msgstr "ចំណុចប្រទាក់បន្ទាត់ពាក្យបញ្ជាដើម្បីរាយការណ៍និងជួសជុលកំហុសនៅក្នុងទិន្នន័យប្រតិទិនរបស់អ្នក"
+
+#: main.cpp:44
+#, kde-format
+msgid "Error while parsing %1"
+msgstr "មានកំហុសខណៈពេលកំពុងវិភាគ %1"
+
+#: main.cpp:45
+#, kde-format
+msgid "Example usage: %1"
+msgstr "ការប្រើប្រាស់ឧទាហរណ៍៖ %1"
+
+#: main.cpp:67
+#, kde-format
+msgid "Sérgio Martins"
+msgstr "សេរីហ្គីម៉ាទីន"
+
+#: main.cpp:67
+#, kde-format
+msgid "Maintainer"
+msgstr "អ្នកថែរក្សា"
+
+#: main.cpp:73
+#, kde-format
+msgid "Comma-separated list of collection ids to scan"
+msgstr "បញ្ជីលេខដែលប្រមូលដោយសញ្ញាក្បៀសដើម្បីស្កេន"
+
+#: main.cpp:74
+#, kde-format
+msgid "Fix broken incidences"
+msgstr "ជួសជុលឧប្បត្តិហេតុដែលខូច"
+
+#: main.cpp:75
+#, kde-format
+msgid "Backup your calendar"
+msgstr "បម្រុងទុកប្រតិទិនរបស់អ្នក"
+
+#: main.cpp:76
+#, kde-format
+msgid "Delete alarms older than 365 days"
+msgstr "លុបសំឡេងរោទិ៍ចាស់ជាង ៣៦៥ ថ្ងៃ"
+
+#: main.cpp:108
+#, kde-format
+msgid "--fix is incompatible with --backup"
+msgstr "--ជួសជុល មិនឆបគ្នាជាមួយ ---បម្រុងទុក"
+
+#: main.cpp:113
+#, kde-format
+msgid "--strip-old-alarms is incompatible with --backup"
+msgstr "--ឆ្នូត-ចាស់-សំឡេងរោ មិនត្រូវគ្នានឹង - ថយក្រោយ"
+
+#: main.cpp:118
+#, kde-format
+msgid "--strip-old-alarms is incompatible with --fix"
+msgstr "--ឆ្នូត-ចាស់-សំឡេងរោទិ៍ មិនត្រូវគ្នានឹង --ជួសជុល"
+
+#: main.cpp:129
+#, kde-format
+msgid "Running in fix mode."
+msgstr "ដំណើរការក្នុងរបៀបជួសជុល។"
+
+#: main.cpp:133
+#, kde-format
+msgid "Please specify a output file."
+msgstr "សូមបញ្ជាក់ឯកសារលទ្ធផល។"
+
+#: main.cpp:138
+#, kde-format
+msgid "Running in scan only mode."
+msgstr "ដំណើរការក្នុងរបៀបស្កេនតែប៉ុណ្ណោះ។"
+
+#~ msgid "(c) 2013, Sérgio Martins"
+#~ msgstr "(c) ឆ្នាំ ២០១៣ សេរីហ្គីម៉ាទីន"
+
+#~ msgid ""
+#~ "\n"
+#~ "Examples:\n"
+#~ "\n"
+#~ "Scan all collections:\n"
+#~ "$ calendarjanitor\n"
+#~ "\n"
+#~ "Scan and fix all collections:\n"
+#~ "$ calendarjanitor --fix\n"
+#~ "\n"
+#~ "Scan and fix some collections:\n"
+#~ "$ calendarjanitor --collections 10,20 --fix\n"
+#~ "\n"
+#~ "Backup all collections:\n"
+#~ "$ calendarjanitor --backup backup.ics\n"
+#~ "\n"
+#~ "Backup some collections:\n"
+#~ "$ calendarjanitor --backup backup.ics --collections 10,20\n"
+#~ "\n"
+#~ "Strip alarms from incidences older than 365 days:\n"
+#~ "$ calendarjanitor --strip-old-alarms --collections 10,20"
+#~ msgstr ""
+#~ "\n"
+#~ "ឧទាហរណ៍៖\n"
+#~ "\n"
+#~ "វិភាគការប្រមូលទាំងអស់៖\n"
+#~ "$ calendarjanitor\n"
+#~ "\n"
+#~ "វិភាគនិងដោះស្រាយការប្រមូលទាំងអស់៖\n"
+#~ "$ calendarjanitor --fix\n"
+#~ "\n"
+#~ "វិភាគនិងដោះស្រាយការប្រមូលចំនួន៖\n"
+#~ "$ calendarjanitor --collections 10,20 --fix\n"
+#~ "\n"
+#~ "បម្រុងទុកទាំងអស់ ការប្រមូល៖\n"
+#~ "$ calendarjanitor --backup backup។ics\n"
+#~ "\n"
+#~ "ការបម្រុងទុកការប្រមូលមួយចំនួន៖ ការជូនដំណឹង\n"
+#~ "$ calendarjanitor --backup backup។ics --collections 10,20\n"
+#~ "\n"
+#~ "ស្ទ្រីពីឧបត្តិហេតុចាស់ជាង 365 ថ្ងៃ៖\n"
+#~ "$ calendarjanitor --strip- សំឡេងរោទិ៍ចាស់ - គំនូសតាង ១០,២០"

@@ -1,0 +1,42 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-07-02 03:33+0200\n"
+"PO-Revision-Date: 2018-08-15 12:48+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.ksysguard.appdata.xml:3
+msgid "KSysGuard"
+msgstr "KSysGuard"
+
+#. (itstool) path: component/summary
+#: org.kde.ksysguard.appdata.xml:4
+msgid "Monitor running processes and system performance"
+msgstr "Monitor running processes and system performance"
+
+#. (itstool) path: description/p
+#: org.kde.ksysguard.appdata.xml:11
+msgid ""
+"System Guard allows you to monitor information and statistics about your "
+"system."
+msgstr ""
+"System Guard allows you to monitor information and statistics about your "
+"system."
+
+#. (itstool) path: description/p
+#: org.kde.ksysguard.appdata.xml:12
+msgid ""
+"In addition to monitoring the local system, it can connect to remote systems "
+"running the System Guard Daemon."
+msgstr ""
+"In addition to monitoring the local system, it can connect to remote systems "
+"running the System Guard Daemon."

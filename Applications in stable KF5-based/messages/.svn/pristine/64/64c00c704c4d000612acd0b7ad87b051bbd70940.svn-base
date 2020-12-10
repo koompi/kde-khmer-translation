@@ -1,0 +1,51 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2014, 2017, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-11-23 03:16+0100\n"
+"PO-Revision-Date: 2018-12-02 13:07+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.akregator.appdata.xml:5
+msgid "Akregator"
+msgstr "Akregator"
+
+#. (itstool) path: component/developer_name
+#: org.kde.akregator.appdata.xml:6
+msgid "The KDE Community"
+msgstr "The KDE Community"
+
+#. (itstool) path: description/p
+#: org.kde.akregator.appdata.xml:8
+msgid ""
+"Akregator is a news feed reader. It enables you to follow news sites, blogs "
+"and other RSS/Atom-enabled websites without the need to manually check for "
+"updates using a web browser. Akregator is designed to be both easy to use "
+"and to be powerful enough to read hundreds of news sources conveniently. It "
+"comes with a fast search, advanced archiving functionality and an internal "
+"browser for easy news reading."
+msgstr ""
+"Akregator is a news feed reader. It enables you to follow news sites, blogs "
+"and other RSS/Atom-enabled websites without the need to manually check for "
+"updates using a web browser. Akregator is designed to be both easy to use "
+"and to be powerful enough to read hundreds of news sources conveniently. It "
+"comes with a fast search, advanced archiving functionality and an internal "
+"browser for easy news reading."
+
+#. (itstool) path: component/summary
+#: org.kde.akregator.appdata.xml:14
+msgid "A news feed reader"
+msgstr "A news feed reader"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.akregator.appdata.xml:20
+msgid "Reading feeds in Kontact with Akregator"
+msgstr "Reading feeds in Kontact with Akregator"

@@ -1,0 +1,83 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Steve Allewell <steve.allewell@gmail.com>, 2015, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-08-16 03:24+0200\n"
+"PO-Revision-Date: 2019-08-03 16:12+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Steve Allewell"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "steve.allewell@gmail.com"
+
+#: kcm.cpp:39
+#, kde-format
+msgid "File Indexer Monitor"
+msgstr "File Indexer Monitor"
+
+#: kcm.cpp:41
+#, kde-format
+msgid "Pinak Ahuja"
+msgstr "Pinak Ahuja"
+
+#: package/contents/ui/main.qml:34
+#, kde-format
+msgid "This module lets you monitor the file indexing"
+msgstr "This module lets you monitor the file indexing"
+
+#: package/contents/ui/main.qml:53
+#, kde-format
+msgid "Indexer State: %1"
+msgstr "Indexer State: %1"
+
+#: package/contents/ui/main.qml:67
+#, kde-format
+msgid "Indexing: %1 "
+msgstr "Indexing: %1 "
+
+#: package/contents/ui/main.qml:69
+#, kde-format
+msgid "Done"
+msgstr "Done"
+
+#: package/contents/ui/main.qml:90
+#, kde-format
+msgid "Resume"
+msgstr "Resume"
+
+#: package/contents/ui/main.qml:90
+#, kde-format
+msgid "Suspend"
+msgstr "Suspend"
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "Remaining Time: %1"
+msgstr "Remaining Time: %1"
+
+#: package/contents/ui/main.qml:112
+#, kde-format
+msgid "File Indexer not running"
+msgstr "File Indexer not running"
+
+#: package/contents/ui/main.qml:118
+#, kde-format
+msgid "Start File Indexer"
+msgstr "Start File Indexer"

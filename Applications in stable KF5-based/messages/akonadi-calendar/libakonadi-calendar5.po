@@ -1,0 +1,1437 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-10 15:42+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: calendarbase.cpp:271
+#, kde-format
+msgid "Could not find incidence to update, it probably was deleted recently."
+msgstr "មិនអាចរកឃើញឧប្បត្តិហេតុដើម្បីធ្វើបច្ចុប្បន្នភាពទេវាប្រហែលជាត្រូវបានលុបថ្មីៗនេះ។"
+
+#: calendarclipboard.cpp:71
+#, kde-format
+msgid "Error performing deletion."
+msgstr "កំហុសក្នុងការអនុវត្តការលុប។"
+
+#: calendarclipboard.cpp:76
+#, kde-format
+msgid "Error performing copy."
+msgstr "មានកំហុសក្នុងការថតចំលង។"
+
+#: calendarclipboard.cpp:100
+#, kde-format
+msgid "Can't find item: %1"
+msgstr "មិនអាចរកឃើញធាតុ៖ %1"
+
+#: calendarclipboard.cpp:116 calendarclipboard.cpp:133
+#, kde-format
+msgid "Error while removing relations."
+msgstr "មានកំហុសនៅពេលដកចេញទំនាក់ទំនង។"
+
+#: calendarclipboard.cpp:159
+#, kde-format
+msgid "Error while deleting incidences: %1"
+msgstr "កំហុសពេលលុបឧប្បត្តិហេតុ៖ %1"
+
+#: calendarclipboard.cpp:179
+#, kde-format
+msgid "The item \"%1\" has sub-to-dos. Do you want to cut just this item and make all its sub-to-dos independent, or cut the to-do with all its sub-to-dos?"
+msgstr "ធាតុ \" %1\" មានការងារត្រូវធ្វើ។ តើអ្នកចង់កាត់ធាតុនេះហើយធ្វើឱ្យការងារត្រូវធ្វើរបស់វាទាំងអស់ឯករាជ្យឬកាត់ការងារដែលត្រូវធ្វើជាមួយអនុការងារត្រូវធ្វើទាំងអស់?"
+
+#: calendarclipboard.cpp:184 calendarclipboard.cpp:223
+#, kde-format
+msgid "KOrganizer Confirmation"
+msgstr "ការបញ្ជាក់របស់ Korganizer"
+
+#: calendarclipboard.cpp:185
+#, kde-format
+msgid "Cut Only This"
+msgstr "កាត់តែនេះ"
+
+#: calendarclipboard.cpp:186
+#, kde-format
+msgid "Cut All"
+msgstr "កាត់ទាំងអស់"
+
+#: calendarclipboard.cpp:219
+#, kde-format
+msgid "The item \"%1\" has sub-to-dos. Do you want to copy just this item or copy the to-do with all its sub-to-dos?"
+msgstr "ធាតុ \" %1\" មានការងារត្រូវធ្វើ។ តើអ្នកចង់ចម្លងធាតុនេះឬចម្លងការងារត្រូវធ្វើជាមួយការងារត្រូវធ្វើរបស់វាទាំងអស់ទេ?"
+
+#: calendarclipboard.cpp:224
+#, kde-format
+msgid "Copy Only This"
+msgstr "ចម្លងតែប៉ុណ្ណឹង"
+
+#: calendarclipboard.cpp:225
+#, kde-format
+msgid "Copy All"
+msgstr "ចម្លងទាំងអស់"
+
+#: calendarmodel.cpp:202
+#, kde-format
+msgctxt "@title:column calendar event summary"
+msgid "Summary"
+msgstr "សង្ខេប"
+
+#: calendarmodel.cpp:204
+#, kde-format
+msgctxt "@title:column calendar event start date and time"
+msgid "Start Date and Time"
+msgstr "កាលបរិច្ឆេទនិងពេលវេលាចាប់ផ្តើម"
+
+#: calendarmodel.cpp:206
+#, kde-format
+msgctxt "@title:column calendar event end date and time"
+msgid "End Date and Time"
+msgstr "កាលបរិច្ឆេទនិងពេលវេលាបញ្ចប់"
+
+#: calendarmodel.cpp:208
+#, kde-format
+msgctxt "@title:column calendar event type"
+msgid "Type"
+msgstr "ប្រភេទ"
+
+#: calendarmodel.cpp:210
+#, kde-format
+msgctxt "@title:column todo item due date and time"
+msgid "Due Date and Time"
+msgstr "កាលបរិច្ឆេទនិងពេលវេលាដល់កំណត់"
+
+#: calendarmodel.cpp:212
+#, kde-format
+msgctxt "@title:column todo item priority"
+msgid "Priority"
+msgstr "អាទិភាព"
+
+#: calendarmodel.cpp:214
+#, kde-format
+msgctxt "@title:column todo item completion in percent"
+msgid "Complete"
+msgstr "បញ្ចប់"
+
+#: calendarmodel.cpp:223
+#, kde-format
+msgctxt "@title:column calendar title"
+msgid "Calendar"
+msgstr "ប្រតិទិន"
+
+#. i18n: ectx: label, entry (FreeBusyPublishUrl), group (FreeBusy Publish)
+#: calendarsettings.kcfg:23
+#, kde-format
+msgid "Free/Busy Publish URL"
+msgstr "URL ផ្សាយពាណិជ្ជកម្មទំនេរ / រវល់"
+
+#. i18n: ectx: whatsthis, entry (FreeBusyPublishUrl), group (FreeBusy Publish)
+#: calendarsettings.kcfg:24
+#, kde-format
+msgid "URL for publishing free/busy information"
+msgstr "URL សម្រាប់ផ្សព្វផ្សាយព័ត៌មានទំនេរ / រវល់"
+
+#. i18n: ectx: label, entry (FreeBusyPublishUser), group (FreeBusy Publish)
+#: calendarsettings.kcfg:28
+#, kde-format
+msgid "Free/Busy Publish Username"
+msgstr "ឈ្មោះអ្នកប្រើផ្សាយដោយឥតគិតថ្លៃ / រវល់"
+
+#. i18n: ectx: whatsthis, entry (FreeBusyPublishUser), group (FreeBusy Publish)
+#: calendarsettings.kcfg:29
+#, kde-format
+msgid "Username for publishing free/busy information"
+msgstr "ឈ្មោះអ្នកប្រើសម្រាប់ផ្សព្វផ្សាយព័ត៌មានទំនេរ / រវល់"
+
+#. i18n: ectx: label, entry (FreeBusyPublishPassword), group (FreeBusy Publish)
+#: calendarsettings.kcfg:33
+#, kde-format
+msgid "Free/Busy Publish Password"
+msgstr "ពាក្យសម្ងាត់បោះពុម្ព / រវល់"
+
+#. i18n: ectx: whatsthis, entry (FreeBusyPublishPassword), group (FreeBusy Publish)
+#: calendarsettings.kcfg:34
+#, kde-format
+msgid "Password for publishing free/busy information"
+msgstr "ពាក្យសម្ងាត់សម្រាប់ផ្សព្វផ្សាយព័ត៌មានទំនេរ / រវល់"
+
+#. i18n: ectx: label, entry (FreeBusyRetrieveAuto), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:45
+#, kde-format
+msgid "Enable Automatic Free/Busy Retrieval"
+msgstr "បើកដំណើរការទាញយកដោយឥតគិតថ្លៃ / រវល់ដោយស្វ័យប្រវត្តិ"
+
+#. i18n: ectx: label, entry (FreeBusyFullDomainRetrieval), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:50
+#, kde-format
+msgid "Use full email address for retrieval"
+msgstr "ប្រើអាសយដ្ឋានអ៊ីមែលពេញលេញដើម្បីទៅយក"
+
+#. i18n: ectx: whatsthis, entry (FreeBusyFullDomainRetrieval), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:51
+#, kde-format
+msgid "With this setting, you can change the filename that will be fetched from the server. With this checked, it will download a free/busy file called user@domain.ifb, for example nn@kde.org.ifb. Without this set, it will download user.ifb, for example nn.ifb."
+msgstr "ជាមួយនឹងការកំណត់នេះអ្នកអាចប្តូរឈ្មោះឯកសារដែលនឹងត្រូវបានទៅយកពីម៉ាស៊ីនមេ។ ជាមួយនឹងការធីកនេះវានឹងទាញយកឯកសារទំនេរ / រវល់មួយដែលមានឈ្មោះថា user@domain។ifb ឧទាហរណ៍ nn@kde។org។ifb ។ បើគ្មានសំណុំនេះទេវានឹងទាញយក user។ifb ឧទាហរណ៍ nn។ifb ។"
+
+#. i18n: ectx: label, entry (FreeBusyRetrieveUrl), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:56
+#, kde-format
+msgid "Free/Busy Retrieval URL"
+msgstr "URL ទាញយកដោយឥតគិតថ្លៃ / រវល់"
+
+#. i18n: ectx: label, entry (FreeBusyRetrieveUser), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:60
+#, kde-format
+msgid "Free/Busy Retrieval Username"
+msgstr "ឈ្មោះអ្នកប្រើទាញយកដោយឥតគិតថ្លៃ / រវល់"
+
+#. i18n: ectx: label, entry (FreeBusyRetrievePassword), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:64
+#, kde-format
+msgid "Free/Busy Retrieval Password"
+msgstr "ពាក្យសម្ងាត់ដើម្បីទៅយកដោយឥតគិតថ្លៃ / រវល់"
+
+#. i18n: ectx: whatsthis, entry (FreeBusyRetrievePassword), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:65
+#, kde-format
+msgid "Password for retrieving free/busy information"
+msgstr "ពាក្យសម្ងាត់សម្រាប់ការទាញយកព័ត៌មានទំនេរ / រវល់"
+
+#. i18n: ectx: label, entry, group (Group Scheduling)
+#: calendarsettings.kcfg:76
+#, kde-format
+msgid "Send copy to owner when mailing events"
+msgstr "ផ្ញើច្បាប់ចម្លងទៅម្ចាស់នៅពេលផ្ញើព្រឹត្តិការណ៍"
+
+#. i18n: ectx: whatsthis, entry, group (Group Scheduling)
+#: calendarsettings.kcfg:77
+#, kde-format
+msgid "Check this box to get a copy of all e-mail messages that KOrganizer sends at your request to event attendees."
+msgstr "ធីកប្រអប់នេះដើម្បីទទួលបានច្បាប់ចម្លងនៃសារអ៊ីមែលទាំងអស់ដែល Korganizer ផ្ញើតាមការស្នើសុំរបស់អ្នកទៅកាន់អ្នកចូលរួមព្រឹត្តិការណ៍។"
+
+#. i18n: ectx: label, entry, group (Group Scheduling)
+#: calendarsettings.kcfg:82
+#, kde-format
+msgid "Mail transport to use for sending e-mail messages"
+msgstr "ការដឹកជញ្ជូនតាមសំបុត្រដើម្បីប្រើសម្រាប់ផ្ញើសារតាមអ៊ីមែល"
+
+#. i18n: ectx: whatsthis, entry, group (Group Scheduling)
+#: calendarsettings.kcfg:83
+#, kde-format
+msgid "If specified all, groupware e-mails will use this transport. Otherwise, the default one will be used."
+msgstr "ប្រសិនបើបានបញ្ជាក់ទាំងអស់អ៊ីមែលក្រុមប្រើនឹងប្រើការដឹកជញ្ជូននេះ។ បើមិនដូច្នោះទេលំនាំដើមនឹងត្រូវបានប្រើ។"
+
+#. i18n: ectx: label, entry (OutlookCompatCounterProposals), group (Hidden Options)
+#: calendarsettings.kcfg:91
+#, kde-format
+msgid "Send Outlook-like pseudo counter proposals"
+msgstr "ផ្ញើសំណើរាប់ក្លែងក្លាយរបស់ចក្ខុវិស័យ"
+
+#. i18n: ectx: label, entry (FreeBusyCheckHostname), group (Hidden Options)
+#: calendarsettings.kcfg:96
+#, kde-format
+msgid "Check whether hostname and retrieval email address match"
+msgstr "ពិនិត្យមើលថាតើឈ្មោះម៉ាស៊ីននិងការទាញយកអាសយដ្ឋានអ៊ីមែលត្រូវគ្នា"
+
+#. i18n: ectx: whatsthis, entry (FreeBusyCheckHostname), group (Hidden Options)
+#: calendarsettings.kcfg:97
+#, kde-format
+msgid "With this setting you can configure whether the domain part of the free/busy URL has to match the domain part of the user ID you are looking for. For example, if this option is set, then looking for the free/busy data of joe@mydomain.com on the server www.yourdomain.com will fail."
+msgstr "ជាមួយការកំណត់នេះអ្នកអាចកំណត់ថាតើផ្នែកដែនរបស់ URL ទំនេរ / រវល់ត្រូវផ្គូផ្គងផ្នែកដូនៃលេខសម្គាល់អ្នកប្រើដែលអ្នកកំពុងស្វែងរក។ ឧទាហរណ៍ប្រសិនបើជម្រើសនេះត្រូវបានកំណត់បន្ទាប់មកការស្វែងរកទិន្នន័យទំនេរ / រវល់របស់ joe@mydomain។com នៅលើម៉ាស៊ីនមេ www។yourdomain។com នឹងបរាជ័យ។"
+
+#: freebusymanager.cpp:388
+#, kde-format
+msgid ""
+"Failed to download free/busy data from: %1\n"
+"Reason: %2"
+msgstr ""
+"បានបរាជ័យក្នុងការទាញយកទិន្នន័យទំនេរ / រវល់ពី៖ %1\n"
+"មូលហេតុ៖ %2"
+
+#: freebusymanager.cpp:390 freebusymanager.cpp:415
+#, kde-format
+msgid "Free/busy retrieval error"
+msgstr "កំហុសក្នុងការទៅយកដោយឥតគិតថ្លៃ / រវល់"
+
+#: freebusymanager.cpp:413
+#, kde-format
+msgid "Failed to parse free/busy information that was retrieved from: %1"
+msgstr "បានបរាជ័យក្នុងការញែកព័ត៌មានទំនេរ / រវល់ដែលត្រូវបានទាញយកពី៖ %1"
+
+#: freebusymanager.cpp:430
+#, kde-format
+msgid "<qt><p>The software could not upload your free/busy list to the URL '%1'. There might be a problem with the access rights, or you specified an incorrect URL. The system said: <em>%2</em>.</p><p>Please check the URL or contact your system administrator.</p></qt>"
+msgstr "<qt><p> កម្មវិធីមិនអាចផ្ទុកឡើងបញ្ជីទំនេរ / រវល់របស់អ្នកទៅ URL '%1' ។ វាអាចមានបញ្ហាជាមួយសិទ្ធិចូលប្រើឬអ្នកបានបញ្ជាក់ URL មិនត្រឹមត្រូវ។ ប្រព័ន្ធនេះបាននិយាយថា៖ <em> %2 </em> ។ </p><p> សូមពិនិត្យមើល URL ឬទាក់ទងអ្នកគ្រប់គ្រងប្រព័ន្ធរបស់អ្នក។ </p></qt>"
+
+#: freebusymanager.cpp:632
+#, kde-format
+msgid "The free/busy information was successfully sent."
+msgstr "ព័ត៌មានទំនេរ / រវល់ត្រូវបានផ្ញើដោយជោគជ័យ។"
+
+#: freebusymanager.cpp:633 itiphandler_p.cpp:147
+#, kde-format
+msgid "Sending Free/Busy"
+msgstr "ការផ្ញើដោយឥតគិតថ្លៃ / រវល់"
+
+#: freebusymanager.cpp:637
+#, kde-format
+msgid "Unable to publish the free/busy data: %1"
+msgstr "មិនអាចផ្សព្វផ្សាយទិន្នន័យទំនេរ / រវល់បានទេ៖ %1"
+
+#: freebusymanager.cpp:765
+#, kde-format
+msgid "<qt><p>No URL configured for uploading your free/busy list. Please set it in KOrganizer's configuration dialog, on the \"Free/Busy\" page.</p><p>Contact your system administrator for the exact URL and the account details.</p></qt>"
+msgstr "<qt><p> គ្មាន URL កំណត់រចនាសម្ព័ន្ធសម្រាប់ផ្ទុកឡើងបញ្ជីទំនេរ / រវល់របស់អ្នកទេ។ សូមកំណត់វានៅក្នុងប្រអប់កំណត់រចនាសម្ព័ន្ធរបស់ Krrganizer នៅលើទំព័រ \"Free / Busy\" ។ </p><p> ទាក់ទងអ្នកគ្រប់គ្រងប្រព័ន្ធរបស់អ្នកសម្រាប់ URL ពិតប្រាកដនិងព័ត៌មានគណនី។ </p></qt>"
+
+#: freebusymanager.cpp:770
+#, kde-format
+msgid "No Free/Busy Upload URL"
+msgstr "គ្មាន URL ផ្ទុកឡើងសេរី / រវល់"
+
+#: freebusymanager.cpp:781
+#, kde-format
+msgid "<qt>The target URL '%1' provided is invalid.</qt>"
+msgstr "<qt> URL គោលដៅ '%1' ដែលបានផ្តល់មិនត្រឹមត្រូវ។ </qt>"
+
+#: freebusymanager.cpp:782
+#, kde-format
+msgid "Invalid URL"
+msgstr "URL មិនត្រឹមត្រូវ"
+
+#: history_p.cpp:71
+#, kde-format
+msgid "General error"
+msgstr "កំហុសទូទៅ"
+
+#: history_p.cpp:82
+#, kde-format
+msgctxt "%1 is event, todo or journal"
+msgid "%1 creation"
+msgstr "ការបង្កើត %1"
+
+#: history_p.cpp:150
+#, kde-format
+msgctxt "%1 is event, todo or journal"
+msgid "%1 deletion"
+msgstr "ការលុប %1"
+
+#: history_p.cpp:232
+#, kde-format
+msgctxt "%1 is event, todo or journal"
+msgid "%1 modification"
+msgstr "ការកែប្រែ %1"
+
+#: icalimporter.cpp:81
+#, kde-format
+msgid "Error creating ical resource: %1"
+msgstr "កំហុសក្នុងការបង្កើតធនធាន ical៖ %1"
+
+#: icalimporter.cpp:93
+#, kde-format
+msgid "Failed to obtain D-Bus interface for remote configuration."
+msgstr "បានបរាជ័យក្នុងការទទួលចំណុចប្រទាក់ D-Bus សម្រាប់ការកំណត់រចនាសម្ព័ន្ធពីចម្ងាយ។"
+
+#: icalimporter.cpp:117
+#, kde-format
+msgid "Could not download remote file."
+msgstr "មិនអាចទាញយកឯកសារពីចម្ងាយ។"
+
+#: icalimporter.cpp:142 icalimporter.cpp:164
+#, kde-format
+msgid "An import task is already in progress."
+msgstr "កិច្ចការនាំចូលកំពុងដំណើរការរួចហើយ។"
+
+#: icalimporter.cpp:169
+#, kde-format
+msgid "Empty filename. Will not import ical file."
+msgstr "ឈ្មោះឯកសារទទេ។ នឹងមិននាំចូលឯកសារ ical ទេ។"
+
+#: icalimporter.cpp:174
+#, kde-format
+msgid "Url to import is malformed."
+msgstr "Url ដើម្បីនាំចូលមិនត្រឹមត្រូវ។"
+
+#: icalimporter.cpp:180
+#, kde-format
+msgid "The specified file doesn't exist, aborting import."
+msgstr "មិនមានឯកសារដែលបានបញ្ជាក់ទេបញ្ឈប់ការនាំចូល។"
+
+#: icalimporter.cpp:188
+#, kde-format
+msgid "Failed to load ical file, check permissions."
+msgstr "បានបរាជ័យក្នុងការផ្ទុកឯកសារ ical, ពិនិត្យសិទ្ធិ។"
+
+#: icalimporter.cpp:196
+#, kde-format
+msgid "The ical file to merge is empty."
+msgstr "ឯកសារ ical ដែលត្រូវបញ្ចូលគ្នាគឺទទេ។"
+
+#: icalimporter.cpp:216
+#, kde-format
+msgid "Merge ical file into existing calendar."
+msgstr "បញ្ចូលឯកសារ ical ចូលទៅក្នុងប្រតិទិនដែលមានស្រាប់។"
+
+#: incidencechanger.cpp:242
+#, kde-format
+msgid "Error while trying to create calendar item. Error was: %1"
+msgstr "មានកំហុសខណៈពេលព្យាយាមបង្កើតធាតុប្រតិទិន។ កំហុសគឺ៖ %1"
+
+#: incidencechanger.cpp:324
+#, kde-format
+msgid "Error while trying to delete calendar item. Error was: %1"
+msgstr "មានកំហុសខណៈពេលព្យាយាមលុបធាតុប្រតិទិន។ កំហុសគឺ៖ %1"
+
+#: incidencechanger.cpp:361
+#, kde-format
+msgctxt "errormessage for a job ended with an unexpected result"
+msgid "An unknown error occurred"
+msgstr "កំហុសមិនស្គាល់បានកើតឡើង"
+
+#: incidencechanger.cpp:399
+#, kde-format
+msgid "Error while trying to modify calendar item. Error was: %1"
+msgstr "មានកំហុសខណៈពេលព្យាយាមកែប្រែធាតុប្រតិទិន។ កំហុសគឺ៖ %1"
+
+#: incidencechanger.cpp:810 incidencechanger.cpp:934
+#, kde-format
+msgid "That calendar item was already deleted, or currently being deleted."
+msgstr "ធាតុប្រតិទិននោះត្រូវបានលុបរួចហើយឬបច្ចុប្បន្នត្រូវបានលុបចោល។"
+
+#: incidencechanger.cpp:1203
+#, kde-format
+msgid "Operation can not be performed due to ACL restrictions"
+msgstr "ប្រតិបត្តិការមិនអាចត្រូវបានអនុវត្តដោយសារតែការរឹតបន្តឹង ACL"
+
+#: incidencechanger.cpp:1206
+#, kde-format
+msgid "The chosen collection is invalid"
+msgstr "ការប្រមូលដែលបានជ្រើសរើសមិនត្រឹមត្រូវ"
+
+#: incidencechanger.cpp:1209
+#, kde-format
+msgid "Default collection is invalid or doesn't have proper ACLs and DestinationPolicyNeverAsk was used"
+msgstr "ការប្រមូលលំនាំដើមគឺមិនត្រឹមត្រូវឬមិនមាន ACLs ត្រឹមត្រូវនិងទិសដៅ DestinationPolicyNeverAsk ត្រូវបានប្រើ"
+
+#: incidencechanger.cpp:1213
+#, kde-format
+msgid "Duplicate item id in a group operation"
+msgstr "លេខសម្គាល់ធាតុស្ទួននៅក្នុងប្រតិបត្តិការក្រុម"
+
+#: incidencechanger.cpp:1216
+#, kde-format
+msgid "One change belonging to a group of changes failed. All changes are being rolled back."
+msgstr "ការផ្លាស់ប្តូរមួយដែលជាកម្មសិទ្ធិរបស់ក្រុមការផ្លាស់ប្តូរបានបរាជ័យ។ ការផ្លាស់ប្តូរទាំងអស់កំពុងត្រូវបានរមៀលត្រឡប់មកវិញ។"
+
+#: incidencechanger.cpp:1221
+#, kde-format
+msgid "Unknown error"
+msgstr "កំហុសមិនស្គាល់"
+
+#: itiphandler.cpp:111
+#, kde-format
+msgid "Error loading calendar."
+msgstr "កំហុសក្នុងការផ្ទុកប្រតិទិន។"
+
+#: itiphandler.cpp:119
+#, kde-format
+msgid "Error message: %1"
+msgstr "សារកំហុស៖ %1"
+
+#: itiphandler.cpp:120
+#, kde-format
+msgid "Unknown error while parsing iCal invitation"
+msgstr "កំហុសមិនស្គាល់ខណៈពេលកំពុងវិភាគការអញ្ជើញរបស់ iCal"
+
+#: itiphandler.cpp:126
+#, kde-format
+msgid "Error while processing an invitation or update."
+msgstr "មានកំហុសពេលដំណើរការការអញ្ជើញឬធ្វើបច្ចុប្បន្នភាព។"
+
+#: itiphandler.cpp:143
+#, kde-format
+msgid "Invalid incidence"
+msgstr "ឧប្បត្តិហេតុមិនត្រឹមត្រូវ"
+
+#: itiphandler.cpp:217
+#, kde-format
+msgid "Invalid action: %1"
+msgstr "សកម្មភាពមិនត្រឹមត្រូវ៖ %1"
+
+#: itiphandler.cpp:240
+#, kde-format
+msgid "Error sending counter proposal"
+msgstr "កំហុសក្នុងការផ្ញើសំណើរាប់"
+
+#: itiphandler.cpp:247
+#, kde-format
+msgid "Could not start editor to edit counter proposal"
+msgstr "មិនអាចចាប់ផ្តើមកម្មវិធីនិពន្ធដើម្បីកែសម្រួលសំណើរតបតទេ"
+
+#: itiphandler.cpp:278
+#, kde-format
+msgid "The item '%1' has no attendees. Therefore no groupware message will be sent."
+msgstr "ធាតុ '%1' គ្មានអ្នកចូលរួម។ ដូច្នេះគ្មានសារជាក្រុមនឹងត្រូវបានផ្ញើទេ។"
+
+#: itiphandler.cpp:281
+#, kde-format
+msgid "Message Not Sent"
+msgstr "សារមិនបានផ្ញើទេ"
+
+#: itiphandler.h:90 itiphandler.h:104 itiphandler.h:117 itiphandler.h:128
+#, kde-format
+msgctxt "@action:button dialog positive answer"
+msgid "Send Email"
+msgstr "ផ្ញើអ៊ីមែល"
+
+#: itiphandler.h:91 itiphandler.h:105 itiphandler.h:118 itiphandler.h:128
+#, kde-format
+msgctxt "@action:button dialog negative answer"
+msgid "Do Not Send"
+msgstr "Do Not Send"
+
+#: itiphandler_p.cpp:63 itiphandler_p.cpp:66 itiphandler_p.cpp:127
+#: itiphandlerhelper_p.cpp:452
+#, kde-format
+msgid "Error: %1"
+msgstr "កំហុស៖ %1"
+
+#: itiphandler_p.cpp:88
+#, kde-format
+msgid "Error loading calendar: %1"
+msgstr "កំហុសក្នុងការផ្ទុកប្រតិទិន៖ %1"
+
+#: itiphandler_p.cpp:143
+#, kde-format
+msgid ""
+"The groupware message for item '%1' was successfully sent.\n"
+"Method: %2"
+msgstr ""
+"សារក្រុមប្រើសម្រាប់ធាតុ '%1' ត្រូវបានផ្ញើដោយជោគជ័យ។\n"
+"វិធីសាស្រ្ត៖ %2"
+
+#: itiphandler_p.cpp:154
+#, kde-format
+msgctxt "Groupware message sending failed. %2 is request/reply/add/cancel/counter/etc."
+msgid ""
+"Unable to send the item '%1'.\n"
+"Method: %2"
+msgstr ""
+"មិនអាចផ្ញើធាតុ '%1' ។\n"
+"វិធីសាស្រ្ត៖ %2"
+
+#: itiphandler_p.cpp:170 itiphandler_p.cpp:191
+#, kde-format
+msgid "The item information was successfully sent."
+msgstr "ព័ត៌មានធាតុត្រូវបានផ្ញើដោយជោគជ័យ។"
+
+#: itiphandler_p.cpp:171
+#, kde-format
+msgid "Publishing"
+msgstr "ការបោះពុម្ពផ្សាយ"
+
+#: itiphandler_p.cpp:176
+#, kde-format
+msgid "Unable to publish the item '%1'"
+msgstr "មិនអាចផ្សព្វផ្សាយធាតុ '%1'"
+
+#: itiphandler_p.cpp:192
+#, kde-format
+msgid "Forwarding"
+msgstr "បញ្ជូនបន្ត"
+
+#: itiphandler_p.cpp:199
+#, kde-format
+msgid "Unable to forward the item '%1'"
+msgstr "មិនអាចបញ្ជូនបន្តធាតុ '%1'"
+
+#: itiphandler_p.cpp:201
+#, kde-format
+msgid "Forwarding Error"
+msgstr "កំហុសបញ្ជូនបន្ត"
+
+#: itiphandlerhelper_p.cpp:38
+#, kde-format
+msgid "Proposed new meeting time: %1 - %2"
+msgstr "ពេលវេលាប្រជុំថ្មីដែលបានស្នើ៖ %1 - %2"
+
+#: itiphandlerhelper_p.cpp:70
+#, kde-format
+msgid "Group Scheduling Email"
+msgstr "អ៊ីមែលកំណត់ពេលក្រុម"
+
+#: itiphandlerhelper_p.cpp:119
+#, kde-kuit-format
+msgid "<placeholder>No summary given</placeholder>"
+msgstr "<placeholder> មិនមានសេចក្ដីសង្ខេប </placeholder>"
+
+#: itiphandlerhelper_p.cpp:209
+#, kde-format
+msgid ""
+"The event \"%1\" includes other people.\n"
+"Do you want to email the invitation to the attendees?"
+msgstr ""
+"ព្រឹត្តិការណ៍ \" %1\" រួមមានមនុស្សផ្សេងទៀត។\n"
+"តើអ្នកចង់ផ្ញើអ៊ីមែលការអញ្ជើញទៅកាន់អ្នកចូលរួមទេ?"
+
+#: itiphandlerhelper_p.cpp:213
+#, kde-format
+msgid ""
+"The todo \"%1\" includes other people.\n"
+"Do you want to email the invitation to the attendees?"
+msgstr ""
+"ការងារត្រូវធ្វើ \" %1\" រួមទាំងមនុស្សផ្សេងទៀត។\n"
+"តើអ្នកចង់ផ្ញើអ៊ីមែលការអញ្ជើញទៅកាន់អ្នកចូលរួមទេ?"
+
+#: itiphandlerhelper_p.cpp:217
+#, kde-format
+msgid "This incidence includes other people. Should an email be sent to the attendees?"
+msgstr "ឧប្បត្តិហេតុនេះរួមបញ្ចូលទាំងមនុស្សផ្សេងទៀត។ តើគួរផ្ញើអ៊ីមែលទៅអ្នកចូលរួមដែរឬទេ?"
+
+#: itiphandlerhelper_p.cpp:240
+#, kde-format
+msgid "You are not the organizer of this event. Editing it will bring your calendar out of sync with the organizer's calendar. Do you really want to edit it?"
+msgstr "អ្នកមិនមែនជាអ្នករៀបចំព្រឹត្តិការណ៍នេះទេ។ ការកែសម្រួលវានឹងនាំប្រតិទិនរបស់អ្នកមិនសមកាលជាមួយប្រតិទិនរបស់អ្នករៀបចំ។ តើអ្នកពិតជាចង់កែសម្រួលវាទេ?"
+
+#: itiphandlerhelper_p.cpp:271
+#, kde-format
+msgid ""
+"You changed the invitation \"%1\".\n"
+"Do you want to email the attendees an update message?"
+msgstr ""
+"អ្នកបានប្តូរការអញ្ជើញ \" %1\" ។\n"
+"តើអ្នកចង់ផ្ញើអ៊ីមែលទៅអ្នកចូលរួមនូវសារបច្ចុប្បន្នភាពទេ?"
+
+#: itiphandlerhelper_p.cpp:275 itiphandlerhelper_p.cpp:291
+#: itiphandlerhelper_p.cpp:300
+#, kde-format
+msgid "Send Update"
+msgstr "Send Update"
+
+#: itiphandlerhelper_p.cpp:289 itiphandlerhelper_p.cpp:360
+#, kde-format
+msgid "Do you want to send a status update to the organizer of this task?"
+msgstr "តើអ្នកចង់ផ្ញើបច្ចុប្បន្នភាពស្ថានភាពទៅអ្នករៀបចំភារកិច្ចនេះទេ?"
+
+#: itiphandlerhelper_p.cpp:297
+#, kde-format
+msgid "Your status as an attendee of this event changed. Do you want to send a status update to the event organizer?"
+msgstr "ស្ថានភាពរបស់អ្នកជាអ្នកចូលរួមព្រឹត្តិការណ៍នេះបានផ្លាស់ប្តូរ។ តើអ្នកចង់ផ្ញើបច្ចុប្បន្នភាពស្ថានភាពទៅអ្នករៀបចំព្រឹត្តិការណ៍ទេ?"
+
+#: itiphandlerhelper_p.cpp:333
+#, kde-format
+msgid ""
+"You removed the invitation \"%1\".\n"
+"Do you want to email the attendees that the event is canceled?"
+msgstr ""
+"អ្នកបានលុបការអញ្ជើញ \" %1\" ។\n"
+"តើអ្នកចង់ផ្ញើអ៊ីមែលទៅអ្នកចូលរួមថាព្រឹត្តិការណ៍នេះត្រូវបានលុបចោលទេ?"
+
+#: itiphandlerhelper_p.cpp:337
+#, kde-format
+msgid ""
+"You removed the invitation \"%1\".\n"
+"Do you want to email the attendees that the todo is canceled?"
+msgstr ""
+"អ្នកបានលុបការអញ្ជើញ \" %1\" ។\n"
+"តើអ្នកចង់ផ្ញើអ៊ីមែលទៅអ្នកចូលរួមថាការងារត្រូវលុបចោលទេ?"
+
+#: itiphandlerhelper_p.cpp:341
+#, kde-format
+msgid ""
+"You removed the invitation \"%1\".\n"
+"Do you want to email the attendees that the journal is canceled?"
+msgstr ""
+"អ្នកបានលុបការអញ្ជើញ \" %1\" ។\n"
+"តើអ្នកចង់ផ្ញើអ៊ីមែលទៅអ្នកចូលរួមថាទិនានុប្បវត្តិត្រូវបានលុបចោលទេ?"
+
+#: itiphandlerhelper_p.cpp:362
+#, kde-format
+msgid "Do you want to send a status update to the organizer of this journal?"
+msgstr "តើអ្នកចង់ផ្ញើបច្ចុប្បន្នភាពស្ថានភាពទៅអ្នករៀបចំទិនានុប្បវត្តិនេះទេ?"
+
+#: itiphandlerhelper_p.cpp:365 itiphandlerhelper_p.cpp:385
+#, kde-format
+msgctxt "@action:button dialog positive answer"
+msgid "Send Update"
+msgstr "ផ្ញើបច្ចុប្បន្នភាព"
+
+#: itiphandlerhelper_p.cpp:381
+#, kde-format
+msgid "You had previously accepted an invitation to this event. Do you want to send an updated response to the organizer declining the invitation?"
+msgstr "កាលពីមុនអ្នកបានទទួលយកការអញ្ជើញចូលរួមព្រឹត្តិការណ៍នេះ។ តើអ្នកចង់ផ្ញើការឆ្លើយតបថ្មីទៅអ្នករៀបចំដែលបដិសេធការអញ្ជើញទេ?"
+
+#: itiphandlerhelper_p.cpp:421 mailscheduler_p.cpp:108
+#, kde-format
+msgid "Counter proposal: %1"
+msgstr "សំណើរប្រឆាំង៖ %1"
+
+#: itiphandlerhelper_p.cpp:438
+#, kde-format
+msgid "Sending group scheduling email failed."
+msgstr "ការផ្ញើអ៊ីមែលតាមកាលវិភាគក្រុមបានបរាជ័យ។"
+
+#: itiphandlerhelper_p.cpp:444
+#, kde-format
+msgctxt "@action:button dialog positive answer to abort question"
+msgid "Abort Update"
+msgstr "បោះបង់បច្ចុប្បន្នភាព"
+
+#: mailclient_p.cpp:47 mailclient_p.cpp:83
+#, kde-format
+msgid "There are no attendees to e-mail"
+msgstr "មិនមានអ្នកចូលរួមផ្ញើអ៊ីមែលទេ"
+
+#: mailclient_p.cpp:100
+#, kde-format
+msgid "Free Busy Object"
+msgstr "វត្ថុរវល់"
+
+#: mailclient_p.cpp:119 mailclient_p.cpp:135
+#, kde-format
+msgid "Free Busy Message"
+msgstr "សាររវល់"
+
+#: mailclient_p.cpp:163
+#, kde-format
+msgid "Error while creating transport"
+msgstr "មានកំហុសពេលបង្កើតការដឹកជញ្ជូន"
+
+#: mailclient_p.cpp:193
+#, kde-format
+msgid "Error fetching transport. Unable to send invitations"
+msgstr "កំហុសក្នុងការទៅរកការដឹកជញ្ជូន។ មិនអាចផ្ញើការអញ្ជើញបានទេ"
+
+#: mailclient_p.cpp:339
+#, kde-format
+msgid "Error queuing message in outbox: %1"
+msgstr "កំហុសក្នុងការតំរង់ជួរសារនៅក្នុងប្រអប់ចេញ៖ %1"
+
+#: mailscheduler_p.cpp:185
+#, kde-format
+msgid "Error sending e-mail: "
+msgstr "កំហុសក្នុងការផ្ញើអ៊ីមែល៖"
+
+#: publishdialog.cpp:33
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Addresses"
+msgstr "ជ្រើសរើសអាសយដ្ឋាន"
+
+#: publishdialog.cpp:67
+#, kde-format
+msgid "Send email to these recipients"
+msgstr "ផ្ញើអ៊ីមែលទៅអ្នកទទួលទាំងនេះ"
+
+#: publishdialog.cpp:68
+#, kde-format
+msgid "Clicking the <b>Ok</b> button will cause an email to be sent to the recipients you have entered."
+msgstr "ចុចប៊ូតុង <b> យល់ព្រម </b> ប៊ូតុងនឹងបណ្តាលឱ្យអ៊ីមែលត្រូវបានផ្ញើទៅអ្នកទទួលដែលអ្នកបានបញ្ចូល។"
+
+#: publishdialog.cpp:73
+#, kde-format
+msgid "Cancel recipient selection and the email"
+msgstr "បោះបង់ការជ្រើសរើសអ្នកទទួលនិងអ៊ីមែល"
+
+#: publishdialog.cpp:74
+#, kde-format
+msgid "Clicking the <b>Cancel</b> button will cause the email operation to be terminated."
+msgstr "ចុចប៊ូតុង <b> បោះបង់ </b> ប៊ូតុងនឹងបណ្តាលឱ្យបញ្ចប់ប្រតិបត្តិការអ៊ីមែល។"
+
+#: publishdialog.cpp:78
+#, kde-format
+msgid "Click the <b>Help</b> button to read more information about Group Scheduling."
+msgstr "ចុចលើប៊ូតុង <b> ជំនួយ </b> ប៊ូតុងដើម្បីអានព័ត៌មានបន្ថែមអំពីការកំណត់ពេលវេលាជាក្រុម។"
+
+#: publishdialog.cpp:130
+#, kde-format
+msgid "Unable to publish the calendar incidence due to an invalid recipients string. %1"
+msgstr "មិនអាចផ្សព្វផ្សាយឧប្បត្តិហេតុប្រតិទិនដោយសារតែខ្សែអក្សរអ្នកទទួលមិនត្រឹមត្រូវ។ %1"
+
+#: publishdialog.cpp:133
+#, kde-format
+msgid "Publishing Error"
+msgstr "កំហុសផ្សព្វផ្សាយ"
+
+#. i18n: ectx: property (toolTip), widget (QListWidget, mListWidget)
+#: publishdialog_base.ui:38
+#, kde-format
+msgid "The list of addressees to receive the invitation"
+msgstr "បញ្ជីអ្នកបន្ថែមដើម្បីទទួលបានការអញ្ជើញ"
+
+#. i18n: ectx: property (whatsThis), widget (QListWidget, mListWidget)
+#: publishdialog_base.ui:41
+#, kde-format
+msgid "This is a list of all the addresses you have currently selected to receive the iCalendar invitation."
+msgstr "នេះជាបញ្ជីអាសយដ្ឋានទាំងអស់ដែលអ្នកបានជ្រើសដើម្បីទទួលការអញ្ជើញរបស់ iCalendar ។"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mNew)
+#: publishdialog_base.ui:52
+#, kde-format
+msgid "Create a new recipient"
+msgstr "បង្កើតអ្នកទទួលថ្មី"
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mNew)
+#: publishdialog_base.ui:55
+#, kde-format
+msgid "Click this button and you will be able to enter a name and email for a new addressee to add to the recipients list"
+msgstr "ចុចប៊ូតុងនេះហើយអ្នកនឹងអាចបញ្ចូលឈ្មោះនិងអ៊ីមែលសម្រាប់អ្នកទទួលអាសយដ្ឋានថ្មីដើម្បីបន្ថែមទៅក្នុងបញ្ជីអ្នកទទួល"
+
+#. i18n: ectx: property (text), widget (QPushButton, mNew)
+#: publishdialog_base.ui:58
+#, kde-format
+msgid "&New"
+msgstr "ថ្មី"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mRemove)
+#: publishdialog_base.ui:65
+#, kde-format
+msgid "Remove the recipient currently selected"
+msgstr "យកអ្នកទទួលដែលបានជ្រើសបច្ចុប្បន្នចេញ"
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mRemove)
+#: publishdialog_base.ui:68
+#, kde-format
+msgid "Click this button to remove the recipient currently selected from the list"
+msgstr "ចុចប៊ូតុងនេះដើម្បីដកអ្នកទទួលដែលបានជ្រើសរើសចេញពីបញ្ជី"
+
+#. i18n: ectx: property (text), widget (QPushButton, mRemove)
+#: publishdialog_base.ui:71
+#, kde-format
+msgid "&Remove"
+msgstr "លុប"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mSelectAddressee)
+#: publishdialog_base.ui:78
+#, kde-format
+msgid "Select a recipient from your address book"
+msgstr "ជ្រើសរើសអ្នកទទួលពីសៀវភៅអាសយដ្ឋានរបស់អ្នក"
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mSelectAddressee)
+#: publishdialog_base.ui:81
+#, kde-format
+msgid "Click this button to show another dialog where you will be able to select a recipient from your address book"
+msgstr "ចុចប៊ូតុងនេះដើម្បីបង្ហាញប្រអប់ផ្សេងទៀតដែលអ្នកនឹងអាចជ្រើសរើសអ្នកទទួលពីសៀវភៅអាសយដ្ឋានរបស់អ្នក"
+
+#. i18n: ectx: property (text), widget (QPushButton, mSelectAddressee)
+#: publishdialog_base.ui:84
+#, kde-format
+msgid "&Select..."
+msgstr "ជ្រើសរើស ..."
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel1)
+#: publishdialog_base.ui:113
+#, kde-format
+msgctxt "recipient name"
+msgid "Name:"
+msgstr "ឈ្មោះ៖"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mNameLineEdit)
+#: publishdialog_base.ui:123
+#, kde-format
+msgid "The recipient's name"
+msgstr "ឈ្មោះរបស់អ្នកទទួល"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, mNameLineEdit)
+#: publishdialog_base.ui:126
+#, kde-format
+msgid "This field contains the name of the recipient"
+msgstr "វាលនេះមានឈ្មោះអ្នកទទួល"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel2)
+#: publishdialog_base.ui:136
+#, kde-format
+msgctxt "recipient email"
+msgid "E&mail:"
+msgstr "អ៊ីមែល៖"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mEmailLineEdit)
+#: publishdialog_base.ui:146
+#, kde-format
+msgid "The recipient's email address"
+msgstr "អាសយដ្ឋានអ៊ីមែលរបស់អ្នកទទួល"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, mEmailLineEdit)
+#: publishdialog_base.ui:149
+#, kde-format
+msgid "This field contains the email address of the recipient"
+msgstr "វាលនេះមានអាសយដ្ឋានអ៊ីមែលរបស់អ្នកទទួល"
+
+#: publishdialog_p.cpp:45
+#, kde-format
+msgid "(EmptyName)"
+msgstr "(ទទេឈ្មោះ)"
+
+#: publishdialog_p.cpp:46
+#, kde-format
+msgid "(EmptyEmail)"
+msgstr "(EmptyEmail)"
+
+#: scheduler_p.cpp:126 scheduler_p.cpp:234
+#, kde-format
+msgid "Error: Assigning different incidence types."
+msgstr "កំហុស៖ ចាត់តាំងប្រភេទឧប្បត្តិហេតុផ្សេងៗគ្នា។"
+
+#: scheduler_p.cpp:218 scheduler_p.cpp:266
+#, kde-format
+msgid "This isn't an update. The found incidence was modified more recently."
+msgstr "នេះមិនមែនជាបច្ចុប្បន្នភាពទេ។ ឧប្បត្តិហេតុដែលត្រូវបានរកឃើញត្រូវបានកែប្រែថ្មីជាងនេះ។"
+
+#: scheduler_p.cpp:258 scheduler_p.cpp:531 scheduler_p.cpp:546
+#, kde-format
+msgid "Error modifying incidence"
+msgstr "កំហុសក្នុងការកែប្រែឧប្បត្តិហេតុ"
+
+#: scheduler_p.cpp:283
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>You added an invitation update, but an earlier version of the item could not be found in your calendar.</para><para>This may have occurred because:<list><item>the organizer did not include you in the original invitation</item><item>you did not accept the original invitation yet</item><item>you deleted the original invitation from your calendar</item><item>you no longer have access to the calendar containing the invitation</item></list></para><para>This is not a problem, but we thought you should know.</para>"
+msgstr "<para> អ្នកបានបន្ថែមបច្ចុប្បន្នភាពការអញ្ជើញប៉ុន្តែកំណែមុននៃធាតុមិនអាចរកឃើញនៅក្នុងប្រតិទិនរបស់អ្នកទេ។ </para><para> វាអាចកើតឡើងដោយសារតែ៖ <list><item> អ្នករៀបចំមិនបានបញ្ចូលអ្នកតាមការអញ្ជើញដើមទេ </item><item> អ្នកមិនទាន់ទទួលយកការអញ្ជើញដើមនៅឡើយទេ </item><item> អ្នកបានលុបការអញ្ជើញដើមពីប្រតិទិនរបស់អ្នក </item><item> អ្នកលែងចូលប្រើប្រតិទិនដែលមានការអញ្ជើញ </item></list></para><para> នេះមិនមែនជាបញ្ហាទេប៉ុន្តែយើងគិតថាអ្នកគួរតែដឹង។ </para>"
+
+#: scheduler_p.cpp:292
+#, kde-format
+msgctxt "@title"
+msgid "Cannot find invitation to be updated"
+msgstr "មិនអាចរកការអញ្ជើញឱ្យធ្វើបច្ចុប្បន្នភាពទេ"
+
+#: scheduler_p.cpp:298
+#, kde-format
+msgid "Error adding incidence"
+msgstr "កំហុសបន្ថែមឧប្បត្តិហេតុ"
+
+#: scheduler_p.cpp:331
+#, kde-format
+msgid "Could not find incidence to delete."
+msgstr "មិនអាចរកឃើញឧប្បត្តិហេតុដែលត្រូវលុបទេ។"
+
+#: scheduler_p.cpp:386
+#, kde-format
+msgid "Error recording exception"
+msgstr "កំហុសក្នុងការកត់ត្រាករណីលើកលែង"
+
+#: scheduler_p.cpp:404
+#, kde-format
+msgctxt "@info"
+msgid "The event or task could not be removed from your calendar. Maybe it has already been deleted or is not owned by you. Or it might belong to a read-only or disabled calendar."
+msgstr "ព្រឹត្តិការណ៍ឬភារកិច្ចមិនអាចលុបពីប្រតិទិនរបស់អ្នកបានទេ។ ប្រហែលជាវាត្រូវបានលុបរួចហើយឬមិនមែនជាកម្មសិទ្ធិរបស់អ្នក។ ឬវាអាចជារបស់ប្រតិទិនបានតែអានឬបិទ។"
+
+#: scheduler_p.cpp:414 scheduler_p.cpp:426 scheduler_p.cpp:565
+#: scheduler_p.cpp:571
+#, kde-format
+msgid "Generic Error"
+msgstr "កំហុសទូទៅ"
+
+#: scheduler_p.cpp:471
+#, kde-format
+msgctxt "@info"
+msgid "%1 wants to attend %2 but was not invited."
+msgstr "%1 ចង់ចូលរួម %2 ប៉ុន្តែមិនត្រូវបានអញ្ជើញទេ។"
+
+#: scheduler_p.cpp:474
+#, kde-format
+msgctxt "@info"
+msgid "%1 wants to attend %2 on behalf of %3."
+msgstr "%1 ចង់ចូលរួម %2 ក្នុងនាម %3 ។"
+
+#: scheduler_p.cpp:478
+#, kde-format
+msgctxt "@title"
+msgid "Uninvited attendee"
+msgstr "អ្នកចូលរួមដែលមិនបានអញ្ជើញ"
+
+#: scheduler_p.cpp:479
+#, kde-format
+msgctxt "@option"
+msgid "Accept Attendance"
+msgstr "ទទួលយកការចូលរួម"
+
+#: scheduler_p.cpp:480
+#, kde-format
+msgctxt "@option"
+msgid "Reject Attendance"
+msgstr "បដិសេធការចូលរួម"
+
+#: scheduler_p.cpp:483
+#, kde-format
+msgctxt "@info"
+msgid "The organizer rejected your attendance at this meeting."
+msgstr "អ្នករៀបចំបានច្រានចោលការចូលរួមរបស់អ្នកនៅឯកិច្ចប្រជុំនេះ។"
+
+#: scheduler_p.cpp:506
+#, kde-format
+msgctxt "@info"
+msgid "An attendee was added to the incidence. Do you want to email the attendees an update message?"
+msgstr "អ្នកចូលរួមម្នាក់ត្រូវបានបន្ថែមទៅនឹងឧប្បត្តិហេតុ។ តើអ្នកចង់ផ្ញើអ៊ីមែលបច្ចុប្បន្នភាពទៅអ្នកចូលរួមឬទេ?"
+
+#: scheduler_p.cpp:508
+#, kde-format
+msgctxt "@title"
+msgid "Attendee Added"
+msgstr "អ្នកចូលរួមបន្ថែម"
+
+#: scheduler_p.cpp:509
+#, kde-format
+msgctxt "@option"
+msgid "Send Messages"
+msgstr "ផ្ញើសារ"
+
+#: scheduler_p.cpp:510
+#, kde-format
+msgctxt "@option"
+msgid "Do Not Send"
+msgstr "កុំផ្ញើ"
+
+#: scheduler_p.cpp:555
+#, kde-format
+msgid "No incidence for scheduling."
+msgstr "គ្មានឧប្បត្តិហេតុសម្រាប់ការកំណត់ពេលវេលាទេ។"
+
+#: scheduler_p.cpp:578
+#, kde-format
+msgid "No Free Busy Cache"
+msgstr "មិនមានឃ្លាំងសម្ងាត់រវល់ទេ"
+
+#: scheduler_p.cpp:597
+#, kde-format
+msgid "Error saving freebusy object"
+msgstr "មានកំហុសក្នុងការរក្សាទុកវត្ថុឥតគិតថ្លៃ"
+
+#: standardcalendaractionmanager.cpp:50
+#, kde-format
+msgid "Add Folder..."
+msgstr "បន្ថែមថតឯកសារ ..."
+
+#: standardcalendaractionmanager.cpp:52
+#, kde-format
+msgid "Add a new calendar folder to the currently selected calendar folder."
+msgstr "បន្ថែមថតប្រតិទិនថ្មីទៅថតប្រតិទិនដែលបានជ្រើសរើសបច្ចុប្បន្ន។"
+
+#: standardcalendaractionmanager.cpp:55
+#, kde-format
+msgctxt "@title:window"
+msgid "New Folder"
+msgstr "ប្រអប់​ឯកសារ​ថ្មី"
+
+#: standardcalendaractionmanager.cpp:59
+#, kde-format
+msgid "Could not create calendar folder: %1"
+msgstr "មិនអាចបង្កើតថតឯកសារប្រតិទិនទេ៖ %1"
+
+#: standardcalendaractionmanager.cpp:63
+#, kde-format
+msgid "Calendar folder creation failed"
+msgstr "ការបង្កើតថតប្រតិទិនបានបរាជ័យ"
+
+#: standardcalendaractionmanager.cpp:73
+#, kde-format
+msgid "Copy Folder"
+msgid_plural "Copy %1 Folders"
+msgstr[0] "ថតចំលងថតឯកសារ"
+msgstr[1] "ចម្លងថត %1"
+
+#: standardcalendaractionmanager.cpp:75
+#, kde-format
+msgid "Copy the selected calendar folders to the clipboard."
+msgstr "ចម្លងថតឯកសារប្រតិទិនដែលបានជ្រើសរើសទៅក្តារតម្បៀតខ្ទាស់។"
+
+#: standardcalendaractionmanager.cpp:79
+#, kde-format
+msgid "Delete Folder"
+msgid_plural "Delete %1 Folders"
+msgstr[0] "លុបថតឯកសារ"
+msgstr[1] "លុបថត %1"
+
+#: standardcalendaractionmanager.cpp:81
+#, kde-format
+msgid "Delete the selected calendar folders from the calendar."
+msgstr "លុបថតឯកសារប្រតិទិនដែលបានជ្រើសរើសចេញពីប្រតិទិន។"
+
+#: standardcalendaractionmanager.cpp:84
+#, kde-format
+msgid "Do you really want to delete this calendar folder and all its sub-folders?"
+msgid_plural "Do you really want to delete %1 calendar folders and all their sub-folders?"
+msgstr[0] "តើអ្នកពិតជាចង់លុបថតប្រតិទិននេះនិងថតរងទាំងអស់ឬ?"
+msgstr[1] "តើអ្នកពិតជាចង់លុបថតប្រតិទិន %1 និងថតរងទាំងអស់របស់ពួកគេឬ?"
+
+#: standardcalendaractionmanager.cpp:89
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete calendar folder?"
+msgid_plural "Delete calendar folders?"
+msgstr[0] "លុបថតឯកសារប្រតិទិន?"
+msgstr[1] "លុបថតឯកសារប្រតិទិន?"
+
+#: standardcalendaractionmanager.cpp:93
+#, kde-format
+msgid "Could not delete calendar folder: %1"
+msgstr "មិនអាចលុបថតឯកសារប្រតិទិនបានទេ៖ %1"
+
+#: standardcalendaractionmanager.cpp:97
+#, kde-format
+msgid "Calendar folder deletion failed"
+msgstr "ការលុបថតឯកសារប្រតិទិនបានបរាជ័យ"
+
+#: standardcalendaractionmanager.cpp:102
+#, kde-format
+msgid "Update Folder"
+msgid_plural "Update %1 Folders"
+msgstr[0] "ធ្វើបច្ចុប្បន្នភាពថតឯកសារ"
+msgstr[1] "ធ្វើបច្ចុប្បន្នភាពថត %1"
+
+#: standardcalendaractionmanager.cpp:104
+#, kde-format
+msgid "Update the content of the selected calendar folders."
+msgstr "ធ្វើបច្ចុប្បន្នភាពមាតិកានៃថតប្រតិទិនដែលបានជ្រើសរើស។"
+
+#: standardcalendaractionmanager.cpp:109
+#, kde-format
+msgid "Cut Folder"
+msgid_plural "Cut %1 Folders"
+msgstr[0] "កាត់ថតឯកសារ"
+msgstr[1] "កាត់ថត %1"
+
+#: standardcalendaractionmanager.cpp:111
+#, kde-format
+msgid "Cut the selected calendar folders from the calendar."
+msgstr "កាត់ថតឯកសារប្រតិទិនដែលបានជ្រើសរើសពីប្រតិទិន។"
+
+#: standardcalendaractionmanager.cpp:115
+#, kde-format
+msgid "Folder Properties..."
+msgstr "លក្ខណៈសម្បត្តិថតឯកសារ ..."
+
+#: standardcalendaractionmanager.cpp:117
+#, kde-format
+msgid "Open a dialog to edit the properties of the selected calendar folder."
+msgstr "បើកប្រអប់ដើម្បីកែសម្រួលលក្ខណសម្បត្តិរបស់ថតប្រតិទិនដែលបានជ្រើសរើស។"
+
+#: standardcalendaractionmanager.cpp:120
+#, kde-format
+msgctxt "@title:window"
+msgid "Properties of Calendar Folder %1"
+msgstr "លក្ខណៈសម្បត្តិនៃថតឯកសារប្រតិទិន %1"
+
+#: standardcalendaractionmanager.cpp:124 standardcalendaractionmanager.cpp:340
+#, kde-format
+msgid "Copy Event"
+msgid_plural "Copy %1 Events"
+msgstr[0] "ចម្លងព្រឹត្តិការណ៍"
+msgstr[1] "ចម្លងព្រឹត្តិការណ៍ %1"
+
+#: standardcalendaractionmanager.cpp:126
+#, kde-format
+msgid "Copy the selected events to the clipboard."
+msgstr "ចម្លងព្រឹត្តិការណ៍ដែលបានជ្រើសរើសទៅក្តារតម្បៀតខ្ទាស់។"
+
+#: standardcalendaractionmanager.cpp:131 standardcalendaractionmanager.cpp:352
+#, kde-format
+msgid "Delete Event"
+msgid_plural "Delete %1 Events"
+msgstr[0] "លុបព្រឹត្តិការណ៍"
+msgstr[1] "លុបព្រឹត្តិការណ៍ %1"
+
+#: standardcalendaractionmanager.cpp:133
+#, kde-format
+msgid "Delete the selected events from the calendar."
+msgstr "លុបព្រឹត្តិការណ៍ដែលបានជ្រើសរើសចេញពីប្រតិទិន។"
+
+#: standardcalendaractionmanager.cpp:136
+#, kde-format
+msgid "Do you really want to delete the selected event?"
+msgid_plural "Do you really want to delete %1 events?"
+msgstr[0] "តើអ្នកពិតជាចង់លុបព្រឹត្តិការណ៍ដែលបានជ្រើសរើសឬ?"
+msgstr[1] "តើអ្នកពិតជាចង់លុបព្រឹត្តិការណ៍ %1 មែនទេ?"
+
+#: standardcalendaractionmanager.cpp:141
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Event?"
+msgid_plural "Delete Events?"
+msgstr[0] "លុបព្រឹត្តិការណ៍?"
+msgstr[1] "លុបព្រឹត្តិការណ៍?"
+
+#: standardcalendaractionmanager.cpp:145
+#, kde-format
+msgid "Could not delete event: %1"
+msgstr "មិនអាចលុបព្រឹត្តិការណ៍បានទេ៖ %1"
+
+#: standardcalendaractionmanager.cpp:149
+#, kde-format
+msgid "Event deletion failed"
+msgstr "ការលុបព្រឹត្តិការណ៍បានបរាជ័យ"
+
+#: standardcalendaractionmanager.cpp:154 standardcalendaractionmanager.cpp:356
+#, kde-format
+msgid "Cut Event"
+msgid_plural "Cut %1 Events"
+msgstr[0] "កាត់ព្រឹត្តិការណ៍"
+msgstr[1] "កាត់ព្រឹត្តិការណ៍ %1"
+
+#: standardcalendaractionmanager.cpp:156
+#, kde-format
+msgid "Cut the selected events from the calendar."
+msgstr "កាត់ព្រឹត្តិការណ៍ដែលបានជ្រើសរើសចេញពីប្រតិទិន។"
+
+#: standardcalendaractionmanager.cpp:160
+#, kde-format
+msgid "Add &Calendar..."
+msgstr "បន្ថែមប្រតិទិន ..."
+
+#: standardcalendaractionmanager.cpp:162
+#, kde-format
+msgid "Add a new calendar<p>You will be presented with a dialog where you can select the type of the calendar that shall be added.</p>"
+msgstr "បន្ថែមប្រតិទិនថ្មី <p> អ្នកនឹងត្រូវបានបង្ហាញជាមួយប្រអប់ដែលអ្នកអាចជ្រើសរើសប្រភេទប្រតិទិនដែលនឹងត្រូវបន្ថែម។ </p>"
+
+#: standardcalendaractionmanager.cpp:167
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Calendar"
+msgstr "បន្ថែមប្រតិទិន"
+
+#: standardcalendaractionmanager.cpp:171
+#, kde-format
+msgid "Could not create calendar: %1"
+msgstr "មិនអាចបង្កើតប្រតិទិនទេ៖ %1"
+
+#: standardcalendaractionmanager.cpp:175
+#, kde-format
+msgid "Calendar creation failed"
+msgstr "ការបង្កើតប្រតិទិនបានបរាជ័យ"
+
+#: standardcalendaractionmanager.cpp:181
+#, kde-format
+msgid "&Delete Calendar"
+msgid_plural "&Delete %1 Calendars"
+msgstr[0] "លុបប្រតិទិន"
+msgstr[1] "លុបប្រតិទិន %1"
+
+#: standardcalendaractionmanager.cpp:183
+#, kde-format
+msgid "Delete the selected calendars<p>The currently selected calendars will be deleted, along with all the events, todos and journals they contain.</p>"
+msgstr "លុបប្រតិទិនដែលបានជ្រើសរើស <p> ប្រតិទិនដែលបានជ្រើសរើសបច្ចុប្បន្ននឹងត្រូវបានលុបចោលរួមជាមួយព្រឹត្តិការណ៍ទាំងអស់ការងារតូតាល់និងទិនានុប្បវត្តិដែលពួកគេមាន។ </p>"
+
+#: standardcalendaractionmanager.cpp:188
+#, kde-format
+msgid "Do you really want to delete this calendar?"
+msgid_plural "Do you really want to delete %1 calendars?"
+msgstr[0] "តើអ្នកពិតជាចង់លុបប្រតិទិននេះឬ?"
+msgstr[1] "តើអ្នកពិតជាចង់លុបប្រតិទិន %1 មែនទេ?"
+
+#: standardcalendaractionmanager.cpp:193
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Calendar?"
+msgid_plural "Delete Calendars?"
+msgstr[0] "លុបប្រតិទិន?"
+msgstr[1] "លុបប្រតិទិន?"
+
+#: standardcalendaractionmanager.cpp:198
+#, kde-format
+msgid "Calendar Properties..."
+msgstr "លក្ខណៈសម្បត្តិប្រតិទិន ..."
+
+#: standardcalendaractionmanager.cpp:200
+#, kde-format
+msgid "Open a dialog to edit properties of the selected calendar."
+msgstr "បើកប្រអប់ដើម្បីកែសម្រួលលក្ខណសម្បត្តិនៃប្រតិទិនដែលបានជ្រើសរើស។"
+
+#: standardcalendaractionmanager.cpp:205
+#, kde-format
+msgid "Update Calendar"
+msgid_plural "Update %1 Calendars"
+msgstr[0] "ធ្វើបច្ចុប្បន្នភាពប្រតិទិន"
+msgstr[1] "ធ្វើបច្ចុប្បន្នភាពប្រតិទិន %1"
+
+#: standardcalendaractionmanager.cpp:207
+#, kde-format
+msgid "Updates the content of all folders of the selected calendars."
+msgstr "ធ្វើបច្ចុប្បន្នភាពមាតិកានៃថតទាំងអស់នៃប្រតិទិនដែលបានជ្រើសរើស។"
+
+#: standardcalendaractionmanager.cpp:211
+#, kde-format
+msgid "&Copy to Calendar"
+msgstr "ចម្លងទៅប្រតិទិន"
+
+#: standardcalendaractionmanager.cpp:213
+#, kde-format
+msgid "Copy the selected event to a different calendar."
+msgstr "ចម្លងព្រឹត្តិការណ៍ដែលបានជ្រើសរើសទៅប្រតិទិនផ្សេង។"
+
+#: standardcalendaractionmanager.cpp:217
+#, kde-format
+msgid "&Move to Calendar"
+msgstr "ផ្លាស់ទីទៅប្រតិទិន"
+
+#: standardcalendaractionmanager.cpp:219
+#, kde-format
+msgid "Move the selected event to a different calendar."
+msgstr "ផ្លាស់ទីព្រឹត្តិការណ៍ដែលបានជ្រើសរើសទៅប្រតិទិនផ្សេង។"
+
+#: standardcalendaractionmanager.cpp:224
+#, kde-format
+msgid "Could not paste event: %1"
+msgstr "មិនអាចបិទភ្ជាប់ព្រឹត្តិការណ៍បានទេ៖ %1"
+
+#: standardcalendaractionmanager.cpp:228
+#, kde-format
+msgid "Paste failed"
+msgstr "ការបិទភ្ជាប់បានបរាជ័យ"
+
+#: standardcalendaractionmanager.cpp:232
+#, kde-format
+msgid "Update Available Calendars"
+msgstr "ធ្វើបច្ចុប្បន្នភាពប្រតិទិនដែលមាន"
+
+#: standardcalendaractionmanager.cpp:234
+#, kde-format
+msgid "Updates the tree of available calendars."
+msgstr "ធ្វើបច្ចុប្បន្នភាពមែកធាងនៃប្រតិទិនដែលមាន។"
+
+#: standardcalendaractionmanager.cpp:344 standardcalendaractionmanager.cpp:348
+#, kde-format
+msgid "Copy Event To"
+msgstr "ចម្លងព្រឹត្តិការណ៍ទៅ"
+
+#: standardcalendaractionmanager.cpp:360 standardcalendaractionmanager.cpp:364
+#, kde-format
+msgid "Move Event To"
+msgstr "ផ្លាស់ទីព្រឹត្តិការណ៍ទៅ"
+
+#: standardcalendaractionmanager.cpp:368
+#, kde-format
+msgid "Edit Event..."
+msgstr "កែសម្រួលព្រឹត្តិការណ៍ ..."
+
+#: standardcalendaractionmanager.cpp:373
+#, kde-format
+msgid "Copy To-do"
+msgid_plural "Copy %1 To-dos"
+msgstr[0] "ចម្លងការងារត្រូវធ្វើ"
+msgstr[1] "ចម្លង %1 ការងារត្រូវធ្វើ"
+
+#: standardcalendaractionmanager.cpp:377 standardcalendaractionmanager.cpp:381
+#, kde-format
+msgid "Copy To-do To"
+msgstr "ចម្លងការងារត្រូវធ្វើទៅ"
+
+#: standardcalendaractionmanager.cpp:385
+#, kde-format
+msgid "Delete To-do"
+msgid_plural "Delete %1 To-dos"
+msgstr[0] "លុបការងារត្រូវធ្វើ"
+msgstr[1] "លុប %1 ការងារត្រូវធ្វើ"
+
+#: standardcalendaractionmanager.cpp:389
+#, kde-format
+msgid "Cut To-do"
+msgid_plural "Cut %1 To-dos"
+msgstr[0] "កាត់ការងារត្រូវធ្វើ"
+msgstr[1] "កាត់ %1 ការងារត្រូវធ្វើ"
+
+#: standardcalendaractionmanager.cpp:393 standardcalendaractionmanager.cpp:397
+#, kde-format
+msgid "Move To-do To"
+msgstr "ផ្លាស់ទីការងារត្រូវធ្វើទៅ"
+
+#: standardcalendaractionmanager.cpp:401
+#, kde-format
+msgid "Edit To-do..."
+msgstr "កែសម្រួលការងារត្រូវធ្វើ ..."
+
+#: standardcalendaractionmanager.cpp:406
+#, kde-format
+msgid "Copy Journal"
+msgid_plural "Copy %1 Journals"
+msgstr[0] "ចំលងទិនានុប្បវត្តិ"
+msgstr[1] "ចម្លងទិនានុប្បវត្តិ %1"
+
+#: standardcalendaractionmanager.cpp:410 standardcalendaractionmanager.cpp:414
+#, kde-format
+msgid "Copy Journal To"
+msgstr "ចម្លងទិនានុប្បវត្តិទៅ"
+
+#: standardcalendaractionmanager.cpp:418
+#, kde-format
+msgid "Delete Journal"
+msgid_plural "Delete %1 Journals"
+msgstr[0] "លុបទិនានុប្បវត្តិ"
+msgstr[1] "លុបទិនានុប្បវត្តិ %1"
+
+#: standardcalendaractionmanager.cpp:422
+#, kde-format
+msgid "Cut Journal"
+msgid_plural "Cut %1 Journals"
+msgstr[0] "កាត់ទិនានុប្បវត្តិ"
+msgstr[1] "កាត់ទិនានុប្បវត្តិ %1"
+
+#: standardcalendaractionmanager.cpp:426 standardcalendaractionmanager.cpp:430
+#, kde-format
+msgid "Move Journal To"
+msgstr "ផ្លាស់ទីទិនានុប្បវត្តិទៅ"
+
+#: standardcalendaractionmanager.cpp:434
+#, kde-format
+msgid "Edit Journal..."
+msgstr "កែសម្រួលទិនានុប្បវត្តិ ..."
+
+#: standardcalendaractionmanager.cpp:577
+#, kde-format
+msgid "New E&vent..."
+msgstr "ព្រឹត្តិការណ៍ថ្មី ..."
+
+#: standardcalendaractionmanager.cpp:578
+#, kde-format
+msgid "Create a new event"
+msgstr "បង្កើតព្រឹត្តិការណ៍ថ្មី"
+
+#: standardcalendaractionmanager.cpp:588
+#, kde-format
+msgid "New &To-do..."
+msgstr "ការងារត្រូវធ្វើថ្មី ..."
+
+#: standardcalendaractionmanager.cpp:589
+#, kde-format
+msgid "Create a new To-do"
+msgstr "បង្កើតការងារត្រូវធ្វើថ្មី"
+
+#: standardcalendaractionmanager.cpp:598
+#, kde-format
+msgid "New Su&b-to-do..."
+msgstr "ការងារត្រូវធ្វើថ្មី ..."
+
+#: standardcalendaractionmanager.cpp:599
+#, kde-format
+msgid "Create a new Sub-to-do"
+msgstr "បង្កើតការងារត្រូវធ្វើថ្មី"
+
+#: standardcalendaractionmanager.cpp:609
+#, kde-format
+msgid "New &Journal..."
+msgstr "ទិនានុប្បវត្តិថ្មី ..."
+
+#: standardcalendaractionmanager.cpp:610
+#, kde-format
+msgid "Create a new Journal"
+msgstr "បង្កើតទិនានុប្បវត្តិថ្មី"
+
+#: standardcalendaractionmanager.cpp:619
+#, kde-format
+msgid "&Edit..."
+msgstr "កែសម្រួល ..."
+
+#: standardcalendaractionmanager.cpp:620
+#, kde-format
+msgid "Edit the selected incidence."
+msgstr "កែសម្រួលឧប្បត្តិហេតុដែលបានជ្រើសរើស។"
+
+#: todopurger.cpp:61
+#, kde-format
+msgid "Purging completed to-dos"
+msgstr "ការបោសសំអាតបានបញ្ចប់ការងារត្រូវធ្វើ"

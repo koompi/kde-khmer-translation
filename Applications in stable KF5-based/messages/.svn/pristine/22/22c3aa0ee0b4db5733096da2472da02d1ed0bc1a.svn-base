@@ -1,0 +1,346 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Steve Allewell <steve.allewell@gmail.com>, 2014, 2015, 2016, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-24 02:35+0200\n"
+"PO-Revision-Date: 2019-12-29 12:57+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Steve Allewell"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "steve.allewell@gmail.com"
+
+#: kateproject.cpp:366
+#, kde-format
+msgid "<untracked>"
+msgstr "<untracked>"
+
+#: kateprojectcompletion.cpp:42
+#, kde-format
+msgid "Project Completion"
+msgstr "Project Completion"
+
+#: kateprojectconfigpage.cpp:24
+#, kde-format
+msgctxt "Groupbox title"
+msgid "Autoload Repositories"
+msgstr "Autoload Repositories"
+
+#: kateprojectconfigpage.cpp:26
+#, kde-format
+msgid ""
+"Project plugin is able to autoload repository working copies when there is "
+"no .kateproject file defined yet."
+msgstr ""
+"Project plugin is able to autoload repository working copies when there is "
+"no .kateproject file defined yet."
+
+#: kateprojectconfigpage.cpp:29
+#, kde-format
+msgid "&Git"
+msgstr "&Git"
+
+#: kateprojectconfigpage.cpp:32
+#, kde-format
+msgid "&Subversion"
+msgstr "&Subversion"
+
+#: kateprojectconfigpage.cpp:34
+#, kde-format
+msgid "&Mercurial"
+msgstr "&Mercurial"
+
+#: kateprojectconfigpage.cpp:43
+#, kde-format
+msgctxt "Groupbox title"
+msgid "Project Index"
+msgstr "Project Index"
+
+#: kateprojectconfigpage.cpp:44
+#, kde-format
+msgid "Project ctags index settings"
+msgstr "Project ctags index settings"
+
+#: kateprojectconfigpage.cpp:45
+#, kde-format
+msgid "Enable indexing"
+msgstr "Enable indexing"
+
+#: kateprojectconfigpage.cpp:48
+#, kde-format
+msgid "Directory for index files"
+msgstr "Directory for index files"
+
+#: kateprojectconfigpage.cpp:51
+#, kde-format
+msgid ""
+"The system temporary directory is used if not specified, which may overflow "
+"for very large repositories"
+msgstr ""
+"The system temporary directory is used if not specified, which may overflow "
+"for very large repositories"
+
+#: kateprojectconfigpage.cpp:58
+#, kde-format
+msgctxt "Groupbox title"
+msgid "Cross-Project Functionality"
+msgstr "Cross-Project Functionality"
+
+#: kateprojectconfigpage.cpp:59
+#, kde-format
+msgid ""
+"Project plugin is able to perform some operations across multiple projects"
+msgstr ""
+"Project plugin is able to perform some operations across multiple projects"
+
+#: kateprojectconfigpage.cpp:60
+#, kde-format
+msgid "Cross-Project Completion"
+msgstr "Cross-Project Completion"
+
+#: kateprojectconfigpage.cpp:62
+#, kde-format
+msgid "Cross-Project Goto Symbol"
+msgstr "Cross-Project Goto Symbol"
+
+#: kateprojectconfigpage.cpp:84 kateprojectpluginview.cpp:52
+#, kde-format
+msgid "Projects"
+msgstr "Projects"
+
+#: kateprojectconfigpage.cpp:89
+#, kde-format
+msgctxt "Groupbox title"
+msgid "Projects Properties"
+msgstr "Projects Properties"
+
+#: kateprojectinfoview.cpp:32
+#, kde-format
+msgid "Terminal (.kateproject)"
+msgstr "Terminal (.kateproject)"
+
+#: kateprojectinfoview.cpp:40
+#, kde-format
+msgid "Terminal (Base)"
+msgstr "Terminal (Base)"
+
+#: kateprojectinfoview.cpp:47
+#, kde-format
+msgid "Code Index"
+msgstr "Code Index"
+
+#: kateprojectinfoview.cpp:52
+#, kde-format
+msgid "Code Analysis"
+msgstr "Code Analysis"
+
+#: kateprojectinfoview.cpp:57
+#, kde-format
+msgid "Notes"
+msgstr "Notes"
+
+#: kateprojectinfoviewcodeanalysis.cpp:25
+#, kde-format
+msgid "Start Analysis..."
+msgstr "Start Analysis..."
+
+#: kateprojectinfoviewcodeanalysis.cpp:38 kateprojectinfoviewindex.cpp:30
+#, kde-format
+msgid "File"
+msgstr "File"
+
+#: kateprojectinfoviewcodeanalysis.cpp:38 kateprojectinfoviewindex.cpp:30
+#, kde-format
+msgid "Line"
+msgstr "Line"
+
+#: kateprojectinfoviewcodeanalysis.cpp:38
+#, kde-format
+msgid "Severity"
+msgstr "Severity"
+
+#: kateprojectinfoviewcodeanalysis.cpp:38
+#, kde-format
+msgid "Message"
+msgstr "Message"
+
+#: kateprojectinfoviewcodeanalysis.cpp:94
+#, kde-format
+msgid ""
+"%1<br/><br/>The tool will be run on all project files which match this list "
+"of file extensions:<br/><br/><b>%2</b>"
+msgstr ""
+"%1<br/><br/>The tool will be run on all project files which match this list "
+"of file extensions:<br/><br/><b>%2</b>"
+
+#: kateprojectinfoviewcodeanalysis.cpp:226
+#, kde-format
+msgid "Analysis on %1 file finished."
+msgid_plural "Analysis on %1 files finished."
+msgstr[0] "Analysis on %1 file finished."
+msgstr[1] "Analysis on %1 files finished."
+
+#: kateprojectinfoviewcodeanalysis.cpp:231
+#, kde-format
+msgid "Analysis on %1 file failed with exit code %2."
+msgid_plural "Analysis on %1 files failed with exit code %2."
+msgstr[0] "Analysis on %1 file failed with exit code %2."
+msgstr[1] "Analysis on %1 files failed with exit code %2."
+
+#: kateprojectinfoviewindex.cpp:30
+#, kde-format
+msgid "Name"
+msgstr "Name"
+
+#: kateprojectinfoviewindex.cpp:30
+#, kde-format
+msgid "Kind"
+msgstr "Kind"
+
+#: kateprojectinfoviewindex.cpp:31
+#, kde-format
+msgid "Search"
+msgstr "Search"
+
+#: kateprojectinfoviewindex.cpp:172
+#, kde-format
+msgid "The index could not be created. Please install 'ctags'."
+msgstr "The index could not be created. Please install 'ctags'."
+
+#: kateprojectinfoviewindex.cpp:174
+#, kde-format
+msgid ""
+"The index is not enabled. Please add '\"index\": true' to your .kateproject "
+"file."
+msgstr ""
+"The index is not enabled. Please add '\"index\": true' to your .kateproject "
+"file."
+
+#: kateprojectplugin.cpp:419
+#, kde-format
+msgid "Full path to current project excluding the file name."
+msgstr "Full path to current project excluding the file name."
+
+#: kateprojectplugin.cpp:434
+#, kde-format
+msgid ""
+"Full path to current project excluding the file name, with native path "
+"separator (backslash on Windows)."
+msgstr ""
+"Full path to current project excluding the file name, with native path "
+"separator (backslash on Windows)."
+
+#: kateprojectpluginview.cpp:46
+#, kde-format
+msgid "Kate Project Manager"
+msgstr "Kate Project Manager"
+
+#: kateprojectpluginview.cpp:53
+#, kde-format
+msgid "Current Project"
+msgstr "Current Project"
+
+#: kateprojectpluginview.cpp:112
+#, kde-format
+msgid "Lookup"
+msgstr "Lookup"
+
+#: kateprojectpluginview.cpp:117
+#, kde-format
+msgid "Project"
+msgstr "Project"
+
+#: kateprojectpluginview.cpp:120 kateprojectpluginview.cpp:505
+#, kde-format
+msgid "Lookup: %1"
+msgstr "Lookup: %1"
+
+#: kateprojectpluginview.cpp:121 kateprojectpluginview.cpp:506
+#, kde-format
+msgid "Goto: %1"
+msgstr "Goto: %1"
+
+#: kateprojectpluginview.cpp:170
+#, kde-format
+msgid "Projects Index"
+msgstr "Projects Index"
+
+#: kateprojecttreeviewcontextmenu.cpp:80
+#, kde-format
+msgid "Copy File Path"
+msgstr "Copy File Path"
+
+#: kateprojecttreeviewcontextmenu.cpp:86
+#, kde-format
+msgid "Open With"
+msgstr "Open With"
+
+#: kateprojecttreeviewcontextmenu.cpp:103
+#, kde-format
+msgid "&Open Containing Folder"
+msgstr "&Open Containing Folder"
+
+#: kateprojecttreeviewcontextmenu.cpp:108
+#, kde-format
+msgid "Properties"
+msgstr "Properties"
+
+#: kateprojecttreeviewcontextmenu.cpp:117
+#, kde-format
+msgid "Git:"
+msgstr "Git:"
+
+#: kateprojectview.cpp:43
+#, kde-format
+msgid "Filter..."
+msgstr "Filter..."
+
+#. i18n: ectx: Menu (projects)
+#: ui.rc:6
+#, kde-format
+msgid "&Projects"
+msgstr "&Projects"
+
+#~ msgid "Analysis failed!"
+#~ msgstr "Analysis failed!"
+
+#~ msgid "Please install 'cppcheck'."
+#~ msgstr "Please install 'cppcheck'."
+
+#~ msgid "Follow Location"
+#~ msgstr "Follow Location"
+
+#~ msgid "Git Tools"
+#~ msgstr "Git Tools"
+
+#~ msgid "Launch gitk"
+#~ msgstr "Launch gitk"
+
+#~ msgid "Launch qgit"
+#~ msgstr "Launch qgit"
+
+#~ msgid "Launch git-cola"
+#~ msgstr "Launch git-cola"
+
+#~ msgid "Hello World"
+#~ msgstr "Hello World"
+
+#~ msgid "Example kate plugin"
+#~ msgstr "Example kate plugin"

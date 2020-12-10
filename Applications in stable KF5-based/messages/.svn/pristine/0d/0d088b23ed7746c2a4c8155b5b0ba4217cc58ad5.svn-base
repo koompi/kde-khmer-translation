@@ -1,0 +1,39 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2017, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-11 08:09+0000\n"
+"PO-Revision-Date: 2018-05-27 12:17+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: reminder/browserintegrationreminder.desktop:3
+msgctxt "Name"
+msgid "Plasma Browser Integration Installation Reminder"
+msgstr "Plasma Browser Integration Installation Reminder"
+
+#: reminder/browserintegrationreminder.desktop:41
+msgctxt "Comment"
+msgid ""
+"Provides a link to the browser extension if the Plasma Browser Integration "
+"host is installed"
+msgstr ""
+"Provides a link to the browser extension if the Plasma Browser Integration "
+"host is installed"
+
+#: tabsrunner/plasma-runner-browsertabs.desktop:2
+msgctxt "Name"
+msgid "Browser Tabs"
+msgstr "Browser Tabs"
+
+#: tabsrunner/plasma-runner-browsertabs.desktop:46
+msgctxt "Comment"
+msgid "Find and activate browser tabs"
+msgstr "Find and activate browser tabs"

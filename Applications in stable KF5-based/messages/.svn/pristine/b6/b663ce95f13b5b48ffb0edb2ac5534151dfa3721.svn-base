@@ -1,0 +1,1415 @@
+# translation of kcmlocale.po to British English
+# Copyright (C) 2002,2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+#
+# Malcolm Hunter <malcolm.hunter@gmx.co.uk>, 2002,2003, 2004, 2005, 2008.
+# Andrew Coles <andrew_coles@yahoo.co.uk>, 2004, 2005, 2009, 2010.
+# Steve Allewell <steve.allewell@gmail.com>, 2014, 2015, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmlocale\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-30 03:38+0100\n"
+"PO-Revision-Date: 2017-11-26 15:35+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: kcmformats.cpp:44
+#, kde-format
+msgid ""
+"<h1>Formats</h1>You can configure the formats used for time, dates, money "
+"and other numbers here."
+msgstr ""
+"<h1>Formats</h1>You can configure the formats used for time, dates, money "
+"and other numbers here."
+
+#: kcmformats.cpp:101
+#, kde-format
+msgid "No change"
+msgstr "No change"
+
+#: kcmformats.cpp:138
+#, kde-format
+msgid "%1 - %2 (%3)"
+msgstr "%1 - %2 (%3)"
+
+#: kcmformats.cpp:140
+#, kde-format
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: kcmformats.cpp:287
+#, kde-format
+msgid "Your changes will take effect the next time you log in."
+msgstr "Your changes will take effect the next time you log in."
+
+#: kcmformats.cpp:288
+#, kde-format
+msgid "Format Settings Changed"
+msgstr "Format Settings Changed"
+
+#: kcmformats.cpp:354
+#, kde-format
+msgid "%1 (long format)"
+msgstr "%1 (long format)"
+
+#: kcmformats.cpp:355
+#, kde-format
+msgid "%1 (short format)"
+msgstr "%1 (short format)"
+
+#: kcmformats.cpp:360
+#, kde-format
+msgctxt "Measurement combobox"
+msgid "Imperial UK"
+msgstr "Imperial UK"
+
+#: kcmformats.cpp:362
+#, kde-format
+msgctxt "Measurement combobox"
+msgid "Imperial US"
+msgstr "Imperial US"
+
+#: kcmformats.cpp:364
+#, kde-format
+msgctxt "Measurement combobox"
+msgid "Metric"
+msgstr "Metric"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: kcmformatswidget.ui:47
+#, kde-format
+msgid "Re&gion:"
+msgstr "Re&gion:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkDetailed)
+#: kcmformatswidget.ui:76
+#, kde-format
+msgid "De&tailed Settings"
+msgstr "De&tailed Settings"
+
+#. i18n: ectx: property (text), widget (QLabel, labelNumbers)
+#: kcmformatswidget.ui:83
+#, kde-format
+msgid "&Numbers:"
+msgstr "&Numbers:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelTime)
+#: kcmformatswidget.ui:112
+#, kde-format
+msgid "&Time:"
+msgstr "&Time:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelCurrency)
+#: kcmformatswidget.ui:141
+#, kde-format
+msgid "Currenc&y:"
+msgstr "Currenc&y:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelMeasurement)
+#: kcmformatswidget.ui:170
+#, kde-format
+msgid "Measurement &Units:"
+msgstr "Measurement &Units:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelCollate)
+#: kcmformatswidget.ui:199
+#, kde-format
+msgid "Co&llation and Sorting:"
+msgstr "Co&llation and Sorting:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelMeasurement_2)
+#: kcmformatswidget.ui:238
+#, kde-format
+msgid "<b>Description</b>"
+msgstr "<b>Description</b>"
+
+#. i18n: ectx: property (text), widget (QLabel, lexNumbers)
+#: kcmformatswidget.ui:248
+#, kde-format
+msgid "Numbers:"
+msgstr "Numbers:"
+
+#. i18n: ectx: property (text), widget (QLabel, lexTime)
+#: kcmformatswidget.ui:268
+#, kde-format
+msgid "Time:"
+msgstr "Time:"
+
+#. i18n: ectx: property (text), widget (QLabel, lexCurrency)
+#: kcmformatswidget.ui:288
+#, kde-format
+msgid "Currency:"
+msgstr "Currency:"
+
+#. i18n: ectx: property (text), widget (QLabel, lexMeasurement_2)
+#: kcmformatswidget.ui:308
+#, kde-format
+msgid "Measurement Units:"
+msgstr "Measurement Units:"
+
+#~ msgid "<b>Examples</b>"
+#~ msgstr "<b>Examples</b>"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Dwayne Bailey"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "dwayne@translate.org.za"
+
+#~ msgid "Country Selector"
+#~ msgstr "Country Selector"
+
+#~ msgid "without name"
+#~ msgstr "without name"
+
+#~ msgctxt "@item:inlistbox Country"
+#~ msgid "Not set (Generic English)"
+#~ msgstr "Not set (Generic English)"
+
+#, fuzzy
+#~ msgid "kcmlocale"
+#~ msgstr "&Locale"
+
+#~ msgid "Localization options for KDE applications"
+#~ msgstr "Localisation options for KDE applications"
+
+#~ msgid "Copyright 2010 John Layt"
+#~ msgstr "Copyright 2010 John Layt"
+
+#~ msgid "John Layt"
+#~ msgstr "John Layt"
+
+#~ msgid "Maintainer"
+#~ msgstr "Maintainer"
+
+#~ msgid ""
+#~ "You have the language with code '%1' in your list of languages to use for "
+#~ "translation but the localization files for it could not be found. The "
+#~ "language has been removed from your configuration. If you want to add it "
+#~ "again please install the localization files for it and add the language "
+#~ "again."
+#~ msgstr ""
+#~ "You have the language with code '%1' in your list of languages to use for "
+#~ "translation but the localisation files for it could not be found. The "
+#~ "language has been removed from your configuration. If you want to add it "
+#~ "again please install the localisation files for it and add the language "
+#~ "again."
+
+#~ msgid ""
+#~ "Changed language settings apply only to newly started applications.\n"
+#~ "To change the language of all programs, you will have to logout first."
+#~ msgstr ""
+#~ "Changed language settings apply only to newly started applications.\n"
+#~ "To change the language of all programs, you will have to logout first."
+
+#~ msgid "Applying Language Settings"
+#~ msgstr "Applying Language Settings"
+
+#~ msgid ""
+#~ "<h1>Country/Region & Language</h1>\n"
+#~ "<p>Here you can set your localization settings such as language, numeric "
+#~ "formats, date and time formats, etc.  Choosing a country will load a set "
+#~ "of default formats which you can then change to your personal "
+#~ "preferences.  These personal preferences will remain set even if you "
+#~ "change the country.  The reset buttons allow you to easily see where you "
+#~ "have personal settings and to restore those items to the country's "
+#~ "default value.</p>"
+#~ msgstr ""
+#~ "<h1>Country/Region & Language</h1>\n"
+#~ "<p>Here you can set your localisation settings such as language, numeric "
+#~ "formats, date and time formats, etc.  Choosing a country will load a set "
+#~ "of default formats which you can then change to your personal "
+#~ "preferences.  These personal preferences will remain set even if you "
+#~ "change the country.  The reset buttons allow you to easily see where you "
+#~ "have personal settings and to restore those items to the country's "
+#~ "default value.</p>"
+
+#~ msgid "Reset item to its default value"
+#~ msgstr "Reset item to its default value"
+
+#~ msgctxt "No separator symbol"
+#~ msgid "None"
+#~ msgstr "None"
+
+#~ msgctxt "Space separator symbol"
+#~ msgid "Single Space"
+#~ msgstr "Single Space"
+
+#~ msgid "Country"
+#~ msgstr "Country"
+
+#~ msgid "Languages"
+#~ msgstr "Languages"
+
+#~ msgid "Numbers"
+#~ msgstr "Numbers"
+
+#~ msgid "Money"
+#~ msgstr "Money"
+
+#~ msgid "Calendar"
+#~ msgstr "Calendar"
+
+#~ msgid "Date && Time"
+#~ msgstr "Date && Time"
+
+#~ msgid "Other"
+#~ msgstr "Other"
+
+#~ msgid "This is how positive numbers will be displayed."
+#~ msgstr "This is how positive numbers will be displayed."
+
+#~ msgid "This is how negative numbers will be displayed."
+#~ msgstr "This is how negative numbers will be displayed."
+
+#~ msgid "Money:"
+#~ msgstr "Money:"
+
+#~ msgid "This is how positive monetary values will be displayed."
+#~ msgstr "This is how positive monetary values will be displayed."
+
+#~ msgid "This is how negative monetary values will be displayed."
+#~ msgstr "This is how negative monetary values will be displayed."
+
+#~ msgid "Date:"
+#~ msgstr "Date:"
+
+#~ msgid "This is how long dates will be displayed."
+#~ msgstr "This is how long dates will be displayed."
+
+#~ msgid "Short date:"
+#~ msgstr "Short date:"
+
+#~ msgid "This is how short dates will be displayed."
+#~ msgstr "This is how short dates will be displayed."
+
+#~ msgid "This is how time will be displayed."
+#~ msgstr "This is how time will be displayed."
+
+#~ msgid "Country:"
+#~ msgstr "Country:"
+
+#~ msgid ""
+#~ "<p>This is the country where you live.  The KDE Workspace will use the "
+#~ "settings for this country or region.</p>"
+#~ msgstr ""
+#~ "<p>This is the country where you live.  The KDE Workspace will use the "
+#~ "settings for this country or region.</p>"
+
+#~ msgctxt "%1 is the system country name"
+#~ msgid "System Country (%1)"
+#~ msgstr "System Country (%1)"
+
+#~ msgid "No Country (Default Settings)"
+#~ msgstr "No Country (Default Settings)"
+
+#~ msgid "Subdivision:"
+#~ msgstr "Subdivision:"
+
+#~ msgid ""
+#~ "<p>This is the country subdivision where you live, e.g. your state or "
+#~ "province.  The KDE Workspace will use this setting for local information "
+#~ "services such as holidays.</p>"
+#~ msgstr ""
+#~ "<p>This is the country subdivision where you live, e.g. your state or "
+#~ "province.  The KDE Workspace will use this setting for local information "
+#~ "services such as holidays.</p>"
+
+#~ msgid "Available Languages:"
+#~ msgstr "Available Languages:"
+
+#~ msgid ""
+#~ "<p>This is the list of installed KDE Workspace language translations not "
+#~ "currently being used.  To use a language translation move it to the "
+#~ "'Preferred Languages' list in the order of preference.  If no suitable "
+#~ "languages are listed, then you may need to install more language packages "
+#~ "using your usual installation method.</p>"
+#~ msgstr ""
+#~ "<p>This is the list of installed KDE Workspace language translations not "
+#~ "currently being used.  To use a language translation move it to the "
+#~ "'Preferred Languages' list in the order of preference.  If no suitable "
+#~ "languages are listed, then you may need to install more language packages "
+#~ "using your usual installation method.</p>"
+
+#~ msgid "Preferred Languages:"
+#~ msgstr "Preferred Languages:"
+
+#~ msgid ""
+#~ "<p>This is the list of installed KDE Workspace language translations "
+#~ "currently being used, listed in order of preference.  If a translation is "
+#~ "not available for the first language in the list, the next language will "
+#~ "be used.  If no other translations are available then US English will be "
+#~ "used.</p>"
+#~ msgstr ""
+#~ "<p>This is the list of installed KDE Workspace language translations "
+#~ "currently being used, listed in order of preference.  If a translation is "
+#~ "not available for the first language in the list, the next language will "
+#~ "be used.  If no other translations are available then US English will be "
+#~ "used.</p>"
+
+#~ msgctxt "%1 = default language name"
+#~ msgid "%1 (Default)"
+#~ msgstr "%1 (Default)"
+
+#~ msgid "Install more languages"
+#~ msgstr "Install more languages"
+
+#~ msgid "<p>Click here to install more languages</p>"
+#~ msgstr "<p>Click here to install more languages</p>"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>Here you can define the digit group separator used to display numbers."
+#~| "</p><p>Note that the digit group separator used to display monetary "
+#~| "values has to be set separately (see the 'Money' tab).</p>"
+#~ msgid ""
+#~ "<p>Here you can define the digit grouping used to display numbers.</"
+#~ "p><p>Note that the digit grouping used to display monetary values has to "
+#~ "be set separately (see the 'Money' tab).</p>"
+#~ msgstr ""
+#~ "<p>Here you can define the digit group separator used to display numbers."
+#~ "</p><p>Note that the digit group separator used to display monetary "
+#~ "values has to be set separately (see the 'Money' tab).</p>"
+
+#~ msgid "Group separator:"
+#~ msgstr "Group separator:"
+
+#~ msgid ""
+#~ "<p>Here you can define the digit group separator used to display numbers."
+#~ "</p><p>Note that the digit group separator used to display monetary "
+#~ "values has to be set separately (see the 'Money' tab).</p>"
+#~ msgstr ""
+#~ "<p>Here you can define the digit group separator used to display numbers."
+#~ "</p><p>Note that the digit group separator used to display monetary "
+#~ "values has to be set separately (see the 'Money' tab).</p>"
+
+#~ msgid "Decimal separator:"
+#~ msgstr "Decimal separator:"
+
+#~ msgid ""
+#~ "<p>Here you can define the decimal separator used to display numbers (i."
+#~ "e. a dot or a comma in most countries).</p><p>Note that the decimal "
+#~ "separator used to display monetary values has to be set separately (see "
+#~ "the 'Money' tab).</p>"
+#~ msgstr ""
+#~ "<p>Here you can define the decimal separator used to display numbers (i."
+#~ "e. a dot or a comma in most countries).</p><p>Note that the decimal "
+#~ "separator used to display monetary values has to be set separately (see "
+#~ "the 'Money' tab).</p>"
+
+#~ msgid "Decimal places:"
+#~ msgstr "Decimal places:"
+
+#~ msgid ""
+#~ "<p>Here you can set the number of decimal places displayed for numeric "
+#~ "values, i.e. the number of digits <em>after</em> the decimal separator.</"
+#~ "p><p>Note that the decimal places used to display monetary values has to "
+#~ "be set separately (see the 'Money' tab).</p>"
+#~ msgstr ""
+#~ "<p>Here you can set the number of decimal places displayed for numeric "
+#~ "values, i.e. the number of digits <em>after</em> the decimal separator.</"
+#~ "p><p>Note that the decimal places used to display monetary values has to "
+#~ "be set separately (see the 'Money' tab).</p>"
+
+#~ msgid "Positive sign:"
+#~ msgstr "Positive sign:"
+
+#~ msgid ""
+#~ "<p>Here you can specify text used to prefix positive numbers. Most "
+#~ "locales leave this blank.</p><p>Note that the positive sign used to "
+#~ "display monetary values has to be set separately (see the 'Money' tab).</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>Here you can specify text used to prefix positive numbers. Most "
+#~ "locales leave this blank.</p><p>Note that the positive sign used to "
+#~ "display monetary values has to be set separately (see the 'Money' tab).</"
+#~ "p>"
+
+#~ msgctxt "No positive symbol"
+#~ msgid "None"
+#~ msgstr "None"
+
+#~ msgid "Negative sign:"
+#~ msgstr "Negative sign:"
+
+#~ msgid ""
+#~ "<p>Here you can specify text used to prefix negative numbers. This should "
+#~ "not be empty, so you can distinguish positive and negative numbers. It is "
+#~ "normally set to minus (-).</p><p>Note that the negative sign used to "
+#~ "display monetary values has to be set separately (see the 'Money' tab).</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>Here you can specify text used to prefix negative numbers. This should "
+#~ "not be empty, so you can distinguish positive and negative numbers. It is "
+#~ "normally set to minus (-).</p><p>Note that the negative sign used to "
+#~ "display monetary values has to be set separately (see the 'Money' tab).</"
+#~ "p>"
+
+#~ msgctxt "No negative symbol"
+#~ msgid "None"
+#~ msgstr "None"
+
+#~ msgid "Digit set:"
+#~ msgstr "Digit set:"
+
+#~ msgid ""
+#~ "<p>Here you can define the set of digits used to display numbers. If "
+#~ "digits other than Arabic are selected, they will appear only if used in "
+#~ "the language of the application or the piece of text where the number is "
+#~ "shown.</p> <p>Note that the set of digits used to display monetary values "
+#~ "has to be set separately (see the 'Money' tab).</p>"
+#~ msgstr ""
+#~ "<p>Here you can define the set of digits used to display numbers. If "
+#~ "digits other than Arabic are selected, they will appear only if used in "
+#~ "the language of the application or the piece of text where the number is "
+#~ "shown.</p> <p>Note that the set of digits used to display monetary values "
+#~ "has to be set separately (see the 'Money' tab).</p>"
+
+#~ msgid ""
+#~ "<p>Here you can choose the currency to be used when displaying monetary "
+#~ "values, e.g. United States Dollar or Pound Sterling.</p>"
+#~ msgstr ""
+#~ "<p>Here you can choose the currency to be used when displaying monetary "
+#~ "values, e.g. United States Dollar or Pound Sterling.</p>"
+
+#~ msgid "Currency symbol:"
+#~ msgstr "Currency symbol:"
+
+#~ msgid ""
+#~ "<p>Here you can choose the symbol to be used when displaying monetary "
+#~ "values, e.g. $, US$ or USD.</p>"
+#~ msgstr ""
+#~ "<p>Here you can choose the symbol to be used when displaying monetary "
+#~ "values, e.g. $, US$ or USD.</p>"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>Here you can define the decimal separator used to display monetary "
+#~| "values.</p><p>Note that the decimal separator used to display other "
+#~| "numbers has to be defined separately (see the 'Numbers' tab).</p>"
+#~ msgid ""
+#~ "<p>Here you can define the digit grouping used to display monetary values."
+#~ "</p><p>Note that the digit grouping used to display other numbers has to "
+#~ "be defined separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Here you can define the decimal separator used to display monetary "
+#~ "values.</p><p>Note that the decimal separator used to display other "
+#~ "numbers has to be defined separately (see the 'Numbers' tab).</p>"
+
+#~ msgid ""
+#~ "<p>Here you can define the group separator used to display monetary "
+#~ "values.</p><p>Note that the thousands separator used to display other "
+#~ "numbers has to be defined separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Here you can define the group separator used to display monetary "
+#~ "values.</p><p>Note that the thousands separator used to display other "
+#~ "numbers has to be defined separately (see the 'Numbers' tab).</p>"
+
+#~ msgid ""
+#~ "<p>Here you can define the decimal separator used to display monetary "
+#~ "values.</p><p>Note that the decimal separator used to display other "
+#~ "numbers has to be defined separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Here you can define the decimal separator used to display monetary "
+#~ "values.</p><p>Note that the decimal separator used to display other "
+#~ "numbers has to be defined separately (see the 'Numbers' tab).</p>"
+
+#~ msgid ""
+#~ "<p>Here you can set the number of decimal places displayed for monetary "
+#~ "values, i.e. the number of digits <em>after</em> the decimal separator.</"
+#~ "p><p>Note that the decimal places used to display other numbers has to be "
+#~ "defined separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Here you can set the number of decimal places displayed for monetary "
+#~ "values, i.e. the number of digits <em>after</em> the decimal separator.</"
+#~ "p><p>Note that the decimal places used to display other numbers has to be "
+#~ "defined separately (see the 'Numbers' tab).</p>"
+
+#~ msgid "Positive format:"
+#~ msgstr "Positive format:"
+
+#~ msgid ""
+#~ "<p>Here you can set the format of positive monetary values.</p><p>Note "
+#~ "that the positive sign used to display other numbers has to be defined "
+#~ "separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Here you can set the format of positive monetary values.</p><p>Note "
+#~ "that the positive sign used to display other numbers has to be defined "
+#~ "separately (see the 'Numbers' tab).</p>"
+
+#~ msgid "Sign position:"
+#~ msgstr "Sign position:"
+
+#~ msgid "Parentheses Around"
+#~ msgstr "Parentheses Around"
+
+#~ msgid "Before Quantity Money"
+#~ msgstr "Before Quantity Money"
+
+#~ msgid "After Quantity Money"
+#~ msgstr "After Quantity Money"
+
+#~ msgid "Before Money"
+#~ msgstr "Before Money"
+
+#~ msgid "After Money"
+#~ msgstr "After Money"
+
+#~ msgid ""
+#~ "Here you can select how a positive sign will be positioned. This only "
+#~ "affects monetary values."
+#~ msgstr ""
+#~ "Here you can select how a positive sign will be positioned. This only "
+#~ "affects monetary values."
+
+#~ msgid "Prefix currency symbol"
+#~ msgstr "Prefix currency symbol"
+
+#~ msgid ""
+#~ "If this option is checked, the currency sign will be prefixed (i.e. to "
+#~ "the left of the value) for all positive monetary values. If not, it will "
+#~ "be postfixed (i.e. to the right)."
+#~ msgstr ""
+#~ "If this option is ticked, the currency sign will be prefixed (i.e. to the "
+#~ "left of the value) for all positive monetary values. If not, it will be "
+#~ "postfixed (i.e. to the right)."
+
+#~ msgid "Negative format:"
+#~ msgstr "Negative format:"
+
+#~ msgid ""
+#~ "<p>Here you can set the format of negative monetary values.</p><p>Note "
+#~ "that the negative sign used to display other numbers has to be defined "
+#~ "separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Here you can set the format of negative monetary values.</p><p>Note "
+#~ "that the negative sign used to display other numbers has to be defined "
+#~ "separately (see the 'Numbers' tab).</p>"
+
+#~ msgid ""
+#~ "Here you can select how a negative sign will be positioned. This only "
+#~ "affects monetary values."
+#~ msgstr ""
+#~ "Here you can select how a negative sign will be positioned. This only "
+#~ "affects monetary values."
+
+#~ msgid ""
+#~ "If this option is checked, the currency sign will be prefixed (i.e. to "
+#~ "the left of the value) for all negative monetary values. If not, it will "
+#~ "be postfixed (i.e. to the right)."
+#~ msgstr ""
+#~ "If this option is ticked, the currency sign will be prefixed (i.e. to the "
+#~ "left of the value) for all negative monetary values. If not, it will be "
+#~ "postfixed (i.e. to the right)."
+
+#~ msgid ""
+#~ "<p>Here you can define the set of digits used to display monetary values. "
+#~ "If digits other than Arabic are selected, they will appear only if used "
+#~ "in the language of the application or the piece of text where the number "
+#~ "is shown.</p><p>Note that the set of digits used to display other numbers "
+#~ "has to be defined separately (see the 'Numbers' tab).</p>"
+#~ msgstr ""
+#~ "<p>Here you can define the set of digits used to display monetary values. "
+#~ "If digits other than Arabic are selected, they will appear only if used "
+#~ "in the language of the application or the piece of text where the number "
+#~ "is shown.</p><p>Note that the set of digits used to display other numbers "
+#~ "has to be defined separately (see the 'Numbers' tab).</p>"
+
+#~ msgid "Calendar system:"
+#~ msgstr "Calendar system:"
+
+#~ msgid "<p>Here you can set the Calendar System to use to display dates.</p>"
+#~ msgstr ""
+#~ "<p>Here you can set the Calendar System to use to display dates.</p>"
+
+#~ msgid "Use Common Era"
+#~ msgstr "Use Common Era"
+
+#~ msgid ""
+#~ "<p>This option determines if the Common Era (CE/BCE) should be used "
+#~ "instead of the Christian Era (AD/BC).</p>"
+#~ msgstr ""
+#~ "<p>This option determines if the Common Era (CE/BCE) should be used "
+#~ "instead of the Christian Era (AD/BC).</p>"
+
+#~ msgid "Short year window:"
+#~ msgstr "Short year window:"
+
+#~ msgctxt "label between two year inputs, i.e. 1930 to 2029"
+#~ msgid "to"
+#~ msgstr "to"
+
+#~ msgid ""
+#~ "<p>This option determines what year range a two digit date is interpreted "
+#~ "as, for example with a range of 1950 to 2049 the value 10 is interpreted "
+#~ "as 2010.  This range is only applied when reading the Short Year (YY) "
+#~ "date format.</p>"
+#~ msgstr ""
+#~ "<p>This option determines what year range a two digit date is interpreted "
+#~ "as, for example with a range of 1950 to 2049 the value 10 is interpreted "
+#~ "as 2010.  This range is only applied when reading the Short Year (YY) "
+#~ "date format.</p>"
+
+#, fuzzy
+#~| msgid "Measurement system:"
+#~ msgid "Week number system:"
+#~ msgstr "Measurement system:"
+
+#~ msgid "First day of week:"
+#~ msgstr "First day of week:"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>This option determines which day will be considered as the first one "
+#~| "of the week.</p> "
+#~ msgid ""
+#~ "<p>This option determines which day will be considered as the first one "
+#~ "of the week.  This value may affect the Week Number System.</p> "
+#~ msgstr ""
+#~ "<p>This option determines which day will be considered as the first one "
+#~ "of the week.</p> "
+
+#~ msgid "First working day of week:"
+#~ msgstr "First working day of week:"
+
+#~ msgid ""
+#~ "<p>This option determines which day will be considered as the first "
+#~ "working day of the week.</p>"
+#~ msgstr ""
+#~ "<p>This option determines which day will be considered as the first "
+#~ "working day of the week.</p>"
+
+#~ msgid "Last working day of week:"
+#~ msgstr "Last working day of week:"
+
+#~ msgid ""
+#~ "<p>This option determines which day will be considered as the last "
+#~ "working day of the week.</p>"
+#~ msgstr ""
+#~ "<p>This option determines which day will be considered as the last "
+#~ "working day of the week.</p>"
+
+#~ msgid "Week day for special religious observance:"
+#~ msgstr "Week day for special religious observance:"
+
+#~ msgid ""
+#~ "<p>This option determines which day if any will be considered as the day "
+#~ "of the week for special religious observance.</p>"
+#~ msgstr ""
+#~ "<p>This option determines which day if any will be considered as the day "
+#~ "of the week for special religious observance.</p>"
+
+#~ msgctxt "Day name list, option for no special day of religious observance"
+#~ msgid "None / None in particular"
+#~ msgstr "None / None in particular"
+
+#~ msgid "Time format:"
+#~ msgstr "Time format:"
+
+#~ msgid ""
+#~ "<p>The text in this textbox will be used to format time strings. The "
+#~ "sequences below will be replaced:</p><table><tr><td><b>HH</b></td><td>The "
+#~ "hour as a decimal number using a 24-hour clock (00-23).</td></"
+#~ "tr><tr><td><b>hH</b></td><td>The hour (24-hour clock) as a decimal number "
+#~ "(0-23).</td></tr><tr><td><b>PH</b></td><td>The hour as a decimal number "
+#~ "using a 12-hour clock (01-12).</td></tr><tr><td><b>pH</b></td><td>The "
+#~ "hour (12-hour clock) as a decimal number (1-12).</td></tr><tr><td><b>MM</"
+#~ "b></td><td>The minutes as a decimal number (00-59).</td></"
+#~ "tr><tr><td><b>SS</b></td><td>The seconds as a decimal number (00-59).</"
+#~ "td></tr><tr><td><b>AMPM</b></td><td>Either 'AM' or 'PM' according to the "
+#~ "given time value. Noon is treated as 'PM' and midnight as 'AM'.</td></"
+#~ "tr></table>"
+#~ msgstr ""
+#~ "<p>The text in this textbox will be used to format time strings. The "
+#~ "sequences below will be replaced:</p><table><tr><td><b>HH</b></td><td>The "
+#~ "hour as a decimal number using a 24-hour clock (00-23).</td></"
+#~ "tr><tr><td><b>hH</b></td><td>The hour (24-hour clock) as a decimal number "
+#~ "(0-23).</td></tr><tr><td><b>PH</b></td><td>The hour as a decimal number "
+#~ "using a 12-hour clock (01-12).</td></tr><tr><td><b>pH</b></td><td>The "
+#~ "hour (12-hour clock) as a decimal number (1-12).</td></tr><tr><td><b>MM</"
+#~ "b></td><td>The minutes as a decimal number (00-59).</td></"
+#~ "tr><tr><td><b>SS</b></td><td>The seconds as a decimal number (00-59).</"
+#~ "td></tr><tr><td><b>AMPM</b></td><td>Either 'AM' or 'PM' according to the "
+#~ "given time value. Noon is treated as 'PM' and midnight as 'AM'.</td></"
+#~ "tr></table>"
+
+#~ msgid "HH"
+#~ msgstr "HH"
+
+#~ msgid "hH"
+#~ msgstr "hH"
+
+#~ msgid "PH"
+#~ msgstr "PH"
+
+#~ msgid "pH"
+#~ msgstr "pH"
+
+#~ msgctxt "Minute"
+#~ msgid "MM"
+#~ msgstr "MM"
+
+#~ msgid "SS"
+#~ msgstr "SS"
+
+#~ msgid "AMPM"
+#~ msgstr "AMPM"
+
+#~ msgctxt "some reasonable time formats for the language"
+#~ msgid ""
+#~ "HH:MM:SS\n"
+#~ "pH:MM:SS AMPM"
+#~ msgstr ""
+#~ "HH:MM:SS\n"
+#~ "pH:MM:SS AMPM"
+
+#~ msgid "AM symbol:"
+#~ msgstr "AM symbol:"
+
+#~ msgid "<p>Here you can set the text to be displayed for AM.</p>"
+#~ msgstr "<p>Here you can set the text to be displayed for AM.</p>"
+
+#~ msgid "PM symbol:"
+#~ msgstr "PM symbol:"
+
+#~ msgid "<p>Here you can set the text to be displayed for PM.</p>"
+#~ msgstr "<p>Here you can set the text to be displayed for PM.</p>"
+
+#~ msgid ""
+#~ "<p>The text in this textbox will be used to format long dates. The "
+#~ "sequences below will be replaced:</p><table><tr><td><b>YYYY</b></"
+#~ "td><td>The year with century as a decimal number.</td></tr><tr><td><b>YY</"
+#~ "b></td><td>The year without century as a decimal number (00-99).</td></"
+#~ "tr><tr><td><b>MM</b></td><td>The month as a decimal number (01-12).</td></"
+#~ "tr><tr><td><b>mM</b></td><td>The month as a decimal number (1-12).</td></"
+#~ "tr><tr><td><b>SHORTMONTH</b></td><td>The first three characters of the "
+#~ "month name.</td></tr><tr><td><b>MONTH</b></td><td>The full month name.</"
+#~ "td></tr><tr><td><b>DD</b></td><td>The day of month as a decimal number "
+#~ "(01-31).</td></tr><tr><td><b>dD</b></td><td>The day of month as a decimal "
+#~ "number (1-31).</td></tr><tr><td><b>SHORTWEEKDAY</b></td><td>The first "
+#~ "three characters of the weekday name.</td></tr><tr><td><b>WEEKDAY</b></"
+#~ "td><td>The full weekday name.</td></tr><tr><td><b>ERAYEAR</b></td><td>The "
+#~ "Era Year in local format (e.g. 2000 AD).</td></"
+#~ "tr><tr><td><b>SHORTERANAME</b></td><td>The short Era Name.</td></"
+#~ "tr><tr><td><b>YEARINERA</b></td><td>The Year in Era as a decimal number.</"
+#~ "td></tr><tr><td><b>DAYOFYEAR</b></td><td>The Day of Year as a decimal "
+#~ "number.</td></tr><tr><td><b>ISOWEEK</b></td><td>The ISO Week as a decimal "
+#~ "number.</td></tr><tr><td><b>DAYOFISOWEEK</b></td><td>The Day of the ISO "
+#~ "Week as a decimal number.</td></tr></table>"
+#~ msgstr ""
+#~ "<p>The text in this textbox will be used to format long dates. The "
+#~ "sequences below will be replaced:</p><table><tr><td><b>YYYY</b></"
+#~ "td><td>The year with century as a decimal number.</td></tr><tr><td><b>YY</"
+#~ "b></td><td>The year without century as a decimal number (00-99).</td></"
+#~ "tr><tr><td><b>MM</b></td><td>The month as a decimal number (01-12).</td></"
+#~ "tr><tr><td><b>mM</b></td><td>The month as a decimal number (1-12).</td></"
+#~ "tr><tr><td><b>SHORTMONTH</b></td><td>The first three characters of the "
+#~ "month name.</td></tr><tr><td><b>MONTH</b></td><td>The full month name.</"
+#~ "td></tr><tr><td><b>DD</b></td><td>The day of month as a decimal number "
+#~ "(01-31).</td></tr><tr><td><b>dD</b></td><td>The day of month as a decimal "
+#~ "number (1-31).</td></tr><tr><td><b>SHORTWEEKDAY</b></td><td>The first "
+#~ "three characters of the weekday name.</td></tr><tr><td><b>WEEKDAY</b></"
+#~ "td><td>The full weekday name.</td></tr><tr><td><b>ERAYEAR</b></td><td>The "
+#~ "Era Year in local format (e.g. 2000 AD).</td></"
+#~ "tr><tr><td><b>SHORTERANAME</b></td><td>The short Era Name.</td></"
+#~ "tr><tr><td><b>YEARINERA</b></td><td>The Year in Era as a decimal number.</"
+#~ "td></tr><tr><td><b>DAYOFYEAR</b></td><td>The Day of Year as a decimal "
+#~ "number.</td></tr><tr><td><b>ISOWEEK</b></td><td>The ISO Week as a decimal "
+#~ "number.</td></tr><tr><td><b>DAYOFISOWEEK</b></td><td>The Day of the ISO "
+#~ "Week as a decimal number.</td></tr></table>"
+
+#~ msgid "YYYY"
+#~ msgstr "YYYY"
+
+#~ msgid "YY"
+#~ msgstr "YY"
+
+#~ msgid "mM"
+#~ msgstr "mM"
+
+#~ msgctxt "Month"
+#~ msgid "MM"
+#~ msgstr "MM"
+
+#~ msgid "SHORTMONTH"
+#~ msgstr "SHORTMONTH"
+
+#~ msgid "MONTH"
+#~ msgstr "MONTH"
+
+#~ msgid "dD"
+#~ msgstr "dD"
+
+#~ msgid "DD"
+#~ msgstr "DD"
+
+#~ msgid "SHORTWEEKDAY"
+#~ msgstr "SHORTWEEKDAY"
+
+#~ msgid "WEEKDAY"
+#~ msgstr "WEEKDAY"
+
+#~ msgid "ERAYEAR"
+#~ msgstr "ERAYEAR"
+
+#~ msgid "YEARINERA"
+#~ msgstr "YEARINERA"
+
+#~ msgid "SHORTERANAME"
+#~ msgstr "SHORTERANAME"
+
+#~ msgid "DAYOFYEAR"
+#~ msgstr "DAYOFYEAR"
+
+#~ msgid "ISOWEEK"
+#~ msgstr "ISOWEEK"
+
+#~ msgid "DAYOFISOWEEK"
+#~ msgstr "DAYOFISOWEEK"
+
+#~ msgctxt "some reasonable date formats for the language"
+#~ msgid ""
+#~ "WEEKDAY MONTH dD YYYY\n"
+#~ "SHORTWEEKDAY MONTH dD YYYY"
+#~ msgstr ""
+#~ "WEEKDAY dD MONTH YYYY\n"
+#~ "SHORTWEEKDAY dD MONTH YYYY"
+
+#~ msgid ""
+#~ "<p>The text in this textbox will be used to format short dates. For "
+#~ "instance, this is used when listing files. The sequences below will be "
+#~ "replaced:</p><table><tr><td><b>YYYY</b></td><td>The year with century as "
+#~ "a decimal number.</td></tr><tr><td><b>YY</b></td><td>The year without "
+#~ "century as a decimal number (00-99).</td></tr><tr><td><b>MM</b></"
+#~ "td><td>The month as a decimal number (01-12).</td></tr><tr><td><b>mM</b></"
+#~ "td><td>The month as a decimal number (1-12).</td></"
+#~ "tr><tr><td><b>SHORTMONTH</b></td><td>The first three characters of the "
+#~ "month name.</td></tr><tr><td><b>MONTH</b></td><td>The full month name.</"
+#~ "td></tr><tr><td><b>DD</b></td><td>The day of month as a decimal number "
+#~ "(01-31).</td></tr><tr><td><b>dD</b></td><td>The day of month as a decimal "
+#~ "number (1-31).</td></tr><tr><td><b>SHORTWEEKDAY</b></td><td>The first "
+#~ "three characters of the weekday name.</td></tr><tr><td><b>WEEKDAY</b></"
+#~ "td><td>The full weekday name.</td></tr><tr><td><b>ERAYEAR</b></td><td>The "
+#~ "Era Year in local format (e.g. 2000 AD).</td></"
+#~ "tr><tr><td><b>SHORTERANAME</b></td><td>The short Era Name.</td></"
+#~ "tr><tr><td><b>YEARINERA</b></td><td>The Year in Era as a decimal number.</"
+#~ "td></tr><tr><td><b>DAYOFYEAR</b></td><td>The Day of Year as a decimal "
+#~ "number.</td></tr><tr><td><b>ISOWEEK</b></td><td>The ISO Week as a decimal "
+#~ "number.</td></tr><tr><td><b>DAYOFISOWEEK</b></td><td>The Day of the ISO "
+#~ "Week as a decimal number.</td></tr></table>"
+#~ msgstr ""
+#~ "<p>The text in this textbox will be used to format short dates. For "
+#~ "instance, this is used when listing files. The sequences below will be "
+#~ "replaced:</p><table><tr><td><b>YYYY</b></td><td>The year with century as "
+#~ "a decimal number.</td></tr><tr><td><b>YY</b></td><td>The year without "
+#~ "century as a decimal number (00-99).</td></tr><tr><td><b>MM</b></"
+#~ "td><td>The month as a decimal number (01-12).</td></tr><tr><td><b>mM</b></"
+#~ "td><td>The month as a decimal number (1-12).</td></"
+#~ "tr><tr><td><b>SHORTMONTH</b></td><td>The first three characters of the "
+#~ "month name.</td></tr><tr><td><b>MONTH</b></td><td>The full month name.</"
+#~ "td></tr><tr><td><b>DD</b></td><td>The day of month as a decimal number "
+#~ "(01-31).</td></tr><tr><td><b>dD</b></td><td>The day of month as a decimal "
+#~ "number (1-31).</td></tr><tr><td><b>SHORTWEEKDAY</b></td><td>The first "
+#~ "three characters of the weekday name.</td></tr><tr><td><b>WEEKDAY</b></"
+#~ "td><td>The full weekday name.</td></tr><tr><td><b>ERAYEAR</b></td><td>The "
+#~ "Era Year in local format (e.g. 2000 AD).</td></"
+#~ "tr><tr><td><b>SHORTERANAME</b></td><td>The short Era Name.</td></"
+#~ "tr><tr><td><b>YEARINERA</b></td><td>The Year in Era as a decimal number.</"
+#~ "td></tr><tr><td><b>DAYOFYEAR</b></td><td>The Day of Year as a decimal "
+#~ "number.</td></tr><tr><td><b>ISOWEEK</b></td><td>The ISO Week as a decimal "
+#~ "number.</td></tr><tr><td><b>DAYOFISOWEEK</b></td><td>The Day of the ISO "
+#~ "Week as a decimal number.</td></tr></table>"
+
+#~ msgctxt "some reasonable short date formats for the language"
+#~ msgid ""
+#~ "YYYY-MM-DD\n"
+#~ "dD.mM.YYYY\n"
+#~ "DD.MM.YYYY"
+#~ msgstr ""
+#~ "YYYY-MM-DD\n"
+#~ "dD.mM.YYYY\n"
+#~ "DD.MM.YYYY"
+
+#~ msgid "Possessive month names:"
+#~ msgstr "Possessive month names:"
+
+#~ msgid ""
+#~ "<p>This option determines whether possessive form of month names should "
+#~ "be used in dates.</p>"
+#~ msgstr ""
+#~ "<p>This option determines whether possessive form of month names should "
+#~ "be used in dates.</p>"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>Here you can define the set of digits used to display dates and "
+#~| "times.  If digits other than Arabic are selected, they will appear only "
+#~| "if used in the language of the application or the piece of text where "
+#~| "the date or time is shown.</p><p>Note that the set of digits used to "
+#~| "display numeric and monetary values have to be set separately (see the "
+#~| "'Number' or 'Money' tabs).</p>"
+#~ msgid ""
+#~ "<p>Here you can define the set of digits used to display dates and "
+#~ "times.  If digits other than Arabic are selected, they will appear only "
+#~ "if used in the language of the application or the piece of text where the "
+#~ "date or time is shown.</p><p>Note that the set of digits used to display "
+#~ "numeric and monetary values have to be set separately (see the 'Numbers' "
+#~ "or 'Money' tabs).</p>"
+#~ msgstr ""
+#~ "<p>Here you can define the set of digits used to display dates and "
+#~ "times.  If digits other than Arabic are selected, they will appear only "
+#~ "if used in the language of the application or the piece of text where the "
+#~ "date or time is shown.</p><p>Note that the set of digits used to display "
+#~ "numeric and monetary values have to be set separately (see the 'Number' "
+#~ "or 'Money' tabs).</p>"
+
+#~ msgid "Page size:"
+#~ msgstr "Page size:"
+
+#~ msgid ""
+#~ "<p>Here you can define the default page size to be used in new documents."
+#~ "</p><p>Note that this setting has no effect on printer paper size.</p>"
+#~ msgstr ""
+#~ "<p>Here you can define the default page size to be used in new documents."
+#~ "</p><p>Note that this setting has no effect on printer paper size.</p>"
+
+#~ msgctxt "Page size"
+#~ msgid "A4"
+#~ msgstr "A4"
+
+#~ msgctxt "Page size"
+#~ msgid "US Letter"
+#~ msgstr "US Letter"
+
+#~ msgctxt "Page size"
+#~ msgid "A0"
+#~ msgstr "A0"
+
+#~ msgctxt "Page size"
+#~ msgid "A1"
+#~ msgstr "A1"
+
+#~ msgctxt "Page size"
+#~ msgid "A2"
+#~ msgstr "A2"
+
+#~ msgctxt "Page size"
+#~ msgid "A3"
+#~ msgstr "A3"
+
+#~ msgctxt "Page size"
+#~ msgid "A5"
+#~ msgstr "A5"
+
+#~ msgctxt "Page size"
+#~ msgid "A6"
+#~ msgstr "A6"
+
+#~ msgctxt "Page size"
+#~ msgid "A7"
+#~ msgstr "A7"
+
+#~ msgctxt "Page size"
+#~ msgid "A8"
+#~ msgstr "A8"
+
+#~ msgctxt "Page size"
+#~ msgid "A9"
+#~ msgstr "A9"
+
+#~ msgctxt "Page size"
+#~ msgid "B0"
+#~ msgstr "B0"
+
+#~ msgctxt "Page size"
+#~ msgid "B1"
+#~ msgstr "B1"
+
+#~ msgctxt "Page size"
+#~ msgid "B2"
+#~ msgstr "B2"
+
+#~ msgctxt "Page size"
+#~ msgid "B3"
+#~ msgstr "B3"
+
+#~ msgctxt "Page size"
+#~ msgid "B4"
+#~ msgstr "B4"
+
+#~ msgctxt "Page size"
+#~ msgid "B5"
+#~ msgstr "B5"
+
+#~ msgctxt "Page size"
+#~ msgid "B6"
+#~ msgstr "B6"
+
+#~ msgctxt "Page size"
+#~ msgid "B7"
+#~ msgstr "B7"
+
+#~ msgctxt "Page size"
+#~ msgid "B8"
+#~ msgstr "B8"
+
+#~ msgctxt "Page size"
+#~ msgid "B9"
+#~ msgstr "B9"
+
+#~ msgctxt "Page size"
+#~ msgid "B10"
+#~ msgstr "B10"
+
+#~ msgctxt "Page size"
+#~ msgid "C5 Envelope"
+#~ msgstr "C5 Envelope"
+
+#~ msgctxt "Page size"
+#~ msgid "US Common 10 Envelope"
+#~ msgstr "US Common 10 Envelope"
+
+#~ msgctxt "Page size"
+#~ msgid "DLE Envelope"
+#~ msgstr "DLE Envelope"
+
+#~ msgctxt "Page size"
+#~ msgid "Executive"
+#~ msgstr "Executive"
+
+#~ msgctxt "Page size"
+#~ msgid "Folio"
+#~ msgstr "Folio"
+
+#~ msgctxt "Page size"
+#~ msgid "Ledger"
+#~ msgstr "Ledger"
+
+#~ msgctxt "Page size"
+#~ msgid "US Legal"
+#~ msgstr "US Legal"
+
+#~ msgctxt "Page size"
+#~ msgid "Tabloid"
+#~ msgstr "Tabloid"
+
+#~ msgctxt "Page size"
+#~ msgid "Custom"
+#~ msgstr "Custom"
+
+#~ msgid "<p>Here you can define the measurement system to use.</p>"
+#~ msgstr "<p>Here you can define the measurement system to use.</p>"
+
+#~ msgid "Metric System"
+#~ msgstr "Metric System"
+
+#~ msgid "Byte size units:"
+#~ msgstr "Byte size units:"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>This changes the units used by most KDE programs to display numbers "
+#~| "counted in bytes. Traditionally \"kilobytes\" meant units of 1024, "
+#~| "instead of the metric 1000, for most (but not all) byte sizes.<ul><li>To "
+#~| "reduce confusion you can use the recently standardized IEC units which "
+#~| "are always in multiples of 1024.</li><li>You can also select metric, "
+#~| "which is always in units of 1000.</li><li>Selecting JEDEC restores the "
+#~| "older-style units used in KDE 3.5 and some other operating systems.</"
+#~| "li></p>"
+#~ msgid ""
+#~ "<p>This changes the units used by most KDE programs to display numbers "
+#~ "counted in bytes. Traditionally \"kilobytes\" meant units of 1024, "
+#~ "instead of the metric 1000, for most (but not all) byte sizes.<ul><li>To "
+#~ "reduce confusion you can use the recently standardized IEC units which "
+#~ "are always in multiples of 1024.</li><li>You can also select metric, "
+#~ "which is always in units of 1000.</li><li>Selecting JEDEC restores the "
+#~ "older-style units used in KDE 3.5 and some other operating systems.</li></"
+#~ "ul></p>"
+#~ msgstr ""
+#~ "<p>This changes the units used by most KDE programs to display numbers "
+#~ "counted in bytes. Traditionally \"kilobytes\" meant units of 1024, "
+#~ "instead of the metric 1000, for most (but not all) byte sizes.<ul><li>To "
+#~ "reduce confusion you can use the recently standardised IEC units which "
+#~ "are always in multiples of 1024.</li><li>You can also select metric, "
+#~ "which is always in units of 1000.</li><li>Selecting JEDEC restores the "
+#~ "older-style units used in KDE 3.5 and some other operating systems.</li></"
+#~ "p>"
+
+#~ msgctxt "Unit of binary measurement"
+#~ msgid "IEC Units (KiB, MiB, etc)"
+#~ msgstr "IEC Units (KiB, MiB, etc)"
+
+#~ msgctxt "Unit of binary measurement"
+#~ msgid "JEDEC Units (KB, MB, etc)"
+#~ msgstr "JEDEC Units (KB, MB, etc)"
+
+#~ msgctxt "Unit of binary measurement"
+#~ msgid "Metric Units (kB, MB, etc)"
+#~ msgstr "Metric Units (kB, MB, etc)"
+
+#~ msgctxt "Example test for binary unit dialect"
+#~ msgid "Example: 2000 bytes equals %1"
+#~ msgstr "Example: 2000 bytes equals %1"
+
+#~ msgid "Page size"
+#~ msgstr "Page size"
+
+#~ msgid "Measurement system"
+#~ msgstr "Measurement system"
+
+#~ msgid "Byte size units"
+#~ msgstr "Byte size units"
+
+#~ msgid "to"
+#~ msgstr "to"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "&Available Languages:"
+#~ msgstr "Languages:"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "&Preferred Languages:"
+#~ msgstr "Languages:"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "Preferred Langauges:"
+#~ msgstr "Languages:"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "Decimal seperator:"
+#~ msgstr "Decimal symbol:"
+
+#~ msgid "Remove"
+#~ msgstr "Remove"
+
+#~ msgctxt "@item:intext Country"
+#~ msgid "Not set (Generic English)"
+#~ msgstr "Not set (Generic English)"
+
+#~ msgctxt "@info %1 is country name"
+#~ msgid "<html>%1 (<a href=\"changeCountry\">change...</a>)</html>"
+#~ msgstr "<html>%1 (<a href=\"changeCountry\">change...</a>)</html>"
+
+#~ msgid "Add Language"
+#~ msgstr "Add Language"
+
+#~ msgid ""
+#~ "This will add a language to the list. If the language is already in the "
+#~ "list, the old one will be moved instead."
+#~ msgstr ""
+#~ "This will add a language to the list. If the language is already in the "
+#~ "list, the old one will be moved instead."
+
+#~ msgid "This will remove the highlighted language from the list."
+#~ msgstr "This will remove the highlighted language from the list."
+
+#~ msgid ""
+#~ "KDE programs will be displayed in the first available language in this "
+#~ "list.\n"
+#~ "If none of the languages are available, US English will be used."
+#~ msgstr ""
+#~ "KDE programs will be displayed in the first available language in this "
+#~ "list.\n"
+#~ "If none of the languages are available, US English will be used."
+
+#~ msgid ""
+#~ "Here you can choose your country or region. The settings for languages, "
+#~ "numbers etc. will automatically switch to the corresponding values."
+#~ msgstr ""
+#~ "Here you can choose your country or region. The settings for languages, "
+#~ "numbers etc. will automatically switch to the corresponding values."
+
+#~ msgid ""
+#~ "<p>Here you can choose the languages that will be used by KDE. If the "
+#~ "first language in the list is not available, the second will be used, "
+#~ "etc. If only US English is available, no translations have been "
+#~ "installed. You can get translation packages for many languages from the "
+#~ "place you got KDE from.</p><p>Note that some applications may not be "
+#~ "translated to your languages; in this case, they will automatically fall "
+#~ "back to US English.</p>"
+#~ msgstr ""
+#~ "<p>Here you can choose the languages that will be used by KDE. If the "
+#~ "first language in the list is not available, the second will be used, "
+#~ "etc. If only US English is available, no translations have been "
+#~ "installed. You can get translation packages for many languages from the "
+#~ "place you got KDE from.</p><p>Note that some applications may not be "
+#~ "translated to your languages; in this case, they will automatically fall "
+#~ "back to US English.</p>"
+
+#~ msgid "This is how date values will be displayed using a short notation."
+#~ msgstr "This is how date values will be displayed using a short notation."
+
+#~ msgid "Positive"
+#~ msgstr "Positive"
+
+#~ msgid "Negative"
+#~ msgstr "Negative"
+
+#~ msgid ""
+#~ "Here you can choose the currency symbol to be displayed for your chosen "
+#~ "currency, e.g. $, US$, or USD."
+#~ msgstr ""
+#~ "Here you can choose the currency symbol to be displayed for your chosen "
+#~ "currency, e.g. $, US$, or USD."
+
+#~ msgid "&Decimal symbol:"
+#~ msgstr "&Decimal symbol:"
+
+#~ msgid "Tho&usands separator:"
+#~ msgstr "Tho&usands separator:"
+
+#~ msgid "Decimal &places:"
+#~ msgstr "Decimal &places:"
+
+#~ msgid "Di&git set:"
+#~ msgstr "Di&git set:"
+
+#~ msgid ""
+#~ "Here you can specify text used to prefix positive numbers. Most people "
+#~ "leave this blank."
+#~ msgstr ""
+#~ "Here you can specify text used to prefix positive numbers. Most people "
+#~ "leave this blank."
+
+#~ msgid ""
+#~ "Here you can set the number of decimal places displayed for numeric "
+#~ "values, i.e. the number of digits <em>after</em> the decimal separator. "
+#~ msgstr ""
+#~ "Here you can set the number of decimal places displayed for numeric "
+#~ "values, i.e. the number of digits <em>after</em> the decimal separator. "
+
+#~ msgid "Paper format:"
+#~ msgstr "Paper format:"
+
+#~ msgid "Units for byte sizes:"
+#~ msgstr "Units for byte sizes:"
+
+#~ msgid "Use declined form of month name"
+#~ msgstr "Use declined form of month name"
+
+#~ msgid ""
+#~ "<p>The text in this textbox will be used to format long dates. The "
+#~ "sequences below will be replaced:</p>"
+#~ msgstr ""
+#~ "<p>The text in this textbox will be used to format long dates. The "
+#~ "sequences below will be replaced:</p>"
+
+#~ msgid ""
+#~ "<p>The text in this textbox will be used to format short dates. For "
+#~ "instance, this is used when listing files. The sequences below will be "
+#~ "replaced:</p>"
+#~ msgstr ""
+#~ "<p>The text in this textbox will be used to format short dates. For "
+#~ "instance, this is used when listing files. The sequences below will be "
+#~ "replaced:</p>"
+
+#~ msgid ""
+#~ "<p>Here you can define the set of digits used to display time and dates. "
+#~ "If digits other than Arabic are selected, they will appear only if used "
+#~ "in the language of the application or the piece of text where the number "
+#~ "is shown.</p>"
+#~ msgstr ""
+#~ "<p>Here you can define the set of digits used to display time and dates. "
+#~ "If digits other than Arabic are selected, they will appear only if used "
+#~ "in the language of the application or the piece of text where the number "
+#~ "is shown.</p>"
+
+#~ msgid "None selected (<a href=\"/change\">change...</a>)"
+#~ msgstr "None selected (<a href=\"/change\">change...</a>)"
+
+#~ msgid "KCMLocale"
+#~ msgstr "KCMLocale"
+
+#~ msgid "(C) 1998 Matthias Hoelzer, (C) 1999-2003 Hans Petter Bieker"
+#~ msgstr "(C) 1998 Matthias Hoelzer, (C) 1999-2003 Hans Petter Bieker"
+
+#~ msgid ""
+#~ "<h1>Country/Region & Language</h1>\n"
+#~ "<p>From here you can configure language, numeric, and time \n"
+#~ "settings for your particular region. In most cases it will be \n"
+#~ "sufficient to choose the country you live in. For instance KDE \n"
+#~ "will automatically choose \"German\" as language if you choose \n"
+#~ "\"Germany\" from the list. It will also change the time format \n"
+#~ "to use 24 hours and and use comma as decimal separator.</p>\n"
+#~ msgstr ""
+#~ "<h1>Country/Region & Language</h1>\n"
+#~ "<p>From here you can configure language, numeric, and time \n"
+#~ "settings for your particular region. In most cases it will be \n"
+#~ "sufficient to choose the country you live in. For instance KDE \n"
+#~ "will automatically choose \"German\" as language if you choose \n"
+#~ "\"Germany\" from the list. It will also change the time format \n"
+#~ "to use 24 hours and and use comma as decimal separator.</p>\n"
+
+#~ msgid "&Locale"
+#~ msgstr "&Locale"
+
+#~ msgid "&Numbers"
+#~ msgstr "&Numbers"
+
+#~ msgid "&Money"
+#~ msgstr "&Money"
+
+#~ msgid "&Time && Dates"
+#~ msgstr "&Time && Dates"
+
+#~ msgid "&Other"
+#~ msgstr "&Other"
+
+#~ msgid "Fract digits:"
+#~ msgstr "Fract digits:"
+
+#~ msgid "Here you can enter your usual currency symbol, e.g. $ or €."
+#~ msgstr "Here you can enter your usual currency symbol, e.g. $ or €."
+
+#~ msgid "Fractional digits:"
+#~ msgstr "Fractional digits:"
+
+#~ msgctxt "Calendar System Gregorian"
+#~ msgid "Gregorian"
+#~ msgstr "Gregorian"
+
+#~ msgctxt "Calendar System Hijri"
+#~ msgid "Hijri"
+#~ msgstr "Hijri"
+
+#~ msgctxt "Calendar System Hebrew"
+#~ msgid "Hebrew"
+#~ msgstr "Hebrew"
+
+#~ msgctxt "Calendar System Jalali"
+#~ msgid "Jalali"
+#~ msgstr "Jalali"
+
+#, fuzzy
+#~ msgid "Number"
+#~ msgstr "&Numbers"
+
+#~ msgid "Remove Language"
+#~ msgstr "Remove Language"
+
+#~ msgid "Move Up"
+#~ msgstr "Move Up"
+
+#~ msgid "Move Down"
+#~ msgstr "Move Down"
+
+#~ msgid ""
+#~ "Here you can enter your usual currency symbol, e.g. $ or DM.<p>Please "
+#~ "note that the Euro symbol may not be available on your system, depending "
+#~ "on the distribution you use."
+#~ msgstr ""
+#~ "Here you can enter your usual currency symbol, e.g. $ or DM.<p>Please "
+#~ "note that the Euro symbol may not be available on your system, depending "
+#~ "on the distribution you use."

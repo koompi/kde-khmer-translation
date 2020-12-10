@@ -1,0 +1,267 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# , 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:01+0200\n"
+"PO-Revision-Date: 2009-10-13 22:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: gasCalculator.cpp:98
+#, kde-format
+msgid "Gas Calculator"
+msgstr "Gas Calculator"
+
+#: gasCalculator.cpp:108
+#, kde-format
+msgid "Calculation Mode:"
+msgstr "Calculation Mode:"
+
+#: gasCalculator.cpp:113
+#, kde-format
+msgid "Moles / Mass"
+msgstr "Moles / Mass"
+
+#: gasCalculator.cpp:114
+#, kde-format
+msgid "Pressure"
+msgstr "Pressure"
+
+#: gasCalculator.cpp:115
+#, kde-format
+msgid "Temperature"
+msgstr "Temperature"
+
+#: gasCalculator.cpp:116
+#, kde-format
+msgid "Volume"
+msgstr "Volume"
+
+#: gasCalculator.cpp:126
+#, kde-format
+msgid "Molar Mass of Gas:"
+msgstr "Molar Mass of Gas:"
+
+#: gasCalculator.cpp:136
+#, kde-format
+msgid "u (mass)"
+msgstr "u (mass)"
+
+#: gasCalculator.cpp:146
+#, kde-format
+msgid "Number of moles:"
+msgstr "Number of moles:"
+
+#: gasCalculator.cpp:161
+#, kde-format
+msgid "Mass of the gas:"
+msgstr "Mass of the gas:"
+
+#: gasCalculator.cpp:172
+#, kde-format
+msgid "grams"
+msgstr "grams"
+
+#: gasCalculator.cpp:173
+#, kde-format
+msgid "tons"
+msgstr "tons"
+
+#: gasCalculator.cpp:174
+#, kde-format
+msgid "carats"
+msgstr "carats"
+
+#: gasCalculator.cpp:175
+#, kde-format
+msgid "pounds"
+msgstr "pounds"
+
+#: gasCalculator.cpp:176
+#, kde-format
+msgid "ounces"
+msgstr "ounces"
+
+#: gasCalculator.cpp:177
+#, kde-format
+msgid "troy ounces"
+msgstr "troy ounces"
+
+#: gasCalculator.cpp:189
+#, kde-format
+msgid "Pressure of the Gas:"
+msgstr "Pressure of the Gas:"
+
+#: gasCalculator.cpp:200
+#, kde-format
+msgid "atmospheres"
+msgstr "atmospheres"
+
+#: gasCalculator.cpp:201
+#, kde-format
+msgid "pascal"
+msgstr "pascal"
+
+#: gasCalculator.cpp:202
+#, kde-format
+msgid "bars"
+msgstr "bars"
+
+#: gasCalculator.cpp:203
+#, kde-format
+msgid "millibars"
+msgstr "millibars"
+
+#: gasCalculator.cpp:204
+#, kde-format
+msgid "decibars"
+msgstr "decibars"
+
+#: gasCalculator.cpp:205
+#, kde-format
+msgid "torrs"
+msgstr "torrs"
+
+#: gasCalculator.cpp:206
+#, kde-format
+msgid "inches of mercury"
+msgstr "inches of mercury"
+
+#: gasCalculator.cpp:218
+#, kde-format
+msgid "Temperature:"
+msgstr "Temperature:"
+
+#: gasCalculator.cpp:229
+#, kde-format
+msgid "kelvins"
+msgstr "kelvins"
+
+#: gasCalculator.cpp:230
+#, kde-format
+msgid "celsius"
+msgstr "celsius"
+
+#: gasCalculator.cpp:231
+#, kde-format
+msgid "fahrenheit"
+msgstr "fahrenheit"
+
+#: gasCalculator.cpp:232
+#, kde-format
+msgid "delisles"
+msgstr "delisles"
+
+#: gasCalculator.cpp:233
+#, kde-format
+msgid "réaumurs"
+msgstr "réaumurs"
+
+#: gasCalculator.cpp:245
+#, kde-format
+msgid "Volume of the gas:"
+msgstr "Volume of the gas:"
+
+#: gasCalculator.cpp:256
+#, kde-format
+msgid "liter"
+msgstr "litre"
+
+#: gasCalculator.cpp:257 gasCalculator.cpp:310
+#, kde-format
+msgid "cubic feet"
+msgstr "cubic feet"
+
+#: gasCalculator.cpp:258
+#, kde-format
+msgid "cubic inch"
+msgstr "cubic inch"
+
+#: gasCalculator.cpp:259
+#, kde-format
+msgid "fluid ounce"
+msgstr "fluid ounce"
+
+#: gasCalculator.cpp:260 gasCalculator.cpp:313
+#, kde-format
+msgid "cups"
+msgstr "cups"
+
+#: gasCalculator.cpp:261 gasCalculator.cpp:312
+#, kde-format
+msgid "gallons"
+msgstr "gallons"
+
+#: gasCalculator.cpp:262
+#, kde-format
+msgid "pints"
+msgstr "pints"
+
+#: gasCalculator.cpp:274
+#, kde-format
+msgid "Van der Waals constant 'a':"
+msgstr "Van der Waals constant 'a':"
+
+#: gasCalculator.cpp:285
+#, kde-format
+msgid "liter^2 atmosphere/mol^2"
+msgstr "litre² atmosphere/mol²"
+
+#: gasCalculator.cpp:297
+#, kde-format
+msgid "Van der Waals constant 'b':"
+msgstr "Van der Waals constant 'b':"
+
+#: gasCalculator.cpp:308
+#, kde-format
+msgid "liters"
+msgstr "litres"
+
+#: gasCalculator.cpp:309
+#, kde-format
+msgid "cubic meters"
+msgstr "cubic metres"
+
+#: gasCalculator.cpp:311
+#, kde-format
+msgid "cubic inches"
+msgstr "cubic inches"
+
+#: gasCalculator.cpp:327
+#, kde-format
+msgid "Reset"
+msgstr "Reset"
+
+#: gasCalculator.cpp:645
+#, kde-format
+msgid "Volume cannot be zero, please enter a valid value."
+msgstr "Volume cannot be zero, please enter a valid value."
+
+#: gasCalculator.cpp:648
+#, kde-format
+msgid "The molar mass cannot be zero, please enter a non-zero value."
+msgstr "The molar mass cannot be zero, please enter a non-zero value."
+
+#: gasCalculator.cpp:658
+#, kde-format
+msgid "General"
+msgstr "General"
+
+#. i18n: ectx: property (text), widget (QCheckBox, ideal)
+#: gasCalculatorConfig.ui:17
+#, kde-format
+msgid "Assume Gas is ideal (Do not show Van der Waals coefficients)"
+msgstr "Assume Gas is ideal (Do not show Van der Waals coefficients)"
+
+#, fuzzy
+#~ msgid "Volume cannot be zero, please correct the error!"
+#~ msgstr "Volume cannot be zero, please correct the error!"

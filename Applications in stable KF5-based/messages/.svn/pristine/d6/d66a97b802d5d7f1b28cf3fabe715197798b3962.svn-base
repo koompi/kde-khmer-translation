@@ -1,0 +1,24 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-19 00:26+0000\n"
+"PO-Revision-Date: 2014-06-23 18:54+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: plasma-runner-ktp-contact.desktop.cmake:2
+msgctxt "Name"
+msgid "Instant Messaging"
+msgstr "Instant Messaging"
+
+#: plasma-runner-ktp-contact.desktop.cmake:48
+msgctxt "Comment"
+msgid "Start a chat with any of your IM contacts or change your IM status"
+msgstr "Start a chat with any of your IM contacts or change your IM status"

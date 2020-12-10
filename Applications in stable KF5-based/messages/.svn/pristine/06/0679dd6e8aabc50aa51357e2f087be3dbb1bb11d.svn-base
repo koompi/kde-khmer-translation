@@ -1,0 +1,217 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2015, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-11 08:09+0000\n"
+"PO-Revision-Date: 2017-11-26 15:32+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: discover/org.kde.discover.desktop.cmake:2
+#: libdiscover/backends/FlatpakBackend/org.kde.discover-flatpak.desktop:2
+#: notifier/org.kde.discover.notifier.desktop.cmake:2
+msgctxt "Name"
+msgid "Discover"
+msgstr "Discover"
+
+#: discover/org.kde.discover.desktop.cmake:56
+msgctxt "GenericName"
+msgid "Software Center"
+msgstr "Software Centre"
+
+#: discover/org.kde.discover.desktop.cmake:104
+msgctxt "Keywords"
+msgid ""
+"program;software;repository;package;install;remove;update;apps;applications;"
+msgstr ""
+"program;software;repository;package;install;remove;update;apps;applications;"
+
+#: discover/org.kde.discover.desktop.cmake:151
+msgctxt "Name"
+msgid "Updates"
+msgstr "Updates"
+
+#: libdiscover/backends/KNSBackend/custom/discover_ktexteditor_codesnippets_core.knsrc:2
+msgctxt "Name"
+msgid "Kate Snippets"
+msgstr "Kate Snippets"
+
+#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:2
+msgctxt "Name"
+msgid "Snap login action"
+msgstr "Snap login action"
+
+#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:43
+msgctxt "Description"
+msgid "Allows snap front-ends to log in"
+msgstr "Allows snap front-ends to log in"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:4
+msgctxt "Comment"
+msgid "Discover"
+msgstr "Discover"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:51
+msgctxt "Name"
+msgid "Updates Are Available"
+msgstr "Updates Are Available"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:99
+msgctxt "Comment"
+msgid "Updates Available"
+msgstr "Updates Available"
+
+#~ msgctxt "Comment"
+#~ msgid "Helps you keep your system up to date"
+#~ msgstr "Helps you keep your system up to date"
+
+#~ msgctxt "Description"
+#~ msgid "Modifying the system-wide font configuration requires privileges."
+#~ msgstr "Modifying the system-wide font configuration requires privileges."
+
+#~ msgctxt "Name"
+#~ msgid "Dummy"
+#~ msgstr "Dummy"
+
+#~ msgctxt "GenericName"
+#~ msgid "Dummy"
+#~ msgstr "Dummy"
+
+#~ msgctxt "Comment"
+#~ msgid "It's some dummy backend for testing purposes"
+#~ msgstr "It's some dummy backend for testing purposes"
+
+#~ msgctxt "Comment"
+#~ msgid "Install and browse applications in PackageKit"
+#~ msgstr "Install and browse applications in PackageKit"
+
+#~ msgctxt "Name"
+#~ msgid "PackageKit Support"
+#~ msgstr "PackageKit Support"
+
+#~ msgctxt "GenericName"
+#~ msgid "Applications Backend"
+#~ msgstr "Applications Backend"
+
+#~ msgctxt "Name"
+#~ msgid "Snappy Backend"
+#~ msgstr "Snappy Backend"
+
+#~ msgctxt "Comment"
+#~ msgid "Support snap packaging system, snapd frontend"
+#~ msgstr "Support snap packaging system, snapd frontend"
+
+#~ msgctxt "Comment"
+#~ msgid "Muon Application Backend Notifier"
+#~ msgstr "Muon Application Backend Notifier"
+
+#~ msgctxt "Name"
+#~ msgid "Upgrade Available"
+#~ msgstr "Upgrade Available"
+
+#~ msgctxt "Comment"
+#~ msgid "A new version of Kubuntu is available"
+#~ msgstr "A new version of Kubuntu is available"
+
+#~ msgctxt "Comment"
+#~ msgid "Install and browse applications in APT"
+#~ msgstr "Install and browse applications in APT"
+
+#~ msgctxt "Name"
+#~ msgid "Applications Backend"
+#~ msgstr "Applications Backend"
+
+#~ msgctxt "GenericName"
+#~ msgid "APT Support"
+#~ msgstr "APT Support"
+
+#~ msgctxt "Comment"
+#~ msgid "Install and browse applications in Chakra"
+#~ msgstr "Install and browse applications in Chakra"
+
+#~ msgctxt "GenericName"
+#~ msgid "Chakra Support"
+#~ msgstr "Chakra Support"
+
+#~ msgctxt "Name"
+#~ msgid "Muon Akabei Notifier"
+#~ msgstr "Muon Akabei Notifier"
+
+#~ msgctxt "Name"
+#~ msgid "Bodega Wallpapers"
+#~ msgstr "Bodega Wallpapers"
+
+#~ msgctxt "GenericName"
+#~ msgid "Wallpapers"
+#~ msgstr "Wallpapers"
+
+#~ msgctxt "Comment"
+#~ msgid "Install new, awesome wallpapers for your KDE!"
+#~ msgstr "Install new, awesome wallpapers for your KDE!"
+
+#~ msgctxt "Name"
+#~ msgid "Comics"
+#~ msgstr "Comics"
+
+#~ msgctxt "Name"
+#~ msgid "Update Manager"
+#~ msgstr "Update Manager"
+
+#~ msgctxt "GenericName"
+#~ msgid "Update Manager"
+#~ msgstr "Update Manager"
+
+#~ msgctxt "GenericName"
+#~ msgid "Comics"
+#~ msgstr "Comics"
+
+#~ msgctxt "Comment"
+#~ msgid "Install comic stripes to be used from the comics plasmoid"
+#~ msgstr "Install comic stripes to be used from the comics plasmoid"
+
+#~ msgctxt "Name"
+#~ msgid "Plasmoids"
+#~ msgstr "Plasmoids"
+
+#~ msgctxt "GenericName"
+#~ msgid "Plasmoids"
+#~ msgstr "Plasmoids"
+
+#~ msgctxt "Comment"
+#~ msgid "Install plasmoids and raise the power of your workspace!"
+#~ msgstr "Install plasmoids and raise the power of your workspace!"
+
+#~ msgctxt "Name"
+#~ msgid "Correct"
+#~ msgstr "Correct"
+
+#~ msgctxt "Name"
+#~ msgid "Wrong"
+#~ msgstr "Wrong"
+
+#~ msgctxt "Comment"
+#~ msgid "Muon"
+#~ msgstr "Muon"
+
+#~ msgctxt "Name"
+#~ msgid "Muon Update Manager"
+#~ msgstr "Muon Update Manager"
+
+#~ msgctxt "Name"
+#~ msgid "Application dashboard"
+#~ msgstr "Application dashboard"
+
+#~ msgctxt "Comment"
+#~ msgid "Intended as Application dashboard default"
+#~ msgstr "Intended as Application dashboard default"
+
+#~ msgctxt "Name"
+#~ msgid "Muon Notifier"
+#~ msgstr "Muon Notifier"

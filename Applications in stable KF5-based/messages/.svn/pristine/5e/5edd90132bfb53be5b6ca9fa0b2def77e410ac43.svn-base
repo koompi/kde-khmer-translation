@@ -1,0 +1,622 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the ksysguard package.
+#
+# Steve Allewell <steve.allewell@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: ksysguard\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-02 08:19+0200\n"
+"PO-Revision-Date: 2020-09-27 15:17+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: ksgrd/ksgrdiface.cpp:308
+#, kde-format
+msgctxt "@title All Disks"
+msgid "All"
+msgstr "All"
+
+#: ksgrd/ksgrdiface.cpp:309
+#, kde-format
+msgctxt "@title"
+msgid "Disk Read Accesses"
+msgstr "Disk Read Accesses"
+
+#: ksgrd/ksgrdiface.cpp:310
+#, kde-format
+msgctxt "@title Disk Read Accesses"
+msgid "Read"
+msgstr "Read"
+
+#: ksgrd/ksgrdiface.cpp:314
+#, kde-format
+msgctxt "@info"
+msgid "Read accesses across all disk devices"
+msgstr "Read accesses across all disk devices"
+
+#: ksgrd/ksgrdiface.cpp:317
+#, kde-format
+msgctxt "@title"
+msgid "Disk Write Accesses"
+msgstr "Disk Write Accesses"
+
+#: ksgrd/ksgrdiface.cpp:318
+#, kde-format
+msgctxt "@title Disk Write Accesses"
+msgid "Write"
+msgstr "Write"
+
+#: ksgrd/ksgrdiface.cpp:321
+#, kde-format
+msgctxt "@info"
+msgid "Write accesses across all disk devices"
+msgstr "Write accesses across all disk devices"
+
+#: ksgrd/ksgrdiface.cpp:330
+#, kde-format
+msgctxt "@title"
+msgid "Application Memory Percentage"
+msgstr "Application Memory Percentage"
+
+#: ksgrd/ksgrdiface.cpp:331
+#, kde-format
+msgctxt "@title Application Memory Percentage"
+msgid "Application"
+msgstr "Application"
+
+#: ksgrd/ksgrdiface.cpp:333
+#, kde-format
+msgctxt "@info"
+msgid "Percentage of memory taken by applications."
+msgstr "Percentage of memory taken by applications."
+
+#: ksgrd/ksgrdiface.cpp:335
+#, kde-format
+msgctxt "@title"
+msgid "Buffer Memory Percentage"
+msgstr "Buffer Memory Percentage"
+
+#: ksgrd/ksgrdiface.cpp:336
+#, kde-format
+msgctxt "@title Buffer Memory Percentage"
+msgid "Buffer"
+msgstr "Buffer"
+
+#: ksgrd/ksgrdiface.cpp:338
+#, kde-format
+msgctxt "@info"
+msgid "Percentage of memory taken by the buffer."
+msgstr "Percentage of memory taken by the buffer."
+
+#: ksgrd/ksgrdiface.cpp:340
+#, kde-format
+msgctxt "@title"
+msgid "Cache Memory Percentage"
+msgstr "Cache Memory Percentage"
+
+#: ksgrd/ksgrdiface.cpp:341
+#, kde-format
+msgctxt "@title Cache Memory Percentage"
+msgid "Cache"
+msgstr "Cache"
+
+#: ksgrd/ksgrdiface.cpp:343
+#, kde-format
+msgctxt "@info"
+msgid "Percentage of memory taken by the cache."
+msgstr "Percentage of memory taken by the cache."
+
+#: ksgrd/ksgrdiface.cpp:345
+#, kde-format
+msgctxt "@title"
+msgid "Free Memory Percentage"
+msgstr "Free Memory Percentage"
+
+#: ksgrd/ksgrdiface.cpp:346
+#, kde-format
+msgctxt "@title Free Memory Percentage"
+msgid "Free"
+msgstr "Free"
+
+#: ksgrd/ksgrdiface.cpp:348
+#, kde-format
+msgctxt "@info"
+msgid "Percentage of free memory."
+msgstr "Percentage of free memory."
+
+#: ksgrd/ksgrdiface.cpp:350
+#, kde-format
+msgctxt "@title"
+msgid "Used Memory Percentage"
+msgstr "Used Memory Percentage"
+
+#: ksgrd/ksgrdiface.cpp:351
+#, kde-format
+msgctxt "@title Used Memory Percentage"
+msgid "Used"
+msgstr "Used"
+
+#: ksgrd/ksgrdiface.cpp:353
+#, kde-format
+msgctxt "@info"
+msgid "Percentage of used memory."
+msgstr "Percentage of used memory."
+
+#: ksgrd/ksgrdiface.cpp:355
+#, kde-format
+msgctxt "@title"
+msgid "Available Memory Percentage"
+msgstr "Available Memory Percentage"
+
+#: ksgrd/ksgrdiface.cpp:356
+#, kde-format
+msgctxt "@title Available Memory Percentage"
+msgid "Available"
+msgstr "Available"
+
+#: ksgrd/ksgrdiface.cpp:358
+#, kde-format
+msgctxt "@info"
+msgid "Percentage of available memory."
+msgstr "Percentage of available memory."
+
+#: ksgrd/ksgrdiface.cpp:360
+#, kde-format
+msgctxt "@title"
+msgid "Allocated Memory Percentage"
+msgstr "Allocated Memory Percentage"
+
+#: ksgrd/ksgrdiface.cpp:361
+#, kde-format
+msgctxt "@title Allocated Memory Percentage"
+msgid "Allocated"
+msgstr "Allocated"
+
+#: ksgrd/ksgrdiface.cpp:363
+#, kde-format
+msgctxt "@info"
+msgid "Percentage of allocated memory."
+msgstr "Percentage of allocated memory."
+
+#: ksgrd/ksgrdiface.cpp:372
+#, kde-format
+msgctxt "@title Total CPU Usage"
+msgid "Usage"
+msgstr "Usage"
+
+#: ksgrd/ksgrdiface.cpp:373
+#, kde-format
+msgctxt "@title Total Memory Usage"
+msgid "Total Used"
+msgstr "Total Used"
+
+#: ksgrd/ksgrdiface.cpp:374
+#, kde-format
+msgctxt "@title Cached Memory Usage"
+msgid "Cached"
+msgstr "Cached"
+
+#: ksgrd/ksgrdiface.cpp:375
+#, kde-format
+msgctxt "@title Free Memory Amount"
+msgid "Free"
+msgstr "Free"
+
+#: ksgrd/ksgrdiface.cpp:376
+#, kde-format
+msgctxt "@title Available Memory Amount"
+msgid "Available"
+msgstr "Available"
+
+#: ksgrd/ksgrdiface.cpp:377
+#, kde-format
+msgctxt "@title Application Memory Usage"
+msgid "Application"
+msgstr "Application"
+
+#: ksgrd/ksgrdiface.cpp:378
+#, kde-format
+msgctxt "@title Buffer Memory Usage"
+msgid "Buffer"
+msgstr "Buffer"
+
+#: ksgrd/ksgrdiface.cpp:379
+#, kde-format
+msgctxt "@title Number of Processors"
+msgid "Processors"
+msgstr "Processors"
+
+#: ksgrd/ksgrdiface.cpp:380
+#, kde-format
+msgctxt "@title Number of Cores"
+msgid "Cores"
+msgstr "Cores"
+
+#: network/AllDevicesObject.cpp:16
+#, kde-format
+msgctxt "@title"
+msgid "All Network Devices"
+msgstr "All Network Devices"
+
+#: network/AllDevicesObject.cpp:18 network/NetworkDevice.cpp:29
+#, kde-format
+msgctxt "@title"
+msgid "Download Rate"
+msgstr "Download Rate"
+
+#: network/AllDevicesObject.cpp:19 network/NetworkDevice.cpp:30
+#, kde-format
+msgctxt "@title Short for Download Rate"
+msgid "Download"
+msgstr "Download"
+
+#: network/AllDevicesObject.cpp:23 network/NetworkDevice.cpp:33
+#, kde-format
+msgctxt "@title"
+msgid "Upload Rate"
+msgstr "Upload Rate"
+
+#: network/AllDevicesObject.cpp:24 network/NetworkDevice.cpp:34
+#, kde-format
+msgctxt "@title Short for Upload Rate"
+msgid "Upload"
+msgstr "Upload"
+
+#: network/AllDevicesObject.cpp:28 network/NetworkDevice.cpp:37
+#, kde-format
+msgctxt "@title"
+msgid "Total Downloaded"
+msgstr "Total Downloaded"
+
+#: network/AllDevicesObject.cpp:29 network/NetworkDevice.cpp:38
+#, kde-format
+msgctxt "@title Short for Total Downloaded"
+msgid "Downloaded"
+msgstr "Downloaded"
+
+#: network/AllDevicesObject.cpp:33 network/NetworkDevice.cpp:41
+#, kde-format
+msgctxt "@title"
+msgid "Total Uploaded"
+msgstr "Total Uploaded"
+
+#: network/AllDevicesObject.cpp:34 network/NetworkDevice.cpp:42
+#, kde-format
+msgctxt "@title Short for Total Uploaded"
+msgid "Uploaded"
+msgstr "Uploaded"
+
+#: network/NetworkDevice.cpp:14
+#, kde-format
+msgctxt "@title"
+msgid "Network Name"
+msgstr "Network Name"
+
+#: network/NetworkDevice.cpp:15
+#, kde-format
+msgctxt "@title Short of Network Name"
+msgid "Name"
+msgstr "Name"
+
+#: network/NetworkDevice.cpp:17
+#, kde-format
+msgctxt "@title"
+msgid "Signal Strength"
+msgstr "Signal Strength"
+
+#: network/NetworkDevice.cpp:18
+#, kde-format
+msgctxt "@title Short of Signal Strength"
+msgid "Signal"
+msgstr "Signal"
+
+#: network/NetworkDevice.cpp:23
+#, kde-format
+msgctxt "@title"
+msgid "IPv4 Address"
+msgstr "IPv4 Address"
+
+#: network/NetworkDevice.cpp:24
+#, kde-format
+msgctxt "@title Short of IPv4 Address"
+msgid "IPv4"
+msgstr "IPv4"
+
+#: network/NetworkDevice.cpp:26
+#, kde-format
+msgctxt "@title"
+msgid "IPv6 Address"
+msgstr "IPv6 Address"
+
+#: network/NetworkDevice.cpp:27
+#, kde-format
+msgctxt "@title Short of IPv6 Address"
+msgid "IPv6"
+msgstr "IPv6"
+
+#: network/NetworkPlugin.cpp:53
+#, kde-format
+msgctxt "@title"
+msgid "Network Devices"
+msgstr "Network Devices"
+
+#: nvidia/nvidia.cpp:58
+#, kde-format
+msgctxt "@title"
+msgid "GPU %1"
+msgstr "GPU %1"
+
+#: nvidia/nvidia.cpp:63
+#, kde-format
+msgctxt "@title"
+msgid "GPU %1 Power Usage"
+msgstr "GPU %1 Power Usage"
+
+#: nvidia/nvidia.cpp:64
+#, kde-format
+msgctxt "@title GPU Power Usage"
+msgid "Power"
+msgstr "Power"
+
+#: nvidia/nvidia.cpp:69
+#, kde-format
+msgctxt "@title"
+msgid "GPU %1 Temperature"
+msgstr "GPU %1 Temperature"
+
+#: nvidia/nvidia.cpp:70
+#, kde-format
+msgctxt "@title GPU Temperature"
+msgid "Temperature"
+msgstr "Temperature"
+
+#: nvidia/nvidia.cpp:75
+#, kde-format
+msgctxt "@title"
+msgid "GPU %1 Shared Memory Usage"
+msgstr "GPU %1 Shared Memory Usage"
+
+#: nvidia/nvidia.cpp:76
+#, kde-format
+msgctxt "@title GPU Shared Memory Usage"
+msgid "Shared Memory"
+msgstr "Shared Memory"
+
+#: nvidia/nvidia.cpp:81
+#, kde-format
+msgctxt "@title"
+msgid "GPU %1 Memory Usage"
+msgstr "GPU %1 Memory Usage"
+
+#: nvidia/nvidia.cpp:82
+#, kde-format
+msgctxt "@title GPU Memory Usage"
+msgid "Memory"
+msgstr "Memory"
+
+#: nvidia/nvidia.cpp:87
+#, kde-format
+msgctxt "@title"
+msgid "GPU %1 Encoder Usage"
+msgstr "GPU %1 Encoder Usage"
+
+#: nvidia/nvidia.cpp:88
+#, kde-format
+msgctxt "@title GPU Encoder Usage"
+msgid "Encoder"
+msgstr "Encoder"
+
+#: nvidia/nvidia.cpp:93
+#, kde-format
+msgctxt "@title"
+msgid "GPU %1 Decoder Usage"
+msgstr "GPU %1 Decoder Usage"
+
+#: nvidia/nvidia.cpp:94
+#, kde-format
+msgctxt "@title GPU Decoder Usage"
+msgid "Decoder"
+msgstr "Decoder"
+
+#: nvidia/nvidia.cpp:99
+#, kde-format
+msgctxt "@title"
+msgid "GPU %1 Memory Clock"
+msgstr "GPU %1 Memory Clock"
+
+#: nvidia/nvidia.cpp:100
+#, kde-format
+msgctxt "@title GPU Memory Clock"
+msgid "Memory Clock"
+msgstr "Memory Clock"
+
+#: nvidia/nvidia.cpp:105
+#, kde-format
+msgctxt "@title"
+msgid "GPU %1 Processor Clock"
+msgstr "GPU %1 Processor Clock"
+
+#: nvidia/nvidia.cpp:106
+#, kde-format
+msgctxt "@title GPU Processor Clock"
+msgid "Processor Clock"
+msgstr "Processor Clock"
+
+#: nvidia/nvidia.cpp:119
+#, kde-format
+msgctxt "@title NVidia GPU information"
+msgid "NVidia"
+msgstr "NVidia"
+
+#: osinfo/osinfo.cpp:110
+#, kde-format
+msgctxt "@title"
+msgid "Operating System"
+msgstr "Operating System"
+
+#: osinfo/osinfo.cpp:112
+#, kde-format
+msgctxt "@title"
+msgid "Kernel"
+msgstr "Kernel"
+
+#: osinfo/osinfo.cpp:113
+#, kde-format
+msgctxt "@title"
+msgid "Kernel Name"
+msgstr "Kernel Name"
+
+#: osinfo/osinfo.cpp:114
+#, kde-format
+msgctxt "@title"
+msgid "Kernel Version"
+msgstr "Kernel Version"
+
+#: osinfo/osinfo.cpp:115
+#, kde-format
+msgctxt "@title"
+msgid "Kernel Name and Version"
+msgstr "Kernel Name and Version"
+
+#: osinfo/osinfo.cpp:116
+#, kde-format
+msgctxt "@title Kernel Name and Version"
+msgid "Kernel"
+msgstr "Kernel"
+
+#: osinfo/osinfo.cpp:118
+#, kde-format
+msgctxt "@title"
+msgid "System"
+msgstr "System"
+
+#: osinfo/osinfo.cpp:119
+#, kde-format
+msgctxt "@title"
+msgid "Hostname"
+msgstr "Hostname"
+
+#: osinfo/osinfo.cpp:120
+#, kde-format
+msgctxt "@title"
+msgid "Operating System Name"
+msgstr "Operating System Name"
+
+#: osinfo/osinfo.cpp:121
+#, kde-format
+msgctxt "@title"
+msgid "Operating System Version"
+msgstr "Operating System Version"
+
+#: osinfo/osinfo.cpp:122
+#, kde-format
+msgctxt "@title"
+msgid "Operating System Name and Version"
+msgstr "Operating System Name and Version"
+
+#: osinfo/osinfo.cpp:123
+#, kde-format
+msgctxt "@title Operating System Name and Version"
+msgid "OS"
+msgstr "OS"
+
+#: osinfo/osinfo.cpp:124
+#, kde-format
+msgctxt "@title"
+msgid "Operating System Logo"
+msgstr "Operating System Logo"
+
+#: osinfo/osinfo.cpp:125
+#, kde-format
+msgctxt "@title"
+msgid "Operating System URL"
+msgstr "Operating System URL"
+
+#: osinfo/osinfo.cpp:127
+#, kde-format
+msgctxt "@title"
+msgid "KDE Plasma"
+msgstr "KDE Plasma"
+
+#: osinfo/osinfo.cpp:128
+#, kde-format
+msgctxt "@title"
+msgid "Qt Version"
+msgstr "Qt Version"
+
+#: osinfo/osinfo.cpp:129
+#, kde-format
+msgctxt "@title"
+msgid "KDE Frameworks Version"
+msgstr "KDE Frameworks Version"
+
+#: osinfo/osinfo.cpp:130
+#, kde-format
+msgctxt "@title"
+msgid "KDE Plasma Version"
+msgstr "KDE Plasma Version"
+
+#: osinfo/osinfo.cpp:163
+#, kde-format
+msgctxt "@info"
+msgid "Unknown"
+msgstr "Unknown"
+
+#~ msgctxt "@title All Network Interfaces"
+#~ msgid "All"
+#~ msgstr "All"
+
+#~ msgctxt "@title"
+#~ msgid "Received Data Rate"
+#~ msgstr "Received Data Rate"
+
+#~ msgctxt "@info"
+#~ msgid "The rate at which data is received on all interfaces."
+#~ msgstr "The rate at which data is received on all interfaces."
+
+#~ msgctxt "@title"
+#~ msgid "Total Received Data"
+#~ msgstr "Total Received Data"
+
+#~ msgctxt "@info"
+#~ msgid "The total amount of data received on all interfaces."
+#~ msgstr "The total amount of data received on all interfaces."
+
+#~ msgctxt "@title"
+#~ msgid "Sent Data Rate"
+#~ msgstr "Sent Data Rate"
+
+#~ msgctxt "@title Sent Data Rate"
+#~ msgid "Up"
+#~ msgstr "Up"
+
+#~ msgctxt "@info"
+#~ msgid "The rate at which data is sent on all interfaces."
+#~ msgstr "The rate at which data is sent on all interfaces."
+
+#~ msgctxt "@title"
+#~ msgid "Total Sent Data"
+#~ msgstr "Total Sent Data"
+
+#~ msgctxt "@title Total Sent Data"
+#~ msgid "Total Up"
+#~ msgstr "Total Up"
+
+#~ msgctxt "@info"
+#~ msgid "The total amount of data sent on all interfaces."
+#~ msgstr "The total amount of data sent on all interfaces."
+
+#~ msgctxt "@title Allocated Memory Percentage"
+#~ msgid "Used"
+#~ msgstr "Used"
+
+#~ msgctxt "@title Available Memory Amount"
+#~ msgid "Avalable"
+#~ msgstr "Available"

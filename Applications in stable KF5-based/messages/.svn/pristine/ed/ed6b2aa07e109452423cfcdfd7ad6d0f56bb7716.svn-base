@@ -1,0 +1,107 @@
+# translation of desktop_kdebase.po to
+# translation of desktop_kdebase.po to British English
+# Malcolm Hunter <malcolm.hunter@gmx.co.uk>, 2002,2003,2004, 2005, 2006, 2008, 2009.
+# Jonathan Riddell <kde-en-gb@jriddell.org>, 2003.
+# Andrew Coles <andrew_coles@yahoo.co.uk>, 2004, 2005, 2009, 2010, 2011.
+# Steve Allewell <steve.allewell@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-11 08:09+0000\n"
+"PO-Revision-Date: 2020-09-27 15:18+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: faces/facepackages/barchart/metadata.desktop:2
+msgctxt "Name"
+msgid "Bar Chart"
+msgstr "Bar Chart"
+
+#: faces/facepackages/horizontalbars/metadata.desktop:2
+msgctxt "Name"
+msgid "Horizontal Bars"
+msgstr "Horizontal Bars"
+
+#: faces/facepackages/linechart/metadata.desktop:2
+msgctxt "Name"
+msgid "Line Chart"
+msgstr "Line Chart"
+
+#: faces/facepackages/piechart/metadata.desktop:2
+msgctxt "Name"
+msgid "Pie Chart"
+msgstr "Pie Chart"
+
+#: faces/facepackages/textonly/metadata.desktop:2
+msgctxt "Name"
+msgid "Text Only"
+msgstr "Text Only"
+
+#: faces/systemmonitor-faces.knsrc:2
+msgctxt "Name"
+msgid "System monitor Sensor Display Styles"
+msgstr "System monitor Sensor Display Styles"
+
+#: faces/systemmonitor-presets.knsrc:2
+msgctxt "Name"
+msgid "System monitor Sensor Presets"
+msgstr "System monitor Sensor Presets"
+
+#: processcore/actions.actions:2
+msgctxt "Name"
+msgid "KSysGuard"
+msgstr "KSysGuard"
+
+#: processcore/actions.actions:80
+msgctxt "Name"
+msgid "Kill or stop etc a process"
+msgstr "Kill or stop etc a process"
+
+#: processcore/actions.actions:144
+msgctxt "Description"
+msgid "Sends a given signal to a given process"
+msgstr "Sends a given signal to a given process"
+
+#: processcore/actions.actions:211
+msgctxt "Name"
+msgid "Change the priority of a process"
+msgstr "Change the priority of a process"
+
+#: processcore/actions.actions:277
+msgctxt "Description"
+msgid "Change the niceness of a given process"
+msgstr "Change the niceness of a given process"
+
+#: processcore/actions.actions:343
+msgctxt "Name"
+msgid "Change IO Scheduler and priority"
+msgstr "Change IO Scheduler and priority"
+
+#: processcore/actions.actions:406
+msgctxt "Description"
+msgid "Change how the read and writes of a given process are prioritized"
+msgstr "Change how the read and writes of a given process are prioritised"
+
+#: processcore/actions.actions:471
+msgctxt "Name"
+msgid "Change CPU Scheduler and priority"
+msgstr "Change CPU Scheduler and priority"
+
+#: processcore/actions.actions:533
+msgctxt "Description"
+msgid ""
+"Change which CPU scheduler is to schedule the running of a given process"
+msgstr ""
+"Change which CPU scheduler is to schedule the running of a given process"
+
+#: scripts/smaps/smaps.desktop:2
+msgctxt "Name"
+msgid "Detailed Memory Information"
+msgstr "Detailed Memory Information"

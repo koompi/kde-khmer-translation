@@ -1,0 +1,219 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2014, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-16 07:19+0000\n"
+"PO-Revision-Date: 2016-09-17 12:53+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: config/appearance/kcm_ktp_chat_appearance.desktop:14
+msgctxt "Name"
+msgid "Chat Window Appearance"
+msgstr "Chat Window Appearance"
+
+#: config/appearance/kcm_ktp_chat_appearance.desktop:61
+msgctxt "Comment"
+msgid "Choose a Style for your Chat Window and customize it"
+msgstr "Choose a Style for your Chat Window and customise it"
+
+#: config/behavior/kcm_ktp_chat_behavior.desktop:14
+msgctxt "Name"
+msgid "Chat Tab Behavior"
+msgstr "Chat Tab Behaviour"
+
+#: config/messages/kcm_ktp_chat_messages.desktop:2
+msgctxt "Name"
+msgid "Plugins"
+msgstr "Plugins"
+
+#: config/messages/kcm_ktp_chat_messages.desktop:53
+msgctxt "Comment"
+msgid "How to deal with extra information obtained from messages"
+msgstr "How to deal with extra information obtained from messages"
+
+#: config/otr/kcm_ktp_chat_otr.desktop:13
+msgctxt "Comment"
+msgid "Encrypt chat sessions with Off-The-Record encryption"
+msgstr "Encrypt chat sessions with Off-The-Record encryption"
+
+#: config/otr/kcm_ktp_chat_otr.desktop:52
+#: filters/otr/ktptextui_message_filter_otr.desktop.cmake:2
+msgctxt "Name"
+msgid "OTR"
+msgstr "OTR"
+
+#: filters/bugzilla/ktptextui_message_filter_bugzilla.desktop.cmake:3
+msgctxt "Name"
+msgid "Bugzilla Information"
+msgstr "Bugzilla Information"
+
+#: filters/bugzilla/ktptextui_message_filter_bugzilla.desktop.cmake:48
+msgctxt "Comment"
+msgid ""
+"When receiving a link to a bug on bugzilla show additional information such "
+"as the title and status"
+msgstr ""
+"When receiving a link to a bug on bugzilla show additional information such "
+"as the title and status"
+
+#: filters/emoticons/kcm_ktptextui_message_filter_emoticons.desktop:9
+#: filters/emoticons/ktptextui_message_filter_emoticons.desktop.cmake:2
+msgctxt "Name"
+msgid "Emoticons"
+msgstr "Emoticons"
+
+#: filters/emoticons/ktptextui_message_filter_emoticons.desktop.cmake:51
+msgctxt "Comment"
+msgid "Show emoticons (smiley faces) inside the chat"
+msgstr "Show emoticons (smiley faces) inside the chat"
+
+#: filters/formatting/ktptextui_message_filter_formatting.desktop.cmake:3
+msgctxt "Name"
+msgid "Text Formatting"
+msgstr "Text Formatting"
+
+#: filters/formatting/ktptextui_message_filter_formatting.desktop.cmake:49
+msgctxt "Comment"
+msgid ""
+"Use /, _, * and - to make text italic, underlined, bold or strikeout "
+"respectively"
+msgstr ""
+"Use /, _, * and - to make text italic, underlined, bold or strikeout "
+"respectively"
+
+#: filters/geopoint/ktptextui_message_filter_geopoint.desktop.cmake:16
+msgctxt "Name"
+msgid "Geopoint Preview"
+msgstr "Geopoint Preview"
+
+#: filters/geopoint/ktptextui_message_filter_geopoint.desktop.cmake:51
+msgctxt "Comment"
+msgid "Show geo URI on a map view."
+msgstr "Show geo URI on a map view."
+
+#: filters/highlight/ktptextui_message_filter_highlight.desktop.cmake:17
+msgctxt "Name"
+msgid "Highlight"
+msgstr "Highlight"
+
+#: filters/highlight/ktptextui_message_filter_highlight.desktop.cmake:64
+msgctxt "Comment"
+msgid ""
+"If any incoming messages contain your nickname, it will highlight them in red"
+msgstr ""
+"If any incoming messages contain your nickname, it will highlight them in red"
+
+#: filters/images/ktptextui_message_filter_images.desktop.cmake:2
+msgctxt "Name"
+msgid "Image Preview"
+msgstr "Image Preview"
+
+#: filters/images/ktptextui_message_filter_images.desktop.cmake:50
+msgctxt "Comment"
+msgid "Embed a thumbnail of any image URL sent in a chat"
+msgstr "Embed a thumbnail of any image URL sent in a chat"
+
+#: filters/latex/kcm_ktptextui_message_filter_latex.desktop:9
+msgctxt "Name"
+msgid "LaTeX"
+msgstr "LaTeX"
+
+#: filters/latex/ktptextui_message_filter_latex.desktop.cmake:17
+msgctxt "Name"
+msgid "LaTeX Renderer"
+msgstr "LaTeX Renderer"
+
+#: filters/latex/ktptextui_message_filter_latex.desktop.cmake:61
+msgctxt "Comment"
+msgid ""
+"If incoming messages contain LaTeX between $$, it will render it directly "
+"into the chat."
+msgstr ""
+"If incoming messages contain LaTeX between $$, it will render it directly "
+"into the chat."
+
+#: filters/otr/ktptextui_message_filter_otr.desktop.cmake:41
+msgctxt "Comment"
+msgid "If a message is an OTR message, it will not be shown"
+msgstr "If a message is an OTR message, it will not be shown"
+
+#: filters/searchexpansion/ktptextui_message_filter_searchexpansion.desktop.cmake:2
+msgctxt "Name"
+msgid "Web Shortcuts"
+msgstr "Web Shortcuts"
+
+#: filters/searchexpansion/ktptextui_message_filter_searchexpansion.desktop.cmake:53
+msgctxt "Comment"
+msgid ""
+"Expand a KDE-shortened URI into a URL (i.e. typing wp:KDE will translate to "
+"http://en.wikipedia.org/wiki/KDE)"
+msgstr ""
+"Expand a KDE-shortened URI into a URL (i.e. typing wp:KDE will translate to "
+"http://en.wikipedia.org/wiki/KDE)"
+
+#: filters/texttospeech/ktptextui_message_filter_tts.desktop.cmake:2
+msgctxt "Name"
+msgid "Text To Speech"
+msgstr "Text To Speech"
+
+#: filters/texttospeech/ktptextui_message_filter_tts.desktop.cmake:49
+msgctxt "Comment"
+msgid "Read out incoming messages using text-to-speech service"
+msgstr "Read out incoming messages using text-to-speech service"
+
+#: filters/urlexpansion/ktptextui_message_filter_urlexpansion.desktop.cmake:3
+msgctxt "Name"
+msgid "Short URLs"
+msgstr "Short URLs"
+
+#: filters/urlexpansion/ktptextui_message_filter_urlexpansion.desktop.cmake:46
+msgctxt "Comment"
+msgid "Shows the actual URL to which a shortened URL is redirecting to"
+msgstr "Shows the actual URL to which a shortened URL is redirecting to"
+
+#: filters/youtube/ktptextui_message_filter_youtube.desktop.cmake:2
+msgctxt "Name"
+msgid "YouTube Preview"
+msgstr "YouTube Preview"
+
+#: filters/youtube/ktptextui_message_filter_youtube.desktop.cmake:47
+msgctxt "Comment"
+msgid ""
+"If any messages contains a link to a YouTube video, it will embed a preview "
+"in the chat"
+msgstr ""
+"If any messages contains a link to a YouTube video, it will embed a preview "
+"in the chat"
+
+#: lib/ktptxtui_message_filter.desktop:4
+msgctxt "Comment"
+msgid "Telepathy Text-Ui Message Filter"
+msgstr "Telepathy Text-Ui Message Filter"
+
+#: logviewer/config/kcm_ktp_logviewer_behavior.desktop:14
+msgctxt "Name"
+msgid "LogViewer Behavior"
+msgstr "LogViewer Behaviour"
+
+#: logviewer/org.kde.ktplogviewer.desktop:2
+msgctxt "Name"
+msgid "KDE IM Log Viewer"
+msgstr "KDE IM Log Viewer"
+
+#: logviewer/org.kde.ktplogviewer.desktop:50
+msgctxt "GenericName"
+msgid "KDE Instant Messenger Log Viewer"
+msgstr "KDE Instant Messenger Log Viewer"
+
+#: logviewer/org.kde.ktplogviewer.desktop:97
+msgctxt "Comment"
+msgid "Displays your KDE Instant Messenger logs"
+msgstr "Displays your KDE Instant Messenger logs"

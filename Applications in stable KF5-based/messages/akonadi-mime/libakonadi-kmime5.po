@@ -1,0 +1,650 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-10 17:43+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: emptytrashcommand.cpp:46
+#, kde-format
+msgid "Empty Trash"
+msgstr "សម្អាតធុងសំរាម"
+
+#: emptytrashcommand.cpp:47
+#, kde-format
+msgid "Are you sure you want to empty the trash folders of all accounts?"
+msgstr "តើអ្នកពិតជាចង់លុបចោលធុងសំរាមនៃគណនីទាំងអស់មែនទេ?"
+
+#: markascommand.cpp:126
+#, kde-format
+msgid "Are you sure you want to mark all messages in this folder and all its subfolders?"
+msgstr "តើអ្នកប្រាកដជាចង់សម្គាល់សារទាំងអស់ក្នុងថតនេះនិងថតរងរបស់វាឬ?"
+
+#: markascommand.cpp:127
+#, kde-format
+msgid "Mark All Recursively"
+msgstr "គូសចំណាំទាំងអស់"
+
+#: messagemodel.cpp:35
+#, kde-format
+msgctxt "@title:column, message (e.g. email) subject"
+msgid "Subject"
+msgstr "មុខវិជ្ជា"
+
+#: messagemodel.cpp:36
+#, kde-format
+msgctxt "@title:column, sender of message (e.g. email)"
+msgid "Sender"
+msgstr "អ្នកផ្ញើ"
+
+#: messagemodel.cpp:37
+#, kde-format
+msgctxt "@title:column, receiver of message (e.g. email)"
+msgid "Receiver"
+msgstr "អ្នកទទួល"
+
+#: messagemodel.cpp:38
+#, kde-format
+msgctxt "@title:column, message (e.g. email) timestamp"
+msgid "Date"
+msgstr "កាលបរិច្ឆេទ"
+
+#: messagemodel.cpp:39
+#, kde-format
+msgctxt "@title:column, message (e.g. email) size"
+msgid "Size"
+msgstr "ទំហំ"
+
+#: messagemodel.cpp:74
+#, kde-format
+msgctxt "@label Alternative text when email subject is missing"
+msgid "(No subject)"
+msgstr "(គ្មាន​ប្រធាន)"
+
+#: messagemodel.cpp:80
+#, kde-format
+msgctxt "@label Alternative text when email sender is missing"
+msgid "(No sender)"
+msgstr "(គ្មានអ្នកផ្ញើ)"
+
+#: messagemodel.cpp:86
+#, kde-format
+msgctxt "@label Alternative text when email recipient is missing"
+msgid "(No receiver)"
+msgstr "(គ្មានអ្នកទទួល)"
+
+#: messagemodel.cpp:92
+#, kde-format
+msgctxt "@label Alternative text when email date/time is missing"
+msgid "(No date)"
+msgstr "(គ្មានកាលបរិច្ឆេទ)"
+
+#: messagemodel.cpp:96
+#, kde-format
+msgctxt "@label No size available"
+msgid "-"
+msgstr "-"
+
+#: removeduplicatesjob.cpp:41
+#, kde-format
+msgid "Retrieving items..."
+msgstr "កំពុងទៅយករបស់ ..."
+
+#: removeduplicatesjob.cpp:59
+#, kde-format
+msgid "Searching for duplicates..."
+msgstr "កំពុងស្វែងរកស្ទួន ..."
+
+#: removeduplicatesjob.cpp:118
+#, kde-format
+msgid "Removing duplicates..."
+msgstr "កំពុងយកស្ទួនចេញ ..."
+
+#: specialmailcollections.cpp:134
+#, kde-format
+msgctxt "local mail folder"
+msgid "inbox"
+msgstr "ប្រអប់ទទួល"
+
+#: specialmailcollections.cpp:137
+#, kde-format
+msgctxt "local mail folder"
+msgid "outbox"
+msgstr "ប្រអប់ចេញ"
+
+#: specialmailcollections.cpp:140
+#, kde-format
+msgctxt "local mail folder"
+msgid "sent-mail"
+msgstr "ផ្ញើតាមអ៊ីមែល"
+
+#: specialmailcollections.cpp:143
+#, kde-format
+msgctxt "local mail folder"
+msgid "trash"
+msgstr "សំរាម"
+
+#: specialmailcollections.cpp:146
+#, kde-format
+msgctxt "local mail folder"
+msgid "drafts"
+msgstr "សេចក្តីព្រាង"
+
+#: specialmailcollections.cpp:149
+#, kde-format
+msgctxt "local mail folder"
+msgid "templates"
+msgstr "គំរូ"
+
+#: specialmailcollectionsrequestjob.cpp:43
+#, kde-format
+msgctxt "local mail folder"
+msgid "Local Folders"
+msgstr "ថតឯកសារក្នុងស្រុក"
+
+#: standardmailactionmanager.cpp:120
+#, kde-format
+msgid "Add Folder..."
+msgstr "បន្ថែមថតឯកសារ ..."
+
+#: standardmailactionmanager.cpp:121 standardmailactionmanager.cpp:122
+#, kde-format
+msgid "Add a new folder to the currently selected account."
+msgstr "បន្ថែមថតឯកសារថ្មីទៅគណនីដែលបានជ្រើសរើសបច្ចុប្បន្ន។"
+
+#: standardmailactionmanager.cpp:126
+#, kde-format
+msgctxt "@title:window"
+msgid "New Folder"
+msgstr "ប្រអប់​ឯកសារ​ថ្មី"
+
+#: standardmailactionmanager.cpp:130
+#, kde-format
+msgid "Could not create folder: %1"
+msgstr "មិនអាចបង្កើតថតឯកសារបានទេ៖ %1"
+
+#: standardmailactionmanager.cpp:134
+#, kde-format
+msgid "Folder creation failed"
+msgstr "ការបង្កើតថតបានបរាជ័យ"
+
+#: standardmailactionmanager.cpp:139
+#, kde-format
+msgid "Copy Folder"
+msgid_plural "Copy %1 Folders"
+msgstr[0] "ថតចំលងថតឯកសារ"
+msgstr[1] "ចម្លងថត %1"
+
+#: standardmailactionmanager.cpp:141 standardmailactionmanager.cpp:143
+#, kde-format
+msgid "Copy the selected folders to the clipboard."
+msgstr "ចម្លងថតដែលបានជ្រើសរើសទៅក្តារតម្បៀតខ្ទាស់។"
+
+#: standardmailactionmanager.cpp:146
+#, kde-format
+msgctxt "@title:window"
+msgid "Properties of Folder %1"
+msgstr "លក្ខណៈសម្បត្តិរបស់ Folder %1"
+
+#: standardmailactionmanager.cpp:150
+#, kde-format
+msgid "Delete Folder"
+msgid_plural "Delete %1 Folders"
+msgstr[0] "លុបថតឯកសារ"
+msgstr[1] "លុបថត %1"
+
+#: standardmailactionmanager.cpp:152 standardmailactionmanager.cpp:154
+#, kde-format
+msgid "Delete the selected folders from the account."
+msgstr "លុបថតដែលបានជ្រើសរើសចេញពីគណនី។"
+
+#: standardmailactionmanager.cpp:157
+#, kde-format
+msgid "Do you really want to delete this folder and all its sub-folders?"
+msgid_plural "Do you really want to delete %1 folders and all their sub-folders?"
+msgstr[0] "តើអ្នកពិតជាចង់លុបថតនេះនិងថតរងទាំងអស់របស់វាឬ?"
+msgstr[1] "តើអ្នកពិតជាចង់លុបថត %1 និងថតរងទាំងអស់របស់ពួកគេឬ?"
+
+#: standardmailactionmanager.cpp:162
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete folder?"
+msgid_plural "Delete folders?"
+msgstr[0] "លុបថតឯកសារ?"
+msgstr[1] "លុបថតឯកសារ?"
+
+#: standardmailactionmanager.cpp:166
+#, kde-format
+msgid "Could not delete folder: %1"
+msgstr "មិនអាចលុបថតឯកសារបានទេ៖ %1"
+
+#: standardmailactionmanager.cpp:170
+#, kde-format
+msgid "Folder deletion failed"
+msgstr "ការលុបថតឯកសារបានបរាជ័យ"
+
+#: standardmailactionmanager.cpp:175
+#, kde-format
+msgid "Update Folder"
+msgid_plural "Update Folders"
+msgstr[0] "ធ្វើបច្ចុប្បន្នភាពថតឯកសារ"
+msgstr[1] "ធ្វើបច្ចុប្បន្នភាពថតឯកសារ"
+
+#: standardmailactionmanager.cpp:178 standardmailactionmanager.cpp:180
+#, kde-format
+msgid "Update the contents of the selected folders."
+msgstr "ធ្វើបច្ចុប្បន្នភាពមាតិកានៃថតដែលបានជ្រើសរើស។"
+
+#: standardmailactionmanager.cpp:184
+#, kde-format
+msgid "Cut Folder"
+msgid_plural "Cut %1 Folders"
+msgstr[0] "កាត់ថតឯកសារ"
+msgstr[1] "កាត់ថត %1"
+
+#: standardmailactionmanager.cpp:186 standardmailactionmanager.cpp:188
+#, kde-format
+msgid "Cut the selected folders from the account."
+msgstr "កាត់ថតដែលបានជ្រើសរើសចេញពីគណនី។"
+
+#: standardmailactionmanager.cpp:192
+#, kde-format
+msgid "Folder Properties"
+msgstr "លក្ខណៈសម្បត្តិថត"
+
+#: standardmailactionmanager.cpp:194 standardmailactionmanager.cpp:196
+#, kde-format
+msgid "Open a dialog to edit the properties of the selected folder."
+msgstr "បើកប្រអប់ដើម្បីកែសម្រួលលក្ខណសម្បត្តិរបស់ថតដែលបានជ្រើសរើស។"
+
+#: standardmailactionmanager.cpp:200
+#, kde-format
+msgid "Copy Message"
+msgid_plural "Copy %1 Messages"
+msgstr[0] "ចម្លងសារ"
+msgstr[1] "ចម្លងសារ %1"
+
+#: standardmailactionmanager.cpp:202 standardmailactionmanager.cpp:204
+#, kde-format
+msgid "Copy the selected messages to the clipboard."
+msgstr "ចម្លងសារដែលបានជ្រើសរើសទៅក្តារតម្បៀតខ្ទាស់។"
+
+#: standardmailactionmanager.cpp:208
+#, kde-format
+msgid "Delete Message"
+msgid_plural "Delete %1 Messages"
+msgstr[0] "លុបសារ"
+msgstr[1] "លុបសារ %1"
+
+#: standardmailactionmanager.cpp:210 standardmailactionmanager.cpp:212
+#, kde-format
+msgid "Delete the selected messages from the folder."
+msgstr "លុបសារដែលបានជ្រើសរើសចេញពីថតឯកសារ។"
+
+#: standardmailactionmanager.cpp:215
+#, kde-format
+msgid "Do you really want to delete the selected message?"
+msgid_plural "Do you really want to delete %1 messages?"
+msgstr[0] "តើអ្នកពិតជាចង់លុបសារដែលបានជ្រើសរើសមែនទេ?"
+msgstr[1] "តើអ្នកពិតជាចង់លុបសារ %1 មែនទេ?"
+
+#: standardmailactionmanager.cpp:220
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Message?"
+msgid_plural "Delete Messages?"
+msgstr[0] "លុបសារ?"
+msgstr[1] "លុបសារ?"
+
+#: standardmailactionmanager.cpp:224
+#, kde-format
+msgid "Could not delete message: %1"
+msgstr "មិនអាចលុបសារ៖ %1"
+
+#: standardmailactionmanager.cpp:228
+#, kde-format
+msgid "Message deletion failed"
+msgstr "ការលុបសារបានបរាជ័យ"
+
+#: standardmailactionmanager.cpp:232
+#, kde-format
+msgid "Cut Message"
+msgid_plural "Cut %1 Messages"
+msgstr[0] "កាត់សារ"
+msgstr[1] "កាត់សារ %1"
+
+#: standardmailactionmanager.cpp:234 standardmailactionmanager.cpp:236
+#, kde-format
+msgid "Cut the selected message from the folder."
+msgstr "កាត់សារដែលបានជ្រើសរើសចេញពីថត។"
+
+#: standardmailactionmanager.cpp:240
+#, kde-format
+msgid "Add &Account..."
+msgstr "បន្ថែមគណនី ..."
+
+#: standardmailactionmanager.cpp:242
+#, kde-format
+msgid "Add a new account<p>You will be presented with a dialog where you can select the type of the account that shall be added.</p>"
+msgstr "បន្ថែមគណនីថ្មី <p> អ្នកនឹងត្រូវបានបង្ហាញជាមួយប្រអប់ដែលអ្នកអាចជ្រើសរើសប្រភេទគណនីដែលត្រូវបន្ថែម។ </p>"
+
+#: standardmailactionmanager.cpp:247
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Account"
+msgstr "បន្ថែមគណនី"
+
+#: standardmailactionmanager.cpp:251
+#, kde-format
+msgid "Could not create account: %1"
+msgstr "មិនអាចបង្កើតគណនីបានទេ៖ %1"
+
+#: standardmailactionmanager.cpp:255
+#, kde-format
+msgid "Account creation failed"
+msgstr "ការបង្កើតគណនីបានបរាជ័យ"
+
+#: standardmailactionmanager.cpp:259
+#, kde-format
+msgid "&Delete Account"
+msgid_plural "&Delete %1 Accounts"
+msgstr[0] "លុប​គណនី"
+msgstr[1] "លុបគណនី %1"
+
+#: standardmailactionmanager.cpp:261
+#, kde-format
+msgid "Delete the selected accounts<p>The currently selected accounts will be deleted, along with all the messages they contain.</p>"
+msgstr "លុបគណនីដែលបានជ្រើសរើស <p> គណនីដែលបានជ្រើសបច្ចុប្បន្ននឹងត្រូវបានលុបរួមជាមួយសារទាំងអស់ដែលពួកគេមាន។ </p>"
+
+#: standardmailactionmanager.cpp:266
+#, kde-format
+msgid "Do you really want to delete this account?"
+msgid_plural "Do you really want to delete %1 accounts?"
+msgstr[0] "តើអ្នកពិតជាចង់លុបគណនីនេះឬ?"
+msgstr[1] "តើអ្នកពិតជាចង់លុបគណនី %1 មែនទេ?"
+
+#: standardmailactionmanager.cpp:271
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Account?"
+msgid_plural "Delete Accounts?"
+msgstr[0] "លុប​គណនី?"
+msgstr[1] "លុបគណនី?"
+
+#: standardmailactionmanager.cpp:275
+#, kde-format
+msgid "Account Properties..."
+msgstr "លក្ខណៈសម្បត្តិគណនី ..."
+
+#: standardmailactionmanager.cpp:277
+#, kde-format
+msgid "Open a dialog to edit properties of the selected account."
+msgstr "បើកប្រអប់ដើម្បីកែសម្រួលលក្ខណសម្បត្តិរបស់គណនីដែលបានជ្រើសរើស។"
+
+#: standardmailactionmanager.cpp:281
+#, kde-format
+msgid "Update Account"
+msgid_plural "Update %1 Accounts"
+msgstr[0] "ធ្វើបច្ចុប្បន្នភាពគណនី"
+msgstr[1] "ធ្វើបច្ចុប្បន្នភាពគណនី %1"
+
+#: standardmailactionmanager.cpp:283
+#, kde-format
+msgid "Updates the content of all folders of the selected accounts."
+msgstr "ធ្វើបច្ចុប្បន្នភាពមាតិកាថតទាំងអស់នៃគណនីដែលបានជ្រើសរើស។"
+
+#: standardmailactionmanager.cpp:287
+#, kde-format
+msgid "Update This Folder and All Its Subfolders"
+msgid_plural "Update These Folders and All Their Subfolders"
+msgstr[0] "ធ្វើបច្ចុប្បន្នភាពថតឯកសារនេះនិងថតរងទាំងអស់"
+msgstr[1] "ធ្វើបច្ចុប្បន្នភាពថតឯកសារទាំងនេះនិងថតរងទាំងអស់"
+
+#: standardmailactionmanager.cpp:291 standardmailactionmanager.cpp:293
+#, kde-format
+msgid "Update the contents of the selected folders and all their subfolders."
+msgstr "ធ្វើឱ្យទាន់សម័យមាតិកានៃថតដែលបានជ្រើសនិងថតរងរបស់ពួកគេទាំងអស់។"
+
+#: standardmailactionmanager.cpp:298
+#, kde-format
+msgid "Could not paste message: %1"
+msgstr "មិនអាចបិទភ្ជាប់សារ៖ %1"
+
+#: standardmailactionmanager.cpp:302
+#, kde-format
+msgid "Paste failed"
+msgstr "ការបិទភ្ជាប់បានបរាជ័យ"
+
+#: standardmailactionmanager.cpp:368
+#, kde-format
+msgid "Remove Important Mark"
+msgstr "យកម៉ាកសម្គាល់សំខាន់ចេញ"
+
+#: standardmailactionmanager.cpp:370 standardmailactionmanager.cpp:779
+#, kde-format
+msgid "&Mark Message as Important"
+msgstr "សម្គាល់សារថាសំខាន់"
+
+#: standardmailactionmanager.cpp:381
+#, kde-format
+msgid "Remove Action Item Mark"
+msgstr "លុបសញ្ញាសម្គាល់សកម្មភាព"
+
+#: standardmailactionmanager.cpp:383 standardmailactionmanager.cpp:793
+#, kde-format
+msgid "&Mark Message as Action Item"
+msgstr "សម្គាល់សារជាធាតុសកម្មភាព"
+
+#: standardmailactionmanager.cpp:749
+#, kde-format
+msgid "&Mark Message as Read"
+msgstr "សម្គាល់សារថាបានអាន"
+
+#: standardmailactionmanager.cpp:750
+#, kde-format
+msgid "Mark as Read"
+msgstr "សម្គាល់ថាអានរួច"
+
+#: standardmailactionmanager.cpp:751 standardmailactionmanager.cpp:752
+#, kde-format
+msgid "Mark selected messages as read."
+msgstr "សម្គាល់សារដែលបានជ្រើសរើសថាអានរួច។"
+
+#: standardmailactionmanager.cpp:764
+#, kde-format
+msgid "&Mark Message as Unread"
+msgstr "សម្គាល់សារថាមិនទាន់អាន"
+
+#: standardmailactionmanager.cpp:765
+#, kde-format
+msgid "Mark as Unread"
+msgstr "សម្គាល់ថាមិនទាន់អាន"
+
+#: standardmailactionmanager.cpp:766 standardmailactionmanager.cpp:767
+#, kde-format
+msgid "Mark selected messages as unread."
+msgstr "សម្គាល់សារដែលបានជ្រើសរើសថាមិនទាន់អាន។"
+
+#: standardmailactionmanager.cpp:780
+#, kde-format
+msgid "Mark as Important"
+msgstr "សម្គាល់ថាសំខាន់"
+
+#: standardmailactionmanager.cpp:781
+#, kde-format
+msgid "Mark selected messages as important."
+msgstr "សម្គាល់សារដែលបានជ្រើសរើសថាសំខាន់។"
+
+#: standardmailactionmanager.cpp:794
+#, kde-format
+msgid "Mark as Action Item"
+msgstr "សម្គាល់ជាធាតុសកម្មភាព"
+
+#: standardmailactionmanager.cpp:795 standardmailactionmanager.cpp:796
+#, kde-format
+msgid "Mark selected messages as action items."
+msgstr "សម្គាល់សារដែលបានជ្រើសរើសជាធាតុសកម្មភាព។"
+
+#: standardmailactionmanager.cpp:807
+#, kde-format
+msgid "Mark &All Messages as Read"
+msgstr "សម្គាល់សារទាំងអស់ថាអានរួច"
+
+#: standardmailactionmanager.cpp:808
+#, kde-format
+msgid "Mark All as Read"
+msgstr "សម្គាល់ទាំងអស់ថាអាន"
+
+#: standardmailactionmanager.cpp:809 standardmailactionmanager.cpp:810
+#, kde-format
+msgid "Mark all messages as read."
+msgstr "សម្គាល់សារទាំងអស់ថាអានរួច។"
+
+#: standardmailactionmanager.cpp:821
+#, kde-format
+msgid "Mark &All Messages as Read Recursively"
+msgstr "សម្គាល់សារទាំងអស់ថាអានឡើងវិញ"
+
+#: standardmailactionmanager.cpp:822
+#, kde-format
+msgid "Mark All as Read Recursively"
+msgstr "សម្គាល់ទាំងអស់ថាត្រូវអានឡើងវិញ"
+
+#: standardmailactionmanager.cpp:823 standardmailactionmanager.cpp:824
+#, kde-format
+msgid "Mark all messages as read recursively."
+msgstr "សម្គាល់សារទាំងអស់ថាអានឡើងវិញ។"
+
+#: standardmailactionmanager.cpp:835
+#, kde-format
+msgid "Mark &All Messages as Unread"
+msgstr "សម្គាល់សារទាំងអស់ថាមិនទាន់អាន"
+
+#: standardmailactionmanager.cpp:836
+#, kde-format
+msgid "Mark All as Unread"
+msgstr "សម្គាល់ទាំងអស់ថាមិនទាន់អាន"
+
+#: standardmailactionmanager.cpp:837 standardmailactionmanager.cpp:838
+#, kde-format
+msgid "Mark all messages as unread."
+msgstr "សម្គាល់សារទាំងអស់ថាមិនទាន់អាន។"
+
+#: standardmailactionmanager.cpp:849
+#, kde-format
+msgid "Mark &All Messages as Important"
+msgstr "សម្គាល់សារទាំងអស់ថាសំខាន់"
+
+#: standardmailactionmanager.cpp:850
+#, kde-format
+msgid "Mark All as Important"
+msgstr "សម្គាល់ទាំងអស់ថាសំខាន់"
+
+#: standardmailactionmanager.cpp:851 standardmailactionmanager.cpp:852
+#, kde-format
+msgid "Mark all messages as important."
+msgstr "សម្គាល់សារទាំងអស់ថាសំខាន់។"
+
+#: standardmailactionmanager.cpp:862
+#, kde-format
+msgid "Mark All as Action Item"
+msgstr "សម្គាល់ទាំងអស់ថាជាធាតុសកម្មភាព"
+
+#: standardmailactionmanager.cpp:863
+#, kde-format
+msgid "Mark &All Messages as Action Item"
+msgstr "សម្គាល់សារទាំងអស់ជាធាតុសកម្មភាព"
+
+#: standardmailactionmanager.cpp:865 standardmailactionmanager.cpp:866
+#, kde-format
+msgid "Mark all messages as action items."
+msgstr "សម្គាល់សារទាំងអស់ជាធាតុសកម្មភាព។"
+
+#: standardmailactionmanager.cpp:877
+#, kde-format
+msgid "Move to &Trash"
+msgstr "ផ្លាស់ទីទៅធុងសំរាម"
+
+#: standardmailactionmanager.cpp:879 standardmailactionmanager.cpp:880
+#, kde-format
+msgid "Move selected messages to the trash folder."
+msgstr "ផ្លាស់ទីសារដែលបានជ្រើសរើសទៅថតធុងសំរាម។"
+
+#: standardmailactionmanager.cpp:890
+#, kde-format
+msgid "Move All to &Trash"
+msgstr "ផ្លាស់ទីទាំងអស់ទៅធុងសំរាម"
+
+#: standardmailactionmanager.cpp:891 standardmailactionmanager.cpp:892
+#, kde-format
+msgid "Move all messages to the trash folder."
+msgstr "ផ្លាស់ទីសារទាំងអស់ទៅថតធុងសំរាម។"
+
+#: standardmailactionmanager.cpp:901
+#, kde-format
+msgid "Remove &Duplicate Messages"
+msgstr "យកសារស្ទួនចេញ"
+
+#: standardmailactionmanager.cpp:902 standardmailactionmanager.cpp:903
+#, kde-format
+msgid "Remove duplicate messages."
+msgstr "លុបសារស្ទួន។"
+
+#: standardmailactionmanager.cpp:913
+#, kde-format
+msgid "Empty All &Trash Folders"
+msgstr "ថតធុងសំរាមទាំងអស់"
+
+#: standardmailactionmanager.cpp:914 standardmailactionmanager.cpp:915
+#, kde-format
+msgid "Permanently delete all messages from all trash folders."
+msgstr "លុបសារជាអចិន្ត្រៃយ៍ចេញពីថតធុងសំរាមទាំងអស់។"
+
+#: standardmailactionmanager.cpp:924
+#, kde-format
+msgid "E&mpty Trash"
+msgstr "សម្អាតធុងសំរាម"
+
+#: standardmailactionmanager.cpp:925 standardmailactionmanager.cpp:926
+#, kde-format
+msgid "Permanently delete all messages from the trash folder."
+msgstr "លុបរាល់សារទាំងអស់ចេញពីថតធុងសំរាម។"
+
+#~ msgctxt "@label"
+#~ msgid "This model can only handle email folders. The current collection holds mimetypes: %1"
+#~ msgstr "ម៉ូដែលនេះអាចគ្រប់គ្រងថតអ៊ីម៉ែលតែប៉ុណ្ណោះ។ ការប្រមូលបច្ចុប្បន្នផ្ទុកនូវគំរូ៖ %1"
+
+#~ msgid "&Mark Mail as Important"
+#~ msgstr "សម្គាល់អ៊ីមែលថាសំខាន់"
+
+#~ msgid "&Mark Mail as Action Item"
+#~ msgstr "សម្គាល់អ៊ីមែលជាធាតុសកម្មភាព"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "ឈ្មោះរបស់អ្នក"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "អ៊ីមែលរបស់អ្នក"
+
+#~ msgid "An app that requests LocalFolders"
+#~ msgstr "កម្មវិធីដែលស្នើសុំ LocalFolders"
+
+#~ msgid "Headfetcher"
+#~ msgstr "Headfetcher"
+
+#~ msgid "header fetching application"
+#~ msgstr "បឋមកថាទាញយកកម្មវិធី"
+
+#~ msgid "Run test on multipart data (default is singlepart)."
+#~ msgstr "ដំណើរការសាកល្បងលើទិន្នន័យពហុភាគី (លំនាំដើមគឺផ្នែកតែមួយ) ។"

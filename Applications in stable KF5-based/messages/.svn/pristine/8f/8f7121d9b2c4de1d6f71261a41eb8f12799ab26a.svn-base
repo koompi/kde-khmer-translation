@@ -1,0 +1,823 @@
+# Andrew Coles <andrew_coles@yahoo.co.uk>, 2009, 2010, 2011.
+# Steve Allewell <steve.allewell@gmail.com>, 2014, 2015, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-19 00:26+0000\n"
+"PO-Revision-Date: 2017-11-26 17:36+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: dropbox/kipiplugin_dropbox.desktop.cmake:3
+msgctxt "Name"
+msgid "Dropbox Export"
+msgstr "Dropbox Export"
+
+#: dropbox/kipiplugin_dropbox.desktop.cmake:39
+msgctxt "Comment"
+msgid "A tool to export images to a remote Dropbox web service"
+msgstr "A tool to export images to a remote Dropbox web service"
+
+#: facebook/kipiplugin_facebook.desktop.cmake:3
+msgctxt "Name"
+msgid "Facebook Export"
+msgstr "Facebook Export"
+
+#: facebook/kipiplugin_facebook.desktop.cmake:35
+msgctxt "Comment"
+msgid "A tool to export images to a remote Facebook web service"
+msgstr "A tool to export images to a remote Facebook web service"
+
+#: flickr/kipiplugin_flickr.desktop.cmake:3
+msgctxt "Name"
+msgid "Flickr/23"
+msgstr "Flickr/23"
+
+#: flickr/kipiplugin_flickr.desktop.cmake:36
+msgctxt "Comment"
+msgid "A tool to export images to remote Flickr and 23 web services."
+msgstr "A tool to export images to remote Flickr and 23 web services."
+
+#: googleservices/kipiplugin_googleservices.desktop.cmake:3
+msgctxt "Name"
+msgid "Google Services"
+msgstr "Google Services"
+
+#: googleservices/kipiplugin_googleservices.desktop.cmake:36
+msgctxt "Comment"
+msgid "A tool to manage images with a remote Google web service"
+msgstr "A tool to manage images with a remote Google web service"
+
+#: imgur/kipiplugin_imgur.desktop.cmake:3
+msgctxt "Name"
+msgid "Imgur Export"
+msgstr "Imgur Export"
+
+#: imgur/kipiplugin_imgur.desktop.cmake:41
+msgctxt "Comment"
+msgid "A tool to export images to the imgur.com image hosting service"
+msgstr "A tool to export images to the imgur.com image hosting service"
+
+#: printimages/templates/1_photo_10.5x14.8cm.desktop:2
+msgctxt "Name"
+msgid "10.5x14.8 cm (1 photo)"
+msgstr "10.5x14.8 cm (1 photo)"
+
+#: printimages/templates/1_photo_10x15cm.desktop:2
+msgctxt "Name"
+msgid "10x15 cm (1 photo)"
+msgstr "10x15 cm (1 photo)"
+
+#: printimages/templates/1_photo_20x25cm.desktop:2
+msgctxt "Name"
+msgid "20x25 cm (1 photo)"
+msgstr "20x25 cm (1 photo)"
+
+#: printimages/templates/1_photo_8x10.desktop:2
+msgctxt "Name"
+msgid "8 x 10\" (1 photo)"
+msgstr "8 x 10\" (1 photo)"
+
+#: printimages/templates/1_photo_9x13cm.desktop:2
+msgctxt "Name"
+msgid "9x13 cm (1 photo)"
+msgstr "9x13 cm (1 photo)"
+
+#: printimages/templates/2_photos_13x18cm.desktop:2
+msgctxt "Name"
+msgid "13x18 cm (2 photos)"
+msgstr "13x18 cm (2 photos)"
+
+#: printimages/templates/2_photos_5x7.desktop:2
+msgctxt "Name"
+msgid "5 x 7\" (2 photos)"
+msgstr "5 x 7\" (2 photos)"
+
+#: printimages/templates/3_photos_10x15cm.desktop:2
+msgctxt "Name"
+msgid "10x15 cm (3 photos)"
+msgstr "10x15 cm (3 photos)"
+
+#: printimages/templates/3_photos_4x6.desktop:2
+msgctxt "Name"
+msgid "4 x 6\" (3 photos)"
+msgstr "4 x 6\" (3 photos)"
+
+#: printimages/templates/4_photos_10x13.33cm.desktop:2
+msgctxt "Name"
+msgid "10x13.33 cm (4 photos)"
+msgstr "10x13.33 cm (4 photos)"
+
+#: printimages/templates/4_photos_3.5x5.desktop:2
+msgctxt "Name"
+msgid "3.5 x 5\" (4 photos)"
+msgstr "3.5 x 5\" (4 photos)"
+
+#: printimages/templates/4_photos_4.5x5cm.desktop:2
+msgctxt "Name"
+msgid "Passport photos - 4.5x5cm (4 photos)"
+msgstr "Passport photos - 4.5x5cm (4 photos)"
+
+#: printimages/templates/4_photos_9x13cm.desktop:2
+msgctxt "Name"
+msgid "9x13 cm (4 photos)"
+msgstr "9x13 cm (4 photos)"
+
+#: printimages/templates/4x6Album.desktop:2
+msgctxt "Name"
+msgid "4 x 6\" Album"
+msgstr "4 x 6\" Album"
+
+#: printimages/templates/6_photos_3.5x4.5cm.desktop:2
+msgctxt "Name"
+msgid "Passport photos UK - 3.5x4.5cm (6 photos)"
+msgstr "Passport photos UK - 3.5x4.5cm (6 photos)"
+
+#: printimages/templates/6_photos_3.5x4cm.desktop:2
+msgctxt "Name"
+msgid "Passport photos - 3.5x4cm (6 photos)"
+msgstr "Passport photos - 3.5x4cm (6 photos)"
+
+#: printimages/templates/8_photos_6x9cm.desktop:2
+msgctxt "Name"
+msgid "6x9 cm (8 photos)"
+msgstr "6x9 cm (8 photos)"
+
+#: printimages/templates/Album_10x15cm.desktop:2
+msgctxt "Name"
+msgid "10x15 cm Album"
+msgstr "10x15 cm Album"
+
+#: printimages/templates/Album_11.5x15cm.desktop:2
+msgctxt "Name"
+msgid "11.5x15 cm Album"
+msgstr "11.5x15 cm Album"
+
+#: printimages/templates/Album-Collage1.desktop:2
+msgctxt "Name"
+msgid "Album Collage 2 (6 photos)"
+msgstr "Album Collage 2 (6 photos)"
+
+#: printimages/templates/Album-Collage.desktop:2
+msgctxt "Name"
+msgid "Album Collage 1 (9 photos)"
+msgstr "Album Collage 1 (9 photos)"
+
+#: printimages/templates/FullPage.desktop:2
+msgctxt "Name"
+msgid "Full page"
+msgstr "Full page"
+
+#: printimages/templates/Photoframe.desktop:2
+msgctxt "Name"
+msgid "Photoframe (5 photos)"
+msgstr "Photoframe (5 photos)"
+
+#: printimages/templates/Thumbnails_5x4.desktop:2
+msgctxt "Name"
+msgid "Thumbnails 5x4 photos"
+msgstr "Thumbnails 5x4 photos"
+
+#: printimages/templates/Thumbnails_6x5.desktop:2
+msgctxt "Name"
+msgid "Thumbnails 6x5 photos"
+msgstr "Thumbnails 6x5 photos"
+
+#~ msgctxt "Comment"
+#~ msgid "A PhotoLayoutsEditor Border Plugin"
+#~ msgstr "A PhotoLayoutsEditor Border Plugin"
+
+#~ msgctxt "Comment"
+#~ msgid "A PhotoLayoutsEditor Effect Plugin"
+#~ msgstr "A PhotoLayoutsEditor Effect Plugin"
+
+#~ msgctxt "Name"
+#~ msgid "Photo Layouts Editor"
+#~ msgstr "Photo Layouts Editor"
+
+#~ msgctxt "GenericName"
+#~ msgid "Photo layouts management program"
+#~ msgstr "Photo layouts management program"
+
+#~ msgctxt "Comment"
+#~ msgid "Create beautiful and professional photo layouts from your photos"
+#~ msgstr "Create beautiful and professional photo layouts from your photos"
+
+#~ msgctxt "Name"
+#~ msgid "Classic"
+#~ msgstr "Classic"
+
+#~ msgctxt "Comment"
+#~ msgid "A port of the old HTML Export plugin theme"
+#~ msgstr "A port of the old HTML Export plugin theme"
+
+#~ msgctxt "Name"
+#~ msgid "Aurélien Gâteau"
+#~ msgstr "Aurélien Gâteau"
+
+#~ msgctxt "Name"
+#~ msgid "Thumbnails per row"
+#~ msgstr "Thumbnails per row"
+
+#~ msgctxt "Name"
+#~ msgid "Background Color"
+#~ msgstr "Background Colour"
+
+#~ msgctxt "Name"
+#~ msgid "Foreground Color"
+#~ msgstr "Foreground Colour"
+
+#~ msgctxt "Name"
+#~ msgid "Font Size"
+#~ msgstr "Font Size"
+
+#~ msgctxt "Name"
+#~ msgid "Image Border Size"
+#~ msgstr "Image Border Size"
+
+#~ msgctxt "Name"
+#~ msgid "Image Border Color"
+#~ msgstr "Image Border Colour"
+
+#~ msgctxt "Name"
+#~ msgid "Link Color"
+#~ msgstr "Link Colour"
+
+#~ msgctxt "Name"
+#~ msgid "Visited Link Color"
+#~ msgstr "Visited Link Colour"
+
+#~ msgctxt "Name"
+#~ msgid "Clean Frames"
+#~ msgstr "Clean Frames"
+
+#~ msgctxt "Comment"
+#~ msgid "A frame theme based on Ruediger Bente's frame theme"
+#~ msgstr "A frame theme based on Ruediger Bente's frame theme"
+
+#~ msgctxt "Name"
+#~ msgid "Elizabeth Marmorstein"
+#~ msgstr "Elizabeth Marmorstein"
+
+#~ msgctxt "Name"
+#~ msgid "Style"
+#~ msgstr "Style"
+
+#~ msgctxt "Name"
+#~ msgid "Date Frames"
+#~ msgstr "Date Frames"
+
+#~ msgctxt "Name"
+#~ msgid "Thumbnail Background"
+#~ msgstr "Thumbnail Background"
+
+#~ msgctxt "Name"
+#~ msgid "Image Background (contrasting)"
+#~ msgstr "Image Background (contrasting)"
+
+#~ msgctxt "Name"
+#~ msgid "Nav Bar Background (dark)"
+#~ msgstr "Nav Bar Background (dark)"
+
+#~ msgctxt "Name"
+#~ msgid "Gallery Introduction"
+#~ msgstr "Gallery Introduction"
+
+#~ msgctxt "Name"
+#~ msgid ""
+#~ "Caption Date Format (see http://xsltsl.sourceforge.net/date-time.html)"
+#~ msgstr ""
+#~ "Caption Date Format (see http://xsltsl.sourceforge.net/date-time.html)"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "XSL Date Format String: Use the syntax given at http://xsltsl.sourceforge."
+#~ "net/date-time.html"
+#~ msgstr ""
+#~ "XSL Date Format String: Use the syntax given at http://xsltsl.sourceforge."
+#~ "net/date-time.html"
+
+#~ msgctxt "Name"
+#~ msgid "Image List Date Format"
+#~ msgstr "Image List Date Format"
+
+#~ msgctxt "Comment"
+#~ msgid "Yet another simple theme. Clean look with more image details."
+#~ msgstr "Yet another simple theme. Clean look with more image details."
+
+#~ msgctxt "Name"
+#~ msgid "Details"
+#~ msgstr "Details"
+
+#~ msgctxt "Name"
+#~ msgid "Gianluca Urgese"
+#~ msgstr "Gianluca Urgese"
+
+#~ msgctxt "Name"
+#~ msgid "Details screenshot"
+#~ msgstr "Details screenshot"
+
+#~ msgctxt "Name"
+#~ msgid "Footer information"
+#~ msgstr "Footer information"
+
+#~ msgctxt "Name"
+#~ msgid "Floating Cards"
+#~ msgstr "Floating Cards"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "A dark theme with floating thumbnail/description cards. Fast navigation "
+#~ "through the gallery."
+#~ msgstr ""
+#~ "A dark theme with floating thumbnail/description cards. Fast navigation "
+#~ "through the gallery."
+
+#~ msgctxt "Name"
+#~ msgid "Jiří Boháč"
+#~ msgstr "Jiří Boháč"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Keyboard navigation"
+#~ msgctxt "Name"
+#~ msgid "Keyboard & swipe navigation"
+#~ msgstr "Keyboard navigation"
+
+#~ msgctxt "Name"
+#~ msgid "Preload"
+#~ msgstr "Preload"
+
+#~ msgctxt "Name"
+#~ msgid "Frames"
+#~ msgstr "Frames"
+
+#~ msgctxt "Comment"
+#~ msgid "A frame theme"
+#~ msgstr "A frame theme"
+
+#~ msgctxt "Name"
+#~ msgid "Ruediger Bente"
+#~ msgstr "Ruediger Bente"
+
+#~ msgctxt "Name"
+#~ msgid "Matrix"
+#~ msgstr "Matrix"
+
+#~ msgctxt "Comment"
+#~ msgid "Show your photos with Matrix style"
+#~ msgstr "Show your photos with Matrix style"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Yet another nice theme. Very simple and clean look with \"calligraphics\" "
+#~ "icons."
+#~ msgstr ""
+#~ "Yet another nice theme. Very simple and clean look with \"calligraphics\" "
+#~ "icons."
+
+#~ msgctxt "Name"
+#~ msgid "S0"
+#~ msgstr "S0"
+
+#~ msgctxt "Name"
+#~ msgid "Petr Vaněk"
+#~ msgstr "Petr Vaněk"
+
+#~ msgctxt "Name"
+#~ msgid "Simple"
+#~ msgstr "Simple"
+
+#~ msgctxt "Comment"
+#~ msgid "A simple and light theme"
+#~ msgstr "A simple and light theme"
+
+#~ msgctxt "Name"
+#~ msgid "Snow"
+#~ msgstr "Snow"
+
+#~ msgctxt "Comment"
+#~ msgid "A perfect match for your mountain holidays"
+#~ msgstr "A perfect match for your mountain holidays"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to blend bracketed images"
+#~ msgstr "A tool to blend bracketed images"
+
+#~ msgctxt "GenericName"
+#~ msgid "Exposure Blending"
+#~ msgstr "Exposure Blending"
+
+#~ msgctxt "Name"
+#~ msgid "ExpoBlending"
+#~ msgstr "ExpoBlending"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to assemble images as a panorama"
+#~ msgstr "A tool to assemble images as a panorama"
+
+#~ msgctxt "GenericName"
+#~ msgid "Panorama"
+#~ msgstr "Panorama"
+
+#~ msgctxt "Name"
+#~ msgid "Panorama"
+#~ msgstr "Panorama"
+
+#~ msgctxt "Name"
+#~ msgid "AcquireImages"
+#~ msgstr "AcquireImages"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to acquire images using flat scanner"
+#~ msgstr "A tool to acquire images using flat scanner"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to acquire images using a flat scanner"
+#~ msgstr "A tool to acquire images using a flat scanner"
+
+#~ msgctxt "GenericName"
+#~ msgid "Acquire Images"
+#~ msgstr "Acquire Images"
+
+#~ msgctxt "Name"
+#~ msgid "Advanced Slideshow"
+#~ msgstr "Advanced Slideshow"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to slide images with 2D and 3D effects using OpenGL"
+#~ msgstr "A tool to slide images with 2D and 3D effects using OpenGL"
+
+#~ msgctxt "Name"
+#~ msgid "BatchProcessImages"
+#~ msgstr "BatchProcessImages"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to batch process images"
+#~ msgstr "A tool to batch process images"
+
+#~ msgctxt "Name"
+#~ msgid "Calendar"
+#~ msgstr "Calendar"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to create calendars"
+#~ msgstr "A tool to create calendars"
+
+#~ msgctxt "Name"
+#~ msgid "Debian Screenshots Export"
+#~ msgstr "Debian Screenshots Export"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to the Debian Screenshots site"
+#~ msgstr "A tool to export images to the Debian Screenshots site"
+
+#~ msgctxt "Name"
+#~ msgid "DLNAExport"
+#~ msgstr "DLNAExport"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export collection on DLNA network service"
+#~ msgstr "A tool to export collection on DLNA network service"
+
+#~ msgctxt "Name"
+#~ msgid "DNGConverter"
+#~ msgstr "DNGConverter"
+
+#~ msgctxt "GenericName"
+#~ msgid "DNG Image Converter"
+#~ msgstr "DNG Image Converter"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to batch convert RAW camera images to DNG"
+#~ msgstr "A tool to batch convert RAW camera images to DNG"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to convert Raw Image to Digital NeGative"
+#~ msgstr "A tool to convert Raw Image to Digital NeGative"
+
+#~ msgctxt "Name"
+#~ msgid "Expo Blending"
+#~ msgstr "Expo Blending"
+
+#~ msgctxt "Name"
+#~ msgid "Flash Export"
+#~ msgstr "Flash Export"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to Flash"
+#~ msgstr "A tool to export images to Flash"
+
+#~ msgctxt "Name"
+#~ msgid "Flickr/23/Zooomr Exporter"
+#~ msgstr "Flickr/23/Zooomr Exporter"
+
+#~ msgctxt "Name"
+#~ msgid "Remote Gallery Export"
+#~ msgstr "Remote Gallery Export"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote Gallery"
+#~ msgstr "A tool to export images to a remote Gallery"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to geolocalize pictures"
+#~ msgstr "A tool to geolocalise pictures"
+
+#~ msgctxt "Name"
+#~ msgid "GPSSync"
+#~ msgstr "GPSSync"
+
+#~ msgctxt "Name"
+#~ msgid "HTML Gallery"
+#~ msgstr "HTML Gallery"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images collections into a static XHTML page"
+#~ msgstr "A tool to export images collections into a static XHTML page"
+
+#~ msgctxt "Name"
+#~ msgid "Imageshack Export"
+#~ msgstr "Imageshack Export"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to Imageshack web service"
+#~ msgstr "A tool to export images to Imageshack web service"
+
+#~ msgctxt "Name"
+#~ msgid "Imageviewer"
+#~ msgstr "Imageviewer"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to preview images using OpenGL"
+#~ msgstr "A tool to preview images using OpenGL"
+
+#~ msgctxt "Name"
+#~ msgid "iPodExport"
+#~ msgstr "iPodExport"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export pictures to an Ipod device"
+#~ msgstr "A tool to export pictures to an Ipod device"
+
+#~ msgctxt "Name"
+#~ msgid "jAlbumExport"
+#~ msgstr "jAlbumExport"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to pass selected photos to jAlbum"
+#~ msgstr "A tool to pass selected photos to jAlbum"
+
+#~ msgctxt "Name"
+#~ msgid "JPEGLossless"
+#~ msgstr "JPEGLossless"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to rotate/flip images without losing quality"
+#~ msgstr "A tool to rotate/flip images without losing quality"
+
+#~ msgctxt "Name"
+#~ msgid "KioExportImport"
+#~ msgstr "KioExportImport"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "A tool to export pictures to or import from a remote directory that is "
+#~ "accessible via KIO."
+#~ msgstr ""
+#~ "A tool to export pictures to or import from a remote directory that is "
+#~ "accessible via KIO."
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to create KML files with geolocated images"
+#~ msgstr "A tool to create KML files with geolocated images"
+
+#~ msgctxt "Name"
+#~ msgid "KMLExport"
+#~ msgstr "KMLExport"
+
+#~ msgctxt "Name"
+#~ msgid "Instant Messaging Export"
+#~ msgstr "Instant Messaging Export"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to an instant messaging contact"
+#~ msgstr "A tool to export images to an instant messaging contact"
+
+#~ msgctxt "Name"
+#~ msgid "MediaWiki Export"
+#~ msgstr "MediaWiki Export"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote MediaWiki web service"
+#~ msgstr "A tool to export images to a remote MediaWiki web service"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to edit EXIF, IPTC and XMP metadata"
+#~ msgstr "A tool to edit EXIF, IPTC and XMP metadata"
+
+#~ msgctxt "Name"
+#~ msgid "MetadataEdit"
+#~ msgstr "MetadataEdit"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to make photo layouts"
+#~ msgstr "A tool to make photo layouts"
+
+#~ msgctxt "Name"
+#~ msgid "Remote Piwigo Export"
+#~ msgstr "Remote Piwigo Export"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote Piwigo"
+#~ msgstr "A tool to export images to a remote Piwigo"
+
+#~ msgctxt "Name"
+#~ msgid "Print images"
+#~ msgstr "Print images"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to print images in various formats"
+#~ msgstr "A tool to print images in various formats"
+
+#~ msgctxt "Name"
+#~ msgid "Rajce.net Exporter"
+#~ msgstr "Rajce.net Exporter"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote rajce.net service"
+#~ msgstr "A tool to export images to a remote rajce.net service"
+
+#~ msgctxt "Name"
+#~ msgid "RawConverter"
+#~ msgstr "RawConverter"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to convert Raw Image to JPEG/PNG/TIFF"
+#~ msgstr "A tool to convert Raw Image to JPEG/PNG/TIFF"
+
+#~ msgctxt "Name"
+#~ msgid "Remove Red Eyes"
+#~ msgstr "Remove Red Eyes"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to remove red eyes automatically from images"
+#~ msgstr "A tool to remove red eyes automatically from images"
+
+#~ msgctxt "Name"
+#~ msgid "SendImages"
+#~ msgstr "SendImages"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to send images by e-mail"
+#~ msgstr "A tool to send images by e-mail"
+
+#~ msgctxt "Name"
+#~ msgid "Shwup Export"
+#~ msgstr "Shwup Export"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote Shwup web service"
+#~ msgstr "A tool to export images to a remote Shwup web service"
+
+#~ msgctxt "Name"
+#~ msgid "SmugMug Import/Export"
+#~ msgstr "SmugMug Import/Export"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to import/export images to/from a remote SmugMug web service"
+#~ msgstr "A tool to import/export images to/from a remote SmugMug web service"
+
+#~ msgctxt "Name"
+#~ msgid "TimeDateAdjust"
+#~ msgstr "TimeDateAdjust"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to adjust date and time"
+#~ msgstr "A tool to adjust date and time"
+
+#~ msgctxt "Name"
+#~ msgid "VideoSlideShow"
+#~ msgstr "VideoSlideShow"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images as Video Slide Show"
+#~ msgstr "A tool to export images as Video Slide Show"
+
+#~ msgctxt "Name"
+#~ msgid "VKontakte.ru Exporter"
+#~ msgstr "VKontakte.ru Exporter"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to the VKontakte.ru social network"
+#~ msgstr "A tool to export images to the VKontakte.ru social network"
+
+#~ msgctxt "Name"
+#~ msgid "Yandex.Fotki Exporter"
+#~ msgstr "Yandex.Fotki Exporter"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote Yandex.Fotki web service"
+#~ msgstr "A tool to export images to a remote Yandex.Fotki web service"
+
+#~ msgctxt "Name"
+#~ msgid "Photivo Integration"
+#~ msgstr "Photivo Integration"
+
+#~ msgctxt "Comment"
+#~ msgid "Integration of the Photivo RAW-Processor"
+#~ msgstr "Integration of the Photivo RAW-Processor"
+
+#~ msgctxt "Name"
+#~ msgid "WallPaper"
+#~ msgstr "WallPaper"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to set image as background on your desktop"
+#~ msgstr "A tool to set image as background on your desktop"
+
+#~ msgctxt "Name"
+#~ msgid "Picasaweb Exporter"
+#~ msgstr "Picasaweb Exporter"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote Picasa web service"
+#~ msgstr "A tool to export images to a remote Picasa web service"
+
+#~ msgctxt "Comment"
+#~ msgid "KIPI Batch Processing Images Plugin"
+#~ msgstr "KIPI Batch Processing Images Plugin"
+
+#~ msgctxt "Comment"
+#~ msgid "Photo layouts management tool"
+#~ msgstr "Photo layouts management tool"
+
+#~ msgctxt "Name"
+#~ msgid "KIPI Plugins"
+#~ msgstr "KIPI Plugins"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Image Plugins Interface"
+#~ msgstr "KDE Image Plugins Interface"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "A tool to export images to a remote Gallery"
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote Imageshack"
+#~ msgstr "A tool to export images to a remote Gallery"
+
+#~ msgctxt "Name"
+#~ msgid "10x13.33 cm"
+#~ msgstr "10x13.33 cm"
+
+#~ msgctxt "Name"
+#~ msgid "10x15 cm"
+#~ msgstr "10x15 cm"
+
+#~ msgctxt "Name"
+#~ msgid "13x18 cm"
+#~ msgstr "13x18 cm"
+
+#~ msgctxt "Name"
+#~ msgid "20x25 cm"
+#~ msgstr "20x25 cm"
+
+#~ msgctxt "Name"
+#~ msgid "21 x 29.7cm"
+#~ msgstr "21 x 29.7cm"
+
+#~ msgctxt "Name"
+#~ msgid "3.5 x 5\""
+#~ msgstr "3.5 x 5\""
+
+#~ msgctxt "Name"
+#~ msgid "4 x 6\""
+#~ msgstr "4 x 6\""
+
+#~ msgctxt "Name"
+#~ msgid "5 x 7\""
+#~ msgstr "5 x 7\""
+
+#~ msgctxt "Name"
+#~ msgid "8 x 10\""
+#~ msgstr "8 x 10\""
+
+#~ msgctxt "Name"
+#~ msgid "9x13 cm"
+#~ msgstr "9x13 cm"
+
+#~ msgctxt "Name"
+#~ msgid "Small Thumbnails"
+#~ msgstr "Small Thumbnails"
+
+#~ msgctxt "Name"
+#~ msgid "Thumbnails"
+#~ msgstr "Thumbnails"

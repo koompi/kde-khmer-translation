@@ -1,0 +1,405 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2014, 2016, 2017, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-11 08:09+0000\n"
+"PO-Revision-Date: 2020-09-27 15:18+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:6
+msgctxt "Name"
+msgid "Screen brightness"
+msgstr "Screen brightness"
+
+#: daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:54
+msgctxt "Comment"
+msgid "Basic Controls for brightness"
+msgstr "Basic Controls for brightness"
+
+#: daemon/actions/bundled/powerdevildimdisplayaction.desktop:6
+msgctxt "Name"
+msgid "Dim screen"
+msgstr "Dim screen"
+
+#: daemon/actions/bundled/powerdevildimdisplayaction.desktop:53
+msgctxt "Comment"
+msgid "Dims gradually the display on a time basis"
+msgstr "Dims gradually the display on a time basis"
+
+#: daemon/actions/bundled/powerdevilhandlebuttoneventsaction.desktop:7
+msgctxt "Name"
+msgid "Button events handling"
+msgstr "Button events handling"
+
+#: daemon/actions/bundled/powerdevilhandlebuttoneventsaction.desktop:55
+msgctxt "Comment"
+msgid "Performs an action whenever a button is pressed"
+msgstr "Performs an action whenever a button is pressed"
+
+#: daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.desktop:6
+msgctxt "Name"
+msgid "Keyboard backlight"
+msgstr "Keyboard backlight"
+
+#: daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.desktop:53
+msgctxt "Comment"
+msgid "Basic Controls for the keyboard backlight brightness"
+msgstr "Basic Controls for the keyboard backlight brightness"
+
+#: daemon/actions/bundled/powerdevilrunscriptaction.desktop:6
+msgctxt "Name"
+msgid "Run script"
+msgstr "Run script"
+
+#: daemon/actions/bundled/powerdevilrunscriptaction.desktop:54
+msgctxt "Comment"
+msgid "Runs a custom script"
+msgstr "Runs a custom script"
+
+#: daemon/actions/bundled/powerdevilsuspendsessionaction.desktop:6
+msgctxt "Name"
+msgid "Suspend session"
+msgstr "Suspend session"
+
+#: daemon/actions/bundled/powerdevilsuspendsessionaction.desktop:55
+msgctxt "Comment"
+msgid "Suspends the session"
+msgstr "Suspends the session"
+
+#: daemon/actions/bundled/powerdevilwirelesspowersavingaction.desktop:6
+msgctxt "Name"
+msgid "Wireless"
+msgstr "Wireless"
+
+#: daemon/actions/bundled/powerdevilwirelesspowersavingaction.desktop:50
+msgctxt "Comment"
+msgid "Turns off signal-transmitting devices"
+msgstr "Turns off signal-transmitting devices"
+
+#: daemon/actions/dpms/powerdevildpmsaction.desktop:6
+msgctxt "Name"
+msgid "Screen Energy Saving"
+msgstr "Screen Energy Saving"
+
+#: daemon/actions/dpms/powerdevildpmsaction.desktop:54
+msgctxt "Comment"
+msgid "Controls DPMS settings"
+msgstr "Controls DPMS settings"
+
+#: daemon/actions/powerdevilaction.desktop:5
+msgctxt "Comment"
+msgid "Power Management Action Extension"
+msgstr "Power Management Action Extension"
+
+#: daemon/backends/upower/backlight_helper_actions.actions:2
+#: daemon/backends/upower/discretegpu_helper_actions.actions:2
+#: daemon/chargethreshold_helper_actions.actions:2
+msgctxt "Name"
+msgid "KDE"
+msgstr "KDE"
+
+#: daemon/backends/upower/backlight_helper_actions.actions:54
+msgctxt "Name"
+msgid "Get maximum brightness value"
+msgstr "Get maximum brightness value"
+
+#: daemon/backends/upower/backlight_helper_actions.actions:101
+#: daemon/backends/upower/backlight_helper_actions.actions:200
+msgctxt "Description"
+msgid "System policies prevent you from getting the brightness level."
+msgstr "System policies prevent you from getting the brightness level."
+
+#: daemon/backends/upower/backlight_helper_actions.actions:152
+msgctxt "Name"
+msgid "Get brightness"
+msgstr "Get brightness"
+
+#: daemon/backends/upower/backlight_helper_actions.actions:251
+msgctxt "Name"
+msgid "Set brightness"
+msgstr "Set brightness"
+
+#: daemon/backends/upower/backlight_helper_actions.actions:299
+msgctxt "Description"
+msgid "System policies prevent you from setting the brightness level."
+msgstr "System policies prevent you from setting the brightness level."
+
+#: daemon/backends/upower/backlight_helper_actions.actions:349
+msgctxt "Name"
+msgid "Get syspath"
+msgstr "Get syspath"
+
+#: daemon/backends/upower/backlight_helper_actions.actions:394
+msgctxt "Description"
+msgid "System policies prevent you from getting the syspath"
+msgstr "System policies prevent you from getting the syspath"
+
+#: daemon/backends/upower/discretegpu_helper_actions.actions:54
+msgctxt "Name"
+msgid "Check existence of discrete gpu"
+msgstr "Check existence of discrete GPU"
+
+#: daemon/backends/upower/discretegpu_helper_actions.actions:96
+msgctxt "Description"
+msgid ""
+"System policies prevent you from checking the existence of discrete gpu."
+msgstr ""
+"System policies prevent you from checking the existence of discrete GPU."
+
+#: daemon/backends/upower/powerdevilupowerbackend.desktop:7
+msgctxt "Name"
+msgid "UPower PowerDevil Backend"
+msgstr "UPower PowerDevil Backend"
+
+#: daemon/backends/upower/powerdevilupowerbackend.desktop:51
+msgctxt "Comment"
+msgid "Use KDE Power Management system through freedesktop.org upower daemon"
+msgstr "Use KDE Power Management system through freedesktop.org upower daemon"
+
+#: daemon/chargethreshold_helper_actions.actions:54
+msgctxt "Name"
+msgid "Get current battery charge limit"
+msgstr "Get current battery charge limit"
+
+#: daemon/chargethreshold_helper_actions.actions:78
+msgctxt "Description"
+msgid ""
+"System policies prevent you from getting the current battery charge limit."
+msgstr ""
+"System policies prevent you from getting the current battery charge limit."
+
+#: daemon/chargethreshold_helper_actions.actions:107
+msgctxt "Name"
+msgid "Set battery charge limit"
+msgstr "Set battery charge limit"
+
+#: daemon/chargethreshold_helper_actions.actions:132
+msgctxt "Description"
+msgid "System policies prevent you from setting a battery charge limit."
+msgstr "System policies prevent you from setting a battery charge limit."
+
+#: daemon/powerdevil.desktop.cmake:4 powerdevil.notifyrc:2
+msgctxt "Name"
+msgid "Power Management"
+msgstr "Power Management"
+
+#: daemon/powerdevil.desktop.cmake:54
+msgctxt "Comment"
+msgid "Battery, Display and CPU power management and notification"
+msgstr "Battery, Display and CPU power management and notification"
+
+#: kcmodule/activities/powerdevilactivitiesconfig.desktop:14
+msgctxt "Name"
+msgid "Activity Settings"
+msgstr "Activity Settings"
+
+#: kcmodule/activities/powerdevilactivitiesconfig.desktop:62
+msgctxt "Comment"
+msgid "Per-Activity Power Management"
+msgstr "Per-Activity Power Management"
+
+#: kcmodule/activities/powerdevilactivitiesconfig.desktop:109
+msgctxt "X-KDE-Keywords"
+msgid ""
+"system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
+"hibernate,brightness,performance,lid,activity,activities"
+msgstr ""
+"system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
+"hibernate,brightness,performance,lid,activity,activities"
+
+#: kcmodule/global/powerdevilglobalconfig.desktop:14
+msgctxt "Name"
+msgid "Advanced Settings"
+msgstr "Advanced Settings"
+
+#: kcmodule/global/powerdevilglobalconfig.desktop:63
+msgctxt "Comment"
+msgid "Advanced Power Management Settings"
+msgstr "Advanced Power Management Settings"
+
+#: kcmodule/global/powerdevilglobalconfig.desktop:110
+#: kcmodule/profiles/powerdevilprofilesconfig.desktop:112
+msgctxt "X-KDE-Keywords"
+msgid ""
+"system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
+"hibernate,brightness,performance,lid"
+msgstr ""
+"system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
+"hibernate,brightness,performance,lid"
+
+#: kcmodule/profiles/powerdevilprofilesconfig.desktop:14
+msgctxt "Name"
+msgid "Energy Saving"
+msgstr "Energy Saving"
+
+#: kcmodule/profiles/powerdevilprofilesconfig.desktop:63
+msgctxt "Comment"
+msgid "Energy Saving"
+msgstr "Energy Saving"
+
+#: powerdevil.notifyrc:50
+msgctxt "Comment"
+msgid "Power Management System"
+msgstr "Power Management System"
+
+#: powerdevil.notifyrc:100
+msgctxt "Name"
+msgid "Warning"
+msgstr "Warning"
+
+#: powerdevil.notifyrc:147
+msgctxt "Comment"
+msgid "Used for warning notifications"
+msgstr "Used for warning notifications"
+
+#: powerdevil.notifyrc:196
+msgctxt "Name"
+msgid "Notification"
+msgstr "Notification"
+
+#: powerdevil.notifyrc:244
+msgctxt "Comment"
+msgid "Used for standard notifications"
+msgstr "Used for standard notifications"
+
+#: powerdevil.notifyrc:293
+msgctxt "Name"
+msgid "Critical notification"
+msgstr "Critical notification"
+
+#: powerdevil.notifyrc:340
+msgctxt "Comment"
+msgid "Notifies a critical event"
+msgstr "Notifies a critical event"
+
+#: powerdevil.notifyrc:389
+msgctxt "Name"
+msgid "Battery Low"
+msgstr "Battery Low"
+
+#: powerdevil.notifyrc:436
+msgctxt "Comment"
+msgid "Your battery has reached low level"
+msgstr "Your battery has reached low level"
+
+#: powerdevil.notifyrc:489
+msgctxt "Name"
+msgid "Battery Critical"
+msgstr "Battery Critical"
+
+#: powerdevil.notifyrc:536
+msgctxt "Comment"
+msgid ""
+"Your battery has reached critical level. This notification triggers a "
+"countdown before doing the configured action, hence it is strongly advised "
+"to leave that on."
+msgstr ""
+"Your battery has reached critical level. This notification triggers a "
+"countdown before doing the configured action, hence it is strongly advised "
+"to leave that on."
+
+#: powerdevil.notifyrc:589
+msgctxt "Name"
+msgid "Charge Complete"
+msgstr "Charge Complete"
+
+#: powerdevil.notifyrc:635
+msgctxt "Comment"
+msgid "The battery is fully charged"
+msgstr "The battery is fully charged"
+
+#: powerdevil.notifyrc:687
+msgctxt "Name"
+msgid "Peripheral Battery Low"
+msgstr "Peripheral Battery Low"
+
+#: powerdevil.notifyrc:730
+msgctxt "Comment"
+msgid "The battery in a connected device, such as mouse or keyboard, is low"
+msgstr "The battery in a connected device, such as mouse or keyboard, is low"
+
+#: powerdevil.notifyrc:779
+msgctxt "Name"
+msgid "Power source connected"
+msgstr "Power source connected"
+
+#: powerdevil.notifyrc:807
+msgctxt "Comment"
+msgid "The power source has been connected"
+msgstr "The power source has been connected"
+
+#: powerdevil.notifyrc:841
+msgctxt "Name"
+msgid "Power source disconnected"
+msgstr "Power source disconnected"
+
+#: powerdevil.notifyrc:869
+msgctxt "Comment"
+msgid "The power source has been disconnected"
+msgstr "The power source has been disconnected"
+
+#~ msgctxt "Name"
+#~ msgid "AC adaptor plugged in"
+#~ msgstr "AC adaptor plugged in"
+
+#~ msgctxt "Comment"
+#~ msgid "The power adaptor has been plugged in"
+#~ msgstr "The power adaptor has been plugged in"
+
+#~ msgctxt "Name"
+#~ msgid "AC adaptor unplugged"
+#~ msgstr "AC adaptor unplugged"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Power Management System"
+#~ msgstr "KDE Power Management System"
+
+#~ msgctxt "Name"
+#~ msgid "Internal Error"
+#~ msgstr "Internal Error"
+
+#~ msgctxt "Comment"
+#~ msgid "The KDE Power Management System has triggered an internal error"
+#~ msgstr "The KDE Power Management System has triggered an internal error"
+
+#~ msgctxt "Name"
+#~ msgid "Wireless power saving"
+#~ msgstr "Wireless power saving"
+
+#~ msgctxt "Name"
+#~ msgid "HAL PowerDevil Backend"
+#~ msgstr "HAL PowerDevil Backend"
+
+#~ msgctxt "Comment"
+#~ msgid "Use KDE Power Management system through freedesktop.org HAL daemon"
+#~ msgstr "Use KDE Power Management system through freedesktop.org HAL daemon"
+
+#~ msgctxt "Name"
+#~ msgid "Broken battery notification"
+#~ msgstr "Broken battery notification"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "KDE Power Management System has detected some troubles with one of your "
+#~ "batteries"
+#~ msgstr ""
+#~ "KDE Power Management System has detected some troubles with one of your "
+#~ "batteries"
+
+#~ msgctxt "Name"
+#~ msgid "Suspension inhibited"
+#~ msgstr "Suspension inhibited"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The suspension has been inhibited because an application requested it"
+#~ msgstr ""
+#~ "The suspension has been inhibited because an application requested it"

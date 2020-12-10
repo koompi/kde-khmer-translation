@@ -1,0 +1,91 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-phone-components package.
+#
+# Steve Allewell <steve.allewell@gmail.com>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-phone-components\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-21 02:26+0200\n"
+"PO-Revision-Date: 2020-06-06 14:52+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.04.1\n"
+
+#: package/contents/ui/indicators/Battery.qml:50
+#, kde-format
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/indicators/Volume.qml:157
+#, kde-format
+msgid "Increase Volume"
+msgstr "Increase Volume"
+
+#: package/contents/ui/indicators/Volume.qml:164
+#, kde-format
+msgid "Decrease Volume"
+msgstr "Decrease Volume"
+
+#: package/contents/ui/indicators/Volume.qml:171
+#, kde-format
+msgid "Mute"
+msgstr "Mute"
+
+#: package/contents/ui/quicksettings/QuickSettings.qml:138
+#, kde-format
+msgid "Settings"
+msgstr "Settings"
+
+#: package/contents/ui/quicksettings/QuickSettings.qml:148
+#, kde-format
+msgid "Wifi"
+msgstr "Wifi"
+
+#: package/contents/ui/quicksettings/QuickSettings.qml:157
+#, kde-format
+msgid "Mobile Data"
+msgstr "Mobile Data"
+
+#: package/contents/ui/quicksettings/QuickSettings.qml:166
+#, kde-format
+msgid "Battery"
+msgstr "Battery"
+
+#: package/contents/ui/quicksettings/QuickSettings.qml:176
+#, kde-format
+msgid "Sound"
+msgstr "Sound"
+
+#: package/contents/ui/quicksettings/QuickSettings.qml:186
+#, kde-format
+msgid "Flashlight"
+msgstr "Flashlight"
+
+#: package/contents/ui/quicksettings/QuickSettings.qml:194
+#, kde-format
+msgid "Location"
+msgstr "Location"
+
+#: package/contents/ui/quicksettings/QuickSettings.qml:201
+#, kde-format
+msgid "Screenshot"
+msgstr "Screenshot"
+
+#: package/contents/ui/quicksettings/QuickSettings.qml:209
+#, kde-format
+msgid "Auto-rotate"
+msgstr "Auto-rotate"
+
+#: package/contents/ui/quicksettings/QuickSettings.qml:259
+#, kde-format
+msgid "Display Brightness"
+msgstr "Display Brightness"
+
+#~ msgid "Shutdown"
+#~ msgstr "Shutdown"

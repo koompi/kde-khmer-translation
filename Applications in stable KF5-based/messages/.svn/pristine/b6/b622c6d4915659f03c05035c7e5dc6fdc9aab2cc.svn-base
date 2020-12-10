@@ -1,0 +1,2465 @@
+# translation of desktop_kdebase.po to
+# translation of desktop_kdebase.po to British English
+# Malcolm Hunter <malcolm.hunter@gmx.co.uk>, 2002,2003,2004, 2005, 2006, 2008, 2009.
+# Jonathan Riddell <kde-en-gb@jriddell.org>, 2003.
+# Andrew Coles <andrew_coles@yahoo.co.uk>, 2004, 2005, 2009, 2010, 2011.
+# Steve Allewell <steve.allewell@gmail.com>, 2014, 2015, 2016, 2017, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-11 08:09+0000\n"
+"PO-Revision-Date: 2020-09-27 15:07+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: applets/activitybar/metadata.desktop:2
+msgctxt "Name"
+msgid "Activity Bar"
+msgstr "Activity Bar"
+
+#: applets/activitybar/metadata.desktop:77
+msgctxt "Comment"
+msgid "Tab bar to switch activities"
+msgstr "Tab bar to switch activities"
+
+#: applets/analog-clock/metadata.desktop:2
+msgctxt "Name"
+msgid "Analog Clock"
+msgstr "Analogue Clock"
+
+#: applets/analog-clock/metadata.desktop:88
+msgctxt "Comment"
+msgid "A clock with hands"
+msgstr "A clock with hands"
+
+#: applets/appmenu/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Global Menu"
+msgstr "Global Menu"
+
+#: applets/appmenu/package/metadata.desktop:49
+msgctxt "Comment"
+msgid "Global menubar in your Plasma Desktop"
+msgstr "Global menubar in your Plasma Desktop"
+
+#: applets/batterymonitor/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Battery and Brightness"
+msgstr "Battery and Brightness"
+
+#: applets/batterymonitor/package/metadata.desktop:52
+msgctxt "Comment"
+msgid "See the power status of your battery"
+msgstr "See the power status of your battery"
+
+#: applets/batterymonitor/package/metadata.desktop:127
+msgctxt "Keywords"
+msgid "Power Management;Battery;System;Energy;"
+msgstr "Power Management;Battery;System;Energy;"
+
+#: applets/calendar/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Calendar"
+msgstr "Calendar"
+
+#: applets/calendar/package/metadata.desktop:81
+msgctxt "Comment"
+msgid "Month display with your appointments and events"
+msgstr "Month display with your appointments and events"
+
+#: applets/clipboard/metadata.desktop:2
+#: klipper/plasma-dataengine-clipboard.desktop:2
+msgctxt "Name"
+msgid "Clipboard"
+msgstr "Clipboard"
+
+#: applets/clipboard/metadata.desktop:55
+msgctxt "Comment"
+msgid "Provides access to the clipboard history"
+msgstr "Provides access to the clipboard history"
+
+#: applets/devicenotifier/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Disks & Devices"
+msgstr "Disks & Devices"
+
+#: applets/devicenotifier/package/metadata.desktop:31
+msgctxt "Comment"
+msgid "Notifications and access for devices"
+msgstr "Notifications and access for devices"
+
+#: applets/devicenotifier/test-predicate-openinwindow.desktop:7
+msgctxt "Name"
+msgid "Open with File Manager"
+msgstr "Open with File Manager"
+
+#: applets/digital-clock/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Digital Clock"
+msgstr "Digital Clock"
+
+#: applets/digital-clock/package/metadata.desktop:90
+msgctxt "Comment"
+msgid "Time displayed in a digital format"
+msgstr "Time displayed in a digital format"
+
+#: applets/icon/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Icon"
+msgstr "Icon"
+
+#: applets/icon/package/metadata.desktop:89
+msgctxt "Comment"
+msgid "A generic icon"
+msgstr "A generic icon"
+
+#: applets/lock_logout/metadata.desktop:2
+msgctxt "Name"
+msgid "Lock/Logout"
+msgstr "Lock/Logout"
+
+#: applets/lock_logout/metadata.desktop:85
+msgctxt "Comment"
+msgid "Lock the screen or log out"
+msgstr "Lock the screen or log out"
+
+#: applets/lock_logout/metadata.desktop:159
+msgctxt "Keywords"
+msgid "Lock;Logout;Sleep;Hibernate;Switch User;"
+msgstr "Lock;Logout;Sleep;Hibernate;Switch User;"
+
+#: applets/mediacontroller/metadata.desktop:2
+msgctxt "Name"
+msgid "Media Player"
+msgstr "Media Player"
+
+#: applets/mediacontroller/metadata.desktop:53
+msgctxt "Comment"
+msgid "Media Player Controls"
+msgstr "Media Player Controls"
+
+#: applets/notifications/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Notifications"
+msgstr "Notifications"
+
+#: applets/notifications/package/metadata.desktop:90
+msgctxt "Comment"
+msgid "Display notifications and jobs"
+msgstr "Display notifications and jobs"
+
+#: applets/panelspacer/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Panel Spacer"
+msgstr "Panel Spacer"
+
+#: applets/panelspacer/package/metadata.desktop:68
+msgctxt "Comment"
+msgid "Reserve empty spaces within the panel."
+msgstr "Reserve empty spaces within the panel."
+
+#: applets/systemmonitor/coreusage/metadata.desktop:2
+msgctxt "Name"
+msgid "Individual Core Usage"
+msgstr "Individual Core Usage"
+
+#: applets/systemmonitor/coreusage/metadata.desktop:33
+msgctxt "Comment"
+msgid "System monitor Widget that shows usage of individual CPU cores"
+msgstr "System monitor Widget that shows usage of individual CPU cores"
+
+#: applets/systemmonitor/cpu/metadata.desktop:2
+msgctxt "Name"
+msgid "Total CPU Use"
+msgstr "Total CPU Use"
+
+#: applets/systemmonitor/cpu/metadata.desktop:35
+msgctxt "Comment"
+msgid "System monitor Widget that shows the total CPU usage"
+msgstr "System monitor Widget that shows the total CPU usage"
+
+#: applets/systemmonitor/diskactivity/metadata.desktop:2
+msgctxt "Name"
+msgid "Hard Disk Activity"
+msgstr "Hard Disk Activity"
+
+#: applets/systemmonitor/diskactivity/metadata.desktop:36
+msgctxt "Comment"
+msgid "An applet that monitors hard disk throughput and input/output"
+msgstr "An applet that monitors hard disk throughput and input/output"
+
+#: applets/systemmonitor/diskusage/metadata.desktop:2
+msgctxt "Name"
+msgid "Disk Usage"
+msgstr "Disk Usage"
+
+#: applets/systemmonitor/diskusage/metadata.desktop:36
+msgctxt "Comment"
+msgid "System monitor Widget that shows the usage of the root partition"
+msgstr "System monitor Widget that shows the usage of the root partition"
+
+#: applets/systemmonitor/memory/metadata.desktop:2
+msgctxt "Name"
+msgid "Memory Usage"
+msgstr "Memory Usage"
+
+#: applets/systemmonitor/memory/metadata.desktop:36
+msgctxt "Comment"
+msgid "System monitor Widget that shows physical memory usage"
+msgstr "System monitor Widget that shows physical memory usage"
+
+#: applets/systemmonitor/net/metadata.desktop:2
+msgctxt "Name"
+msgid "Network speed"
+msgstr "Network speed"
+
+#: applets/systemmonitor/net/metadata.desktop:36
+msgctxt "Comment"
+msgid "System monitor Widget that shows the download and upload data rate"
+msgstr "System monitor Widget that shows the download and upload data rate"
+
+#: applets/systemmonitor/systemmonitor/package/metadata.desktop:3
+msgctxt "Name"
+msgid "System monitor Sensor"
+msgstr "System monitor Sensor"
+
+#: applets/systemmonitor/systemmonitor/package/metadata.desktop:36
+msgctxt "Comment"
+msgid "Displays a configurable chart of a system monitor sensor"
+msgstr "Displays a configurable chart of a system monitor sensor"
+
+#: applets/systemtray/container/package/metadata.desktop:2
+#: applets/systemtray/package/metadata.desktop:2
+msgctxt "Name"
+msgid "System Tray"
+msgstr "System Tray"
+
+#: applets/systemtray/container/package/metadata.desktop:91
+msgctxt "Comment"
+msgid "Access hidden applications minimized in the system tray"
+msgstr "Access hidden applications minimised in the system tray"
+
+#: appmenu/appmenu.desktop:3
+msgctxt "Name"
+msgid "Application menus daemon"
+msgstr "Application menus daemon"
+
+#: appmenu/appmenu.desktop:55
+msgctxt "Comment"
+msgid "Transfers application's menu to the desktop"
+msgstr "Transfers application's menu to the desktop"
+
+#: components/shellprivate/wallpaperplugin/wallpaperplugin.knsrc:2
+msgctxt "Name"
+msgid "Wallpaper Plugins"
+msgstr "Wallpaper Plugins"
+
+#: components/shellprivate/widgetexplorer/plasmoids.knsrc:2
+msgctxt "Name"
+msgid "Plasma Widgets"
+msgstr "Plasma Widgets"
+
+#: containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:2
+msgctxt "Name"
+msgid "Application Launcher"
+msgstr "Application Launcher"
+
+#: containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:90
+msgctxt "Comment"
+msgid "Simple application launcher"
+msgstr "Simple application launcher"
+
+#: containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:2
+msgctxt "Name"
+msgid "Standard Menu"
+msgstr "Standard Menu"
+
+#: containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:72
+msgctxt "Comment"
+msgid "The menu that normally shows on right-click"
+msgstr "The menu that normally shows on right-click"
+
+#: containmentactions/paste/plasma-containmentactions-paste.desktop:2
+msgctxt "Name"
+msgid "Paste"
+msgstr "Paste"
+
+#: containmentactions/paste/plasma-containmentactions-paste.desktop:74
+msgctxt "Comment"
+msgid "Creates a widget from the contents of the clipboard"
+msgstr "Creates a widget from the contents of the clipboard"
+
+#: containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:2
+msgctxt "Name"
+msgid "Switch Activity"
+msgstr "Switch Activity"
+
+#: containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:71
+msgctxt "Comment"
+msgid "Switch to another activity"
+msgstr "Switch to another activity"
+
+#: containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:2
+msgctxt "Name"
+msgid "Switch Desktop"
+msgstr "Switch Desktop"
+
+#: containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:73
+msgctxt "Comment"
+msgid "Switch to another virtual desktop"
+msgstr "Switch to another virtual desktop"
+
+#: containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:2
+msgctxt "Name"
+msgid "Switch Window"
+msgstr "Switch Window"
+
+#: containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:71
+msgctxt "Comment"
+msgid "Show a list of windows to switch to"
+msgstr "Show a list of windows to switch to"
+
+#: dataengines/activities/plasma-dataengine-activities.desktop:2
+msgctxt "Name"
+msgid "Activities Engine"
+msgstr "Activities Engine"
+
+#: dataengines/activities/plasma-dataengine-activities.desktop:65
+msgctxt "Comment"
+msgid "Information on Plasma Activities"
+msgstr "Information on Plasma Activities"
+
+#: dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:2
+msgctxt "Name"
+msgid "Application Job Information"
+msgstr "Application Job Information"
+
+#: dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:73
+msgctxt "Comment"
+msgid "Application job updates (via kuiserver)"
+msgstr "Application job updates (via kuiserver)"
+
+#: dataengines/apps/plasma-dataengine-apps.desktop:2
+msgctxt "Name"
+msgid "Application Information"
+msgstr "Application Information"
+
+#: dataengines/apps/plasma-dataengine-apps.desktop:71
+msgctxt "Comment"
+msgid "Information and launching of all applications in the app menu."
+msgstr "Information and launching of all applications in the app menu."
+
+#: dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:2
+msgctxt "Name"
+msgid "Device Notifications"
+msgstr "Device Notifications"
+
+#: dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:67
+msgctxt "Comment"
+msgid "Passive device notifications for the user."
+msgstr "Passive device notifications for the user."
+
+#: dataengines/dict/plasma-dataengine-dict.desktop:2
+msgctxt "Name"
+msgid "Dictionary"
+msgstr "Dictionary"
+
+#: dataengines/dict/plasma-dataengine-dict.desktop:82
+msgctxt "Comment"
+msgid "Look up word meanings"
+msgstr "Look up word meanings"
+
+#: dataengines/executable/plasma-dataengine-executable.desktop:2
+msgctxt "Name"
+msgid "Run Commands"
+msgstr "Run Commands"
+
+#: dataengines/executable/plasma-dataengine-executable.desktop:78
+msgctxt "Comment"
+msgid "Run Executable Data Engine"
+msgstr "Run Executable Data Engine"
+
+#: dataengines/favicons/plasma-dataengine-favicons.desktop:2
+msgctxt "Name"
+msgid "Favicons"
+msgstr "Favicons"
+
+#: dataengines/favicons/plasma-dataengine-favicons.desktop:77
+msgctxt "Comment"
+msgid "Data Engine for getting favicons of web sites"
+msgstr "Data Engine for getting favicons of web sites"
+
+#: dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:2
+msgctxt "Name"
+msgid "Files and Directories"
+msgstr "Files and Directories"
+
+#: dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:79
+msgctxt "Comment"
+msgid "Information about files and directories."
+msgstr "Information about files and directories."
+
+#: dataengines/geolocation/plasma-dataengine-geolocation.desktop:2
+msgctxt "Name"
+msgid "Geolocation"
+msgstr "Geolocation"
+
+#: dataengines/geolocation/plasma-dataengine-geolocation.desktop:69
+msgctxt "Comment"
+msgid "Geolocation Data Engine"
+msgstr "Geolocation Data Engine"
+
+#: dataengines/geolocation/plasma-geolocation-gps.desktop:2
+msgctxt "Name"
+msgid "Geolocation GPS"
+msgstr "Geolocation GPS"
+
+#: dataengines/geolocation/plasma-geolocation-gps.desktop:69
+msgctxt "Comment"
+msgid "Geolocation from GPS address."
+msgstr "Geolocation from GPS address."
+
+#: dataengines/geolocation/plasma-geolocation-ip.desktop:2
+msgctxt "Name"
+msgid "Geolocation IP"
+msgstr "Geolocation IP"
+
+#: dataengines/geolocation/plasma-geolocation-ip.desktop:69
+msgctxt "Comment"
+msgid "Geolocation from IP address."
+msgstr "Geolocation from IP address."
+
+#: dataengines/geolocation/plasma-geolocationprovider.desktop:4
+msgctxt "Comment"
+msgid "Plasma Geolocation Provider"
+msgstr "Plasma Geolocation Provider"
+
+#: dataengines/hotplug/plasma-dataengine-hotplug.desktop:2
+msgctxt "Name"
+msgid "Hotplug Events"
+msgstr "Hotplug Events"
+
+#: dataengines/hotplug/plasma-dataengine-hotplug.desktop:71
+msgctxt "Comment"
+msgid "Tracks hot-pluggable devices as they appear and disappear."
+msgstr "Tracks hot-pluggable devices as they appear and disappear."
+
+#: dataengines/keystate/plasma-dataengine-keystate.desktop:2
+msgctxt "Name"
+msgid "Keyboard and Mouse State"
+msgstr "Keyboard and Mouse State"
+
+#: dataengines/keystate/plasma-dataengine-keystate.desktop:73
+msgctxt "Comment"
+msgid "Keyboard modifier and mouse buttons states"
+msgstr "Keyboard modifier and mouse buttons states"
+
+#: dataengines/mouse/plasma-dataengine-mouse.desktop:2
+msgctxt "Name"
+msgid "Pointer Position"
+msgstr "Pointer Position"
+
+#: dataengines/mouse/plasma-dataengine-mouse.desktop:75
+msgctxt "Comment"
+msgid "Mouse position and cursor"
+msgstr "Mouse position and cursor"
+
+#: dataengines/mpris2/plasma-dataengine-mpris2.desktop:2
+msgctxt "Name"
+msgid "MPRIS2"
+msgstr "MPRIS2"
+
+#: dataengines/mpris2/plasma-dataengine-mpris2.desktop:55
+msgctxt "Comment"
+msgid "Provides information from and control over media players via MPRIS2"
+msgstr "Provides information from and control over media players via MPRIS2"
+
+#: dataengines/notifications/plasma-dataengine-notifications.desktop:2
+msgctxt "Name"
+msgid "Application Notifications"
+msgstr "Application Notifications"
+
+#: dataengines/notifications/plasma-dataengine-notifications.desktop:78
+msgctxt "Comment"
+msgid "Passive visual notifications for the user."
+msgstr "Passive visual notifications for the user."
+
+#: dataengines/packagekit/plasma-dataengine-packagekit.desktop:2
+msgctxt "Name"
+msgid "PackageKit"
+msgstr "PackageKit"
+
+#: dataengines/packagekit/plasma-dataengine-packagekit.desktop:53
+msgctxt "Comment"
+msgid "PackageKit Data Engine"
+msgstr "PackageKit Data Engine"
+
+#: dataengines/places/plasma-dataengine-places.desktop:2
+#: runners/places/plasma-runner-places.desktop:2
+msgctxt "Name"
+msgid "Places"
+msgstr "Places"
+
+#: dataengines/places/plasma-dataengine-places.desktop:80
+msgctxt "Comment"
+msgid "Places, as seen in the file manager and in file dialogs."
+msgstr "Places, as seen in the file manager and in file dialogues."
+
+#: dataengines/powermanagement/plasma-dataengine-powermanagement.desktop:3
+msgctxt "Name|plasma data engine"
+msgid "Power Management"
+msgstr "Power Management"
+
+#: dataengines/powermanagement/plasma-dataengine-powermanagement.desktop:74
+msgctxt "Comment"
+msgid "Battery, AC, sleep and PowerDevil information."
+msgstr "Battery, AC, sleep and PowerDevil information."
+
+#: dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:2
+msgctxt "Name"
+msgid "Device Information"
+msgstr "Device Information"
+
+#: dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:79
+msgctxt "Comment"
+msgid "Device data via Solid"
+msgstr "Device data via Solid"
+
+#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:2
+msgctxt "Name"
+msgid "Status Notifier Information"
+msgstr "Status Notifier Information"
+
+#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:63
+msgctxt "Comment"
+msgid ""
+"Engine for applications' status information, based on the Status Notifier "
+"protocol."
+msgstr ""
+"Engine for applications' status information, based on the Status Notifier "
+"protocol."
+
+#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:2
+#: systemmonitor/org.kde.systemmonitor.desktop:5
+msgctxt "Name"
+msgid "System Monitor"
+msgstr "System Monitor"
+
+#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:87
+msgctxt "Comment"
+msgid "System status information"
+msgstr "System status information"
+
+#: dataengines/time/plasma-dataengine-time.desktop:2
+msgctxt "Name"
+msgid "Date and Time"
+msgstr "Date and Time"
+
+#: dataengines/time/plasma-dataengine-time.desktop:82
+msgctxt "Comment"
+msgid "Date and time by timezone"
+msgstr "Date and time by timezone"
+
+#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:2
+msgctxt "Name"
+msgid "BBC Weather"
+msgstr "BBC Weather"
+
+#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:40
+msgctxt "Comment"
+msgid "XML Data from the British Broadcasting Corporation"
+msgstr "XML Data from the British Broadcasting Corporation"
+
+#: dataengines/weather/ions/envcan/ion-envcan.desktop:2
+msgctxt "Name"
+msgid "Environment Canada"
+msgstr "Environment Canada"
+
+#: dataengines/weather/ions/envcan/ion-envcan.desktop:74
+msgctxt "Comment"
+msgid "XML Data from Environment Canada"
+msgstr "XML Data from Environment Canada"
+
+#: dataengines/weather/ions/noaa/ion-noaa.desktop:2
+msgctxt "Name"
+msgid "NOAA's National Weather Service"
+msgstr "NOAA's National Weather Service"
+
+#: dataengines/weather/ions/noaa/ion-noaa.desktop:74
+msgctxt "Comment"
+msgid "XML Data from NOAA's National Weather Service"
+msgstr "XML Data from NOAA's National Weather Service"
+
+#: dataengines/weather/ions/wetter.com/ion-wettercom.desktop:2
+msgctxt "Name"
+msgid "wetter.com"
+msgstr "wetter.com"
+
+#: dataengines/weather/ions/wetter.com/ion-wettercom.desktop:72
+msgctxt "Comment"
+msgid "Weather forecast by wetter.com"
+msgstr "Weather forecast by wetter.com"
+
+#: dataengines/weather/plasma-dataengine-weather.desktop:2
+msgctxt "Name"
+msgid "Weather"
+msgstr "Weather"
+
+#: dataengines/weather/plasma-dataengine-weather.desktop:79
+msgctxt "Comment"
+msgid "Weather data from multiple online sources"
+msgstr "Weather data from multiple online sources"
+
+#: freespacenotifier/freespacenotifier.desktop:7
+msgctxt "Name"
+msgid "Free Space Notifier"
+msgstr "Free Space Notifier"
+
+#: freespacenotifier/freespacenotifier.desktop:71
+msgctxt "Comment"
+msgid "Warns when running out of space on your home folder"
+msgstr "Warns when running out of space on your home folder"
+
+#: freespacenotifier/freespacenotifier.notifyrc:3
+msgctxt "Comment"
+msgid "KDE Free Space Notifier Daemon"
+msgstr "KDE Free Space Notifier Dæmon"
+
+#: freespacenotifier/freespacenotifier.notifyrc:68
+msgctxt "Name"
+msgid "Low Disk Space"
+msgstr "Low Disk Space"
+
+#: freespacenotifier/freespacenotifier.notifyrc:135
+msgctxt "Name"
+msgid "Warning"
+msgstr "Warning"
+
+#: freespacenotifier/freespacenotifier.notifyrc:221
+msgctxt "Comment"
+msgid "Used for warning notifications"
+msgstr "Used for warning notifications"
+
+#: freespacenotifier/freespacenotifier.notifyrc:295
+msgctxt "Name"
+msgid "Running low on disk space"
+msgstr "Running low on disk space"
+
+#: freespacenotifier/freespacenotifier.notifyrc:359
+msgctxt "Comment"
+msgid "You are running low on disk space"
+msgstr "You are running low on disk space"
+
+#: gmenu-dbusmenu-proxy/gmenudbusmenuproxy.desktop:3
+msgctxt "Name"
+msgid "GMenuDBusMenuProxy"
+msgstr "GMenuDBusMenuProxy"
+
+#: kcms/colors/colorschemes.knsrc:2
+msgctxt "Name"
+msgid "Color Schemes"
+msgstr "Colour Schemes"
+
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:2
+msgctxt "GenericName"
+msgid "Color scheme editor"
+msgstr "Colour scheme editor"
+
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:31
+msgctxt "Name"
+msgid "KColorSchemeEditor"
+msgstr "KColorSchemeEditor"
+
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:60
+msgctxt "Comment"
+msgid "Plasma color scheme editor"
+msgstr "Plasma colour scheme editor"
+
+#: kcms/colors/kcm_colors.desktop:14 kcms/colors/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Colors"
+msgstr "Colours"
+
+#: kcms/colors/kcm_colors.desktop:45 kcms/colors/package/metadata.desktop:32
+msgctxt "Comment"
+msgid "Choose color scheme"
+msgstr "Choose colour scheme"
+
+#: kcms/colors/kcm_colors.desktop:76
+msgctxt "X-KDE-Keywords"
+msgid ""
+"colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
+"theme"
+msgstr ""
+"colours,scheme,contrast,Widget colours,Colour Scheme,colour style,colour "
+"theme"
+
+#: kcms/cursortheme/kcm_cursortheme.desktop:13
+#: kcms/cursortheme/package/metadata.desktop:2
+#: kcms/cursortheme/xcursor/xcursor.knsrc:2
+msgctxt "Name"
+msgid "Cursors"
+msgstr "Cursors"
+
+#: kcms/cursortheme/kcm_cursortheme.desktop:44
+#: kcms/cursortheme/package/metadata.desktop:32
+msgctxt "Comment"
+msgid "Choose mouse cursor theme"
+msgstr "Choose mouse cursor theme"
+
+#: kcms/cursortheme/kcm_cursortheme.desktop:75
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
+"Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
+msgstr ""
+"Mouse,Cursor,Theme,Cursor Appearance,Cursor Colour,Cursor Theme,Mouse Theme,"
+"Mouse Appearance,Mouse Skins,Pointer Colours,Pointer Appearance"
+
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:13
+#: kcms/desktoptheme/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Plasma Style"
+msgstr "Plasma Style"
+
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:44
+msgctxt "Comment"
+msgid "Choose Plasma style"
+msgstr "Choose Plasma style"
+
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:74
+msgctxt "X-KDE-Keywords"
+msgid "Desktop Theme,Plasma Theme"
+msgstr "Desktop Theme,Plasma Theme"
+
+#: kcms/desktoptheme/package/metadata.desktop:33
+msgctxt "Comment"
+msgid "Choose Plasma theme"
+msgstr "Choose Plasma theme"
+
+#: kcms/desktoptheme/plasma-themes.knsrc:2
+msgctxt "Name"
+msgid "Plasma Styles"
+msgstr "Plasma Styles"
+
+#: kcms/feedback/kcm_feedback.desktop:13
+msgctxt "Name"
+msgid "User Feedback"
+msgstr "User Feedback"
+
+#: kcms/feedback/kcm_feedback.desktop:51
+msgctxt "Comment"
+msgid "Configure user feedback settings"
+msgstr "Configure user feedback settings"
+
+#: kcms/feedback/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Feedback"
+msgstr "Feedback"
+
+#: kcms/fonts/kcm_fonts.desktop:14 kcms/fonts/package/metadata.desktop:2
+#: kcms/kfontinst/kcmfontinst/kfontinst.knsrc:2
+#: kcms/kfontinst/kio/fonts.desktop:5
+msgctxt "Name"
+msgid "Fonts"
+msgstr "Fonts"
+
+#: kcms/fonts/kcm_fonts.desktop:45 kcms/fonts/package/metadata.desktop:33
+msgctxt "Comment"
+msgid "Configure user interface fonts"
+msgstr "Configure user interface fonts"
+
+#: kcms/fonts/kcm_fonts.desktop:75
+msgctxt "X-KDE-Keywords"
+msgid ""
+"fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
+"FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,"
+"toolbar fonts,character,general fonts"
+msgstr ""
+"fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
+"FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,"
+"toolbar fonts,character,general fonts"
+
+#: kcms/icons/icons.knsrc:2 kcms/icons/kcm_icons.desktop:14
+#: kcms/icons/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Icons"
+msgstr "Icons"
+
+#: kcms/icons/kcm_icons.desktop:46 kcms/icons/package/metadata.desktop:33
+msgctxt "Comment"
+msgid "Choose icon theme"
+msgstr "Choose icon theme"
+
+#: kcms/icons/kcm_icons.desktop:77
+msgctxt "X-KDE-Keywords"
+msgid "icons,effects,size,hicolor,locolor"
+msgstr "icons,effects,size,hicolor,locolor"
+
+#: kcms/kfontinst/apps/installfont.desktop:7
+msgctxt "Name"
+msgid "Install..."
+msgstr "Install..."
+
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:2
+msgctxt "Name"
+msgid "KFontView"
+msgstr "KFontView"
+
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:36
+msgctxt "GenericName"
+msgid "Font Viewer"
+msgstr "Font Viewer"
+
+#: kcms/kfontinst/dbus/fontinst.actions:2
+msgctxt "Name"
+msgid "Font Installer"
+msgstr "Font Installer"
+
+#: kcms/kfontinst/dbus/fontinst.actions:33
+msgctxt "Name"
+msgid "Manage system-wide fonts."
+msgstr "Manage system-wide fonts."
+
+#: kcms/kfontinst/dbus/fontinst.actions:62
+msgctxt "Description"
+msgid "Modifying the system-wide font configuration requires privileges."
+msgstr "Modifying the system-wide font configuration requires privileges."
+
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:14
+msgctxt "Name"
+msgid "Font Management"
+msgstr "Font Management"
+
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:45
+msgctxt "Comment"
+msgid "Install, manage and preview fonts"
+msgstr "Install, manage and preview fonts"
+
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:75
+msgctxt "X-KDE-Keywords"
+msgid "font,fonts,installer,truetype,type1,bitmap"
+msgstr "font,fonts,installer,truetype,type1,bitmap"
+
+#: kcms/kfontinst/thumbnail/fontthumbnail.desktop:3
+msgctxt "Name"
+msgid "Font Files"
+msgstr "Font Files"
+
+#: kcms/kfontinst/viewpart/kfontviewpart.desktop:2
+msgctxt "Name"
+msgid "Font Viewer"
+msgstr "Font Viewer"
+
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:14
+#: kcms/lookandfeel/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Global Theme"
+msgstr "Global Theme"
+
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:44
+#: kcms/lookandfeel/package/metadata.desktop:32
+msgctxt "Comment"
+msgid "Choose global look and feel"
+msgstr "Choose global look and feel"
+
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:73
+msgctxt "X-KDE-Keywords"
+msgid "theme, look, feel"
+msgstr "theme, look, feel"
+
+#: kcms/lookandfeel/lookandfeel.knsrc:2
+msgctxt "Name"
+msgid "Global Themes"
+msgstr "Global Themes"
+
+#: kcms/style/gtk_themes.knsrc:2
+msgctxt "Name"
+msgid "GNOME/GTK Application Styles"
+msgstr "GNOME/GTK Application Styles"
+
+#: kcms/style/kcm_style.desktop:16 kcms/style/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Application Style"
+msgstr "Application Style"
+
+#: kcms/style/kcm_style.desktop:46 kcms/style/package/metadata.desktop:32
+msgctxt "Comment"
+msgid "Configure application style and behavior"
+msgstr "Configure application style and behaviour"
+
+#: kcms/style/kcm_style.desktop:76
+msgctxt "X-KDE-Keywords"
+msgid ""
+"style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
+"theme,plasma,menu,global menu"
+msgstr ""
+"style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
+"theme,plasma,menu,global menu"
+
+#: kcms/translations/kcm_translations.desktop:15
+#: kcms/translations/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Language"
+msgstr "Language"
+
+#: kcms/translations/kcm_translations.desktop:54
+#: kcms/translations/package/metadata.desktop:41
+msgctxt "Comment"
+msgid "Change workspace and application languages"
+msgstr "Change workspace and application languages"
+
+#: kioslave/desktop/desktopnotifier.desktop:3
+msgctxt "Name"
+msgid "Directory Watcher"
+msgstr "Directory Watcher"
+
+#: kioslave/desktop/desktopnotifier.desktop:56
+msgctxt "Comment"
+msgid "Monitors directories for changes"
+msgstr "Monitors directories for changes"
+
+#: kioslave/desktop/./directory.trash:2
+msgctxt "Name"
+msgid "Trash"
+msgstr "Wastebin"
+
+#: kioslave/desktop/./directory.trash:50
+msgctxt "Comment"
+msgid "Contains removed files"
+msgstr "Contains removed files"
+
+#: klipper/klipper.desktop:2 klipper/org.kde.klipper.desktop:2
+msgctxt "Name"
+msgid "Klipper"
+msgstr "Klipper"
+
+#: klipper/klipper.desktop:92 klipper/org.kde.klipper.desktop:92
+msgctxt "GenericName"
+msgid "Clipboard Tool"
+msgstr "Clipboard Tool"
+
+#: klipper/klipper.desktop:195 klipper/org.kde.klipper.desktop:195
+msgctxt "Comment"
+msgid "A cut & paste history utility"
+msgstr "A cut & paste history utility"
+
+#: klipper/klipperrc.desktop:14
+msgctxt "Description"
+msgid "Jpeg-Image"
+msgstr "Jpeg-Image"
+
+#: klipper/klipperrc.desktop:109
+msgctxt "Description"
+msgid "Launch &Gwenview"
+msgstr "Launch &Gwenview"
+
+#: klipper/klipperrc.desktop:191
+msgctxt "Description"
+msgid "Web-URL"
+msgstr "Web-URL"
+
+#: klipper/klipperrc.desktop:284 klipper/klipperrc.desktop:1955
+msgctxt "Description"
+msgid "Open with &default Browser"
+msgstr "Open with &default Browser"
+
+#: klipper/klipperrc.desktop:367 klipper/klipperrc.desktop:2038
+msgctxt "Description"
+msgid "Open with &Konqueror"
+msgstr "Open with &Konqueror"
+
+#: klipper/klipperrc.desktop:461 klipper/klipperrc.desktop:2131
+msgctxt "Description"
+msgid "Open with &Mozilla"
+msgstr "Open with &Mozilla"
+
+#: klipper/klipperrc.desktop:554 klipper/klipperrc.desktop:1392
+#: klipper/klipperrc.desktop:1673 klipper/klipperrc.desktop:2224
+msgctxt "Description"
+msgid "Send &URL"
+msgstr "Send &URL"
+
+#: klipper/klipperrc.desktop:649
+msgctxt "Description"
+msgid "Open with &Firefox"
+msgstr "Open with &Firefox"
+
+#: klipper/klipperrc.desktop:739
+msgctxt "Description"
+msgid "Send &Page"
+msgstr "Send &Page"
+
+#: klipper/klipperrc.desktop:832
+msgctxt "Description"
+msgid "Mail-URL"
+msgstr "Mail-URL"
+
+#: klipper/klipperrc.desktop:925
+msgctxt "Description"
+msgid "Launch &Kmail"
+msgstr "Launch &KMail"
+
+#: klipper/klipperrc.desktop:1018
+msgctxt "Description"
+msgid "Launch &mutt"
+msgstr "Launch &Mutt"
+
+#: klipper/klipperrc.desktop:1109
+msgctxt "Description"
+msgid "Text File"
+msgstr "Text File"
+
+#: klipper/klipperrc.desktop:1206
+msgctxt "Description"
+msgid "Launch K&Write"
+msgstr "Launch K&Write"
+
+#: klipper/klipperrc.desktop:1298
+msgctxt "Description"
+msgid "Local file URL"
+msgstr "Local file URL"
+
+#: klipper/klipperrc.desktop:1486 klipper/klipperrc.desktop:1767
+#: klipper/klipperrc.desktop:2318
+msgctxt "Description"
+msgid "Send &File"
+msgstr "Send &File"
+
+#: klipper/klipperrc.desktop:1580
+msgctxt "Description"
+msgid "Gopher URL"
+msgstr "Gopher URL"
+
+#: klipper/klipperrc.desktop:1861
+msgctxt "Description"
+msgid "ftp URL"
+msgstr "FTP URL"
+
+#: klipper/plasma-dataengine-clipboard.desktop:55
+msgctxt "Comment"
+msgid "Clipboard Tool."
+msgstr "Clipboard Tool."
+
+#: krunner/krunner.desktop:3
+msgctxt "Name"
+msgid "KRunner"
+msgstr "KRunner"
+
+#: krunner/krunner.desktop:63
+msgctxt "Name"
+msgid "Run command on clipboard contents"
+msgstr "Run command on clipboard contents"
+
+#: ktimezoned/ktimezoned.desktop:9
+msgctxt "Name"
+msgid "Time Zone"
+msgstr "Time Zone"
+
+#: ktimezoned/ktimezoned.desktop:79
+msgctxt "Comment"
+msgid "Provides the system's time zone to applications"
+msgstr "Provides the system's time zone to applications"
+
+#: libcolorcorrect/kded/colorcorrectlocationupdater.desktop:3
+msgctxt "Name"
+msgid "ColorCorrect Geolocation Updater"
+msgstr "ColourCorrect Geolocation Updater"
+
+#: libcolorcorrect/kded/colorcorrectlocationupdater.desktop:46
+msgctxt "Comment"
+msgid "Sends updated location data to the compositor"
+msgstr "Sends updated location data to the compositor"
+
+#: login-sessions/plasma.desktop.cmake:6
+msgctxt "Name"
+msgid "Plasma"
+msgstr "Plasma"
+
+#: login-sessions/plasma.desktop.cmake:58
+#: login-sessions/plasmawayland.desktop.cmake:43
+#: login-sessions/plasmawayland-dev.desktop.cmake:39
+#: login-sessions/plasmax11-dev.desktop.cmake:40
+msgctxt "Comment"
+msgid "Plasma by KDE"
+msgstr "Plasma by KDE"
+
+#: login-sessions/plasmawayland.desktop.cmake:5
+msgctxt "Name"
+msgid "Plasma (Wayland)"
+msgstr "Plasma (Wayland)"
+
+#: login-sessions/plasmawayland-dev.desktop.cmake:4
+msgctxt "Name"
+msgid "Plasma (Development, Wayland ${CMAKE_INSTALL_FULL_BINDIR})"
+msgstr "Plasma (Development, Wayland ${CMAKE_INSTALL_FULL_BINDIR})"
+
+#: login-sessions/plasmax11-dev.desktop.cmake:5
+msgctxt "Name"
+msgid "Plasma (Development, X11 ${CMAKE_INSTALL_FULL_BINDIR})"
+msgstr "Plasma (Development, X11 ${CMAKE_INSTALL_FULL_BINDIR})"
+
+#: lookandfeel/metadata.desktop:2
+msgctxt "Comment"
+msgid "Breeze by the KDE VDG"
+msgstr "Breeze by the KDE VDG"
+
+#: lookandfeel/metadata.desktop:38
+msgctxt "Keywords"
+msgid ""
+"Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;"
+"Hibernate;"
+msgstr ""
+"Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;"
+"Hibernate;"
+
+#: lookandfeel/metadata.desktop:82 sddm-theme/metadata.desktop:2
+msgctxt "Name"
+msgid "Breeze"
+msgstr "Breeze"
+
+#: menu/desktop/hidden.directory:3
+msgctxt "Name"
+msgid "Internal Services"
+msgstr "Internal Services"
+
+#: menu/desktop/kf5-development.directory:3
+msgctxt "Name"
+msgid "Development"
+msgstr "Development"
+
+#: menu/desktop/kf5-development-translation.directory:3
+msgctxt "Name"
+msgid "Translation"
+msgstr "Translation"
+
+#: menu/desktop/kf5-development-webdevelopment.directory:3
+msgctxt "Name"
+msgid "Web Development"
+msgstr "Web Development"
+
+#: menu/desktop/kf5-editors.directory:3
+msgctxt "Name"
+msgid "Editors"
+msgstr "Editors"
+
+#: menu/desktop/kf5-education.directory:3
+msgctxt "Name"
+msgid "Education"
+msgstr "Education"
+
+#: menu/desktop/kf5-edu-languages.directory:4
+msgctxt "Name"
+msgid "Languages"
+msgstr "Languages"
+
+#: menu/desktop/kf5-edu-mathematics.directory:4
+msgctxt "Name"
+msgid "Mathematics"
+msgstr "Mathematics"
+
+#: menu/desktop/kf5-edu-miscellaneous.directory:4
+msgctxt "Name"
+msgid "Miscellaneous"
+msgstr "Miscellaneous"
+
+#: menu/desktop/kf5-edu-science.directory:4
+msgctxt "Name"
+msgid "Science"
+msgstr "Science"
+
+#: menu/desktop/kf5-edu-tools.directory:4
+msgctxt "Name"
+msgid "Teaching Tools"
+msgstr "Teaching Tools"
+
+#: menu/desktop/kf5-games-arcade.directory:3
+msgctxt "Name"
+msgid "Arcade"
+msgstr "Arcade"
+
+#: menu/desktop/kf5-games-board.directory:3
+msgctxt "Name"
+msgid "Board Games"
+msgstr "Board Games"
+
+#: menu/desktop/kf5-games-card.directory:3
+msgctxt "Name"
+msgid "Card Games"
+msgstr "Card Games"
+
+#: menu/desktop/kf5-games.directory:3
+msgctxt "Name"
+msgid "Games"
+msgstr "Games"
+
+#: menu/desktop/kf5-games-kids.directory:3
+msgctxt "Name"
+msgid "Games for Kids"
+msgstr "Games for Kids"
+
+#: menu/desktop/kf5-games-logic.directory:3
+msgctxt "Name"
+msgid "Logic Games"
+msgstr "Logic Games"
+
+#: menu/desktop/kf5-games-roguelikes.directory:3
+msgctxt "Name"
+msgid "Rogue-like Games"
+msgstr "Rogue-like Games"
+
+#: menu/desktop/kf5-games-strategy.directory:3
+msgctxt "Name"
+msgid "Tactics & Strategy"
+msgstr "Tactics & Strategy"
+
+#: menu/desktop/kf5-graphics.directory:3
+msgctxt "Name"
+msgid "Graphics"
+msgstr "Graphics"
+
+#: menu/desktop/kf5-internet.directory:3
+msgctxt "Name"
+msgid "Internet"
+msgstr "Internet"
+
+#: menu/desktop/kf5-internet-terminal.directory:3
+#: menu/desktop/kf5-system-terminal.directory:3
+msgctxt "Name"
+msgid "Terminal Applications"
+msgstr "Terminal Applications"
+
+#: menu/desktop/kf5-main.directory:4
+msgctxt "Name"
+msgid "KDE Menu"
+msgstr "KDE Menu"
+
+#: menu/desktop/kf5-more.directory:4
+msgctxt "Name"
+msgid "More Applications"
+msgstr "More Applications"
+
+#: menu/desktop/kf5-multimedia.directory:3
+msgctxt "Name"
+msgid "Multimedia"
+msgstr "Multimedia"
+
+#: menu/desktop/kf5-network.directory:3
+msgctxt "Name"
+msgid "Network"
+msgstr "Network"
+
+#: menu/desktop/kf5-office.directory:3
+msgctxt "Name"
+msgid "Office"
+msgstr "Office"
+
+#: menu/desktop/kf5-science.directory:4
+msgctxt "Name"
+msgid "Science & Math"
+msgstr "Science & Maths"
+
+#: menu/desktop/kf5-settingsmenu.directory:3
+msgctxt "Name"
+msgid "Settings"
+msgstr "Settings"
+
+#: menu/desktop/kf5-system.directory:3
+msgctxt "Name"
+msgid "System"
+msgstr "System"
+
+#: menu/desktop/kf5-toys.directory:3
+msgctxt "Name"
+msgid "Toys"
+msgstr "Toys"
+
+#: menu/desktop/kf5-unknown.directory:3
+msgctxt "Name"
+msgid "Lost & Found"
+msgstr "Lost & Found"
+
+#: menu/desktop/kf5-utilities-accessibility.directory:3
+msgctxt "Name"
+msgid "Accessibility"
+msgstr "Accessibility"
+
+#: menu/desktop/kf5-utilities-accessibility.directory:98
+msgctxt "Comment"
+msgid "Accessibility"
+msgstr "Accessibility"
+
+#: menu/desktop/kf5-utilities-desktop.directory:3
+msgctxt "Name"
+msgid "Desktop"
+msgstr "Desktop"
+
+#: menu/desktop/kf5-utilities-desktop.directory:58
+msgctxt "Comment"
+msgid "Desktop"
+msgstr "Desktop"
+
+#: menu/desktop/kf5-utilities.directory:3
+msgctxt "Name"
+msgid "Utilities"
+msgstr "Utilities"
+
+#: menu/desktop/kf5-utilities.directory:58
+msgctxt "Comment"
+msgid "Utilities"
+msgstr "Utilities"
+
+#: menu/desktop/kf5-utilities-file.directory:3
+msgctxt "Name"
+msgid "File"
+msgstr "File"
+
+#: menu/desktop/kf5-utilities-file.directory:60
+msgctxt "Comment"
+msgid "File"
+msgstr "File"
+
+#: menu/desktop/kf5-utilities-peripherals.directory:3
+msgctxt "Name"
+msgid "Peripherals"
+msgstr "Peripherals"
+
+#: menu/desktop/kf5-utilities-peripherals.directory:94
+msgctxt "Comment"
+msgid "Peripherals"
+msgstr "Peripherals"
+
+#: menu/desktop/kf5-utilities-pim.directory:3
+msgctxt "Name"
+msgid "PIM"
+msgstr "PIM"
+
+#: menu/desktop/kf5-utilities-pim.directory:90
+msgctxt "Comment"
+msgid "PIM"
+msgstr "PIM"
+
+#: menu/desktop/kf5-utilities-xutils.directory:4
+msgctxt "Name"
+msgid "X-Utilities"
+msgstr "X-Utilities"
+
+#: menu/desktop/kf5-utilities-xutils.directory:55
+msgctxt "Comment"
+msgid "X Window Utilities"
+msgstr "X Window Utilities"
+
+#: phonon/platform_kde/phononbackend.desktop:4
+msgctxt "Name"
+msgid "KDE Multimedia Backend"
+msgstr "KDE Multimedia Backend"
+
+#: phonon/platform_kde/phonon.notifyrc:3
+msgctxt "Comment"
+msgid "Multimedia System"
+msgstr "Multimedia System"
+
+#: phonon/platform_kde/phonon.notifyrc:74
+msgctxt "Name"
+msgid "Application"
+msgstr "Application"
+
+#: phonon/platform_kde/phonon.notifyrc:130
+msgctxt "Name"
+msgid "Audio Output Device Changed"
+msgstr "Audio Output Device Changed"
+
+#: phonon/platform_kde/phonon.notifyrc:194
+msgctxt "Comment"
+msgid "Notification when audio output device has automatically changed"
+msgstr "Notification when audio output device has automatically changed"
+
+#: plasma-windowed/plasma-windowed.desktop:2
+msgctxt "Name"
+msgid "Plasma Windowed"
+msgstr "Plasma Windowed"
+
+#: plasma-windowed/plasma-windowed.desktop:49
+msgctxt "Comment"
+msgid "Run Plasmoids as simple applications"
+msgstr "Run Plasmoids as simple applications"
+
+#: runners/activities/plasma-runner-activityrunner.desktop:2
+msgctxt "Name"
+msgid "Activities"
+msgstr "Activities"
+
+#: runners/activities/plasma-runner-activityrunner.desktop:63
+msgctxt "Comment"
+msgid "List and switch between desktop activities"
+msgstr "List and switch between desktop activities"
+
+#: runners/appstream/plasma-runner-appstream.desktop:2
+msgctxt "Name"
+msgid "Software Center"
+msgstr "Software Centre"
+
+#: runners/appstream/plasma-runner-appstream.desktop:47
+msgctxt "Comment"
+msgid "Lets you find software"
+msgstr "Lets you find software"
+
+#: runners/baloo/plasma-runner-baloosearch.desktop:2
+msgctxt "Name"
+msgid "Desktop Search"
+msgstr "Desktop Search"
+
+#: runners/baloo/plasma-runner-baloosearch.desktop:53
+msgctxt "Comment"
+msgid "Searches through files, emails and contacts"
+msgstr "Searches through files, emails and contacts"
+
+#: runners/bookmarks/plasma-runner-bookmarks.desktop:3
+msgctxt "Name|plasma runner"
+msgid "Bookmarks"
+msgstr "Bookmarks"
+
+#: runners/bookmarks/plasma-runner-bookmarks.desktop:74
+msgctxt "Comment"
+msgid "Find and open bookmarks"
+msgstr "Find and open bookmarks"
+
+#: runners/calculator/plasma-runner-calculator.desktop:2
+msgctxt "Name"
+msgid "Calculator"
+msgstr "Calculator"
+
+#: runners/calculator/plasma-runner-calculator.desktop:84
+msgctxt "Comment"
+msgid "Calculate expressions"
+msgstr "Calculate expressions"
+
+#: runners/kill/plasma-runner-kill_config.desktop:9
+msgctxt "Name"
+msgid "Kill Applications"
+msgstr "Kill Applications"
+
+#: runners/kill/plasma-runner-kill.desktop:2
+msgctxt "Name"
+msgid "Terminate Applications"
+msgstr "Terminate Applications"
+
+#: runners/kill/plasma-runner-kill.desktop:72
+msgctxt "Comment"
+msgid "Stop applications that are currently running"
+msgstr "Stop applications that are currently running"
+
+#: runners/locations/plasma-runner-locations.desktop:2
+msgctxt "Name"
+msgid "Locations"
+msgstr "Locations"
+
+#: runners/locations/plasma-runner-locations.desktop:80
+msgctxt "Comment"
+msgid "File and URL opener"
+msgstr "File and URL opener"
+
+#: runners/places/plasma-runner-places.desktop:83
+msgctxt "Comment"
+msgid "Open devices and folder bookmarks"
+msgstr "Open devices and folder bookmarks"
+
+#: runners/powerdevil/plasma-runner-powerdevil.desktop:2
+msgctxt "Comment"
+msgid "Basic Power Management Operations"
+msgstr "Basic Power Management Operations"
+
+#: runners/powerdevil/plasma-runner-powerdevil.desktop:75
+msgctxt "Name"
+msgid "Power"
+msgstr "Power"
+
+#: runners/recentdocuments/plasma-runner-recentdocuments.desktop:2
+msgctxt "Name"
+msgid "Recent Files"
+msgstr "Recent Files"
+
+#: runners/services/plasma-runner-services.desktop:2
+msgctxt "Name"
+msgid "Applications"
+msgstr "Applications"
+
+#: runners/services/plasma-runner-services.desktop:95
+msgctxt "Comment"
+msgid "Find applications, control panels and services"
+msgstr "Find applications, control panels and services"
+
+#: runners/sessions/plasma-runner-sessions.desktop:2
+msgctxt "Name"
+msgid "Desktop Sessions"
+msgstr "Desktop Sessions"
+
+#: runners/sessions/plasma-runner-sessions.desktop:79
+msgctxt "Comment"
+msgid "Fast user switching"
+msgstr "Fast user switching"
+
+#: runners/shell/plasma-runner-shell.desktop:2
+msgctxt "Name"
+msgid "Command Line"
+msgstr "Command Line"
+
+#: runners/shell/plasma-runner-shell.desktop:81
+msgctxt "Comment"
+msgid "Executes shell commands"
+msgstr "Executes shell commands"
+
+#: runners/webshortcuts/plasma-runner-webshortcuts.desktop:3
+msgctxt "Name|plasma runner"
+msgid "Web Search Keywords"
+msgstr "Web Search Keywords"
+
+#: runners/webshortcuts/plasma-runner-webshortcuts.desktop:30
+msgctxt "Comment"
+msgid "Search the web using keywords"
+msgstr "Search the web using keywords"
+
+#: runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:2
+msgctxt "Name"
+msgid "Windowed widgets"
+msgstr "Windowed widgets"
+
+#: runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:67
+msgctxt "Comment"
+msgid "Find Plasma widgets that can be run as standalone windows"
+msgstr "Find Plasma widgets that can be run as standalone windows"
+
+#: runners/windows/plasma-runner-windows.desktop:3
+msgctxt "Name|plasma runner"
+msgid "Windows"
+msgstr "Windows"
+
+#: runners/windows/plasma-runner-windows.desktop:74
+msgctxt "Comment"
+msgid "List windows and desktops and switch them"
+msgstr "List windows and desktops and switch them"
+
+#: sddm-theme/metadata.desktop:52
+msgctxt "Description"
+msgid "Breeze"
+msgstr "Breeze"
+
+#: shell/org.kde.plasmashell.desktop.cmake:4
+msgctxt "Name"
+msgid "Plasma Desktop Workspace"
+msgstr "Plasma Desktop Workspace"
+
+#: shell/packageplugins/layouttemplate/plasma-packagestructure-layouttemplate.desktop:2
+msgctxt "Name"
+msgid "Layout Template"
+msgstr "Layout Template"
+
+#: shell/packageplugins/lookandfeel/plasma-packagestructure-lookandfeel.desktop:2
+msgctxt "Name"
+msgid "Look and Feel"
+msgstr "Look and Feel"
+
+#: shell/packageplugins/qmlWallpaper/plasma-packagestructure-wallpaper.desktop:2
+msgctxt "Name"
+msgid "Wallpaper"
+msgstr "Wallpaper"
+
+#: shell/packageplugins/shell/plasma-packagestructure-plasma-shell.desktop:2
+msgctxt "Name"
+msgid "Plasma Shell"
+msgstr "Plasma Shell"
+
+#: shell/packageplugins/wallpaperimages/plasma-packagestructure-wallpaperimages.desktop:2
+msgctxt "Name"
+msgid "Wallpaper Images"
+msgstr "Wallpaper Images"
+
+#: solidautoeject/solidautoeject.desktop:6
+msgctxt "Name"
+msgid "Drive Ejector"
+msgstr "Drive Ejector"
+
+#: solidautoeject/solidautoeject.desktop:71
+msgctxt "Comment"
+msgid "Automatically releases drives when their eject button is pushed"
+msgstr "Automatically releases drives when their eject button is pushed"
+
+#: soliduiserver/soliduiserver.desktop:7
+msgctxt "Name"
+msgid "Hardware Detection"
+msgstr "Hardware Detection"
+
+#: soliduiserver/soliduiserver.desktop:57
+msgctxt "Comment"
+msgid "Provides a user interface for hardware events"
+msgstr "Provides a user interface for hardware events"
+
+#: statusnotifierwatcher/statusnotifierwatcher.desktop:3
+msgctxt "Name"
+msgid "Status Notifier Manager"
+msgstr "Status Notifier Manager"
+
+#: statusnotifierwatcher/statusnotifierwatcher.desktop:65
+msgctxt "Comment"
+msgid "Manages services that provide status notifier user interfaces"
+msgstr "Manages services that provide status notifier user interfaces"
+
+#: systemmonitor/ksysguard.desktop:10
+msgctxt "Name"
+msgid "KSysguard"
+msgstr "KSysguard"
+
+#: systemmonitor/ksysguard.desktop:60
+msgctxt "Comment"
+msgid "Launches KSysguard on Ctrl + Escape"
+msgstr "Launches KSysguard on Ctrl + Escape"
+
+#: templates/ion-dataengine/ion-dataengine.kdevtemplate:3
+msgctxt "Name"
+msgid "Plasma Weather Ion Dataengine"
+msgstr "Plasma Weather Ion Dataengine"
+
+#: templates/ion-dataengine/ion-dataengine.kdevtemplate:45
+msgctxt "Comment"
+msgid ""
+"A special Plasma sub-dataengine for the Plasma Weather dataengine, providing "
+"access to one weather data service provider"
+msgstr ""
+"A special Plasma sub-dataengine for the Plasma Weather dataengine, providing "
+"access to one weather data service provider"
+
+#: themes/qtcde.themerc:2
+msgctxt "Name"
+msgid "CDE"
+msgstr "CDE"
+
+#: themes/qtcde.themerc:91
+msgctxt "Comment"
+msgid "Built-in unthemed CDE style"
+msgstr "Built-in unthemed CDE style"
+
+#: themes/qtcleanlooks.themerc:2
+msgctxt "Name"
+msgid "Cleanlooks"
+msgstr "Cleanlooks"
+
+#: themes/qtcleanlooks.themerc:68
+msgctxt "Comment"
+msgid "Built-in unthemed style similar to Clearlooks from GNOME"
+msgstr "Built-in unthemed style similar to Clearlooks from GNOME"
+
+#: themes/qtgtk.themerc:2
+msgctxt "Name"
+msgid "GTK+ Style"
+msgstr "GTK+ Style"
+
+#: themes/qtgtk.themerc:72
+msgctxt "Comment"
+msgid "Style that uses the GTK+ theming engine"
+msgstr "Style that uses the GTK+ theming engine"
+
+#: themes/qtmacintosh.themerc:2
+msgctxt "Name"
+msgid "Mac OS X"
+msgstr "Mac OS X"
+
+#: themes/qtmacintosh.themerc:75
+msgctxt "Comment"
+msgid "Style that uses the Apple Appearance Manager"
+msgstr "Style that uses the Apple Appearance Manager"
+
+#: themes/qtmotif.themerc:2
+msgctxt "Name"
+msgid "Motif"
+msgstr "Motif"
+
+#: themes/qtmotif.themerc:87
+msgctxt "Comment"
+msgid "Built-in unthemed Motif style"
+msgstr "Built-in unthemed Motif style"
+
+#: themes/qtplastique.themerc:2
+msgctxt "Name"
+msgid "Plastique"
+msgstr "Plastique"
+
+#: themes/qtplastique.themerc:71
+msgctxt "Comment"
+msgid "Built-in unthemed style similar to Plastik from KDE3"
+msgstr "Built-in unthemed style similar to Plastik from KDE3"
+
+#: themes/qtwindows.themerc:2
+msgctxt "Name"
+msgid "MS Windows 9x"
+msgstr "MS Windows 9x"
+
+#: themes/qtwindows.themerc:90
+msgctxt "Comment"
+msgid "Built-in unthemed Windows 9x style"
+msgstr "Built-in unthemed Windows 9x style"
+
+#: themes/qtwindowsvista.themerc:2
+msgctxt "Name"
+msgid "MS Windows Vista"
+msgstr "MS Windows Vista"
+
+#: themes/qtwindowsvista.themerc:73
+msgctxt "Comment"
+msgid "Style that uses the Windows Vista style engine"
+msgstr "Style that uses the Windows Vista style engine"
+
+#: themes/qtwindowsxp.themerc:2
+msgctxt "Name"
+msgid "MS Windows XP"
+msgstr "MS Windows XP"
+
+#: themes/qtwindowsxp.themerc:73
+msgctxt "Comment"
+msgid "Style that uses the Windows XP style engine"
+msgstr "Style that uses the Windows XP style engine"
+
+#: wallpapers/color/metadata.desktop:4
+msgctxt "Name"
+msgid "Plain Color"
+msgstr "Plain Colour"
+
+#: wallpapers/color/metadata.desktop:56
+msgctxt "Comment"
+msgid "Plain color wallpaper"
+msgstr "Plain colour wallpaper"
+
+#: wallpapers/color/plasma-wallpaper-color.desktop:2
+msgctxt "Name"
+msgid "Color"
+msgstr "Colour"
+
+#: wallpapers/color/plasma-wallpaper-color.desktop:56
+msgctxt "Comment"
+msgid "A plain color or gradient"
+msgstr "A plain colour or gradient"
+
+#: wallpapers/image/imagepackage/metadata.desktop:4
+msgctxt "Name"
+msgid "Image"
+msgstr "Image"
+
+#: wallpapers/image/imagepackage/metadata.desktop:84
+msgctxt "Comment"
+msgid "Wallpaper view for images"
+msgstr "Wallpaper view for images"
+
+#: wallpapers/image/slideshowpackage/metadata.desktop:4
+msgctxt "Name"
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: wallpapers/image/slideshowpackage/metadata.desktop:80
+msgctxt "Comment"
+msgid "Slideshow wallpaper"
+msgstr "Slideshow wallpaper"
+
+#: xembed-sni-proxy/xembedsniproxy.desktop:3
+msgctxt "Name"
+msgid "XembedSniProxy"
+msgstr "XembedSniProxy"
+
+#~ msgctxt "Name"
+#~ msgid "Device Notifier"
+#~ msgstr "Device Notifier"
+
+#~ msgctxt "Name|plasma runner"
+#~ msgid "Web Shortcuts"
+#~ msgstr "Web Shortcuts"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows user to use Konqueror's web shortcuts"
+#~ msgstr "Allows user to use Konqueror's web shortcuts"
+
+#~ msgctxt "Name"
+#~ msgid "Recent Documents"
+#~ msgstr "Recent Documents"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "System monitoring applet"
+#~ msgctxt "Name"
+#~ msgid "System monitor Sensor Display Styles"
+#~ msgstr "System monitoring applet"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "System monitoring applet"
+#~ msgctxt "Name"
+#~ msgid "System monitor Sensor Presets"
+#~ msgstr "System monitoring applet"
+
+#~ msgctxt "Name"
+#~ msgid "CPU Load Monitor"
+#~ msgstr "CPU Load Monitor"
+
+#~ msgctxt "Comment"
+#~ msgid "Monitor the load of the CPUs"
+#~ msgstr "Monitor the load of the CPUs"
+
+#~ msgctxt "Comment"
+#~ msgid "An applet that monitors hard disk space usage and percentage"
+#~ msgstr "An applet that monitors hard disk space usage and percentage"
+
+#~ msgctxt "Comment"
+#~ msgid "A RAM usage monitor"
+#~ msgstr "A RAM usage monitor"
+
+#~ msgctxt "Name"
+#~ msgid "Network Monitor"
+#~ msgstr "Network Monitor"
+
+#~ msgctxt "Comment"
+#~ msgid "A network usage monitor"
+#~ msgstr "A network usage monitor"
+
+#~ msgctxt "Name"
+#~ msgid "Wallpapers"
+#~ msgstr "Wallpapers"
+
+#~ msgctxt "Name"
+#~ msgid "im9.eu"
+#~ msgstr "im9.eu"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows images to be shared using the im9.eu service"
+#~ msgstr "Allows images to be shared using the im9.eu service"
+
+#~ msgctxt "Name"
+#~ msgid "img.susepaste.org"
+#~ msgstr "img.susepaste.org"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows images to be shared using the susepaste.org service"
+#~ msgstr "Allows images to be shared using the susepaste.org service"
+
+#~ msgctxt "Name"
+#~ msgid "Imgur"
+#~ msgstr "Imgur"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows images to be shared using the imgur service"
+#~ msgstr "Allows images to be shared using the imgur service"
+
+#~ msgctxt "Name"
+#~ msgid "paste.kde.org"
+#~ msgstr "paste.kde.org"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows text to be shared using the kde.org service"
+#~ msgstr "Allows text to be shared using the kde.org service"
+
+#~ msgctxt "Name"
+#~ msgid "pastebin.com"
+#~ msgstr "pastebin.com"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows text to be shared using the pastebin.com service"
+#~ msgstr "Allows text to be shared using the pastebin.com service"
+
+#~ msgctxt "Name"
+#~ msgid "paste.opensuse.org"
+#~ msgstr "paste.opensuse.org"
+
+#~ msgctxt "Comment"
+#~ msgid "Paste text with openSUSE"
+#~ msgstr "Paste text with openSUSE"
+
+#~ msgctxt "Name"
+#~ msgid "paste.ubuntu.com"
+#~ msgstr "paste.ubuntu.com"
+
+#~ msgctxt "Name"
+#~ msgid "privatepaste.com"
+#~ msgstr "privatepaste.com"
+
+#~ msgctxt "Comment"
+#~ msgid "Paste text with the PrivatePaste.com service"
+#~ msgstr "Paste text with the PrivatePaste.com service"
+
+#~ msgctxt "Name"
+#~ msgid "Simplest Image Hosting"
+#~ msgstr "Simplest Image Hosting"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows images to be shared using the Simplest Image Hosting service"
+#~ msgstr "Allows images to be shared using the Simplest Image Hosting service"
+
+#~ msgctxt "Name"
+#~ msgid "wklej.org"
+#~ msgstr "wklej.org"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows text to be shared using the wklej.org service"
+#~ msgstr "Allows text to be shared using the wklej.org service"
+
+#~ msgctxt "Name"
+#~ msgid "wstaw.org"
+#~ msgstr "wstaw.org"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows images to be shared using the wstaw.org service"
+#~ msgstr "Allows images to be shared using the wstaw.org service"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for Plasma Sharebin"
+#~ msgstr "Plugin for Plasma Sharebin"
+
+#~ msgctxt "Name"
+#~ msgid "ShareProvider"
+#~ msgstr "ShareProvider"
+
+#~ msgctxt "Comment"
+#~ msgid "Share Package Structure"
+#~ msgstr "Share Package Structure"
+
+#~ msgctxt "Name"
+#~ msgid "Share Services"
+#~ msgstr "Share Services"
+
+#~ msgctxt "Comment"
+#~ msgid "Engine to share content using different services"
+#~ msgstr "Engine to share content using different services"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage removable devices"
+#~ msgstr "Manage removable devices"
+
+#~ msgctxt "Name"
+#~ msgid "kuiserver"
+#~ msgstr "kuiserver"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE's Progress Info UI server"
+#~ msgstr "KDE's Progress Info UI server"
+
+#~ msgctxt "Description"
+#~ msgid "Breeze Theme"
+#~ msgstr "Breeze Theme"
+
+#~ msgctxt "Name"
+#~ msgid "BBC Weather from UK MET Office"
+#~ msgstr "BBC Weather from UK MET Office"
+
+#~ msgctxt "Comment"
+#~ msgid "XML Data from the UK MET Office"
+#~ msgstr "XML Data from the UK MET Office"
+
+#~ msgctxt "Name"
+#~ msgid "Akonadi"
+#~ msgstr "Akonadi"
+
+#~ msgctxt "Comment"
+#~ msgid "Akonadi PIM data engine"
+#~ msgstr "Akonadi PIM data engine"
+
+#~ msgctxt "Comment"
+#~ msgid "Calendar data engine"
+#~ msgstr "Calendar data engine"
+
+#~ msgctxt "Comment"
+#~ msgid "Network interface information"
+#~ msgstr "Network interface information"
+
+#~ msgctxt "Name"
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgctxt "Comment"
+#~ msgid "RSS News Data Engine"
+#~ msgstr "RSS News Data Engine"
+
+#~ msgctxt "Name"
+#~ msgid "Home"
+#~ msgstr "Home"
+
+#~ msgctxt "GenericName"
+#~ msgid "Personal Files"
+#~ msgstr "Personal Files"
+
+#~ msgctxt "Name"
+#~ msgid "B3/KDE"
+#~ msgstr "B3/KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "B3/Modification of B2"
+#~ msgstr "B3/Modification of B2"
+
+#~ msgctxt "Name"
+#~ msgid "BeOS"
+#~ msgstr "BeOS"
+
+#~ msgctxt "Comment"
+#~ msgid "Unthemed BeOS-like style"
+#~ msgstr "Unthemed BeOS-like style"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Classic"
+#~ msgstr "KDE Classic"
+
+#~ msgctxt "Comment"
+#~ msgid "Classic KDE style"
+#~ msgstr "Classic KDE style"
+
+#~ msgctxt "Name"
+#~ msgid "HighColor Classic"
+#~ msgstr "HighColor Classic"
+
+#~ msgctxt "Comment"
+#~ msgid "Highcolor version of the classic style"
+#~ msgstr "High-colour version of the classic style"
+
+#~ msgctxt "Name"
+#~ msgid "Keramik"
+#~ msgstr "Keramik"
+
+#~ msgctxt "Comment"
+#~ msgid "A style using alphablending"
+#~ msgstr "A style using alphablending"
+
+#~ msgctxt "Name"
+#~ msgid "Light Style, 2nd revision"
+#~ msgstr "Light Style, 2nd revision"
+
+#~ msgctxt "Comment"
+#~ msgid "Second revision of the simple and elegant 'Light' widget style."
+#~ msgstr "Second revision of the simple and elegant 'Light' widget style."
+
+#~ msgctxt "Name"
+#~ msgid "Light Style, 3rd revision"
+#~ msgstr "Light Style, 3rd revision"
+
+#~ msgctxt "Comment"
+#~ msgid "Third revision of the simple and elegant 'Light' widget style."
+#~ msgstr "Third revision of the simple and elegant 'Light' widget style."
+
+#~ msgctxt "Name"
+#~ msgid "MegaGradient highcolor style"
+#~ msgstr "MegaGradient high-colour style"
+
+#~ msgctxt "Name"
+#~ msgid "Motif Plus"
+#~ msgstr "Motif Plus"
+
+#~ msgctxt "Comment"
+#~ msgid "Built-in enhanced Motif style"
+#~ msgstr "Built-in enhanced Motif style"
+
+#~ msgctxt "Name"
+#~ msgid "Platinum"
+#~ msgstr "Platinum"
+
+#~ msgctxt "Comment"
+#~ msgid "Built-in unthemed Platinum style"
+#~ msgstr "Built-in unthemed Platinum style"
+
+#~ msgctxt "Name"
+#~ msgid "SGI"
+#~ msgstr "SGI"
+
+#~ msgctxt "Comment"
+#~ msgid "Built-in SGI style"
+#~ msgstr "Built-in SGI style"
+
+#~ msgctxt "Name"
+#~ msgid "Contour"
+#~ msgstr "Contour"
+
+#~ msgctxt "Name"
+#~ msgid "Default"
+#~ msgstr "Default"
+
+#~ msgctxt "Comment"
+#~ msgid "Default Plasma Desktop theme"
+#~ msgstr "Default Plasma Desktop theme"
+
+#~ msgctxt "Comment"
+#~ msgid "Classic menu for finding and starting applications"
+#~ msgstr "Classic menu for finding and starting applications"
+
+#~ msgctxt "Name"
+#~ msgid "%{APPNAME} Weather Data Provider"
+#~ msgstr "%{APPNAME} Weather Data Provider"
+
+#~ msgctxt "Comment"
+#~ msgid "Access to the weather data provider %{APPNAME}"
+#~ msgstr "Access to the weather data provider %{APPNAME}"
+
+#~ msgctxt "Name"
+#~ msgid "gdb"
+#~ msgstr "gdb"
+
+#~ msgctxt "Name"
+#~ msgid "kdbg"
+#~ msgstr "kdbg"
+
+#~ msgctxt "Name"
+#~ msgid "dbx"
+#~ msgstr "dbx"
+
+#~ msgctxt "Name"
+#~ msgid "kdbgwin"
+#~ msgstr "kdbgwin"
+
+#~ msgctxt "Name"
+#~ msgid "Remote URL Change Notifier"
+#~ msgstr "Remote URL Change Notifier"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides change notification for network folders"
+#~ msgstr "Provides change notification for network folders"
+
+#~ msgctxt "Name"
+#~ msgid "Window Information"
+#~ msgstr "Window Information"
+
+#~ msgctxt "Comment"
+#~ msgid "Information and management services for all available windows."
+#~ msgstr "Information and management services for all available windows."
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "System Tray"
+#~ msgctxt "Name"
+#~ msgid "System tray"
+#~ msgstr "System Tray"
+
+#~ msgctxt "Name"
+#~ msgid "Debian Weather Service"
+#~ msgstr "Debian Weather Service"
+
+#~ msgctxt "Comment"
+#~ msgid "XML Data from edos.debian.net"
+#~ msgstr "XML Data from edos.debian.net"
+
+#~ msgctxt "Name"
+#~ msgid "Password dialog"
+#~ msgstr "Password dialog"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Screen locker that provides a password dialog and an interface to switch "
+#~ "the current user"
+#~ msgstr ""
+#~ "Screen locker that provides a password dialog and an interface to switch "
+#~ "the current user"
+
+#~ msgctxt "Name"
+#~ msgid "Screen Locking"
+#~ msgstr "Screen Locking"
+
+#~ msgctxt "Comment"
+#~ msgid "Screen Locking Themes"
+#~ msgstr "Screen Locking Themes"
+
+#~ msgctxt "Comment"
+#~ msgid "Screen Locking Timeouts"
+#~ msgstr "Screen Locking Timeouts"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "lock,resume, screensaver, screenlock"
+#~ msgstr "lock,resume, screensaver, screenlock"
+
+#~ msgctxt "Comment"
+#~ msgid "Screen Saver"
+#~ msgstr "Screen Saver"
+
+#~ msgctxt "Name"
+#~ msgid "Screen locked"
+#~ msgstr "Screen locked"
+
+#~ msgctxt "Comment"
+#~ msgid "The screen has been locked"
+#~ msgstr "The screen has been locked"
+
+#~ msgctxt "Name"
+#~ msgid "Screen unlocked"
+#~ msgstr "Screen unlocked"
+
+#~ msgctxt "Comment"
+#~ msgid "The screen has been unlocked"
+#~ msgstr "The screen has been unlocked"
+
+#~ msgctxt "Name"
+#~ msgid "Quicklaunch"
+#~ msgstr "Quicklaunch"
+
+#~ msgctxt "Comment"
+#~ msgid "Launch your favourite Applications"
+#~ msgstr "Launch your favourite Applications"
+
+#~ msgctxt "Name"
+#~ msgid "CPU Monitor"
+#~ msgstr "CPU Monitor"
+
+#~ msgctxt "Comment"
+#~ msgid "A CPU usage monitor"
+#~ msgstr "A CPU usage monitor"
+
+#~ msgctxt "Name"
+#~ msgid "Hardware Info"
+#~ msgstr "Hardware Info"
+
+#~ msgctxt "Comment"
+#~ msgid "Show hardware info"
+#~ msgstr "Show hardware info"
+
+#~ msgctxt "Name"
+#~ msgid "Hardware Temperature"
+#~ msgstr "Hardware Temperature"
+
+#~ msgctxt "Comment"
+#~ msgid "A system temperature monitor"
+#~ msgstr "A system temperature monitor"
+
+#~ msgctxt "Name"
+#~ msgid "KDED Global Shortcuts Server"
+#~ msgstr "KDED Global Shortcuts Server"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma Workspace"
+#~ msgstr "Plasma Workspace"
+
+#~ msgctxt "Name"
+#~ msgid "Trash: Emptied"
+#~ msgstr "Wastebin: Emptied"
+
+#~ msgctxt "Comment"
+#~ msgid "The trash has been emptied"
+#~ msgstr "The wastebin has been emptied"
+
+#~ msgctxt "Name"
+#~ msgid "Textcompletion: Rotation"
+#~ msgstr "Textcompletion: Rotation"
+
+#~ msgctxt "Comment"
+#~ msgid "The end of the list of matches has been reached"
+#~ msgstr "The end of the list of matches has been reached"
+
+#~ msgctxt "Name"
+#~ msgid "Textcompletion: No Match"
+#~ msgstr "Textcompletion: No Match"
+
+#~ msgctxt "Comment"
+#~ msgid "No matching completion was found"
+#~ msgstr "No matching completion was found"
+
+#~ msgctxt "Name"
+#~ msgid "Textcompletion: Partial Match"
+#~ msgstr "Textcompletion: Partial Match"
+
+#~ msgctxt "Comment"
+#~ msgid "There is more than one possible match"
+#~ msgstr "There is more than one possible match"
+
+#~ msgctxt "Name"
+#~ msgid "Fatal Error"
+#~ msgstr "Fatal Error"
+
+#~ msgctxt "Comment"
+#~ msgid "There was a serious error causing the program to exit"
+#~ msgstr "There was a serious error causing the program to exit"
+
+#~ msgctxt "Name"
+#~ msgid "Notification"
+#~ msgstr "Notification"
+
+#~ msgctxt "Comment"
+#~ msgid "Something special happened in the program"
+#~ msgstr "Something special happened in the program"
+
+#~ msgctxt "Comment"
+#~ msgid "There was an error in the program which may cause problems"
+#~ msgstr "There was an error in the program which may cause problems"
+
+#~ msgctxt "Name"
+#~ msgid "Catastrophe"
+#~ msgstr "Catastrophe"
+
+#~ msgctxt "Comment"
+#~ msgid "A very serious error occurred, at least causing the program to exit"
+#~ msgstr "A very serious error occurred, at least causing the program to exit"
+
+#~ msgctxt "Name"
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgctxt "Comment"
+#~ msgid "A new session is starting"
+#~ msgstr "A new session is starting"
+
+#~ msgctxt "Name"
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgctxt "Comment"
+#~ msgid "Session is exiting"
+#~ msgstr "Session is exiting"
+
+#~ msgctxt "Name"
+#~ msgid "Logout Canceled"
+#~ msgstr "Logout Cancelled"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma logout was canceled"
+#~ msgstr "Plasma logout was cancelled"
+
+#~ msgctxt "Name"
+#~ msgid "Print Error"
+#~ msgstr "Print Error"
+
+#~ msgctxt "Comment"
+#~ msgid "A print error has occurred"
+#~ msgstr "A print error has occurred"
+
+#~ msgctxt "Name"
+#~ msgid "Information Message"
+#~ msgstr "Information Message"
+
+#~ msgctxt "Comment"
+#~ msgid "An information message is being shown"
+#~ msgstr "An information message is being shown"
+
+#~ msgctxt "Name"
+#~ msgid "Warning Message"
+#~ msgstr "Warning Message"
+
+#~ msgctxt "Comment"
+#~ msgid "A warning message is being shown"
+#~ msgstr "A warning message is being shown"
+
+#~ msgctxt "Name"
+#~ msgid "Critical Message"
+#~ msgstr "Critical Message"
+
+#~ msgctxt "Comment"
+#~ msgid "A critical message is being shown"
+#~ msgstr "A critical message is being shown"
+
+#~ msgctxt "Name"
+#~ msgid "Question"
+#~ msgstr "Question"
+
+#~ msgctxt "Comment"
+#~ msgid "A question is being asked"
+#~ msgstr "A question is being asked"
+
+#~ msgctxt "Name"
+#~ msgid "Beep"
+#~ msgstr "Beep"
+
+#~ msgctxt "Comment"
+#~ msgid "Sound bell"
+#~ msgstr "Sound bell"
+
+#~ msgctxt "Name"
+#~ msgid "Screen saver started"
+#~ msgstr "Screen saver started"
+
+#~ msgctxt "Comment"
+#~ msgid "The screen saver has been started"
+#~ msgstr "The screen saver has been started"
+
+#~ msgctxt "Name"
+#~ msgid "Screen saver exited"
+#~ msgstr "Screen saver exited"
+
+#~ msgctxt "Comment"
+#~ msgid "The screen saver has finished"
+#~ msgstr "The screen saver has finished"
+
+#~ msgctxt "Name"
+#~ msgid "Screen unlock failed"
+#~ msgstr "Screen unlock failed"
+
+#~ msgctxt "Comment"
+#~ msgid "Failed attempt to unlock the screen"
+#~ msgstr "Failed attempt to unlock the screen"
+
+#~ msgctxt "Name"
+#~ msgid "Web Browser"
+#~ msgstr "Web Browser"
+
+#~ msgctxt "Comment"
+#~ msgid "A simple web browser"
+#~ msgstr "A simple web browser"
+
+#~ msgctxt "Name"
+#~ msgid "Splash Screen"
+#~ msgstr "Splash Screen"
+
+#~ msgctxt "Comment"
+#~ msgid "Splash Screen Theme"
+#~ msgstr "Splash Screen Theme"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "splash screen,splash theme,startup"
+#~ msgstr "splash screen,splash theme,startup"
+
+#~ msgctxt "Name"
+#~ msgid "System Tray Plasmoid Test"
+#~ msgstr "System Tray Plasmoid Test"
+
+#~ msgctxt "Comment"
+#~ msgid "Test the system tray"
+#~ msgstr "Test the system tray"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the session manager and logout settings"
+#~ msgstr "Configure the session manager and logout settings"
+
+#, fuzzy
+#~| msgctxt "Keywords"
+#~| msgid "ksmserver,session,logout,confirmation,save,restore"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "ksmserver,session,logout,confirmation,save,restore"
+#~ msgstr "ksmserver,session,logout,confirmation,save,restore"
+
+#~ msgctxt "Comment"
+#~ msgid "Manager for Splash Screen Themes"
+#~ msgstr "Manager for Splash Screen Themes"
+
+#, fuzzy
+#~| msgctxt "Name|plasma runner"
+#~| msgid "Web Shortcuts"
+#~ msgctxt "Comment"
+#~ msgid "Global Keyboard Shortcuts"
+#~ msgstr "Web Shortcuts"
+
+#~ msgctxt "Name"
+#~ msgid "kglobalaccel"
+#~ msgstr "kglobalaccel"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Simple application launcher"
+#~ msgctxt "Comment"
+#~ msgid "The application name"
+#~ msgstr "Simple application launcher"
+
+#~ msgctxt "Name"
+#~ msgid "Global Shortcut Registration"
+#~ msgstr "Global Shortcut Registration"
+
+#~ msgctxt "Comment"
+#~ msgid "An application registered new global shortcuts."
+#~ msgstr "An application registered new global shortcuts."
+
+#~ msgctxt "Name"
+#~ msgid "Global Shortcut Triggered"
+#~ msgstr "Global Shortcut Triggered"
+
+#~ msgctxt "Comment"
+#~ msgid "The user triggered a global shortcut"
+#~ msgstr "The user triggered a global shortcut"

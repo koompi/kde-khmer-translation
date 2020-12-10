@@ -1,0 +1,77 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2015, 2017, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-11 08:09+0000\n"
+"PO-Revision-Date: 2019-08-11 14:53+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#: greeter/themes/org.kde.passworddialog/metadata.desktop:2
+msgctxt "Name"
+msgid "Password dialog"
+msgstr "Password dialogue"
+
+#: greeter/themes/org.kde.passworddialog/metadata.desktop:49
+msgctxt "Comment"
+msgid ""
+"Screen locker that provides a password dialog and an interface to switch the "
+"current user"
+msgstr ""
+"Screen locker that provides a password dialogue and an interface to switch "
+"the current user"
+
+#: kcm/package/metadata.desktop:2 kcm/screenlocker.desktop:13
+msgctxt "Name"
+msgid "Screen Locking"
+msgstr "Screen Locking"
+
+#: kcm/package/metadata.desktop:49 kcm/screenlocker.desktop:59
+msgctxt "Comment"
+msgid "Configure screen locking"
+msgstr "Configure screen locking"
+
+#: kcm/screenlocker.desktop:94
+msgctxt "X-KDE-Keywords"
+msgid "lock,resume, screensaver, screenlock"
+msgstr "lock,resume, screensaver, screenlock"
+
+#: kscreenlocker.notifyrc:3
+msgctxt "Comment"
+msgid "Screen Saver"
+msgstr "Screen Saver"
+
+#: kscreenlocker.notifyrc:51
+msgctxt "Name"
+msgid "Screen locked"
+msgstr "Screen locked"
+
+#: kscreenlocker.notifyrc:98
+msgctxt "Comment"
+msgid "The screen has been locked"
+msgstr "The screen has been locked"
+
+#: kscreenlocker.notifyrc:147
+msgctxt "Name"
+msgid "Screen unlocked"
+msgstr "Screen unlocked"
+
+#: kscreenlocker.notifyrc:194
+msgctxt "Comment"
+msgid "The screen has been unlocked"
+msgstr "The screen has been unlocked"
+
+#~ msgctxt "Comment"
+#~ msgid "Screen Locking Timeouts"
+#~ msgstr "Screen Locking Timeouts"
+
+#~ msgctxt "Comment"
+#~ msgid "Screen Locking Themes"
+#~ msgstr "Screen Locking Themes"

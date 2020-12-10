@@ -1,0 +1,261 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-19 00:26+0000\n"
+"PO-Revision-Date: 2014-06-23 23:32+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: data/ktelepathy.notifyrc:3
+msgctxt "Name"
+msgid "Instant messaging"
+msgstr "Instant messaging"
+
+#: data/ktelepathy.notifyrc:49
+msgctxt "Comment"
+msgid "Instant messaging"
+msgstr "Instant messaging"
+
+#: data/ktelepathy.notifyrc:97
+msgctxt "Name"
+msgid "Group"
+msgstr "Group"
+
+#: data/ktelepathy.notifyrc:145
+msgctxt "Comment"
+msgid "The group where the contact resides"
+msgstr "The group where the contact resides"
+
+#: data/ktelepathy.notifyrc:193
+msgctxt "Name"
+msgid "Contact"
+msgstr "Contact"
+
+#: data/ktelepathy.notifyrc:241
+msgctxt "Comment"
+msgid "The specified contact"
+msgstr "The specified contact"
+
+#: data/ktelepathy.notifyrc:289
+msgctxt "Name"
+msgid "Class"
+msgstr "Class"
+
+#: data/ktelepathy.notifyrc:337
+msgctxt "Comment"
+msgid "The message class"
+msgstr "The message class"
+
+#: data/ktelepathy.notifyrc:388
+msgctxt "Name"
+msgid "Instant messaging error"
+msgstr "Instant messaging error"
+
+#: data/ktelepathy.notifyrc:433
+msgctxt "Comment"
+msgid "An error occurred within instant messaging"
+msgstr "An error occurred within instant messaging"
+
+#: data/ktelepathy.notifyrc:483
+msgctxt "Name"
+msgid "Instant messaging info message"
+msgstr "Instant messaging info message"
+
+#: data/ktelepathy.notifyrc:528
+msgctxt "Comment"
+msgid "A general info message from instant messaging"
+msgstr "A general info message from instant messaging"
+
+#: data/ktelepathy.notifyrc:580
+msgctxt "Name"
+msgid "Incoming Message"
+msgstr "Incoming Message"
+
+#: data/ktelepathy.notifyrc:628
+msgctxt "Comment"
+msgid "An incoming message has been received"
+msgstr "An incoming message has been received"
+
+#: data/ktelepathy.notifyrc:681
+msgctxt "Name"
+msgid "Incoming Message in Active Chat"
+msgstr "Incoming Message in Active Chat"
+
+#: data/ktelepathy.notifyrc:727
+msgctxt "Comment"
+msgid "An incoming message in the active chat window has been received"
+msgstr "An incoming message in the active chat window has been received"
+
+#: data/ktelepathy.notifyrc:778
+msgctxt "Name"
+msgid "Incoming Message in Group Chat"
+msgstr "Incoming Message in Group Chat"
+
+#: data/ktelepathy.notifyrc:819
+msgctxt "Comment"
+msgid "An incoming message has been received in a group chat"
+msgstr "An incoming message has been received in a group chat"
+
+#: data/ktelepathy.notifyrc:867
+msgctxt "Name"
+msgid "Incoming Message in Active Group Chat"
+msgstr "Incoming Message in Active Group Chat"
+
+#: data/ktelepathy.notifyrc:908
+msgctxt "Comment"
+msgid "An incoming message in the active group chat window has been received"
+msgstr "An incoming message in the active group chat window has been received"
+
+#: data/ktelepathy.notifyrc:956
+msgctxt "Name"
+msgid "Outgoing Message"
+msgstr "Outgoing Message"
+
+#: data/ktelepathy.notifyrc:1002
+msgctxt "Comment"
+msgid "An outgoing message has been sent"
+msgstr "An outgoing message has been sent"
+
+#: data/ktelepathy.notifyrc:1054
+msgctxt "Name"
+msgid "Highlight in Group Chat"
+msgstr "Highlight in Group Chat"
+
+#: data/ktelepathy.notifyrc:1095
+msgctxt "Comment"
+msgid "A highlighted message has been received in a group chat"
+msgstr "A highlighted message has been received in a group chat"
+
+#: data/ktelepathy.notifyrc:1141
+msgctxt "Name"
+msgid "Highlight in Active Group Chat"
+msgstr "Highlight in Active Group Chat"
+
+#: data/ktelepathy.notifyrc:1182
+msgctxt "Comment"
+msgid "A highlighted message has been received in the active group chat window"
+msgstr ""
+"A highlighted message has been received in the active group chat window"
+
+#: data/ktelepathy.notifyrc:1228
+msgctxt "Name"
+msgid "Message Dropped"
+msgstr "Message Dropped"
+
+#: data/ktelepathy.notifyrc:1274
+msgctxt "Comment"
+msgid "A message was filtered by the Privacy Plugin"
+msgstr "A message was filtered by the Privacy Plugin"
+
+#: data/ktelepathy.notifyrc:1323
+msgctxt "Name"
+msgid "Service Message"
+msgstr "Service Message"
+
+#: data/ktelepathy.notifyrc:1370
+msgctxt "Comment"
+msgid "A service message has been received (e.g. authorization request)"
+msgstr "A service message has been received (e.g. authorisation request)"
+
+#: data/ktelepathy.notifyrc:1423
+msgctxt "Name"
+msgid "New incoming chat"
+msgstr "New incoming chat"
+
+#: data/ktelepathy.notifyrc:1468
+msgctxt "Comment"
+msgid "A new instant message has been received"
+msgstr "A new instant message has been received"
+
+#: data/ktelepathy.notifyrc:1518
+msgctxt "Name"
+msgid "Incoming file transfer"
+msgstr "Incoming file transfer"
+
+#: data/ktelepathy.notifyrc:1563
+msgctxt "Comment"
+msgid "An incoming file transfer request has been received"
+msgstr "An incoming file transfer request has been received"
+
+#: data/ktelepathy.notifyrc:1613
+msgctxt "Name"
+msgid "Incoming call"
+msgstr "Incoming call"
+
+#: data/ktelepathy.notifyrc:1659
+msgctxt "Comment"
+msgid "An incoming audio/video call request has been received"
+msgstr "An incoming audio/video call request has been received"
+
+#: data/ktelepathy.notifyrc:1712
+msgctxt "Name"
+msgid "Chatstyle Install Request"
+msgstr "Chatstyle Install Request"
+
+#: data/ktelepathy.notifyrc:1762
+msgctxt "Name"
+msgid "Chatstyle Installed Successfully"
+msgstr "Chatstyle Installed Successfully"
+
+#: data/ktelepathy.notifyrc:1812
+msgctxt "Name"
+msgid "Chatstyle Installation Failed"
+msgstr "Chatstyle Installation Failed"
+
+#: data/ktelepathy.notifyrc:1861
+msgctxt "Name"
+msgid "Emoticonset Install Request"
+msgstr "Emoticonset Install Request"
+
+#: data/ktelepathy.notifyrc:1910
+msgctxt "Name"
+msgid "Emoticonset Installed Successfully"
+msgstr "Emoticonset Installed Successfully"
+
+#: data/ktelepathy.notifyrc:1960
+msgctxt "Name"
+msgid "Emoticonset Installation failed"
+msgstr "Emoticonset Installation failed"
+
+#: data/ktelepathy.notifyrc:2008
+msgctxt "Name"
+msgid "Contact status changed"
+msgstr "Contact status changed"
+
+#: data/ktelepathy.notifyrc:2052
+msgctxt "Comment"
+msgid "A contact has changed their status"
+msgstr "A contact has changed their status"
+
+#: data/ktelepathy.notifyrc:2100
+msgctxt "Name"
+msgid "File renamed for sending with Google Talk"
+msgstr "File renamed for sending with Google Talk"
+
+#: data/ktelepathy.notifyrc:2140
+msgctxt "Comment"
+msgid "An outgoing file with forbidden extension .exe or .ini has been renamed"
+msgstr ""
+"An outgoing file with forbidden extension .exe or .ini has been renamed"
+
+#: KTp/Logger/ktp_logger_plugin.desktop:4
+msgctxt "Comment"
+msgid "KTp Logger Plugin"
+msgstr "KTp Logger Plugin"
+
+#: KTp/Logger/plugins/tplogger/ktploggerplugin_tplogger.desktop.cmake:2
+msgctxt "Name"
+msgid "Telepathy Logger plugin"
+msgstr "Telepathy Logger plugin"
+
+#: KTp/Logger/plugins/tplogger/ktploggerplugin_tplogger.desktop.cmake:42
+msgctxt "Comment"
+msgid "Provides integration with Telepathy Logger"
+msgstr "Provides integration with Telepathy Logger"

@@ -1,0 +1,378 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2015, 2016, 2017, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-05-31 18:32+0000\n"
+"PO-Revision-Date: 2020-06-06 12:24+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.04.1\n"
+
+#: plugins/sms/kdeconnect_sms.json plugins/contacts/kdeconnect_contacts.json
+msgctxt "Authors Name"
+msgid "Simon Redman"
+msgstr "Simon Redman"
+
+#: plugins/photo/kdeconnect_photo.json
+#: plugins/remotesystemvolume/kdeconnect_remotesystemvolume.json
+#: plugins/systemvolume/kdeconnect_systemvolume.json
+msgctxt "Authors Name"
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: plugins/pausemusic/kdeconnect_pausemusic.json
+#: plugins/notifications/kdeconnect_notifications.json
+#: plugins/battery/kdeconnect_battery.json plugins/share/kdeconnect_share.json
+#: plugins/runcommand/kdeconnect_runcommand.json
+#: plugins/mpriscontrol/kdeconnect_mpriscontrol.json
+#: plugins/telephony/kdeconnect_telephony.json
+#: plugins/ping/kdeconnect_ping.json
+#: plugins/clipboard/kdeconnect_clipboard.json
+msgctxt "Authors Name"
+msgid "Albert Vaca"
+msgstr "Albert Vaca"
+
+#: plugins/remotekeyboard/kdeconnect_remotekeyboard.json
+msgctxt "Authors Name"
+msgid "Holger Kaelberer"
+msgstr "Holger Kaelberer"
+
+#: plugins/screensaver-inhibit/kdeconnect_screensaver_inhibit.json
+msgctxt "Authors Name"
+msgid "Pramod Dematagoda"
+msgstr "Pramod Dematagoda"
+
+#: plugins/remotecontrol/kdeconnect_remotecontrol.json
+#: plugins/lockdevice/kdeconnect_lockdevice.json
+#: plugins/remotecommands/kdeconnect_remotecommands.json
+#: plugins/presenter/kdeconnect_presenter.json
+#: plugins/mprisremote/kdeconnect_mprisremote.json
+msgctxt "Authors Name"
+msgid "Aleix Pol"
+msgstr "Aleix Pol"
+
+#: plugins/runcommand/kdeconnect_runcommand.json
+#: plugins/findmyphone/kdeconnect_findmyphone.json
+msgctxt "Authors Name"
+msgid "David Edmundson"
+msgstr "David Edmundson"
+
+#: plugins/sftp/kdeconnect_sftp.json
+msgctxt "Authors Name"
+msgid "Samoilenko Yuri"
+msgstr "Samoilenko Yuri"
+
+#: plugins/bigscreen/kdeconnect_bigscreen.json
+msgctxt "Authors Name"
+msgid "Aditya Mehra"
+msgstr "Aditya Mehra"
+
+#: plugins/mousepad/kdeconnect_mousepad.json
+msgctxt "Authors Name"
+msgid "Ahmed I. Khalil"
+msgstr "Ahmed I. Khalil"
+
+#: plugins/findthisdevice/kdeconnect_findthisdevice.json
+msgctxt "Authors Name"
+msgid "Friedrich W. H. Kossebau"
+msgstr "Friedrich W. H. Kossebau"
+
+#: plugins/findmyphone/kdeconnect_findmyphone.json
+msgctxt "Authors Name"
+msgid "Apoorv Parle"
+msgstr "Apoorv Parle"
+
+#: fileitemactionplugin/kdeconnectsendfile.json
+msgctxt "Name"
+msgid "Send file via KDE Connect"
+msgstr "Send file via KDE Connect"
+
+#: plugins/sms/kdeconnect_sms.json
+msgctxt "Name"
+msgid "SMS"
+msgstr "SMS"
+
+#: plugins/photo/kdeconnect_photo.json
+msgctxt "Name"
+msgid "Photo"
+msgstr "Photo"
+
+#: plugins/pausemusic/kdeconnect_pausemusic.json
+msgctxt "Name"
+msgid "Pause media during calls"
+msgstr "Pause media during calls"
+
+#: plugins/notifications/kdeconnect_notifications.json
+msgctxt "Name"
+msgid "Receive notifications"
+msgstr "Receive notifications"
+
+#: plugins/remotekeyboard/kdeconnect_remotekeyboard.json
+msgctxt "Name"
+msgid "Remote keyboard from the desktop"
+msgstr "Remote keyboard from the desktop"
+
+#: plugins/screensaver-inhibit/kdeconnect_screensaver_inhibit.json
+msgctxt "Name"
+msgid "Inhibit screensaver"
+msgstr "Inhibit screensaver"
+
+#: plugins/remotecontrol/kdeconnect_remotecontrol.json
+msgctxt "Name"
+msgid "RemoteControl"
+msgstr "RemoteControl"
+
+#: plugins/battery/kdeconnect_battery.json
+msgctxt "Name"
+msgid "Battery monitor"
+msgstr "Battery monitor"
+
+#: plugins/share/kdeconnect_share.json
+msgctxt "Name"
+msgid "Share and receive"
+msgstr "Share and receive"
+
+#: plugins/runcommand/kdeconnect_runcommand.json
+msgctxt "Name"
+msgid "Run commands"
+msgstr "Run commands"
+
+#: plugins/remotesystemvolume/kdeconnect_remotesystemvolume.json
+msgctxt "Name"
+msgid "Remote system volume"
+msgstr "Remote system volume"
+
+#: plugins/systemvolume/kdeconnect_systemvolume.json
+msgctxt "Name"
+msgid "System volume"
+msgstr "System volume"
+
+#: plugins/lockdevice/kdeconnect_lockdevice.json
+msgctxt "Name"
+msgid "LockDevice"
+msgstr "LockDevice"
+
+#: plugins/mpriscontrol/kdeconnect_mpriscontrol.json
+msgctxt "Name"
+msgid "Multimedia control receiver"
+msgstr "Multimedia control receiver"
+
+#: plugins/sftp/kdeconnect_sftp.json
+msgctxt "Name"
+msgid "Remote filesystem browser"
+msgstr "Remote filesystem browser"
+
+#: plugins/remotecommands/kdeconnect_remotecommands.json
+msgctxt "Name"
+msgid "Host remote commands"
+msgstr "Host remote commands"
+
+#: plugins/presenter/kdeconnect_presenter.json
+msgctxt "Name"
+msgid "Presenter"
+msgstr "Presenter"
+
+#: plugins/bigscreen/kdeconnect_bigscreen.json
+msgctxt "Name"
+msgid "Bigscreen"
+msgstr "Bigscreen"
+
+#: plugins/telephony/kdeconnect_telephony.json
+msgctxt "Name"
+msgid "Telephony integration"
+msgstr "Telephony integration"
+
+#: plugins/ping/kdeconnect_ping.json
+msgctxt "Name"
+msgid "Ping"
+msgstr "Ping"
+
+#: plugins/clipboard/kdeconnect_clipboard.json
+msgctxt "Name"
+msgid "Clipboard"
+msgstr "Clipboard"
+
+#: plugins/mprisremote/kdeconnect_mprisremote.json
+msgctxt "Name"
+msgid "MprisRemote"
+msgstr "MprisRemote"
+
+#: plugins/contacts/kdeconnect_contacts.json
+msgctxt "Name"
+msgid "Contacts"
+msgstr "Contacts"
+
+#: plugins/mousepad/kdeconnect_mousepad.json
+msgctxt "Name"
+msgid "Virtual input"
+msgstr "Virtual input"
+
+#: plugins/findthisdevice/kdeconnect_findthisdevice.json
+msgctxt "Name"
+msgid "Find this device"
+msgstr "Find this device"
+
+#: plugins/findmyphone/kdeconnect_findmyphone.json
+msgctxt "Name"
+msgid "Ring my phone"
+msgstr "Ring my phone"
+
+#: fileitemactionplugin/kdeconnectsendfile.json
+msgctxt "Description"
+msgid "Send file to other device using KDE Connect"
+msgstr "Send file to other device using KDE Connect"
+
+#: plugins/sms/kdeconnect_sms.json
+msgctxt "Description"
+msgid "Send and receive SMS"
+msgstr "Send and receive SMS"
+
+#: plugins/photo/kdeconnect_photo.json
+msgctxt "Description"
+msgid "Use a connected device to take a photo"
+msgstr "Use a connected device to take a photo"
+
+#: plugins/pausemusic/kdeconnect_pausemusic.json
+msgctxt "Description"
+msgid "Pause music/videos during a phone call"
+msgstr "Pause music/videos during a phone call"
+
+#: plugins/notifications/kdeconnect_notifications.json
+msgctxt "Description"
+msgid "Show device's notifications on this computer and keep them in sync"
+msgstr "Show device's notifications on this computer and keep them in sync"
+
+#: plugins/remotekeyboard/kdeconnect_remotekeyboard.json
+msgctxt "Description"
+msgid "Use your keyboard to send key-events to your paired device"
+msgstr "Use your keyboard to send key-events to your paired device"
+
+#: plugins/screensaver-inhibit/kdeconnect_screensaver_inhibit.json
+msgctxt "Description"
+msgid "Inhibit the screensaver when the device is connected"
+msgstr "Inhibit the screensaver when the device is connected"
+
+#: plugins/remotecontrol/kdeconnect_remotecontrol.json
+msgctxt "Description"
+msgid "Control Remote systems"
+msgstr "Control Remote systems"
+
+#: plugins/battery/kdeconnect_battery.json
+msgctxt "Description"
+msgid "Show your phone battery next to your computer battery"
+msgstr "Show your phone battery next to your computer battery"
+
+#: plugins/share/kdeconnect_share.json
+msgctxt "Description"
+msgid "Receive and send files, URLs or plain text easily"
+msgstr "Receive and send files, URLs or plain text easily"
+
+#: plugins/runcommand/kdeconnect_runcommand.json
+msgctxt "Description"
+msgid "Execute console commands remotely"
+msgstr "Execute console commands remotely"
+
+#: plugins/remotesystemvolume/kdeconnect_remotesystemvolume.json
+msgctxt "Description"
+msgid "Control the volume of the connected device"
+msgstr "Control the volume of the connected device"
+
+#: plugins/systemvolume/kdeconnect_systemvolume.json
+msgctxt "Description"
+msgid "Control the system volume from your phone"
+msgstr "Control the system volume from your phone"
+
+#: plugins/lockdevice/kdeconnect_lockdevice.json
+msgctxt "Description"
+msgid "Locks your systems"
+msgstr "Locks your systems"
+
+#: plugins/mpriscontrol/kdeconnect_mpriscontrol.json
+msgctxt "Description"
+msgid "Remote control your music and videos"
+msgstr "Remote control your music and videos"
+
+#: plugins/sftp/kdeconnect_sftp.json
+msgctxt "Description"
+msgid "Browse the remote device filesystem using SFTP"
+msgstr "Browse the remote device filesystem using SFTP"
+
+#: plugins/remotecommands/kdeconnect_remotecommands.json
+msgctxt "Description"
+msgid "Trigger commands predefined on the remote device"
+msgstr "Trigger commands predefined on the remote device"
+
+#: plugins/presenter/kdeconnect_presenter.json
+msgctxt "Description"
+msgid "Use your mobile device to point to things on the screen"
+msgstr "Use your mobile device to point to things on the screen"
+
+#: plugins/bigscreen/kdeconnect_bigscreen.json
+msgctxt "Description"
+msgid "Bigscreen Plugin"
+msgstr "Bigscreen Plugin"
+
+#: plugins/telephony/kdeconnect_telephony.json
+msgctxt "Description"
+msgid "Show notifications for incoming calls"
+msgstr "Show notifications for incoming calls"
+
+#: plugins/ping/kdeconnect_ping.json
+msgctxt "Description"
+msgid "Send and receive pings"
+msgstr "Send and receive pings"
+
+#: plugins/clipboard/kdeconnect_clipboard.json
+msgctxt "Description"
+msgid "Share the clipboard between devices"
+msgstr "Share the clipboard between devices"
+
+#: plugins/mprisremote/kdeconnect_mprisremote.json
+msgctxt "Description"
+msgid "Control MPRIS services"
+msgstr "Control MPRIS services"
+
+#: plugins/contacts/kdeconnect_contacts.json
+msgctxt "Description"
+msgid "Synchronize Contacts Between the Desktop and the Connected Device"
+msgstr "Synchronise Contacts Between the Desktop and the Connected Device"
+
+#: plugins/mousepad/kdeconnect_mousepad.json
+msgctxt "Description"
+msgid "Use your phone as a touchpad and keyboard"
+msgstr "Use your phone as a touchpad and keyboard"
+
+#: plugins/findthisdevice/kdeconnect_findthisdevice.json
+msgctxt "Description"
+msgid "Find this device by making it play an alarm sound"
+msgstr "Find this device by making it play an alarm sound"
+
+#: plugins/findmyphone/kdeconnect_findmyphone.json
+msgctxt "Description"
+msgid "Find your lost phone by making it play an alarm sound"
+msgstr "Find your lost phone by making it play an alarm sound"
+
+#~ msgctxt "Name"
+#~ msgid "Send notifications"
+#~ msgstr "Send notifications"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "Broadcast this computer's notifications, so they can be shown on other "
+#~ "devices."
+#~ msgstr ""
+#~ "Broadcast this computer's notifications, so they can be shown on other "
+#~ "devices."
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Telephony integration"
+#~ msgctxt "Name"
+#~ msgid "Telepathy service integration"
+#~ msgstr "Telephony integration"

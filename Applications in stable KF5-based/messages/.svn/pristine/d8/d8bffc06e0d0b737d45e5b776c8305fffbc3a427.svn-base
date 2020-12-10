@@ -1,0 +1,110 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2015, 2017, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-19 00:26+0000\n"
+"PO-Revision-Date: 2019-03-24 19:58+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#: data/kdenlive_keyboardschemes.knsrc:2
+msgctxt "Name"
+msgid "Kdenlive Keyboard Schemes"
+msgstr "Kdenlive Keyboard Schemes"
+
+#: data/kdenlive.notifyrc:4
+msgctxt "Comment"
+msgid "Kdenlive"
+msgstr "Kdenlive"
+
+#: data/kdenlive.notifyrc:50
+msgctxt "Name"
+msgid "Rendering finished"
+msgstr "Rendering finished"
+
+#: data/kdenlive.notifyrc:91
+msgctxt "Comment"
+msgid "Rendering is over"
+msgstr "Rendering is over"
+
+#: data/kdenlive.notifyrc:135
+msgctxt "Name"
+msgid "Rendering started"
+msgstr "Rendering started"
+
+#: data/kdenlive.notifyrc:176
+msgctxt "Comment"
+msgid "Rendering was started"
+msgstr "Rendering was started"
+
+#: data/kdenlive.notifyrc:220
+msgctxt "Name"
+msgid "Frame captured"
+msgstr "Frame captured"
+
+#: data/kdenlive.notifyrc:261
+msgctxt "Comment"
+msgid "A frame was captured to disk"
+msgstr "A frame was captured to disk"
+
+#: data/kdenlive.notifyrc:306
+msgctxt "Name"
+msgid "Ready to capture"
+msgstr "Ready to capture"
+
+#: data/kdenlive.notifyrc:351
+msgctxt "Name"
+msgid "Error"
+msgstr "Error"
+
+#: data/kdenlive.notifyrc:395
+msgctxt "Comment"
+msgid "An error occurred in Kdenlive"
+msgstr "An error occurred in Kdenlive"
+
+#: data/kdenlive_renderprofiles.knsrc:2
+msgctxt "Name"
+msgid "Kdenlive Render Profiles"
+msgstr "Kdenlive Render Profiles"
+
+#: data/kdenlive_titles.knsrc:2
+msgctxt "Name"
+msgid "Kdenlive Title Templates"
+msgstr "Kdenlive Title Templates"
+
+#: data/kdenlive_wipes.knsrc:2
+msgctxt "Name"
+msgid "Kdenlive Transition Wipes"
+msgstr "Kdenlive Transition Wipes"
+
+#: data/org.kde.kdenlive.desktop:3
+msgctxt "Name"
+msgid "Kdenlive"
+msgstr "Kdenlive"
+
+#: data/org.kde.kdenlive.desktop:47
+msgctxt "GenericName"
+msgid "Video Editor"
+msgstr "Video Editor"
+
+#: data/org.kde.kdenlive.desktop:89
+msgctxt "Comment"
+msgid "Nonlinear video editor by KDE"
+msgstr "Non-linear video editor by KDE"
+
+#: data/org.kde.kdenlive.desktop:130
+msgctxt "Keywords"
+msgid "editing;video;audio;mlt;kde;"
+msgstr "editing;video;audio;mlt;kde;"
+
+#: thumbnailer/mltpreview.desktop:3
+msgctxt "Name"
+msgid "MLT Playlist"
+msgstr "MLT Playlist"

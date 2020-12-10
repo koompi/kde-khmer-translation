@@ -1,0 +1,141 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2014, 2015, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-05-21 08:09+0200\n"
+"PO-Revision-Date: 2019-03-24 13:35+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#. (itstool) path: component/name
+#: org.kde.kexi.appdata.xml:6
+msgid "Kexi"
+msgstr "Kexi"
+
+#. (itstool) path: component/summary
+#: org.kde.kexi.appdata.xml:7
+msgid "Visual database apps builder"
+msgstr "Visual database apps builder"
+
+#. (itstool) path: description/p
+#: org.kde.kexi.appdata.xml:9
+msgid ""
+"Kexi is a visual database applications builder. It can be used for designing "
+"database applications, inserting and editing data, performing queries, and "
+"processing data. Forms can be created to provide a custom interface to your "
+"data. All database objects - tables, queries, forms, reports, etc. - are "
+"stored in the database, making it easy to share data and design."
+msgstr ""
+"Kexi is a visual database applications builder. It can be used for designing "
+"database applications, inserting and editing data, performing queries, and "
+"processing data. Forms can be created to provide a custom interface to your "
+"data. All database objects - tables, queries, forms, reports, etc. - are "
+"stored in the database, making it easy to share data and design."
+
+#. (itstool) path: description/p
+#: org.kde.kexi.appdata.xml:15
+msgid "Features:"
+msgstr "Features:"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:17
+msgid "Full visual designers for tables, queries, forms and reports"
+msgstr "Full visual designers for tables, queries, forms and reports"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:18
+msgid "Running queries, support for parametrized queries"
+msgstr "Running queries, support for parametrised queries"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:19
+msgid ""
+"Supports SQLite, MySQL, PostgreSQL, xBase, and Sybase/MS SQL Server databases"
+msgstr ""
+"Supports SQLite, MySQL, PostgreSQL, xBase, and Sybase/MS SQL Server databases"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:20
+msgid ""
+"The only multiplatform visual tool that can easily import data from MS "
+"Access databases"
+msgstr ""
+"The only multiplatform visual tool that can easily import data from MS "
+"Access databases"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:21
+msgid "Support for query design in dedicated SQL view"
+msgstr "Support for query design in dedicated SQL view"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:22
+msgid ""
+"Designing and displaying relational data using combo boxes (lookup columns)"
+msgstr ""
+"Designing and displaying relational data using combo boxes (lookup columns)"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:23
+msgid "Direct data entry or import using CSV format"
+msgstr "Direct data entry or import using CSV format"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:24
+msgid ""
+"Locked down User Mode, allowing you to switch off all commands related to "
+"editing your project's design"
+msgstr ""
+"Locked down User Mode, allowing you to switch off all commands related to "
+"editing your project's design"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:25
+msgid ""
+"Scripting using JavaScript, Python or Ruby programming languages "
+"(experimental)"
+msgstr ""
+"Scripting using JavaScript, Python or Ruby programming languages "
+"(experimental)"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:36
+msgid "Tabular view"
+msgstr "Tabular view"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:40
+msgid "Query Designer"
+msgstr "Query Designer"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:44
+msgid "SQL Editor"
+msgstr "SQL Editor"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:48
+msgid "Form Designer"
+msgstr "Form Designer"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:52
+msgid "Report Designer"
+msgstr "Report Designer"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:56
+msgid "MS Access database import"
+msgstr "MS Access database import"
+
+#~ msgid "Table View storing images"
+#~ msgstr "Table View storing images"
+
+#~ msgid "Database Creator"
+#~ msgstr "Database Creator"

@@ -1,0 +1,65 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-19 00:26+0000\n"
+"PO-Revision-Date: 2014-12-23 12:53+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: chat/org.kde.ktp-chat/metadata.desktop.cmake:2
+msgctxt "Name"
+msgid "Quick Chat"
+msgstr "Quick Chat"
+
+#: chat/org.kde.ktp-chat/metadata.desktop.cmake:48
+msgctxt "Comment"
+msgid "Simple chats from your workspace"
+msgstr "Simple chats from your workspace"
+
+#: contactlist/org.kde.ktp-contactlist/metadata.desktop.cmake:2
+msgctxt "Name"
+msgid "Instant Messaging"
+msgstr "Instant Messaging"
+
+#: contactlist/org.kde.ktp-contactlist/metadata.desktop.cmake:42
+msgctxt "Comment"
+msgid "Displays your presence and contacts"
+msgstr "Displays your presence and contacts"
+
+#: person/org.kde.person/metadata.desktop.cmake:2
+msgctxt "Name"
+msgid "Person"
+msgstr "Person"
+
+#: person/org.kde.person/metadata.desktop.cmake:41
+msgctxt "Comment"
+msgid "Makes a person easily accessible"
+msgstr "Makes a person easily accessible"
+
+#~ msgctxt "Name"
+#~ msgid "Instant Messaging Contact"
+#~ msgstr "Instant Messaging Contact"
+
+#~ msgctxt "Comment"
+#~ msgid "Applet for one of your instant messaging contacts"
+#~ msgstr "Applet for one of your instant messaging contacts"
+
+#~ msgctxt "Name"
+#~ msgid "Instant Messaging Presence"
+#~ msgstr "Instant Messaging Presence"
+
+#~ msgctxt "Name"
+#~ msgid "Instant Messaging Contact List"
+#~ msgstr "Instant Messaging Contact List"
+
+#~ msgctxt "Comment"
+#~ msgid "List instant messaging contacts"
+#~ msgstr "List instant messaging contacts"

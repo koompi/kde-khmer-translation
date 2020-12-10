@@ -1,0 +1,107 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-19 03:51+0000\n"
+"PO-Revision-Date: 2019-11-23 15:47+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#: dataengines/potd/bingprovider.json
+msgctxt "Name"
+msgid "Bing"
+msgstr "Bing"
+
+#: dataengines/potd/wcpotdprovider.json
+msgctxt "Name"
+msgid "Wikimedia Commons"
+msgstr "Wikimedia Commons"
+
+#: dataengines/potd/flickrprovider.json
+msgctxt "Name"
+msgid "Flickr"
+msgstr "Flickr"
+
+#: dataengines/potd/epodprovider.json
+msgctxt "Name"
+msgid "Earth Science (USRA)"
+msgstr "Earth Science (USRA)"
+
+#: dataengines/potd/noaaprovider.json
+msgctxt "Name"
+msgid "Weather Satellite (NOAA)"
+msgstr "Weather Satellite (NOAA)"
+
+#: dataengines/potd/unsplashprovider.json
+msgctxt "Name"
+msgid "Unsplash Wallpapers"
+msgstr "Unsplash Wallpapers"
+
+#: dataengines/potd/apodprovider.json
+msgctxt "Name"
+msgid "Astronomy (NASA)"
+msgstr "Astronomy (NASA)"
+
+#: dataengines/potd/natgeoprovider.json
+msgctxt "Name"
+msgid "National Geographic"
+msgstr "National Geographic"
+
+#~ msgctxt "Name"
+#~ msgid "Bing's Picture of the Day"
+#~ msgstr "Bing's Picture of the Day"
+
+#~ msgctxt "Name"
+#~ msgid "Wikimedia Picture of the Day"
+#~ msgstr "Wikimedia Picture of the Day"
+
+#~ msgctxt "Name"
+#~ msgid "Flickr Picture of the Day"
+#~ msgstr "Flickr Picture of the Day"
+
+#~ msgctxt "Name"
+#~ msgid "Earth Science Picture of the Day"
+#~ msgstr "Earth Science Picture of the Day"
+
+#~ msgctxt "Name"
+#~ msgid "NOAA Environmental Visualization Laboratory Picture of the Day"
+#~ msgstr "NOAA Environmental Visualisation Laboratory Picture of the Day"
+
+#~ msgctxt "Name"
+#~ msgid "Astronomy Picture of the Day"
+#~ msgstr "Astronomy Picture of the Day"
+
+#~ msgctxt "Description"
+#~ msgid "Bing Provider"
+#~ msgstr "Bing Provider"
+
+#~ msgctxt "Description"
+#~ msgid "Wcpotd Provider"
+#~ msgstr "Wcpotd Provider"
+
+#~ msgctxt "Description"
+#~ msgid "Flickr Provider"
+#~ msgstr "Flickr Provider"
+
+#~ msgctxt "Description"
+#~ msgid "Epod Provider"
+#~ msgstr "Epod Provider"
+
+#~ msgctxt "Description"
+#~ msgid "NOAA Provider"
+#~ msgstr "NOAA Provider"
+
+#~ msgctxt "Description"
+#~ msgid "Unsplash Wallpaper Provider"
+#~ msgstr "Unsplash Wallpaper Provider"
+
+#~ msgctxt "Description"
+#~ msgid "Apod Provider"
+#~ msgstr "Apod Provider"

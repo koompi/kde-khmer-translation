@@ -1,0 +1,300 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Andrew Coles <andrew_coles@yahoo.co.uk>, 2010, 2011.
+# Steve Allewell <steve.allewell@gmail.com>, 2016, 2017, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-17 07:46+0200\n"
+"PO-Revision-Date: 2020-09-27 14:56+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: gitmessagehighlighter.cpp:79
+#, kde-format
+msgid "Try to keep summary length below %1 characters."
+msgstr "Try to keep summary length below %1 characters."
+
+#: gitmessagehighlighter.cpp:95
+#, kde-format
+msgid "Separate summary from details with one empty line."
+msgstr "Separate summary from details with one empty line."
+
+#: gitmessagehighlighter.cpp:105
+#, kde-format
+msgid "Try to keep line length below %1 characters."
+msgstr "Try to keep line length below %1 characters."
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, GitNameEmailDialog)
+#: gitnameemaildialog.ui:17
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Name and Email for Git"
+msgstr "Configure Name and Email for Git"
+
+#. i18n: ectx: property (text), widget (QLabel, descriptionLabel)
+#: gitnameemaildialog.ui:23
+#, kde-format
+msgid ""
+"<html><head/><body><p>You have not yet configured the name and email to be "
+"associated with your Git commits.<br/>The values you enter here will be "
+"written to the Git configuration, either locally for the current project "
+"only, or globally for all Git projects.</p></body></html>"
+msgstr ""
+"<html><head/><body><p>You have not yet configured the name and email to be "
+"associated with your Git commits.<br/>The values you enter here will be "
+"written to the Git configuration, either locally for the current project "
+"only, or globally for all Git projects.</p></body></html>"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gitnameemaildialog.ui:35
+#, kde-format
+msgctxt "@label:textbox"
+msgid "&Name:"
+msgstr "&Name:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: gitnameemaildialog.ui:48
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Emai&l:"
+msgstr "Emai&l:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, globalCheckBox)
+#: gitnameemaildialog.ui:78
+#, kde-format
+msgctxt "@option:check"
+msgid "Write to global config"
+msgstr "Write to global configuration"
+
+#: gitplugin.cpp:186
+#, kde-format
+msgid "Unable to find git executable. Is it installed on the system?"
+msgstr "Unable to find git executable. Is it installed on the system?"
+
+#: gitplugin.cpp:236
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Rebase"
+msgstr "Rebase"
+
+#: gitplugin.cpp:237
+#, kde-format
+msgctxt "@title:menu"
+msgid "Git Stashes"
+msgstr "Git Stashes"
+
+#: gitplugin.cpp:238
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Stash Manager"
+msgstr "Stash Manager"
+
+#: gitplugin.cpp:239
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Push Stash"
+msgstr "Push Stash"
+
+#: gitplugin.cpp:240
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Pop Stash"
+msgstr "Pop Stash"
+
+#: gitplugin.cpp:273
+#, kde-format
+msgid "error: %1"
+msgstr "error: %1"
+
+#: gitplugin.cpp:372 gitplugin.cpp:383
+#, kde-format
+msgid "Did not specify the list of files"
+msgstr "Did not specify the list of files"
+
+#: gitplugin.cpp:440
+#, kde-format
+msgid "Could not revert changes"
+msgstr "Could not revert changes"
+
+#: gitplugin.cpp:450
+#, kde-format
+msgid ""
+"The following files have uncommitted changes, which will be lost. Continue?"
+msgstr ""
+"The following files have uncommitted changes, which will be lost. Continue?"
+
+#: gitplugin.cpp:473
+#, kde-format
+msgid "No files or message specified"
+msgstr "No files or message specified"
+
+#: gitplugin.cpp:477
+#, kde-format
+msgid "Email or name for Git not specified"
+msgstr "Email or name for Git not specified"
+
+#: gitplugin.cpp:552
+#, kde-format
+msgid "No files to remove"
+msgstr "No files to remove"
+
+#: gitplugin.cpp:731
+#, kde-format
+msgid "There are pending changes, do you want to stash them first?"
+msgstr "There are pending changes, do you want to stash them first?"
+
+#: rebasedialog.cpp:39
+#, kde-format
+msgctxt "@title:window"
+msgid "Branch Selection"
+msgstr "Branch Selection"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, RebaseDialog)
+#: rebasedialog.ui:14
+#, kde-format
+msgctxt "@title:window"
+msgid "Rebase"
+msgstr "Rebase"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rebasedialog.ui:20
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Base branch:"
+msgstr "Base branch:"
+
+#. i18n: ectx: property (text), widget (QPushButton, rebaseButton)
+#: rebasedialog.ui:40
+#, kde-format
+msgctxt "@action:button"
+msgid "Rebase"
+msgstr "Rebase"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton_2)
+#: rebasedialog.ui:60
+#, kde-format
+msgctxt "@action:button"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: stashmanagerdialog.cpp:42
+#, kde-format
+msgctxt "@title:window"
+msgid "Stash Manager"
+msgstr "Stash Manager"
+
+#: stashmanagerdialog.cpp:114
+#, kde-format
+msgid "Are you sure you want to drop the stash '%1'?"
+msgstr "Are you sure you want to drop the stash '%1'?"
+
+#: stashmanagerdialog.cpp:122
+#, kde-format
+msgctxt "@title:window"
+msgid "Git Stash"
+msgstr "Git Stash"
+
+#: stashmanagerdialog.cpp:122
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Name for the new branch:"
+msgstr "Name for the new branch:"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, apply)
+#: stashmanagerdialog.ui:17
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Apply stash's patch"
+msgstr "Apply stash's patch"
+
+#. i18n: ectx: property (text), widget (QPushButton, apply)
+#: stashmanagerdialog.ui:20
+#, kde-format
+msgctxt "@action:button"
+msgid "Apply"
+msgstr "Apply"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, pop)
+#: stashmanagerdialog.ui:27
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Apply stash's patch and drop the stash"
+msgstr "Apply stash's patch and drop the stash"
+
+#. i18n: ectx: property (text), widget (QPushButton, pop)
+#: stashmanagerdialog.ui:30
+#, kde-format
+msgctxt "@action:button"
+msgid "Pop"
+msgstr "Pop"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, branch)
+#: stashmanagerdialog.ui:37
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Create a new branch and apply the stash there, then drop the stash"
+msgstr "Create a new branch and apply the stash there, then drop the stash"
+
+#. i18n: ectx: property (text), widget (QPushButton, branch)
+#: stashmanagerdialog.ui:40
+#, kde-format
+msgctxt "@action:button"
+msgid "Branch"
+msgstr "Branch"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, drop)
+#: stashmanagerdialog.ui:60
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Remove the selected branch"
+msgstr "Remove the selected branch"
+
+#. i18n: ectx: property (text), widget (QPushButton, drop)
+#: stashmanagerdialog.ui:63
+#, kde-format
+msgctxt "@action:button"
+msgid "Drop"
+msgstr "Drop"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, show)
+#: stashmanagerdialog.ui:70
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Show the content of the stash"
+msgstr "Show the content of the stash"
+
+#. i18n: ectx: property (text), widget (QPushButton, show)
+#: stashmanagerdialog.ui:73
+#, kde-format
+msgctxt "@action:button"
+msgid "Show"
+msgstr "Show"
+
+#~ msgid "KDevelop - Git Stash"
+#~ msgstr "KDevelop - Git Stash"
+
+#~ msgid "git is not installed"
+#~ msgstr "git is not installed"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Andrew Coles, Steve Allewell"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "andrew_coles@yahoo.co.uk, steve.allewell@gmail.com"
+
+#~ msgid "Git"
+#~ msgstr "Git"
+
+#~ msgid "A plugin to support git version control systems"
+#~ msgstr "A plugin to support git version control systems"

@@ -1,0 +1,133 @@
+# , 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-08 01:49+0000\n"
+"PO-Revision-Date: 2015-03-14 14:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: src/dolphinpart.desktop:3
+msgctxt "Name"
+msgid "Dolphin View"
+msgstr "Dolphin View"
+
+#: src/dolphinpart.desktop:66
+msgctxt "Name"
+msgid "Icons"
+msgstr "Icons"
+
+#: src/dolphinpart.desktop:121
+msgctxt "Name"
+msgid "Compact"
+msgstr "Compact"
+
+#: src/dolphinpart.desktop:175
+msgctxt "Name"
+msgid "Details"
+msgstr "Details"
+
+#: src/org.kde.dolphin.desktop:2
+msgctxt "Name"
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#: src/org.kde.dolphin.desktop:57
+msgctxt "GenericName"
+msgid "File Manager"
+msgstr "File Manager"
+
+#: src/settings/kcm/kcmdolphingeneral.desktop:1
+msgctxt "Name"
+msgid "Dolphin General"
+msgstr "Dolphin General"
+
+#: src/settings/kcm/kcmdolphingeneral.desktop:51
+msgctxt "Comment"
+msgid "This service allows configuration of general Dolphin settings."
+msgstr "This service allows configuration of general Dolphin settings."
+
+#: src/settings/kcm/kcmdolphingeneral.desktop:110
+msgctxt "Name|Random file browsing settings."
+msgid "General"
+msgstr "General"
+
+#: src/settings/kcm/kcmdolphingeneral.desktop:159
+msgctxt "Comment"
+msgid "Configure general file manager settings"
+msgstr "Configure general file manager settings"
+
+#: src/settings/kcm/kcmdolphingeneral.desktop:208
+#: src/settings/kcm/kcmdolphinnavigation.desktop:209
+#: src/settings/kcm/kcmdolphinservices.desktop:156
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:205
+msgctxt "X-KDE-Keywords"
+msgid "file manager"
+msgstr "file manager"
+
+#: src/settings/kcm/kcmdolphinnavigation.desktop:1
+msgctxt "Name"
+msgid "Dolphin Navigation"
+msgstr "Dolphin Navigation"
+
+#: src/settings/kcm/kcmdolphinnavigation.desktop:51
+msgctxt "Comment"
+msgid "This service allows configuration of the Dolphin navigation."
+msgstr "This service allows configuration of the Dolphin navigation."
+
+#: src/settings/kcm/kcmdolphinnavigation.desktop:109
+msgctxt "Name"
+msgid "Navigation"
+msgstr "Navigation"
+
+#: src/settings/kcm/kcmdolphinnavigation.desktop:159
+msgctxt "Comment"
+msgid "Configure file manager navigation"
+msgstr "Configure file manager navigation"
+
+#: src/settings/kcm/kcmdolphinservices.desktop:1
+msgctxt "Name"
+msgid "Dolphin Services"
+msgstr "Dolphin Services"
+
+#: src/settings/kcm/kcmdolphinservices.desktop:59
+msgctxt "Name"
+msgid "Services"
+msgstr "Services"
+
+#: src/settings/kcm/kcmdolphinservices.desktop:108
+msgctxt "Comment"
+msgid "Configure file manager services"
+msgstr "Configure file manager services"
+
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:1
+msgctxt "Name"
+msgid "Dolphin View Modes"
+msgstr "Dolphin View Modes"
+
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:50
+msgctxt "Comment"
+msgid "This service allows configuration of the Dolphin view modes."
+msgstr "This service allows configuration of the Dolphin view modes."
+
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:107
+msgctxt "Name"
+msgid "View Modes"
+msgstr "View Modes"
+
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:156
+msgctxt "Comment"
+msgid "Configure file manager view modes"
+msgstr "Configure file manager view modes"
+
+#: src/views/versioncontrol/fileviewversioncontrolplugin.desktop:4
+msgctxt "Comment"
+msgid "Version Control Plugin for File Views"
+msgstr "Version Control Plugin for File Views"

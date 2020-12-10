@@ -1,0 +1,149 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-10-23 02:28+0200\n"
+"PO-Revision-Date: 2020-03-30 18:11+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#. (itstool) path: component/name
+#: org.kde.itinerary.appdata.xml:10
+msgid "KDE Itinerary"
+msgstr "KDE Itinerary"
+
+#. (itstool) path: component/summary
+#: org.kde.itinerary.appdata.xml:11
+msgid "Digital travel assistant"
+msgstr "Digital travel assistant"
+
+#. (itstool) path: description/p
+#: org.kde.itinerary.appdata.xml:13
+msgid ""
+"KDE Itinerary is a digital travel assistant with a priority on protecting "
+"your privacy."
+msgstr ""
+"KDE Itinerary is a digital travel assistant with a priority on protecting "
+"your privacy."
+
+#. (itstool) path: description/p
+#: org.kde.itinerary.appdata.xml:14
+msgid "Features:"
+msgstr "Features:"
+
+#. (itstool) path: ul/li
+#: org.kde.itinerary.appdata.xml:16
+msgid ""
+"Timeline view of a unified travel itinerary with automatic trip grouping."
+msgstr ""
+"Timeline view of a unified travel itinerary with automatic trip grouping."
+
+#. (itstool) path: ul/li
+#: org.kde.itinerary.appdata.xml:17
+msgid ""
+"Supports train, bus and flight bookings as well as hotel, restaurant, event "
+"and rental car reservations."
+msgstr ""
+"Supports train, bus and flight bookings as well as hotel, restaurant, event "
+"and rental car reservations."
+
+#. (itstool) path: ul/li
+#: org.kde.itinerary.appdata.xml:18
+msgid "Boarding pass management."
+msgstr "Boarding pass management."
+
+#. (itstool) path: ul/li
+#: org.kde.itinerary.appdata.xml:19
+msgid ""
+"Supports ticket management for multi-traveler and multi-ticket bookings."
+msgstr ""
+"Supports ticket management for multi-traveller and multi-ticket bookings."
+
+#. (itstool) path: ul/li
+#: org.kde.itinerary.appdata.xml:20
+msgid ""
+"Automatic booking data extraction from various input formats, performed "
+"locally on your device."
+msgstr ""
+"Automatic booking data extraction from various input formats, performed "
+"locally on your device."
+
+#. (itstool) path: ul/li
+#: org.kde.itinerary.appdata.xml:21
+msgid "Real-time delay and platform change information for trains."
+msgstr "Real-time delay and platform change information for trains."
+
+#. (itstool) path: ul/li
+#: org.kde.itinerary.appdata.xml:22
+msgid "Weather forecast for destination along your trip."
+msgstr "Weather forecast for destination along your trip."
+
+#. (itstool) path: ul/li
+#: org.kde.itinerary.appdata.xml:23
+msgid "Full control over all online access."
+msgstr "Full control over all online access."
+
+#. (itstool) path: ul/li
+#: org.kde.itinerary.appdata.xml:24
+msgid ""
+"Selection of alternative train connections on unbound tickets or on missed "
+"connections."
+msgstr ""
+"Selection of alternative train connections on unbound tickets or on missed "
+"connections."
+
+#. (itstool) path: ul/li
+#: org.kde.itinerary.appdata.xml:25
+msgid ""
+"Local ground transportation navigation between elements of your itinerary."
+msgstr ""
+"Local ground transportation navigation between elements of your itinerary."
+
+#. (itstool) path: ul/li
+#: org.kde.itinerary.appdata.xml:26
+msgid "Personal travel statistics to monitor environmental impact."
+msgstr "Personal travel statistics to monitor environmental impact."
+
+#. (itstool) path: description/p
+#: org.kde.itinerary.appdata.xml:28
+msgid ""
+"KDE Itinerary works best alongside KMail's itinerary extraction plug-in and "
+"KDE Connect, or Nextcloud Hub and DavDroid."
+msgstr ""
+"KDE Itinerary works best alongside KMail's itinerary extraction plug-in and "
+"KDE Connect, or Nextcloud Hub and DavDroid."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.itinerary.appdata.xml:32
+msgid "Timeline view."
+msgstr "Timeline view."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.itinerary.appdata.xml:36
+msgid "Boarding pass view."
+msgstr "Boarding pass view."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.itinerary.appdata.xml:40
+msgid "Train layout view highlighting the coach with a seat reservation."
+msgstr "Train layout view highlighting the coach with a seat reservation."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.itinerary.appdata.xml:44
+msgid "Travel statistics view."
+msgstr "Travel statistics view."
+
+#~ msgid "Itinerary and boarding pass management application."
+#~ msgstr "Itinerary and boarding pass management application."
+
+#~ msgid "Unified travel itinerary."
+#~ msgstr "Unified travel itinerary."
+
+#~ msgid "Weather forecast."
+#~ msgstr "Weather forecast."

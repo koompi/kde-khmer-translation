@@ -1,0 +1,79 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2016, 2017, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-11 08:09+0000\n"
+"PO-Revision-Date: 2019-08-03 16:23+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#: src/kcmplymouth_actions.actions:2
+msgctxt "Name"
+msgid "Plymouth Control Module"
+msgstr "Plymouth Control Module"
+
+#: src/kcmplymouth_actions.actions:45
+msgctxt "Name"
+msgid "Save the Plymouth Theme"
+msgstr "Save the Plymouth Theme"
+
+#: src/kcmplymouth_actions.actions:84
+msgctxt "Description"
+msgid "System policies prevent you from applying the Plymouth theme."
+msgstr "System policies prevent you from applying the Plymouth theme."
+
+#: src/kcmplymouth_actions.actions:126
+msgctxt "Name"
+msgid "Install a new Plymouth Theme"
+msgstr "Install a new Plymouth Theme"
+
+#: src/kcmplymouth_actions.actions:165
+msgctxt "Description"
+msgid "System policies prevent you from installing a Plymouth theme."
+msgstr "System policies prevent you from installing a Plymouth theme."
+
+#: src/kcmplymouth_actions.actions:207
+msgctxt "Name"
+msgid "Uninstall a new Plymouth Theme"
+msgstr "Uninstall a new Plymouth Theme"
+
+#: src/kcmplymouth_actions.actions:246
+msgctxt "Description"
+msgid "System policies prevent you from uninstalling a Plymouth theme."
+msgstr "System policies prevent you from uninstalling a Plymouth theme."
+
+#: src/kcm_plymouth.desktop:14
+msgctxt "Name"
+msgid "Boot Splash Screen"
+msgstr "Boot Splash Screen"
+
+#: src/kcm_plymouth.desktop:47
+msgctxt "Comment"
+msgid "Choose Plymouth boot splash screen"
+msgstr "Choose Plymouth boot splash screen"
+
+#: src/kcm_plymouth.desktop:80
+msgctxt "X-KDE-Keywords"
+msgid "plymouth,splash,splash screen,boot splash"
+msgstr "plymouth,splash,splash screen,boot splash"
+
+#: src/package/metadata.desktop:2
+msgctxt "Name"
+msgid "System Splash"
+msgstr "System Splash"
+
+#: src/package/metadata.desktop:42
+msgctxt "Comment"
+msgid "Plymouth splash screen"
+msgstr "Plymouth splash screen"
+
+#~ msgctxt "Name"
+#~ msgid "Boot Splash"
+#~ msgstr "Boot Splash"

@@ -1,0 +1,60 @@
+# translation of desktop_kdebase.po to
+# translation of desktop_kdebase.po to British English
+# Malcolm Hunter <malcolm.hunter@gmx.co.uk>, 2002,2003,2004, 2005, 2006, 2008, 2009.
+# Jonathan Riddell <kde-en-gb@jriddell.org>, 2003.
+# Andrew Coles <andrew_coles@yahoo.co.uk>, 2004, 2005, 2009, 2010, 2011.
+# Steve Allewell <steve.allewell@gmail.com>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-11 08:09+0000\n"
+"PO-Revision-Date: 2016-04-24 11:16+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: example/ksysguard.notifyrc:4
+msgctxt "Comment"
+msgid "System Monitor"
+msgstr "System Monitor"
+
+#: example/ksysguard.notifyrc:71
+msgctxt "Name"
+msgid "Pattern Matched"
+msgstr "Pattern Matched"
+
+#: example/ksysguard.notifyrc:150
+msgctxt "Comment"
+msgid "Search pattern matched"
+msgstr "Search pattern matched"
+
+#: example/ksysguard.notifyrc:233
+msgctxt "Name"
+msgid "Sensor Alarm"
+msgstr "Sensor Alarm"
+
+#: example/ksysguard.notifyrc:312
+msgctxt "Comment"
+msgid "Sensor exceeded critical limit"
+msgstr "Sensor exceeded critical limit"
+
+#: gui/org.kde.ksysguard.desktop:2
+msgctxt "Name"
+msgid "KSysGuard"
+msgstr "KSysGuard"
+
+#: gui/org.kde.ksysguard.desktop:77
+msgctxt "GenericName"
+msgid "System Monitor"
+msgstr "System Monitor"
+
+#: gui/org.kde.ksysguard.desktop:169
+msgctxt "Comment"
+msgid "Monitor running processes and system performance"
+msgstr "Monitor running processes and system performance"

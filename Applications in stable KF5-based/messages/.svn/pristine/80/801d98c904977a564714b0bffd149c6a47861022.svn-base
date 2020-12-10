@@ -1,0 +1,46 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-07 02:43+0000\n"
+"PO-Revision-Date: 2020-09-20 20:11+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: src/integration/propertiesplugin/gdrivepropertiesplugin.json
+msgctxt "Name"
+msgid "Google Drive Properties Page"
+msgstr "Google Drive Properties Page"
+
+#: src/integration/contextmenuaction/contextmenuaction.json
+msgctxt "Name"
+msgid "'Google Drive' actions menu"
+msgstr "'Google Drive' actions menu"
+
+#: kaccounts/kaccountsplugin.json
+msgctxt "Name"
+msgid "KIO gdrive"
+msgstr "KIO gdrive"
+
+#: src/integration/propertiesplugin/gdrivepropertiesplugin.json
+msgctxt "Description"
+msgid ""
+"Properties page showing additional information regarding a Google Drive item"
+msgstr ""
+"Properties page showing additional information regarding a Google Drive item"
+
+#: kaccounts/kaccountsplugin.json
+msgctxt "Description"
+msgid "Integrate KIO gdrive"
+msgstr "Integrate KIO gdrive"
+
+#~ msgctxt "Name"
+#~ msgid "'Copy Google URL to clipboard' action"
+#~ msgstr "'Copy Google URL to clipboard' action"

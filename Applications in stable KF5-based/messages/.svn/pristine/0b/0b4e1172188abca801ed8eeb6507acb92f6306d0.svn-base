@@ -1,0 +1,312 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2016, 2017, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-16 02:38+0000\n"
+"PO-Revision-Date: 2020-09-19 15:26+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: src/panelplugins/variablemgr/variablemanagerplugin.json
+msgctxt "Name"
+msgid "Variable Manager"
+msgstr "Variable Manager"
+
+#: src/panelplugins/tocpanel/tocpanelplugin.json
+msgctxt "Name"
+msgid "Table Of Contents"
+msgstr "Table Of Contents"
+
+#: src/panelplugins/helppanel/helppanelplugin.json
+msgctxt "Name"
+msgid "Help"
+msgstr "Help"
+
+#: src/panelplugins/filebrowserpanel/filebrowserpanelplugin.json
+msgctxt "Name"
+msgid "File Browser"
+msgstr "File Browser"
+
+#: src/backends/qalculate/qalculatebackend.json
+msgctxt "Name"
+msgid "Qalculate"
+msgstr "Qalculate"
+
+#: src/backends/qalculate/plotassistant/qalculateplotassistant.json
+msgctxt "Name"
+msgid "QalculatePlot"
+msgstr "QalculatePlot"
+
+#: src/backends/R/rbackend.json
+msgctxt "Name"
+msgid "R"
+msgstr "R"
+
+#: src/backends/maxima/maximabackend.json
+msgctxt "Name"
+msgid "Maxima"
+msgstr "Maxima"
+
+#: src/backends/sage/sagebackend.json
+msgctxt "Name"
+msgid "Sage"
+msgstr "Sage"
+
+#: src/backends/scilab/scilabbackend.json
+msgctxt "Name"
+msgid "Scilab"
+msgstr "Scilab"
+
+#: src/backends/kalgebra/kalgebrabackend.json
+msgctxt "Name"
+msgid "KAlgebra"
+msgstr "KAlgebra"
+
+#: src/backends/julia/juliabackend.json
+msgctxt "Name"
+msgid "Julia"
+msgstr "Julia"
+
+#: src/backends/python/pythonbackend.json
+msgctxt "Name"
+msgid "Python"
+msgstr "Python"
+
+#: src/backends/octave/octavebackend.json
+msgctxt "Name"
+msgid "Octave"
+msgstr "Octave"
+
+#: src/backends/lua/luabackend.json
+msgctxt "Name"
+msgid "Lua"
+msgstr "Lua"
+
+#: src/cantor_part.json
+msgctxt "Name"
+msgid "CantorPart"
+msgstr "CantorPart"
+
+#: src/assistants/plot3d/plot3dassistant.json
+msgctxt "Name"
+msgid "Plot3d"
+msgstr "Plot3d"
+
+#: src/assistants/plot2d/plot2dassistant.json
+msgctxt "Name"
+msgid "Plot2d"
+msgstr "Plot2d"
+
+#: src/assistants/solve/solveassistant.json
+msgctxt "Name"
+msgid "Solve"
+msgstr "Solve"
+
+#: src/assistants/integrate/integrateassistant.json
+msgctxt "Name"
+msgid "Integrate"
+msgstr "Integrate"
+
+#: src/assistants/linearalgebra/creatematrix/creatematrixassistant.json
+msgctxt "Name"
+msgid "Create Matrix"
+msgstr "Create Matrix"
+
+#: src/assistants/linearalgebra/invertmatrix/invertmatrixassistant.json
+msgctxt "Name"
+msgid "Invert Matrix"
+msgstr "Invert Matrix"
+
+#: src/assistants/linearalgebra/eigenvalues/eigenvaluesassistant.json
+msgctxt "Name"
+msgid "Eigenvalues"
+msgstr "Eigenvalues"
+
+#: src/assistants/linearalgebra/eigenvectors/eigenvectorsassistant.json
+msgctxt "Name"
+msgid "Eigenvectors"
+msgstr "Eigenvectors"
+
+#: src/assistants/advancedplot/advancedplotassistant.json
+msgctxt "Name"
+msgid "AdvancedPlot"
+msgstr "AdvancedPlot"
+
+#: src/assistants/differentiate/differentiateassistant.json
+msgctxt "Name"
+msgid "Differentiate"
+msgstr "Differentiate"
+
+#: src/assistants/runscript/runscriptassistant.json
+msgctxt "Name"
+msgid "RunScript"
+msgstr "RunScript"
+
+#: src/assistants/importpackage/importpackageassistant.json
+msgctxt "Name"
+msgid "Import Package"
+msgstr "Import Package"
+
+#: src/panelplugins/variablemgr/variablemanagerplugin.json
+msgctxt "Description"
+msgid "A panel to manage the variables of a session"
+msgstr "A panel to manage the variables of a session"
+
+#: src/panelplugins/tocpanel/tocpanelplugin.json
+msgctxt "Description"
+msgid "A panel for showing worksheet structure"
+msgstr "A panel for showing worksheet structure"
+
+#: src/panelplugins/helppanel/helppanelplugin.json
+msgctxt "Description"
+msgid "A panel to display help"
+msgstr "A panel to display help"
+
+#: src/panelplugins/filebrowserpanel/filebrowserpanelplugin.json
+msgctxt "Description"
+msgid "A panel for working with files inside Cantor"
+msgstr "A panel for working with files inside Cantor"
+
+#: src/backends/qalculate/qalculatebackend.json
+msgctxt "Description"
+msgid ""
+"Qalculate backend for Cantor. Gives you the advanced features of Qalculate"
+msgstr ""
+"Qalculate backend for Cantor. Gives you the advanced features of Qalculate"
+
+#: src/backends/qalculate/plotassistant/qalculateplotassistant.json
+msgctxt "Description"
+msgid "An Assistant for plotting with the Qalculate backend."
+msgstr "An Assistant for plotting with the Qalculate backend."
+
+#: src/backends/R/rbackend.json
+msgctxt "Description"
+msgid "Backend for The R Project for Statistical Computing"
+msgstr "Backend for The R Project for Statistical Computing"
+
+#: src/backends/maxima/maximabackend.json
+msgctxt "Description"
+msgid "Backend for the Maxima Computer Algebra System"
+msgstr "Backend for the Maxima Computer Algebra System"
+
+#: src/backends/sage/sagebackend.json
+msgctxt "Description"
+msgid "Backend for the Sage Mathematics Software"
+msgstr "Backend for the Sage Mathematics Software"
+
+#: src/backends/scilab/scilabbackend.json
+msgctxt "Description"
+msgid "Backend for the Scilab Scientific Programming Environment"
+msgstr "Backend for the Scilab Scientific Programming Environment"
+
+#: src/backends/kalgebra/kalgebrabackend.json
+msgctxt "Description"
+msgid ""
+"KAlgebra backend for Cantor. Lets you use the same language you use in the "
+"KAlgebra application in Cantor worksheets."
+msgstr ""
+"KAlgebra backend for Cantor. Lets you use the same language you use in the "
+"KAlgebra application in Cantor worksheets."
+
+#: src/backends/julia/juliabackend.json
+msgctxt "Description"
+msgid "Julia backend for Cantor"
+msgstr "Julia backend for Cantor"
+
+#: src/backends/python/pythonbackend.json
+msgctxt "Description"
+msgid "Backend for Python Scientific Programming"
+msgstr "Backend for Python Scientific Programming"
+
+#: src/backends/octave/octavebackend.json
+msgctxt "Description"
+msgid "Backend for GNU Octave"
+msgstr "Backend for GNU Octave"
+
+#: src/backends/lua/luabackend.json
+msgctxt "Description"
+msgid "Backend for luajit"
+msgstr "Backend for luajit"
+
+#: src/assistants/plot3d/plot3dassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify plotting of 3D functions"
+msgstr "An Assistant dialogue to simplify plotting of 3D functions"
+
+#: src/assistants/plot2d/plot2dassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify plotting of 2D functions"
+msgstr "An Assistant dialogue to simplify plotting of 2D functions"
+
+#: src/assistants/solve/solveassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify solving of equations"
+msgstr "An Assistant dialogue to simplify solving of equations"
+
+#: src/assistants/integrate/integrateassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify calculation of integrals"
+msgstr "An Assistant dialogue to simplify calculation of integrals"
+
+#: src/assistants/linearalgebra/creatematrix/creatematrixassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify entering of matrices"
+msgstr "An Assistant dialogue to simplify entering of matrices"
+
+#: src/assistants/linearalgebra/invertmatrix/invertmatrixassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify inverting of matrices"
+msgstr "An Assistant dialogue to simplify inverting of matrices"
+
+#: src/assistants/linearalgebra/eigenvalues/eigenvaluesassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify calculating of Eigenvalues"
+msgstr "An Assistant dialogue to simplify calculating of eigenvalues"
+
+#: src/assistants/linearalgebra/eigenvectors/eigenvectorsassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify calculating of EigenVectors"
+msgstr "An Assistant dialogue to simplify calculating of eigenvectors"
+
+#: src/assistants/differentiate/differentiateassistant.json
+msgctxt "Description"
+msgid "An Assistant dialog to simplify calculating derivatives of expressions"
+msgstr ""
+"An Assistant dialogue to simplify calculating derivatives of expressions"
+
+#: src/assistants/runscript/runscriptassistant.json
+msgctxt "Description"
+msgid "An Assistant for running an external Script file"
+msgstr "An Assistant for running an external Script file"
+
+#: src/assistants/importpackage/importpackageassistant.json
+msgctxt "Description"
+msgid ""
+"An Assistant dialog to import a specific package (or library or module) to "
+"Cantor workspace"
+msgstr ""
+"An Assistant dialogue to import a specific package (or library or module) to "
+"Cantor workspace"
+
+#~ msgctxt "Name"
+#~ msgid "Python 3"
+#~ msgstr "Python 3"
+
+#~ msgctxt "Description"
+#~ msgid "Backend for Python 3 Scientific Programming"
+#~ msgstr "Backend for Python 3 Scientific Programming"
+
+#~ msgctxt "Name"
+#~ msgid "nullbackend"
+#~ msgstr "nullbackend"
+
+#~ msgctxt "Description"
+#~ msgid "Backend for Cantor for testing purposes"
+#~ msgstr "Backend for Cantor for testing purposes"

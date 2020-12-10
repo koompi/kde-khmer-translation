@@ -1,0 +1,33 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-02-02 04:01+0100\n"
+"PO-Revision-Date: 2017-02-04 09:42+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.kfloppy.appdata.xml:6
+msgid "KFloppy"
+msgstr "KFloppy"
+
+#. (itstool) path: component/summary
+#: org.kde.kfloppy.appdata.xml:7
+msgid "Floppy disk formatter"
+msgstr "Floppy disk formatter"
+
+#. (itstool) path: description/p
+#: org.kde.kfloppy.appdata.xml:9
+msgid ""
+"KFloppy is a utility that provides a straightforward graphical means to "
+"format 3.5\" and 5.25\" floppy disks."
+msgstr ""
+"KFloppy is a utility that provides a straightforward graphical means to "
+"format 3.5\" and 5.25\" floppy disks."

@@ -1,0 +1,269 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the libksysguard package.
+#
+# Steve Allewell <steve.allewell@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: libksysguard\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-08 08:15+0200\n"
+"PO-Revision-Date: 2020-09-27 15:17+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: Choices.qml:313
+#, kde-format
+msgctxt "@action:button"
+msgid "Back"
+msgstr "Back"
+
+#: Choices.qml:323
+#, kde-format
+msgid "Search..."
+msgstr "Search..."
+
+#: ConfigAppearance.qml:103
+#, kde-format
+msgid "Presets:"
+msgstr "Presets:"
+
+#: ConfigAppearance.qml:107
+#, kde-format
+msgid "Load Preset..."
+msgstr "Load Preset..."
+
+#: ConfigAppearance.qml:112
+#, kde-format
+msgid "Get new presets..."
+msgstr "Get new presets..."
+
+#: ConfigAppearance.qml:124
+#, kde-format
+msgid "Save Settings As Preset"
+msgstr "Save Settings As Preset"
+
+#: ConfigAppearance.qml:136
+#, kde-format
+msgid "Title:"
+msgstr "Title:"
+
+#: ConfigAppearance.qml:140
+#, kde-format
+msgid "Display Style:"
+msgstr "Display Style:"
+
+#: ConfigAppearance.qml:160
+#, kde-format
+msgid "Get New Display Styles..."
+msgstr "Get New Display Styles..."
+
+#: ConfigSensors.qml:118
+#, kde-format
+msgid "Total Sensor"
+msgid_plural "Total Sensors"
+msgstr[0] "Total Sensor"
+msgstr[1] "Total Sensor:"
+
+#: ConfigSensors.qml:132
+#, kde-format
+msgid "Sensors"
+msgstr "Sensors"
+
+#: ConfigSensors.qml:153
+#, kde-format
+msgid "Text-Only Sensors"
+msgstr "Text-Only Sensors"
+
+#: facepackages/barchart/contents/ui/Config.qml:43
+#: facepackages/linechart/contents/ui/Config.qml:52
+#: facepackages/piechart/contents/ui/Config.qml:42
+#, kde-format
+msgid "Show Sensors Legend"
+msgstr "Show Sensors Legend"
+
+#: facepackages/barchart/contents/ui/Config.qml:47
+#, kde-format
+msgid "Stacked Bars"
+msgstr "Stacked Bars"
+
+#: facepackages/barchart/contents/ui/Config.qml:51
+#: facepackages/linechart/contents/ui/Config.qml:64
+#, kde-format
+msgid "Show Grid Lines"
+msgstr "Show Grid Lines"
+
+#: facepackages/barchart/contents/ui/Config.qml:55
+#: facepackages/linechart/contents/ui/Config.qml:68
+#, kde-format
+msgid "Show Y Axis Labels"
+msgstr "Show Y Axis Labels"
+
+#: facepackages/barchart/contents/ui/Config.qml:59
+#: facepackages/piechart/contents/ui/Config.qml:77
+#, kde-format
+msgid "Automatic Data Range"
+msgstr "Automatic Data Range"
+
+#: facepackages/barchart/contents/ui/Config.qml:66
+#: facepackages/piechart/contents/ui/Config.qml:82
+#, kde-format
+msgid "From:"
+msgstr "From:"
+
+#: facepackages/barchart/contents/ui/Config.qml:74
+#: facepackages/piechart/contents/ui/Config.qml:90
+#, kde-format
+msgid "To:"
+msgstr "To:"
+
+#: facepackages/linechart/contents/ui/Config.qml:47
+#, kde-format
+msgid "Appearance"
+msgstr "Appearance"
+
+#: facepackages/linechart/contents/ui/Config.qml:56
+#, kde-format
+msgid "Stacked Charts"
+msgstr "Stacked Charts"
+
+#: facepackages/linechart/contents/ui/Config.qml:60
+#, kde-format
+msgid "Smooth Lines"
+msgstr "Smooth Lines"
+
+#: facepackages/linechart/contents/ui/Config.qml:72
+#, kde-format
+msgid "Fill Opacity:"
+msgstr "Fill Opacity:"
+
+#: facepackages/linechart/contents/ui/Config.qml:78
+#, kde-format
+msgid "Data Ranges"
+msgstr "Data Ranges"
+
+#: facepackages/linechart/contents/ui/Config.qml:83
+#, kde-format
+msgid "Automatic Y Data Range"
+msgstr "Automatic Y Data Range"
+
+#: facepackages/linechart/contents/ui/Config.qml:87
+#, kde-format
+msgid "From (Y):"
+msgstr "From (Y):"
+
+#: facepackages/linechart/contents/ui/Config.qml:98
+#, kde-format
+msgid "To (Y):"
+msgstr "To (Y):"
+
+#: facepackages/linechart/contents/ui/Config.qml:103
+#, kde-format
+msgid "Automatic X Data Range"
+msgstr "Automatic X Data Range"
+
+#: facepackages/linechart/contents/ui/Config.qml:110
+#, kde-format
+msgid "From (X):"
+msgstr "From (X):"
+
+#: facepackages/linechart/contents/ui/Config.qml:118
+#, kde-format
+msgid "To (X):"
+msgstr "To (X):"
+
+#: facepackages/piechart/contents/ui/Config.qml:46
+#, kde-format
+msgid "Start from Angle"
+msgstr "Start from Angle"
+
+#: facepackages/piechart/contents/ui/Config.qml:51
+#, kde-format
+msgctxt "angle degrees"
+msgid "%1°"
+msgstr "%1°"
+
+#: facepackages/piechart/contents/ui/Config.qml:54
+#: facepackages/piechart/contents/ui/Config.qml:67
+#, kde-format
+msgctxt "angle degrees"
+msgid "°"
+msgstr "°"
+
+#: facepackages/piechart/contents/ui/Config.qml:59
+#, kde-format
+msgid "Total Pie Angle"
+msgstr "Total Pie Angle"
+
+#: facepackages/piechart/contents/ui/Config.qml:64
+#, kde-format
+msgctxt "angle"
+msgid "%1°"
+msgstr "%1°"
+
+#: facepackages/piechart/contents/ui/Config.qml:72
+#, kde-format
+msgid "Rounded Lines"
+msgstr "Rounded Lines"
+
+#: facepackages/textonly/contents/ui/Config.qml:36
+#, kde-format
+msgid "Group sensors based on the value of the total sensors."
+msgstr "Group sensors based on the value of the total sensors."
+
+#: packagestructure/sensorfacepackage.cpp:35
+#, kde-format
+msgid "User Interface"
+msgstr "User Interface"
+
+#: packagestructure/sensorfacepackage.cpp:37
+#, kde-format
+msgid ""
+"The compact representation of the sensors plasmoid when collapsed, for "
+"instance in a panel."
+msgstr ""
+"The compact representation of the sensors plasmoid when collapsed, for "
+"instance in a panel."
+
+#: packagestructure/sensorfacepackage.cpp:40
+#, kde-format
+msgid "The representation of the plasmoid when it's fully expanded."
+msgstr "The representation of the plasmoid when it's fully expanded."
+
+#: packagestructure/sensorfacepackage.cpp:43
+#, kde-format
+msgid "The optional configuration page for this face."
+msgstr "The optional configuration page for this face."
+
+#: packagestructure/sensorfacepackage.cpp:45
+#, kde-format
+msgid "Configuration support"
+msgstr "Configuration support"
+
+#: packagestructure/sensorfacepackage.cpp:46
+#, kde-format
+msgid "KConfigXT xml file for face-specific configuration options."
+msgstr "KConfigXT xml file for face-specific configuration options."
+
+#: packagestructure/sensorfacepackage.cpp:48
+#, kde-format
+msgid "The configuration file that describes face properties and capabilities."
+msgstr ""
+"The configuration file that describes face properties and capabilities."
+
+#~ msgid "Remove"
+#~ msgstr "Remove"
+
+#~ msgid "Drop Sensor Here"
+#~ msgstr "Drop Sensor Here"
+
+#~ msgid "Chart Sensors"
+#~ msgstr "Chart Sensors"
+
+#~ msgid "Drop Sensors Here"
+#~ msgstr "Drop Sensors Here"

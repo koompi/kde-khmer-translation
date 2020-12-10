@@ -1,0 +1,233 @@
+# translation of kcm_memory.po to British English
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Malcolm Hunter <malcolm.hunter@gmx.co.uk>, 2008.
+# Andrew Coles <andrew_coles@yahoo.co.uk>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_memory\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-31 03:37+0100\n"
+"PO-Revision-Date: 2009-03-26 00:34+0000\n"
+"Last-Translator: Andrew Coles <andrew_coles@yahoo.co.uk>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Malcolm Hunter"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "malcolm.hunter@gmx.co.uk"
+
+#: chartWidget.cpp:56 chartWidget.cpp:57 memory.cpp:268
+#, kde-format
+msgid "Not available."
+msgstr "Not available."
+
+#: chartWidget.cpp:106
+#, kde-format
+msgid "%1 free"
+msgstr "%1 free"
+
+#: memory.cpp:64
+#, kde-format
+msgid "kcm_memory"
+msgstr "kcm_memory"
+
+#: memory.cpp:65
+#, kde-format
+msgid "KDE Panel Memory Information Control Module"
+msgstr "KDE Panel Memory Information Control Module"
+
+#: memory.cpp:67
+#, kde-format
+msgid "(c) 1998 - 2002 Helge Deller"
+msgstr "(c) 1998 - 2002 Helge Deller"
+
+#: memory.cpp:69
+#, kde-format
+msgid "Helge Deller"
+msgstr "Helge Deller"
+
+#: memory.cpp:101
+#, kde-format
+msgid ""
+"This display shows you the current memory usage of your system. The values "
+"are updated on a regular basis and give you an overview of the physical and "
+"virtual memory being used."
+msgstr ""
+"This display shows you the current memory usage of your system. The values "
+"are updated on a regular basis and give you an overview of the physical and "
+"virtual memory being used."
+
+#: memory.cpp:107
+#, kde-format
+msgid "Memory"
+msgstr "Memory"
+
+#: memory.cpp:125
+#, kde-format
+msgid "Total physical memory:"
+msgstr "Total physical memory:"
+
+#: memory.cpp:128
+#, kde-format
+msgid "Free physical memory:"
+msgstr "Free physical memory:"
+
+#: memory.cpp:132
+#, kde-format
+msgid "Shared memory:"
+msgstr "Shared memory:"
+
+#: memory.cpp:135
+#, kde-format
+msgid "Disk buffers:"
+msgstr "Disk buffers:"
+
+#: memory.cpp:139
+#, kde-format
+msgid "Active memory:"
+msgstr "Active memory:"
+
+#: memory.cpp:142
+#, kde-format
+msgid "Inactive memory:"
+msgstr "Inactive memory:"
+
+#: memory.cpp:146
+#, kde-format
+msgid "Disk cache:"
+msgstr "Disk cache:"
+
+#: memory.cpp:150
+#, kde-format
+msgid "Total swap memory:"
+msgstr "Total swap memory:"
+
+#: memory.cpp:153
+#, kde-format
+msgid "Free swap memory:"
+msgstr "Free swap memory:"
+
+#: memory.cpp:194
+#, kde-format
+msgid "Charts"
+msgstr "Charts"
+
+#: memory.cpp:204
+#, kde-format
+msgid "Total Memory"
+msgstr "Total Memory"
+
+#: memory.cpp:205
+#, kde-format
+msgid ""
+"This graph gives you an overview of the <b>total sum of physical and virtual "
+"memory</b> in your system."
+msgstr ""
+"This graph gives you an overview of the <b>total sum of physical and virtual "
+"memory</b> in your system."
+
+#: memory.cpp:214
+#, kde-format
+msgid "Physical Memory"
+msgstr "Physical Memory"
+
+#: memory.cpp:215
+#, kde-format
+msgid ""
+"This graph gives you an overview of the <b>usage of physical memory</b> in "
+"your system.<p>Most operating systems (including Linux) will use as much of "
+"the available physical memory as possible as disk cache, to speed up the "
+"system performance.</p><p>This means that if you have a small amount of "
+"<b>Free Physical Memory</b> and a large amount of <b>Disk Cache Memory</b>, "
+"your system is well configured.</p>"
+msgstr ""
+"This graph gives you an overview of the <b>usage of physical memory</b> in "
+"your system.<p>Most operating systems (including Linux) will use as much of "
+"the available physical memory as possible as disk cache, to speed up the "
+"system performance.</p><p>This means that if you have a small amount of "
+"<b>Free Physical Memory</b> and a large amount of <b>Disk Cache Memory</b>, "
+"your system is well configured.</p>"
+
+#: memory.cpp:230
+#, kde-format
+msgid "Swap Space"
+msgstr "Swap Space"
+
+#: memory.cpp:231
+#, kde-format
+msgid ""
+"<p>The swap space is the <b>virtual memory</b> available to the system.</p> "
+"<p>It will be used on demand and is provided through one or more swap "
+"partitions and/or swap files.</p>"
+msgstr ""
+"<p>The swap space is the <b>virtual memory</b> available to the system.</p> "
+"<p>It will be used on demand and is provided through one or more swap "
+"partitions and/or swap files.</p>"
+
+#: memory.cpp:262
+#, kde-format
+msgid "1 byte ="
+msgid_plural "%1 bytes ="
+msgstr[0] "1 byte ="
+msgstr[1] "%1 bytes ="
+
+#: physicalMemoryChart.cpp:48
+#, kde-format
+msgid "Free Physical Memory"
+msgstr "Free Physical Memory"
+
+#: physicalMemoryChart.cpp:50
+#, kde-format
+msgid "Disk Cache"
+msgstr "Disk Cache"
+
+#: physicalMemoryChart.cpp:52
+#, kde-format
+msgid "Disk Buffers"
+msgstr "Disk Buffers"
+
+#: physicalMemoryChart.cpp:54
+#, kde-format
+msgid "Application Data"
+msgstr "Application Data"
+
+#: swapMemoryChart.cpp:47
+#, kde-format
+msgid "Free Swap"
+msgstr "Free Swap"
+
+#: swapMemoryChart.cpp:49 totalMemoryChart.cpp:43
+#, kde-format
+msgid "Used Swap"
+msgstr "Used Swap"
+
+#: totalMemoryChart.cpp:41
+#, kde-format
+msgid "Total Free Memory"
+msgstr "Total Free Memory"
+
+#: totalMemoryChart.cpp:45
+#, kde-format
+msgid "Used Physical Memory"
+msgstr "Used Physical Memory"
+
+#~ msgid "%1 GiB"
+#~ msgstr "%1 GiB"
+
+#~ msgid "%1 MiB"
+#~ msgstr "%1 MiB"
+
+#~ msgid "%1 KiB"
+#~ msgstr "%1 KiB"

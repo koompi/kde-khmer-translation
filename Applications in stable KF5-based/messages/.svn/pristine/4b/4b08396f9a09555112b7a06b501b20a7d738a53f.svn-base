@@ -1,0 +1,95 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2014, 2016, 2017, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-11 08:09+0000\n"
+"PO-Revision-Date: 2019-08-03 16:24+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#: kcm_sddm.actions:2
+msgctxt "Name"
+msgid "SDDM"
+msgstr "SDDM"
+
+#: kcm_sddm.actions:52
+msgctxt "Name"
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: kcm_sddm.actions:98
+msgctxt "Description"
+msgid "Save Settings in SDDM"
+msgstr "Save Settings in SDDM"
+
+#: kcm_sddm.actions:147
+msgctxt "Name"
+msgid "Install an SDDM theme"
+msgstr "Install an SDDM theme"
+
+#: kcm_sddm.actions:191
+msgctxt "Description"
+msgid "Extracts a zip file containing an SDDM theme to the SDDM theme location"
+msgstr ""
+"Extracts a zip file containing an SDDM theme to the SDDM theme location"
+
+#: kcm_sddm.actions:237
+msgctxt "Name"
+msgid "Uninstall an SDDM theme"
+msgstr "Uninstall an SDDM theme"
+
+#: kcm_sddm.actions:281
+msgctxt "Description"
+msgid "Removes a previously installed SDDM theme"
+msgstr "Removes a previously installed SDDM theme"
+
+#: kcm_sddm.actions:328
+msgctxt "Name"
+msgid "Synchronize Settings"
+msgstr "Synchronise Settings"
+
+#: kcm_sddm.actions:364
+msgctxt "Description"
+msgid "Synchronizes user settings with SDDM settings"
+msgstr "Synchronises user settings with SDDM settings"
+
+#: kcm_sddm.actions:403
+msgctxt "Name"
+msgid "Reset Settings"
+msgstr "Reset Settings"
+
+#: kcm_sddm.actions:439
+msgctxt "Description"
+msgid "Resets SDDM settings so there are not user settings"
+msgstr "Resets SDDM settings so there are not user settings"
+
+#: kcm_sddm.desktop:12
+msgctxt "X-KDE-Keywords"
+msgid "sddm,display manager,theme"
+msgstr "sddm,display manager,theme"
+
+#: kcm_sddm.desktop:60
+msgctxt "Name"
+msgid "Login Screen (SDDM)"
+msgstr "Login Screen (SDDM)"
+
+#: kcm_sddm.desktop:108
+msgctxt "Comment"
+msgid "Configure Login Manager"
+msgstr "Configure Login Manager"
+
+#: sddmtheme.knsrc:2
+msgctxt "Name"
+msgid "Login Screen"
+msgstr "Login Screen"
+
+#~ msgctxt "Comment"
+#~ msgid "Select Login Theme"
+#~ msgstr "Select Login Theme"

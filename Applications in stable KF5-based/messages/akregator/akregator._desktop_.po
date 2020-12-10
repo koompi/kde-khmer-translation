@@ -1,0 +1,2937 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-10 18:05+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: configuration/akregator_config_advanced.desktop:13
+msgctxt "Name"
+msgid "Advanced"
+msgstr "កម្រិតខ្ពស់"
+
+#: configuration/akregator_config_advanced.desktop:67
+msgctxt "Comment"
+msgid "Advanced Feed Reader Settings"
+msgstr "ការកំណត់ឧបករណ៍អានព័ត៌មានកម្រិតខ្ពស់"
+
+#: configuration/akregator_config_advanced.desktop:116
+msgctxt "X-KDE-Keywords"
+msgid "akregator, configure, settings, advanced"
+msgstr "akregator កំណត់រចនាសម្ព័ន្ធការកំណត់កម្រិតខ្ពស់"
+
+#: configuration/akregator_config_appearance.desktop:13
+msgctxt "Name"
+msgid "Appearance"
+msgstr "រូបរាង"
+
+#: configuration/akregator_config_appearance.desktop:87
+msgctxt "Comment"
+msgid "Configure the Feed Reader Appearance"
+msgstr "កំណត់រចនាសម្ព័ន្ធរូបរាងអ្នកអានមតិព័ត៌មាន"
+
+#: configuration/akregator_config_appearance.desktop:135
+msgctxt "X-KDE-Keywords"
+msgid "akregator, configure, settings, appearance, look, feel"
+msgstr "akregator, កំណត់រចនាសម្ព័ន្ធ, ការកំណត់, រូបរាង, រូបរាង, អារម្មណ៍"
+
+#: configuration/akregator_config_archive.desktop:13
+msgctxt "Name"
+msgid "Archive"
+msgstr "ប័ណ្ណសារ"
+
+#: configuration/akregator_config_archive.desktop:66
+msgctxt "Comment"
+msgid "Configure Feed Archive"
+msgstr "កំណត់រចនាសម្ព័ន្ធប័ណ្ណសារព័ត៌មាន"
+
+#: configuration/akregator_config_archive.desktop:115
+msgctxt "X-KDE-Keywords"
+msgid "akregator, configure, settings, archive"
+msgstr "akregator, កំណត់រចនាសម្ព័ន្ធ, កំណត់, ទុកក្នុងប័ណ្ណសារ"
+
+#: configuration/akregator_config_browser.desktop:13
+msgctxt "Name"
+msgid "Browser"
+msgstr "កម្មវិធីរុករក"
+
+#: configuration/akregator_config_browser.desktop:67
+msgctxt "Comment"
+msgid "Configure Internal Browser Component"
+msgstr "កំណត់រចនាសម្ព័ន្ធសមាសភាគកម្មវិធីរុករកផ្ទៃក្នុង"
+
+#: configuration/akregator_config_browser.desktop:115
+msgctxt "X-KDE-Keywords"
+msgid "akregator, configure, settings, Browser, Web, Internal"
+msgstr "akregator, កំណត់រចនាសម្ព័ន្ធ, ការកំណត់, កម្មវិធីរុករក, គេហទំព័រ, ផ្ទៃក្នុង"
+
+#: configuration/akregator_config_general.desktop:13
+msgctxt "Name"
+msgid "General"
+msgstr "ទូទៅ"
+
+#: configuration/akregator_config_general.desktop:85
+msgctxt "Comment"
+msgid "Configure Feeds"
+msgstr "កំណត់រចនាសម្ព័ន្ធមតិព័ត៌មាន"
+
+#: configuration/akregator_config_general.desktop:136
+msgctxt "X-KDE-Keywords"
+msgid "akregator, configure, settings, General"
+msgstr "akregator, កំណត់រចនាសម្ព័ន្ធ, កំណត់, ទូទៅ"
+
+#: configuration/akregator_config_plugins.desktop:12
+msgctxt "Name"
+msgid "Plugins"
+msgstr "កម្មវិធីជំនួយ"
+
+#: configuration/akregator_config_plugins.desktop:82
+msgctxt "Comment"
+msgid "Configure Plugins"
+msgstr "កំណត់រចនាសម្ព័ន្ធកម្មវិធីជំនួយ"
+
+#: configuration/akregator_config_plugins.desktop:119
+msgctxt "X-KDE-Keywords"
+msgid "akregator, configure, settings, webEngine, plugins"
+msgstr "akregator, កំណត់រចនាសម្ព័ន្ធ, កំណត់, វ៉ែបអ៊ីនណេន, កម្មវិធីជំនួយ"
+
+#: configuration/akregator_config_userfeedback.desktop:12
+msgctxt "Name"
+msgid "User Feedback"
+msgstr "មតិអ្នកប្រើ"
+
+#: configuration/akregator_config_userfeedback.desktop:38
+msgctxt "X-KDE-Keywords"
+msgid "akregator, configure, settings, userfeedback"
+msgstr "akregator, កំណត់រចនាសម្ព័ន្ធ, កំណត់, userfeedback"
+
+#: kontactplugin/akregatorplugin.desktop:17
+msgctxt "Comment"
+msgid "Akregator Plugin"
+msgstr "កម្មវិធីជំនួយ Akregator"
+
+#: kontactplugin/akregatorplugin.desktop:83 kontactplugin/akregator.setdlg:2
+msgctxt "Name"
+msgid "Feeds"
+msgstr "មតិព័ត៌មាន"
+
+#: kontactplugin/akregator.setdlg:69
+msgctxt "Comment"
+msgid "Feed Reader"
+msgstr "កម្មវិធីអានមតិព័ត៌មាន"
+
+#: plugins/mk4storage/akregator_mk4storage_plugin.desktop:3
+msgctxt "Name"
+msgid "Metakit storage backend"
+msgstr "ផ្នែកខាងក្រោយនៃការផ្ទុកមេតាណុល"
+
+#: plugins/mk4storage/akregator_mk4storage_plugin.desktop:63
+#: src/data/akregator_plugin.desktop:4
+msgctxt "Comment"
+msgid "Plugin for Akregator"
+msgstr "កម្មវិធីជំនួយសម្រាប់ Akregator"
+
+#: src/data/akregator.notifyrc:4
+msgctxt "Comment"
+msgid "Akregator"
+msgstr "Akregator"
+
+#: src/data/akregator.notifyrc:70
+msgctxt "Name"
+msgid "Feed added"
+msgstr "បានបន្ថែមមតិព័ត៌មាន"
+
+#: src/data/akregator.notifyrc:130
+msgctxt "Comment"
+msgid "A new feed was remotely added to Akregator"
+msgstr "ចំណីថ្មីត្រូវបានបន្ថែមពីចំងាយទៅ Akregator"
+
+#: src/data/akregator.notifyrc:192
+msgctxt "Name"
+msgid "New Articles"
+msgstr "អត្ថបទថ្មី"
+
+#: src/data/akregator.notifyrc:255
+msgctxt "Comment"
+msgid "New articles were fetched"
+msgstr "អត្ថបទថ្មីត្រូវបានគេយក"
+
+#: src/data/org.kde.akregator.desktop:2
+msgctxt "Name"
+msgid "Akregator"
+msgstr "Akregator"
+
+#: src/data/org.kde.akregator.desktop:74
+msgctxt "GenericName"
+msgid "Feed Reader"
+msgstr "កម្មវិធីអានមតិព័ត៌មាន"
+
+#: src/data/org.kde.akregator.desktop:125
+msgctxt "Comment"
+msgid "A KDE News Feed Reader"
+msgstr "កម្មវិធីអានព័ត៌មានរបស់ KDE"
+
+#~ msgctxt "Name"
+#~ msgid "aKregatorPart"
+#~ msgstr "aKregatorPart"
+
+#~ msgctxt "Name"
+#~ msgid "Web Engine URL Interceptor Plugins"
+#~ msgstr "កម្មវិធីជំនួយឧបករណ៍ចាប់សញ្ញា URL របស់គេហទំព័រ"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Web Engine URL Interceptor Plugins"
+#~ msgstr "តំឡើងកម្មវិធីជំនួយអ៊ិនធឺរណែត URL ម៉ាស៊ីន"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "akregator, configure, settings, webEngine, url interceptor"
+#~ msgstr "akregator, កំណត់រចនាសម្ព័ន្ធ, កំណត់, វ៉ែនអ៊ីន, កម្មវិធីស្ទាក់ចាប់ url"
+
+#~ msgctxt "Name"
+#~ msgid "Account Wizard"
+#~ msgstr "អ្នកជំនួយការគណនី"
+
+#~ msgctxt "Comment"
+#~ msgid "Launch the account wizard to configure PIM accounts."
+#~ msgstr "បើកដំណើរការអ្នកជំនួយការគណនីដើម្បីកំណត់រចនាសម្ព័ន្ធគណនី PIM ។"
+
+#~ msgctxt "Name"
+#~ msgid "Tine 2.0 Groupware Server"
+#~ msgstr "Tine 2.0 Groupware Server"
+
+#~ msgctxt "Comment"
+#~ msgid "Tine 2.0 Groupware Server"
+#~ msgstr "ម៉ាស៊ីនបម្រើធេមថិនគ្រុប ២"
+
+#~ msgctxt "Name"
+#~ msgid "Akonadi Console"
+#~ msgstr "កុងសូលអាហ្គូណាឌី"
+
+#~ msgctxt "Comment"
+#~ msgid "Akonadi Management and Debugging Console"
+#~ msgstr "ការគ្រប់គ្រង Akonadi និងកុងតាក់បំបាត់កំហុស"
+
+#~ msgctxt "Name"
+#~ msgid "Blogilo"
+#~ msgstr "ហ្គីលីឡូ"
+
+#~ msgctxt "GenericName"
+#~ msgid "A KDE Blogging Client"
+#~ msgstr "អតិថិជនប្លក់ KDE"
+
+#~ msgctxt "Name"
+#~ msgid "KonsoleKalendar"
+#~ msgstr "កុងសូលខេន"
+
+#~ msgctxt "Name"
+#~ msgid "Kontact Administration"
+#~ msgstr "រដ្ឋបាលខនតូត"
+
+#~ msgctxt "Name"
+#~ msgid "Contact Print Theme Editor"
+#~ msgstr "Contact Print Theme Editor"
+
+#~ msgctxt "GenericName"
+#~ msgid "Contact Print Theme Editor"
+#~ msgstr "ទំនាក់ទំនងកម្មវិធីនិពន្ធស្បែកបោះពុម្ព"
+
+#~ msgctxt "Name"
+#~ msgid "Contact Theme Editor"
+#~ msgstr "Contact Theme Editor"
+
+#~ msgctxt "GenericName"
+#~ msgid "Contact Theme Editor"
+#~ msgstr "កម្មវិធីនិពន្ធស្បែកទំនាក់ទំនង"
+
+#~ msgctxt "Name"
+#~ msgid "KMail Header Theme Editor"
+#~ msgstr "កម្មវិធីនិពន្ធស្បែកបឋមកថា KMail"
+
+#~ msgctxt "GenericName"
+#~ msgid "Mail Header Theme Editor"
+#~ msgstr "កម្មវិធីនិពន្ធស្បែកក្បាលសំបុត្រ"
+
+#~ msgctxt "Name"
+#~ msgid "KMail Import Wizard"
+#~ msgstr "អ្នកជំនួយការនាំចូល KMail"
+
+#~ msgctxt "Comment"
+#~ msgid "Launch the import wizard to migrate data from mailer as thunderbird/evolution etc."
+#~ msgstr "បើកដំណើរការអ្នកជំនួយការនាំចូលដើម្បីផ្លាស់ទីទិន្នន័យពីអ្នកផ្ញើរជារន្ទះ / វិវត្ត។ ល។"
+
+#~ msgctxt "Comment"
+#~ msgid "Kontact KAddressBook Plugin"
+#~ msgstr "កម្មវិធីជំនួយរបស់ Kontact KAddressBook"
+
+#~ msgctxt "Name"
+#~ msgid "Contacts"
+#~ msgstr "ទំនាក់ទំនង"
+
+#~ msgctxt "Comment"
+#~ msgid "Address Book Component"
+#~ msgstr "សមាសភាគសៀវភៅអាសយដ្ឋាន"
+
+#~ msgctxt "Name"
+#~ msgid "KAddressbook import file"
+#~ msgstr "ឯកសារនាំចូល KAddressbook"
+
+#~ msgctxt "Name"
+#~ msgid "KAddressBook"
+#~ msgstr "KAddressBook"
+
+#~ msgctxt "GenericName"
+#~ msgid "Contact Manager"
+#~ msgstr "អ្នកគ្រប់គ្រងទំនាក់ទំនង"
+
+#~ msgctxt "Name"
+#~ msgid "Example big title"
+#~ msgstr "ឧទាហរណ៍ចំណងជើងធំ"
+
+#~ msgctxt "Description"
+#~ msgid "Example big title grantlee printing theme"
+#~ msgstr "ឧទាហរណ៍ប្រធានបទបោះពុម្ពព្រីនប៊ែលធំ"
+
+#~ msgctxt "Name"
+#~ msgid "Default"
+#~ msgstr "លំនាំដើម"
+
+#~ msgctxt "Description"
+#~ msgid "Default grantlee printing theme"
+#~ msgstr "ស្បែកបោះពុម្ពព្រីនឌលលំនាំដើម"
+
+#~ msgctxt "Name"
+#~ msgid "Full Information"
+#~ msgstr "ព័ត៌មានពេញលេញ"
+
+#~ msgctxt "Description"
+#~ msgid "Display All Information"
+#~ msgstr "បង្ហាញព័ត៌មានទាំងអស់"
+
+#~ msgctxt "Description"
+#~ msgid "Default kaddressbook theme."
+#~ msgstr "ស្បែក kaddressbook លំនាំដើម។"
+
+#~ msgctxt "Name"
+#~ msgid "KAlarm"
+#~ msgstr "កល្យាណ"
+
+#~ msgctxt "Comment"
+#~ msgid "KAlarm autostart at login"
+#~ msgstr "KAlarm autostart ពេលចូល"
+
+#~ msgctxt "GenericName"
+#~ msgid "Personal Alarm Scheduler"
+#~ msgstr "កម្មវិធីកំណត់ម៉ោងរោទិ៍ផ្ទាល់ខ្លួន"
+
+#~ msgctxt "Name"
+#~ msgid "Set RTC wakeup time"
+#~ msgstr "កំណត់ពេលវេលាភ្ញាក់របស់អឹមស៊ី"
+
+#~ msgctxt "Description"
+#~ msgid "Set RTC wake-from-suspend time"
+#~ msgstr "កំណត់ពេលវេលាពីការពន្យារពេល RTC"
+
+#~ msgctxt "Comment"
+#~ msgid "Archive Mail Agent"
+#~ msgstr "Archive Mail Agent"
+
+#~ msgctxt "Name"
+#~ msgid "Archive Mail Agent"
+#~ msgstr "ភ្នាក់ងារសំបុត្រប័ណ្ណសារ"
+
+#~ msgctxt "Name"
+#~ msgid "Archive Mail finished"
+#~ msgstr "បណ្ណសារបានបញ្ចប់"
+
+#~ msgctxt "Name"
+#~ msgid "Archive Mail started"
+#~ msgstr "ប័ណ្ណសារសំបុត្របានចាប់ផ្តើម"
+
+#~ msgctxt "Name"
+#~ msgid "Directory does not exist"
+#~ msgstr "មិនមានថតទេ"
+
+#~ msgctxt "Name"
+#~ msgid "Archive Mail Error"
+#~ msgstr "កំហុសក្នុងប័ណ្ណសារ"
+
+#~ msgctxt "Comment"
+#~ msgid "Followup reminder agent"
+#~ msgstr "ភ្នាក់ងាររំupកតាមដាន"
+
+#~ msgctxt "Name"
+#~ msgid "Mail Follow Up Received"
+#~ msgstr "បានទទួលអ៊ីមែលតាមដាន"
+
+#~ msgctxt "Name"
+#~ msgid "Followup Reminder Agent"
+#~ msgstr "ភ្នាក់ងាររំupកតាមដាន"
+
+#~ msgctxt "Comment"
+#~ msgid "Followup Reminder Agent allows to remind you when an email was not answered."
+#~ msgstr "ភ្នាក់ងាររំupកតាមដានអនុញ្ញាតឱ្យរំremindកអ្នកនៅពេលអ៊ីមែលមិនត្រូវបានឆ្លើយតប។"
+
+#~ msgctxt "Comment"
+#~ msgid "Mail Filter Agent"
+#~ msgstr "Mail Filter Agent"
+
+#~ msgctxt "Name"
+#~ msgid "Mail Filter Agent"
+#~ msgstr "ភ្នាក់ងារតម្រងសំបុត្រ"
+
+#~ msgctxt "Name"
+#~ msgid "Mail filter log enabled"
+#~ msgstr "បានបើកកំណត់ហេតុតម្រងអ៊ីមែល"
+
+#~ msgctxt "Name"
+#~ msgid "An error occurred during filtering"
+#~ msgstr "កំហុសមួយបានកើតឡើងកំឡុងពេលច្រោះ"
+
+#~ msgctxt "Comment"
+#~ msgid "Extension to filter emails"
+#~ msgstr "ផ្នែកបន្ថែមដើម្បីត្រងអ៊ីមែល"
+
+#~ msgctxt "Comment"
+#~ msgid "Send Later Agent"
+#~ msgstr "Send Later Agent"
+
+#~ msgctxt "Name"
+#~ msgid "Mail is sent"
+#~ msgstr "សំបុត្រត្រូវបានផ្ញើ"
+
+#~ msgctxt "Name"
+#~ msgid "Send mail failed"
+#~ msgstr "ការផ្ញើអ៊ីមែលបរាជ័យ"
+
+#~ msgctxt "Name"
+#~ msgid "Send Later Agent"
+#~ msgstr "បញ្ជូនភ្នាក់ងារនៅពេលក្រោយ"
+
+#~ msgctxt "Comment"
+#~ msgid "Mail program with a D-Bus interface"
+#~ msgstr "កម្មវិធីអ៊ីមែលជាមួយចំណុចប្រទាក់ D-Bus"
+
+#~ msgctxt "Comment"
+#~ msgid "KMail"
+#~ msgstr "KMail"
+
+#~ msgctxt "Name"
+#~ msgid "Akonadi server sent a warning"
+#~ msgstr "Akonadi server sent a warning"
+
+#~ msgctxt "Comment"
+#~ msgid "Akonadi server sent a warning"
+#~ msgstr "ម៉ាស៊ីនមេ Akonadi បានផ្ញើការព្រមាន"
+
+#~ msgctxt "Name"
+#~ msgid "Akonadi server sent an error"
+#~ msgstr "Akonadi server sent an error"
+
+#~ msgctxt "Comment"
+#~ msgid "Akonadi server sent an error"
+#~ msgstr "ម៉ាស៊ីនមេ Akonadi បានផ្ញើកំហុស"
+
+#~ msgctxt "Name"
+#~ msgid "A resource is broken"
+#~ msgstr "ធនធានមួយត្រូវបានខូច"
+
+#~ msgctxt "Comment"
+#~ msgid "A resource change its state to broken"
+#~ msgstr "ធនធានផ្លាស់ប្តូរស្ថានភាពរបស់វាទៅជាខូច"
+
+#~ msgctxt "Name"
+#~ msgid "Error While Checking Mail"
+#~ msgstr "មានកំហុសនៅពេលពិនិត្យមើលសំបុត្រ"
+
+#~ msgctxt "Comment"
+#~ msgid "There was an error while checking for new mail"
+#~ msgstr "មានកំហុសពេលពិនិត្យមើលអ៊ីមែលថ្មី"
+
+#~ msgctxt "Name"
+#~ msgid "Archive Mails in Folder done"
+#~ msgstr "ប័ណ្ណសារសារនៅក្នុងថតឯកសាររួចរាល់"
+
+#~ msgctxt "Name"
+#~ msgid "Folder Archive Error"
+#~ msgstr "កំហុសក្នុងប័ណ្ណសារថតឯកសារ"
+
+#~ msgctxt "Name"
+#~ msgid "Send as Email Attachment"
+#~ msgstr "ផ្ញើជាឯកសារភ្ជាប់តាមអ៊ីមែល"
+
+#~ msgctxt "Name"
+#~ msgid "Accounts"
+#~ msgstr "គណនី"
+
+#~ msgctxt "Comment"
+#~ msgid "Setup for Sending and Receiving Messages"
+#~ msgstr "រៀបចំសម្រាប់ផ្ញើនិងទទួលសារ"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "kmail,accounts"
+#~ msgstr "kmail, គណនី"
+
+#~ msgctxt "Comment"
+#~ msgid "Customize Visual Appearance"
+#~ msgstr "ប្តូររូបរាងតាមបំណង"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "kmail,appearance"
+#~ msgstr "kmail, រូបរាង"
+
+#~ msgctxt "Name"
+#~ msgid "Composer"
+#~ msgstr "កម្មវិធីតែង"
+
+#~ msgctxt "Comment"
+#~ msgid "Message Composer Settings"
+#~ msgstr "ការកំណត់កម្មវិធីតែងសារ"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "kmail,composer"
+#~ msgstr "kmail អ្នកនិពន្ធ"
+
+#~ msgctxt "Name"
+#~ msgid "Identities"
+#~ msgstr "អត្តសញ្ញាណ"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage Identities"
+#~ msgstr "គ្រប់គ្រងអត្តសញ្ញាណ"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "kmail,identity"
+#~ msgstr "kmail, អត្តសញ្ញាណ"
+
+#~ msgctxt "Name"
+#~ msgid "Misc"
+#~ msgstr "ផ្សេងៗ"
+
+#~ msgctxt "Comment"
+#~ msgid "Settings that don't fit elsewhere"
+#~ msgstr "ការកំណត់ដែលមិនសមនឹងកន្លែងផ្សេងទៀត"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "kmail,misc"
+#~ msgstr "kmail, misc"
+
+#~ msgctxt "Name"
+#~ msgid "Security"
+#~ msgstr "សន្តិសុខ"
+
+#~ msgctxt "Comment"
+#~ msgid "Security & Privacy Settings"
+#~ msgstr "ការកំណត់សុវត្ថិភាពព័ត៌មានឯកជន"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "kmail,security"
+#~ msgstr "kmail, សុវត្ថិភាព"
+
+#~ msgctxt "Name"
+#~ msgid "KMail view"
+#~ msgstr "ទិដ្ឋភាព KMail"
+
+#~ msgctxt "Name"
+#~ msgid "KMail"
+#~ msgstr "KMail"
+
+#~ msgctxt "GenericName"
+#~ msgid "Mail Client"
+#~ msgstr "អតិថិជនអ៊ីមែល"
+
+#~ msgctxt "Comment"
+#~ msgid "Send, receive and manage your mail with KMail"
+#~ msgstr "ផ្ញើទទួលនិងគ្រប់គ្រងអ៊ីមែលរបស់អ្នកជាមួយ KMail"
+
+#~ msgctxt "Name"
+#~ msgid "New Message"
+#~ msgstr "សារថ្មី"
+
+#~ msgctxt "Name"
+#~ msgid "Check Mail"
+#~ msgstr "ពិនិត្យសំបុត្រ"
+
+#~ msgctxt "Name"
+#~ msgid "New Messages"
+#~ msgstr "សារថ្មី"
+
+#~ msgctxt "Comment"
+#~ msgid "Mail Summary Setup"
+#~ msgstr "រៀបចំសង្ខេបសំបុត្រ"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "email, summary, configure, settings"
+#~ msgstr "អ៊ីមែលសង្ខេបសង្ខេបកំណត់"
+
+#~ msgctxt "Comment"
+#~ msgid "Kontact KMail Plugin"
+#~ msgstr "កម្មវិធីជំនួយរបស់ Kontact KMail"
+
+#~ msgctxt "Name"
+#~ msgid "Mail"
+#~ msgstr "សំបុត្រ"
+
+#~ msgctxt "Comment"
+#~ msgid "Mail Component"
+#~ msgstr "សមាសភាគអ៊ីមែល"
+
+#~ msgctxt "Name"
+#~ msgid "Summaries"
+#~ msgstr "សង្ខេប"
+
+#~ msgctxt "Comment"
+#~ msgid "Summary Selection"
+#~ msgstr "ការជ្រើសរើសសង្ខេប"
+
+#~ msgctxt "Comment"
+#~ msgid "Kontact SummaryView Plugin"
+#~ msgstr "កម្មវិធីជំនួយសង្ខេបរបស់ Kontact សង្ខេប"
+
+#~ msgctxt "Name"
+#~ msgid "Summary"
+#~ msgstr "សង្ខេប"
+
+#~ msgctxt "Comment"
+#~ msgid "Summary View"
+#~ msgstr "ទិដ្ឋភាពសង្ខេប"
+
+#~ msgctxt "Comment"
+#~ msgid "Notes Agent"
+#~ msgstr "Notes Agent"
+
+#~ msgctxt "Name"
+#~ msgid "Received a note"
+#~ msgstr "បានទទួលកំណត់ត្រា"
+
+#~ msgctxt "Name"
+#~ msgid "Notes Agent"
+#~ msgstr "ភ្នាក់ងារកំណត់សំគាល់"
+
+#~ msgctxt "Comment"
+#~ msgid "Adds notes received via network and handles note alarm notifications"
+#~ msgstr "បន្ថែមកំណត់ត្រាដែលទទួលបានតាមរយៈបណ្តាញនិងចំណុចទាញការជូនដំណឹងការជូនដំណឹង"
+
+#~ msgctxt "Name"
+#~ msgid "Actions"
+#~ msgstr "សកម្មភាព"
+
+#~ msgctxt "Comment"
+#~ msgid "Setup actions for notes"
+#~ msgstr "រៀបចំសកម្មភាពសម្រាប់កំណត់ត្រា"
+
+#~ msgctxt "Name"
+#~ msgid "Collections"
+#~ msgstr "ការប្រមូលផ្តុំ"
+
+#~ msgctxt "Comment"
+#~ msgid "Setup collections for notes"
+#~ msgstr "រៀបចំការប្រមូលសម្រាប់កំណត់ត្រា"
+
+#~ msgctxt "Name"
+#~ msgid "Display"
+#~ msgstr "បង្ហាញ"
+
+#~ msgctxt "Comment"
+#~ msgid "Setup display for notes"
+#~ msgstr "រៀបចំការបង្ហាញសម្រាប់ចំណាំ"
+
+#~ msgctxt "Name"
+#~ msgid "Editor"
+#~ msgstr "និពន្ធនាយក"
+
+#~ msgctxt "Comment"
+#~ msgid "Setup editor"
+#~ msgstr "រៀបចំកម្មវិធីនិពន្ធ"
+
+#~ msgctxt "Name"
+#~ msgid "Network"
+#~ msgstr "បណ្តាញ"
+
+#~ msgctxt "Comment"
+#~ msgid "Network Settings"
+#~ msgstr "ការកំណត់​ប​ណ្តា​ញ"
+
+#~ msgctxt "Name"
+#~ msgid "Print"
+#~ msgstr "បោះពុម្ព"
+
+#~ msgctxt "Comment"
+#~ msgid "Setup printing for notes"
+#~ msgstr "រៀបចំការបោះពុម្ពសម្រាប់កំណត់ចំណាំ"
+
+#~ msgctxt "GenericName"
+#~ msgid "Popup Notes"
+#~ msgstr "Popup Notes"
+
+#~ msgctxt "Name"
+#~ msgid "KNotes"
+#~ msgstr "KNotes"
+
+#~ msgctxt "Name"
+#~ msgid "New Notes"
+#~ msgstr "កំណត់ចំណាំថ្មី"
+
+#~ msgctxt "Comment"
+#~ msgid "Notes Summary Setup"
+#~ msgstr "ការរៀបចំសង្ខេបកំណត់សំគាល់"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "notes, summary, configure, settings"
+#~ msgstr "កំណត់ចំណាំសង្ខេបកំណត់រចនាសម្ព័ន្ធ"
+
+#~ msgctxt "Comment"
+#~ msgid "Kontact KNotes Plugin"
+#~ msgstr "កម្មវិធីជំនួយ Kontact KNotes"
+
+#~ msgctxt "Name"
+#~ msgid "Popup Notes"
+#~ msgstr "ចំណាំលេចឡើង"
+
+#~ msgctxt "Comment"
+#~ msgid "Popup Notes Component"
+#~ msgstr "សមាសធាតុចំណាំលេចឡើង"
+
+#~ msgctxt "Name"
+#~ msgid "Note with background color"
+#~ msgstr "ចំណាំជាមួយពណ៌ផ្ទៃខាងក្រោយ"
+
+#~ msgctxt "Description"
+#~ msgid "Theme which use note background color"
+#~ msgstr "ស្បែកដែលប្រើពណ៌សម្គាល់ផ្ទៃខាងក្រោយ"
+
+#~ msgctxt "Name"
+#~ msgid "Big Title"
+#~ msgstr "ចំណងជើងធំ"
+
+#~ msgctxt "Description"
+#~ msgid "KNote printing theme with big title"
+#~ msgstr "ខេធីធីធីធីងបោះពុម្ពជាមួយចំណងជើងធំ"
+
+#~ msgctxt "Description"
+#~ msgid "Default knotes printing theme"
+#~ msgstr "ស្បែកព្រីនបោះពុម្ពលំនាំដើម"
+
+#~ msgctxt "Name"
+#~ msgid "Kontact Configuration"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធ Kontact"
+
+#~ msgctxt "Comment"
+#~ msgid "Default KDE Kontact Component"
+#~ msgstr "សមាសភាគ Kontact របស់ KDE លំនាំដើម"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "kontact"
+#~ msgstr "kontact"
+
+#~ msgctxt "Name"
+#~ msgid "Kontact"
+#~ msgstr "Kontact"
+
+#~ msgctxt "GenericName"
+#~ msgid "Personal Information Manager"
+#~ msgstr "អ្នកគ្រប់គ្រងព័ត៌មានផ្ទាល់ខ្លួន"
+
+#~ msgctxt "Name"
+#~ msgid "KOrganizer Reminder Client"
+#~ msgstr "អតិថិជនរំKកកម្មវិធីត្រួសត្រាយ"
+
+#~ msgctxt "GenericName"
+#~ msgid "KOrganizer Reminder Daemon Client"
+#~ msgstr "អតិថិជនដេមិនរំRemកដេមិនដេមិន"
+
+#~ msgctxt "Name"
+#~ msgid "DBUSCalendar"
+#~ msgstr "DBUSCalendar"
+
+#~ msgctxt "Comment"
+#~ msgid "Organizer with a D-Bus interface"
+#~ msgstr "អ្នករៀបចំជាមួយចំណុចប្រទាក់ D-Bus"
+
+#~ msgctxt "Name"
+#~ msgid "KOrganizer Part Interface"
+#~ msgstr "ចំណុចប្រទាក់ផ្នែករបស់ &&amp; korganizer;"
+
+#~ msgctxt "Comment"
+#~ msgid "KOrganizer Part"
+#~ msgstr "ផ្នែករបស់ &&amp; korganizer;"
+
+#~ msgctxt "Name"
+#~ msgid "Colors and Fonts"
+#~ msgstr "ពណ៌និងពុម្ពអក្សរ"
+
+#~ msgctxt "Comment"
+#~ msgid "KOrganizer Colors and Fonts Configuration"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធពណ៌និងពុម្ពអក្សររបស់ Korganizer"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "korganizer,colors,fonts"
+#~ msgstr "korganizer, ពណ៌, ពុម្ពអក្សរ"
+
+#~ msgctxt "Name"
+#~ msgid "Custom Pages"
+#~ msgstr "ទំព័រផ្ទាល់ខ្លួន"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the Custom Pages"
+#~ msgstr "កំណត់ទំព័រផ្ទាល់ខ្លួន"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "korganizer, configure, settings, custom fields"
+#~ msgstr "korganizer កំណត់រចនាសម្ព័ន្ធការកំណត់វាលផ្ទាល់ខ្លួន"
+
+#~ msgctxt "Name"
+#~ msgid "Free/Busy"
+#~ msgstr "ទំនេរ / រវល់"
+
+#~ msgctxt "Comment"
+#~ msgid "KOrganizer Free/Busy Configuration"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធទំនេរ / រវល់របស់ &&amp; korganizer;"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "korganizer,freebusy,scheduling"
+#~ msgstr "korganizer, freebusy, កាលវិភាគ"
+
+#~ msgctxt "Name"
+#~ msgid "Group Scheduling"
+#~ msgstr "ការរៀបចំជាក្រុម"
+
+#~ msgctxt "Comment"
+#~ msgid "KOrganizer Group Scheduling Configuration"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធកាលវិភាគក្រុម Korganizer"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "korganizer,group,scheduling"
+#~ msgstr "korganizer, ក្រុម, ការកំណត់ពេលវេលា"
+
+#~ msgctxt "Comment"
+#~ msgid "KOrganizer Main Configuration"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធចម្បងរបស់ &&amp; korganizer;"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "korganizer,main"
+#~ msgstr "korganizer, មេ"
+
+#~ msgctxt "Comment"
+#~ msgid "KOrganizer Plugin Configuration"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធកម្មវិធីជំនួយរបស់ &&amp; korganizer;"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "korganizer,plugin,module"
+#~ msgstr "korganizer កម្មវិធីជំនួយម៉ូឌុល"
+
+#~ msgctxt "Name"
+#~ msgid "Time and Date"
+#~ msgstr "ពេលវេលានិងកាលបរិច្ឆេទ"
+
+#~ msgctxt "Comment"
+#~ msgid "KOrganizer Time and Date Configuration"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធពេលវេលានិងកាលបរិច្ឆេទរបស់ &&amp; korganizer;"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "korganizer,time"
+#~ msgstr "korganizer, ពេលវេលា"
+
+#~ msgctxt "Name"
+#~ msgid "Views"
+#~ msgstr "ទស្សនៈ"
+
+#~ msgctxt "Comment"
+#~ msgid "KOrganizer View Configuration"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធទិដ្ឋភាព &&amp; korganizer;"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "korganizer,view"
+#~ msgstr "korganizer, ទិដ្ឋភាព"
+
+#~ msgctxt "Comment"
+#~ msgid "Kontact KOrganizer Journal Plugin"
+#~ msgstr "កម្មវិធីជំនួយទិនានុប្បវត្តិ Kontact KOrganizer"
+
+#~ msgctxt "Name"
+#~ msgid "Journal"
+#~ msgstr "ទិនានុប្បវត្តិ"
+
+#~ msgctxt "Name"
+#~ msgid "Upcoming Events"
+#~ msgstr "ព្រឹត្តិការណ៍ជិតមកដល់"
+
+#~ msgctxt "Comment"
+#~ msgid "Upcoming Events Summary Setup"
+#~ msgstr "ការរៀបចំសង្ខេបព្រឹត្តិការណ៍ជិតមកដល់"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "calendar, events, configure, settings"
+#~ msgstr "ប្រតិទិនព្រឹត្តិការណ៍កំណត់រចនាសម្ព័ន្ធការកំណត់"
+
+#~ msgctxt "Name"
+#~ msgid "Pending To-dos"
+#~ msgstr "រង់ចាំការងារត្រូវធ្វើ"
+
+#~ msgctxt "Comment"
+#~ msgid "Pending To-dos Summary Setup"
+#~ msgstr "ការរៀបចំសង្ខេបការងារត្រូវធ្វើមិនទាន់សម្រេច"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "calendar, todos, configure, settings"
+#~ msgstr "ប្រតិទិនការងារកំណត់រចនាសម្ព័ន្ធការកំណត់"
+
+#~ msgctxt "Comment"
+#~ msgid "Kontact KOrganizer Plugin"
+#~ msgstr "កម្មវិធីជំនួយរបស់ Kontact KOrganizer"
+
+#~ msgctxt "Name"
+#~ msgid "Calendar"
+#~ msgstr "ប្រតិទិន"
+
+#~ msgctxt "Comment"
+#~ msgid "Calendar Component"
+#~ msgstr "សមាសភាគប្រតិទិន"
+
+#~ msgctxt "Comment"
+#~ msgid "Kontact KOrganizer To-do List Plugin"
+#~ msgstr "កម្មវិធីជំនួយបញ្ជីការងារត្រូវធ្វើរបស់ Kontact"
+
+#~ msgctxt "Name"
+#~ msgid "To-do List"
+#~ msgstr "បញ្ជីការងារត្រូវធ្វើ"
+
+#~ msgctxt "Name"
+#~ msgid "Upcoming Special Dates"
+#~ msgstr "កាលបរិច្ឆេទពិសេសដែលនឹងមកដល់"
+
+#~ msgctxt "Comment"
+#~ msgid "Upcoming Special Dates Summary Setup"
+#~ msgstr "ការរៀបចំសង្ខេបកាលបរិច្ឆេទពិសេសដែលនឹងមកដល់"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "birthday, anniversary, holiday, configure, settings"
+#~ msgstr "ថ្ងៃកំណើត, ថ្ងៃកំណើត, ថ្ងៃឈប់សម្រាក, កំណត់រចនាសម្ព័ន្ធ, ការកំណត់"
+
+#~ msgctxt "Name"
+#~ msgid "Special Dates"
+#~ msgstr "កាលបរិច្ឆេទពិសេស"
+
+#~ msgctxt "Comment"
+#~ msgid "Special Dates Plugin"
+#~ msgstr "កម្មវិធីជំនួយកាលបរិច្ឆេទពិសេស"
+
+#~ msgctxt "Name"
+#~ msgid "Special Dates Summary"
+#~ msgstr "សង្ខេបកាលបរិច្ឆេទពិសេស"
+
+#~ msgctxt "Comment"
+#~ msgid "Special Dates Summary Component"
+#~ msgstr "សមាសភាគសង្ខេបកាលបរិច្ឆេទពិសេស"
+
+#~ msgctxt "Comment"
+#~ msgid "Calendar and Scheduling Program"
+#~ msgstr "ប្រតិទិននិងកម្មវិធីកំណត់ពេល"
+
+#~ msgctxt "Name"
+#~ msgid "KOrganizer"
+#~ msgstr "&&amp; korganizer;"
+
+#~ msgctxt "GenericName"
+#~ msgid "Personal Organizer"
+#~ msgstr "អ្នករៀបចំផ្ទាល់ខ្លួន"
+
+#~ msgctxt "Name"
+#~ msgid "KTnef"
+#~ msgstr "ខេធីណេ"
+
+#~ msgctxt "GenericName"
+#~ msgid "TNEF File Viewer (proprietary format used by outlook)"
+#~ msgstr "កម្មវិធីមើលឯកសារ TNEF (ទ្រង់ទ្រាយកម្មសិទ្ធិត្រូវបានប្រើដោយទស្សនវិស័យ)"
+
+#~ msgctxt "Comment"
+#~ msgid "A viewer/extractor for TNEF files"
+#~ msgstr "អ្នកមើល / អ្នកដកស្រង់សម្រាប់ឯកសារ TNEF"
+
+#~ msgctxt "Name"
+#~ msgid "MBoxImporter"
+#~ msgstr "MBoxImporter"
+
+#~ msgctxt "Name"
+#~ msgid "PIM Setting Exporter"
+#~ msgstr "អ្នកនាំចេញកំណត់ PIM"
+
+#~ msgctxt "Comment"
+#~ msgid "PIM Setting Exporter allows to save all data from PIM apps and restore them in other system."
+#~ msgstr "អ្នកនាំចេញកំណត់ PIM អនុញ្ញាតឱ្យរក្សាទុកទិន្នន័យទាំងអស់ពីកម្មវិធី PIM និងស្តារវាឡើងវិញនៅក្នុងប្រព័ន្ធផ្សេងទៀត។"
+
+#~ msgctxt "Name"
+#~ msgid "Sieve Editor"
+#~ msgstr "Sieve Editor"
+
+#~ msgctxt "GenericName"
+#~ msgid "Sieve Editor"
+#~ msgstr "កម្មវិធីនិពន្ធ Sieve"
+
+#~ msgctxt "Comment"
+#~ msgid "StorageServiceManager"
+#~ msgstr "ឃ្លាំងផ្ទុកទិន្ន័យ"
+
+#~ msgctxt "Name"
+#~ msgid "Action Failed"
+#~ msgstr "សកម្មភាពបានបរាជ័យ"
+
+#~ msgctxt "Comment"
+#~ msgid "An error was returned"
+#~ msgstr "កំហុសមួយត្រូវបានត្រឡប់"
+
+#~ msgctxt "Name"
+#~ msgid "Cloud Storage Manager"
+#~ msgstr "Cloud Storage Manager"
+
+#~ msgctxt "GenericName"
+#~ msgid "Cloud Storage Manager"
+#~ msgstr "កម្មវិធីគ្រប់គ្រងឃ្លាំងផ្ទុកលើពពក"
+
+#~ msgctxt "Name"
+#~ msgid "AdBlock"
+#~ msgstr "AdBlock"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure AdBlock"
+#~ msgstr "តំឡើង AdBlock"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "akregator, configure, settings, AdBlock"
+#~ msgstr "akregator, កំណត់រចនាសម្ព័ន្ធ, កំណត់, AdBlock"
+
+#~ msgctxt "Name"
+#~ msgid "Application Octetstream"
+#~ msgstr "ការដាក់ពាក្យ Octetstream"
+
+#~ msgctxt "Comment"
+#~ msgid "A bodypart formatter plugin for text/calendar"
+#~ msgstr "កម្មវិធីជំនួយទម្រង់រាងកាយសម្រាប់អត្ថបទ / ប្រតិទិន"
+
+#~ msgctxt "Comment"
+#~ msgid "Colors & Fonts Configuration"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធពណ៌ពុម្ពអក្សរ"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "color,font, configuration"
+#~ msgstr "ពណ៌ពុម្ពអក្សរការកំណត់រចនាសម្ព័ន្ធ"
+
+#~ msgctxt "Name"
+#~ msgid "Crypto Operations"
+#~ msgstr "ប្រតិបត្តិការគ្រីបតូ"
+
+#~ msgctxt "Comment"
+#~ msgid "Configuration of Crypto Operations"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធប្រតិបត្តិការ Crypto"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "sign,encrypt,email,quick mode,checksum,configuration"
+#~ msgstr "ចុះហត្ថលេខាអ៊ិនគ្រីបអ៊ីមែលរបៀបរហ័សឆេកសាំកំណត់រចនាសម្ព័ន្ធ"
+
+#~ msgctxt "Name"
+#~ msgid "Directory Services"
+#~ msgstr "សេវាកម្មថត"
+
+#~ msgctxt "Comment"
+#~ msgid "Configuration of directory services"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធសេវាកម្មថតឯកសារ"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "ldap,directory,services,hkp,keyserver"
+#~ msgstr "ldap, ថត, សេវាកម្ម, hkp, keyerver"
+
+#~ msgctxt "Name"
+#~ msgid "GnuPG System"
+#~ msgstr "ប្រព័ន្ធ GnuPG"
+
+#~ msgctxt "Comment"
+#~ msgid "Configuration of GnuPG System options"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធជម្រើសប្រព័ន្ធ GnuPG"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "gpg,gpgsm,gpg-agent,dirmngr,scdaemon,kleopatra,signing,encryption"
+#~ msgstr "gpg, gpgsm, ភ្នាក់ងារ gpg, dirmngr, Scdaemon, Kleopatra, ការចុះហត្ថលេខា, ការអ៊ិនគ្រីប"
+
+#~ msgctxt "Name"
+#~ msgid "S/MIME Validation"
+#~ msgstr "សុពលភាពអេស / អេមអេម"
+
+#~ msgctxt "Comment"
+#~ msgid "Configuration of S/MIME certificate validation options"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធជម្រើសសុពលភាពវិញ្ញាបនបត្រ S / MIME"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "smime,validation,kleopatra,signing,encryption"
+#~ msgstr "smime, សុពលភាព, kleopatra, ការចុះហត្ថលេខា, ការអ៊ិនគ្រីប"
+
+#~ msgctxt "Name"
+#~ msgid "Kleopatra Decrypt/Verify Files"
+#~ msgstr "Kleopatra ឌិគ្រីប / ផ្ទៀងផ្ទាត់ឯកសារ"
+
+#~ msgctxt "Name"
+#~ msgid "Decrypt/Verify File"
+#~ msgstr "ឌិគ្រីប / ផ្ទៀងផ្ទាត់ឯកសារ"
+
+#~ msgctxt "Name"
+#~ msgid "Kleopatra Decrypt/Verify All Files In Folder"
+#~ msgstr "Kleopatra ឌិគ្រីប / ផ្ទៀងផ្ទាត់ឯកសារទាំងអស់នៅក្នុងថតឯកសារ"
+
+#~ msgctxt "Name"
+#~ msgid "Decrypt/Verify All Files In Folder"
+#~ msgstr "ឌិគ្រីប / ផ្ទៀងផ្ទាត់ឯកសារទាំងអស់នៅក្នុងថតឯកសារ"
+
+#~ msgctxt "Name"
+#~ msgid "Kleopatra"
+#~ msgstr "កូឡៅត្រា"
+
+#~ msgctxt "Comment"
+#~ msgid "Certificate Manager and Unified Crypto GUI"
+#~ msgstr "Certificate Manager and Unified Crypto GUI"
+
+#~ msgctxt "Name"
+#~ msgid "Kleopatra Sign/Encrypt Files"
+#~ msgstr "Kleopatra ចុះហត្ថលេខា / អ៊ិនគ្រីបឯកសារ"
+
+#~ msgctxt "Name"
+#~ msgid "Sign & Encrypt File"
+#~ msgstr "ឯកសារចុះឈ្មោះអ៊ីនគ្រីប"
+
+#~ msgctxt "Name"
+#~ msgid "Encrypt File"
+#~ msgstr "អ៊ិនគ្រីបឯកសារ"
+
+#~ msgctxt "Name"
+#~ msgid "OpenPGP-Sign File"
+#~ msgstr "ឯកសារចុះហត្ថលេខាភី។ ស៊ី។ ភី។ ភី"
+
+#~ msgctxt "Name"
+#~ msgid "S/MIME-Sign File"
+#~ msgstr "ឯកសារចុះហត្ថលេខា S / MIME"
+
+#~ msgctxt "Name"
+#~ msgid "Kleopatra Sign/Encrypt Folders"
+#~ msgstr "ផ្លាកសញ្ញាចូល / អ៊ិនគ្រីបថតឯកសារ"
+
+#~ msgctxt "Name"
+#~ msgid "Archive, Sign && Encrypt Folder"
+#~ msgstr "ប័ណ្ណសារ, ចុះហត្ថលេខាលើថតអ៊ីនគ្រីប"
+
+#~ msgctxt "Name"
+#~ msgid "Archive && Encrypt Folder"
+#~ msgstr "ទុកថតឯកសារអ៊ិនគ្រីបប័ណ្ណសារ"
+
+#~ msgctxt "GenericName"
+#~ msgid "Certificate Manager and Unified Crypto GUI"
+#~ msgstr "អ្នកគ្រប់គ្រងវិញ្ញាបនប័ត្រនិងឯកភាពគ្រីបថូតូ"
+
+#~ msgctxt "Name"
+#~ msgid "TNEF"
+#~ msgstr "TNEF"
+
+#~ msgctxt "Comment"
+#~ msgid "A bodypart formatter plugin for TNEF attachments"
+#~ msgstr "កម្មវិធីជំនួយទម្រង់រាងកាយសម្រាប់ឯកសារភ្ជាប់ TNEF"
+
+#~ msgctxt "Comment"
+#~ msgid "A bodypart formatter plugin for text/vcard"
+#~ msgstr "កម្មវិធីជំនួយទម្រង់រាងកាយសម្រាប់អត្ថបទ / វីអ៊ីធី"
+
+#~ msgctxt "Comment"
+#~ msgid "A bodypart formatter plugin for text/x-patch"
+#~ msgstr "កម្មវិធីជំនួយទម្រង់រាងកាយសម្រាប់អត្ថបទ / បំណះ"
+
+#~ msgctxt "Name"
+#~ msgid "Calendar Plugin Interface"
+#~ msgstr "អន្តរកម្មកម្មវិធីជំនួយប្រតិទិន"
+
+#~ msgctxt "Comment"
+#~ msgid "Calendar Plugin"
+#~ msgstr "កម្មវិធីជំនួយប្រតិទិន"
+
+#~ msgctxt "Name"
+#~ msgid "List Print Style"
+#~ msgstr "រាយបញ្ជីបោះពុម្ព"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin allows you to print out events and to-dos in list form."
+#~ msgstr "កម្មវិធីជំនួយនេះអនុញ្ញាតឱ្យអ្នកបោះពុម្ពព្រឹត្តិការណ៍និងការងារត្រូវធ្វើក្នុងទម្រង់ជាបញ្ជី។"
+
+#~ msgctxt "Name"
+#~ msgid "What's Next Print Style"
+#~ msgstr "តើអ្វីទៅជាស្ទីលបោះពុម្ពបន្ទាប់"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin allows you to print out a list of all upcoming events and to-dos."
+#~ msgstr "កម្មវិធីជំនួយនេះអនុញ្ញាតឱ្យអ្នកបោះពុម្ពបញ្ជីនៃព្រឹត្តិការណ៍និងការងារត្រូវធ្វើដែលនឹងមកដល់។"
+
+#~ msgctxt "Name"
+#~ msgid "Calendar Decoration Interface"
+#~ msgstr "អន្តរកម្មតុបតែងប្រតិទិន"
+
+#~ msgctxt "Comment"
+#~ msgid "Calendar Decoration Plugin"
+#~ msgstr "កម្មវិធីជំនួយតុបតែងប្រតិទិន"
+
+#~ msgctxt "Name"
+#~ msgid "LDAP Server Settings"
+#~ msgstr "ការកំណត់ម៉ាស៊ីនមេ LDAP"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the available LDAP servers"
+#~ msgstr "តំឡើងម៉ាស៊ីនមេ LDAP ដែលមាន"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "kaddressbook, configure, settings, LDAP"
+#~ msgstr "kaddressbook កំណត់រចនាសម្ព័ន្ធការកំណត់ LDAP"
+
+#~ msgctxt "Name"
+#~ msgid "TAR (PGP®-compatible)"
+#~ msgstr "TAR (PGP®ត្រូវគ្នា)"
+
+#~ msgctxt "Name"
+#~ msgid "TAR (with bzip2 compression)"
+#~ msgstr "TAR (ជាមួយការបង្ហាប់ bzip2)"
+
+#~ msgctxt "Name"
+#~ msgid "sha1sum"
+#~ msgstr "sha1sum"
+
+#~ msgctxt "Name"
+#~ msgid "md5sum"
+#~ msgstr "md5sum"
+
+#~ msgctxt "Name"
+#~ msgid "Not Validated Key"
+#~ msgstr "មិនមានសុពលភាពសោទេ"
+
+#~ msgctxt "Name"
+#~ msgid "Expired Key"
+#~ msgstr "សោផុតកំណត់"
+
+#~ msgctxt "Name"
+#~ msgid "Revoked Key"
+#~ msgstr "សោដកហូត"
+
+#~ msgctxt "Name"
+#~ msgid "Trusted Root Certificate"
+#~ msgstr "វិញ្ញាបនប័ត្រឫសដែលទុកចិត្ត"
+
+#~ msgctxt "Name"
+#~ msgid "Not Trusted Root Certificate"
+#~ msgstr "វិញ្ញាបនប័ត្រឫសដែលមិនទុកចិត្ត"
+
+#~ msgctxt "Name"
+#~ msgid "Keys for Qualified Signatures"
+#~ msgstr "កូនសោសម្រាប់ហត្ថលេខាដែលមានលក្ខណៈសម្បត្តិគ្រប់គ្រាន់"
+
+#~ msgctxt "Name"
+#~ msgid "Other Keys"
+#~ msgstr "កូនសោផ្សេងទៀត"
+
+#~ msgctxt "Name"
+#~ msgid "Smartcard Key"
+#~ msgstr "Smartcard Key"
+
+#~ msgctxt "Name"
+#~ msgid "sha256sum"
+#~ msgstr "sha256sum"
+
+#~ msgctxt "Name"
+#~ msgid "Move to directory"
+#~ msgstr "ផ្លាស់ទីទៅថតឯកសារ"
+
+#~ msgctxt "Comment"
+#~ msgid "Message Viewer"
+#~ msgstr "កម្មវិធីមើលសារ"
+
+#~ msgctxt "Name"
+#~ msgid "New Ad-Block list download done"
+#~ msgstr "New Ad-Block list download done"
+
+#~ msgctxt "Comment"
+#~ msgid "New Ad-Block list download done"
+#~ msgstr "ការទាញយកបញ្ជីពាណិជ្ជកម្មថ្មីបានរួចរាល់"
+
+#~ msgctxt "Name"
+#~ msgid "New Ad-Block list download failed"
+#~ msgstr "New Ad-Block list download failed"
+
+#~ msgctxt "Comment"
+#~ msgid "New Ad-Block list download failed"
+#~ msgstr "ការទាញយកបញ្ជីពាណិជ្ជកម្មថ្មីបរាជ័យ"
+
+#~ msgctxt "Name"
+#~ msgid "Example fancy"
+#~ msgstr "ឧទាហរណ៍ពុម្ពអក្សរក្បូរក្បាច់"
+
+#~ msgctxt "Description"
+#~ msgid "Create fancy theme with grantlee."
+#~ msgstr "បង្កើតស្បែកពុម្ពអក្សរក្បូរក្បាច់ជាមួយ donlee ។"
+
+#~ msgctxt "Name"
+#~ msgid "Example"
+#~ msgstr "ឧទាហរណ៍"
+
+#~ msgctxt "Description"
+#~ msgid "Example theme for header."
+#~ msgstr "ប្រធានបទឧទាហរណ៍សម្រាប់បឋមកថា។"
+
+#~ msgctxt "Name"
+#~ msgid "box"
+#~ msgstr "ប្រអប់"
+
+#~ msgctxt "Name"
+#~ msgid "DropBox"
+#~ msgstr "ឌុកប៊ីក"
+
+#~ msgctxt "Name"
+#~ msgid "GDrive"
+#~ msgstr "ហ្គ្រេដ"
+
+#~ msgctxt "Name"
+#~ msgid "Hubic"
+#~ msgstr "ហូបក"
+
+#~ msgctxt "Name"
+#~ msgid "Webdav"
+#~ msgstr "Webdav"
+
+#~ msgctxt "Name"
+#~ msgid "YouSendIt"
+#~ msgstr "YouSendIt"
+
+#~ msgctxt "Name"
+#~ msgid "Date Numbers Plugin for Calendars"
+#~ msgstr "កម្មវិធីជំនួយលេខកាលបរិច្ឆេទសម្រាប់ប្រតិទិន"
+
+#~ msgctxt "Comment"
+#~ msgid "For each day this plugin shows its daynumber of the year at the top of the agenda view. For example, February 1 is day 32 of the year."
+#~ msgstr "សម្រាប់ថ្ងៃនីមួយៗកម្មវិធីជំនួយនេះបង្ហាញចំនួនថ្ងៃរបស់វានៅកំពូលនៃទិដ្ឋភាពរបៀបវារៈ។ ឧទាហរណ៍ថ្ងៃទី ១ ខែកុម្ភះគឺជាថ្ងៃទី ៣២ នៃឆ្នាំ។"
+
+#~ msgctxt "Name"
+#~ msgid "Jewish Calendar Plugin"
+#~ msgstr "កម្មវិធីជំនួយប្រតិទិនជ្វីហ្វ"
+
+#~ msgctxt "Comment"
+#~ msgid "Shows all dates in KOrganizer also in the Jewish calendar system."
+#~ msgstr "បង្ហាញកាលបរិច្ឆេទទាំងអស់នៅក្នុង Korganizer ក៏នៅក្នុងប្រព័ន្ធប្រតិទិនជ្វីហ្វ។"
+
+#~ msgctxt "Name"
+#~ msgid "Wikipedia Picture Of the Day Plugin for Calendars"
+#~ msgstr "វិគីភីឌារូបភាពនៃកម្មវិធីជំនួយថ្ងៃសម្រាប់ប្រតិទិន"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin provides the Wikipedia Picture of the Day"
+#~ msgstr "កម្មវិធីជំនួយនេះផ្តល់ជូនវិគីភីឌារូបភាពប្រចាំថ្ងៃ"
+
+#~ msgctxt "Name"
+#~ msgid "Wikipedia 'This Day in History' Plugin"
+#~ msgstr "កម្មវិធីជំនួយវីគីភីឌា 'ថ្ងៃនេះក្នុងប្រវត្តិសាស្ត្រ'"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin provides links to Wikipedia's 'This Day in History' pages"
+#~ msgstr "កម្មវិធីជំនួយនេះផ្តល់នូវតំណភ្ជាប់ទៅកាន់ទំព័រ“ ថ្ងៃនេះក្នុងប្រវត្តិសាស្ត្រ” របស់វិគីភីឌា"
+
+#~ msgctxt "Name"
+#~ msgid "All Header Style"
+#~ msgstr "រចនាប័ទ្មបឋមកថាទាំងអស់"
+
+#~ msgctxt "Name"
+#~ msgid "Brief Header Style"
+#~ msgstr "រចនាប័ទ្មបឋមកថាសង្ខេប"
+
+#~ msgctxt "Name"
+#~ msgid "Custom Header Style"
+#~ msgstr "រចនាប័ទ្មក្បាលទំព័រផ្ទាល់ខ្លួន"
+
+#~ msgctxt "Name"
+#~ msgid "Enterprise Header Style"
+#~ msgstr "រចនាប័ទ្មបឋមកថាសហគ្រាស"
+
+#~ msgctxt "Name"
+#~ msgid "Fancy Header Style"
+#~ msgstr "រចនាប័ទ្មបឋមកថាពុម្ពអក្សរក្បូរក្បាច់"
+
+#~ msgctxt "Name"
+#~ msgid "Grantlee Header Style"
+#~ msgstr "ស្ទីលក្បាលហ្គ្រីដឡេន"
+
+#~ msgctxt "Name"
+#~ msgid "Long Header Style"
+#~ msgstr "រចនាប័ទ្មក្បាលវែង"
+
+#~ msgctxt "Name"
+#~ msgid "Standards Header Style"
+#~ msgstr "រចនាប័ទ្មបឋមកថាស្តង់ដារ"
+
+#~ msgctxt "Name"
+#~ msgid "Create Event"
+#~ msgstr "បង្កើតព្រឹត្តិការណ៍"
+
+#~ msgctxt "Name"
+#~ msgid "Create Note"
+#~ msgstr "បង្កើតកំណត់ចំណាំ"
+
+#~ msgctxt "Name"
+#~ msgid "Create Todo"
+#~ msgstr "បង្កើតដូតូ"
+
+#~ msgctxt "Name"
+#~ msgid "Translator"
+#~ msgstr "អ្នកបកប្រែ"
+
+#~ msgctxt "Name"
+#~ msgid "Shorturl"
+#~ msgstr "Shorturl"
+
+#~ msgctxt "Name"
+#~ msgid "Google"
+#~ msgstr "ហ្គូហ្គោល"
+
+#~ msgctxt "Name"
+#~ msgid "Is.gd"
+#~ msgstr "ឧ"
+
+#~ msgctxt "Name"
+#~ msgid "TinyUrl"
+#~ msgstr "TinyUrl"
+
+#~ msgctxt "Name"
+#~ msgid "to.ly"
+#~ msgstr "to.ly"
+
+#~ msgctxt "Name"
+#~ msgid "Ur1Ca"
+#~ msgstr "Ur1Ca"
+
+#~ msgctxt "Name"
+#~ msgid "CoisceimPart"
+#~ msgstr "CoisceimPart"
+
+#~ msgctxt "Comment"
+#~ msgid "Coisceim Plugin"
+#~ msgstr "Plisin Coisceim"
+
+#~ msgctxt "Name"
+#~ msgid "Trips"
+#~ msgstr "ការ​ធ្វើដំណើរ"
+
+#~ msgctxt "Name"
+#~ msgid "mailreader"
+#~ msgstr "អ្នកផ្ញើសំបុត្រ"
+
+#~ msgctxt "GenericName"
+#~ msgid "A simple Akonadi-based Mail Application"
+#~ msgstr "កម្មវិធីអ៊ីមែលដែលមានមូលដ្ឋានលើអាកុនដាដា"
+
+#~ msgctxt "Name"
+#~ msgid "Create Task"
+#~ msgstr "បង្កើតភារកិច្ច"
+
+#~ msgctxt "Name"
+#~ msgid "Online Readers"
+#~ msgstr "អ្នកអានលើអ៊ីនធឺណិត"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Online Readers"
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធអ្នកអានលើអ៊ីនធឺណិត"
+
+#~ msgctxt "Name"
+#~ msgid "Akregator Online Feed Reader Support"
+#~ msgstr "ការគាំទ្រកម្មវិធីអានព័ត៌មានលើអ៊ីនធឺណិតរបស់ Akregator"
+
+#~ msgctxt "Name"
+#~ msgid "Share Services"
+#~ msgstr "សេវាកម្មចែករំលែក"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Share Services"
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធសេវាកម្មចែករំលែក"
+
+#~ msgctxt "Name"
+#~ msgid "Akregator Online Article Share"
+#~ msgstr "ចែករំលែកអត្ថបទតាមអ៊ិនធឺរណែត"
+
+#~ msgctxt "Keywords"
+#~ msgid "mobile"
+#~ msgstr "ចល័ត"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Kontact Touch e-mail client"
+#~ msgstr "អតិថិជនអ៊ីមែលអ៊ីមែលរបស់ Kontact Touch"
+
+#~ msgctxt "Name"
+#~ msgid "Kontact Touch Mail"
+#~ msgstr "Kontact Touch Mail"
+
+#~ msgctxt "Name"
+#~ msgid "Error while sending email"
+#~ msgstr "មានកំហុសពេលផ្ញើអ៊ីមែល"
+
+#~ msgctxt "Comment"
+#~ msgid "There was an error while trying to send the e-mail."
+#~ msgstr "មានកំហុសពេលព្យាយាមផ្ញើអ៊ីមែល។"
+
+#~ msgctxt "Name"
+#~ msgid "Notes"
+#~ msgstr "កំណត់ចំណាំ"
+
+#~ msgctxt "Name"
+#~ msgid "Tasks"
+#~ msgstr "ភារកិច្ច"
+
+#~ msgctxt "Name"
+#~ msgid "Reminder Daemon"
+#~ msgstr "ដាស់តឿនដេមិន"
+
+#~ msgctxt "Comment"
+#~ msgid "Event and task reminder daemon"
+#~ msgstr "ដេមិនកម្មវិធីរំលឹកនិងភារកិច្ច"
+
+#~ msgctxt "Comment"
+#~ msgid "notes"
+#~ msgstr "កំណត់ចំណាំ"
+
+#~ msgctxt "Name"
+#~ msgid "Received note"
+#~ msgstr "បានទទួលកំណត់ត្រា"
+
+#~ msgctxt "Comment"
+#~ msgid "Setup misc for KJots"
+#~ msgstr "តំឡើង misc សំរាប់ KJots"
+
+#~ msgctxt "Name"
+#~ msgid "KJotsPart"
+#~ msgstr "KJotsPart"
+
+#~ msgctxt "Name"
+#~ msgid "KJots"
+#~ msgstr "ខេជេត"
+
+#~ msgctxt "GenericName"
+#~ msgid "Note Taker"
+#~ msgstr "អ្នកកត់ចំណាំ"
+
+#~ msgctxt "Comment"
+#~ msgid "Kontact KJots Plugin"
+#~ msgstr "កម្មវិធីជំនួយ Kontact KJots"
+
+#~ msgctxt "Name"
+#~ msgid "Notebooks"
+#~ msgstr "សៀវភៅកត់ត្រា"
+
+#~ msgctxt "Comment"
+#~ msgid "Notebooks Component"
+#~ msgstr "សមាសធាតុកុំព្យូទ័រយួរដៃ"
+
+#~ msgctxt "GenericName"
+#~ msgid "A KDE5 Application"
+#~ msgstr "កម្មវិធី KDE5"
+
+#~ msgctxt "Name"
+#~ msgid "Folder Archive Agent"
+#~ msgstr "ភ្នាក់ងារបណ្ណសារថតឯកសារ"
+
+#~ msgctxt "Comment"
+#~ msgid "Folder Archive Agent allows to store mails in specific archive folder"
+#~ msgstr "ភ្នាក់ងារបណ្ណសារថតឯកសារអនុញ្ញាតឱ្យរក្សាទុកសំបុត្រនៅក្នុងថតប័ណ្ណសារជាក់លាក់"
+
+#~ msgctxt "Name"
+#~ msgid "Letter home/private address"
+#~ msgstr "លិខិតអាសយដ្ឋានផ្ទះ / ឯកជន"
+
+#~ msgctxt "Name"
+#~ msgid "Letter business/work address"
+#~ msgstr "លិខិតអាជីវកម្ម / អាសយដ្ឋានការងារ"
+
+#~ msgctxt "Comment|KMail plasma widget's comment, NOT translators' e-mail addresses."
+#~ msgid "Your emails"
+#~ msgstr "អ៊ីមែលរបស់អ្នក"
+
+#~ msgctxt "Name"
+#~ msgid "Alarms"
+#~ msgstr "សំឡេងរោទិ៍"
+
+#~ msgctxt "Name"
+#~ msgid "Alarms in Local File"
+#~ msgstr "ការជូនដំណឹងនៅក្នុងឯកសារមូលដ្ឋាន"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to an alarm calendar stored in a single local file"
+#~ msgstr "ផ្តល់នូវការចូលប្រើប្រតិទិនសំឡេងរោទិ៍ដែលផ្ទុកនៅក្នុងឯកសារមូលដ្ឋានតែមួយ"
+
+#~ msgctxt "Name"
+#~ msgid "Alarms in Local Directory"
+#~ msgstr "សំឡេងរោទិ៍នៅក្នុងថតក្នុងស្រុក"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to an alarm calendar stored in a local directory, in which each calendar item is stored in a separate file"
+#~ msgstr "ផ្តល់នូវការចូលប្រើប្រតិទិនសំឡេងរោទិ៍ដែលផ្ទុកនៅក្នុងថតឯកសារក្នុងមូលដ្ឋានដែលធាតុប្រតិទិននីមួយៗត្រូវបានរក្សាទុកនៅក្នុងឯកសារដាច់ដោយឡែក"
+
+#~ msgctxt "Name"
+#~ msgid "Alarms in Remote File"
+#~ msgstr "ការជូនដំណឹងនៅក្នុងឯកសារពីចម្ងាយ"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to an alarm calendar in a remote file using KDE's network framework KIO"
+#~ msgstr "ផ្តល់ការចូលប្រើប្រតិទិនសំឡេងរោទិ៍នៅក្នុងឯកសារពីចម្ងាយដោយប្រើបណ្តាញរបស់ KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Akonotes plasmoid"
+#~ msgstr "Akonotes plasmoid"
+
+#~ msgctxt "Comment"
+#~ msgid "Akonotes plasmoid"
+#~ msgstr "Akonotes plasmoid"
+
+#~ msgctxt "Name"
+#~ msgid "Akonotes list plasmoid"
+#~ msgstr "Akonotes list plasmoid"
+
+#~ msgctxt "Comment"
+#~ msgid "Akonotes list plasmoid"
+#~ msgstr "បញ្ជី Akonotes plasmoid"
+
+#~ msgctxt "Name"
+#~ msgid "Akonotes note plasmoid"
+#~ msgstr "Akonotes note plasmoid"
+
+#~ msgctxt "Comment"
+#~ msgid "Akonotes note plasmoid"
+#~ msgstr "Akonotes កត់សម្គាល់ plasmoid"
+
+#~ msgctxt "Comment"
+#~ msgid "Setup for Newsgroup and Mail Servers"
+#~ msgstr "រៀបចំសម្រាប់ក្រុមព័ត៌មាននិងម៉ាស៊ីនមេអ៊ីមែល"
+
+#~ msgctxt "Name"
+#~ msgid "Cleanup"
+#~ msgstr "ការសម្អាត"
+
+#~ msgctxt "Comment"
+#~ msgid "Preserving Disk Space"
+#~ msgstr "ការថែរក្សាចន្លោះផ្ទុកទិន្នន័យ"
+
+#~ msgctxt "Name"
+#~ msgid "Identity"
+#~ msgstr "អត្តសញ្ញាណ"
+
+#~ msgctxt "Comment"
+#~ msgid "Personal Information"
+#~ msgstr "ព័ត៌មាន​ផ្ទាល់ខ្លួន"
+
+#~ msgctxt "Name"
+#~ msgid "Posting News"
+#~ msgstr "ប្រកាសព័ត៌មាន"
+
+#~ msgctxt "Name"
+#~ msgid "Signing/Verifying"
+#~ msgstr "ការចុះហត្ថលេខា / ផ្ទៀងផ្ទាត់"
+
+#~ msgctxt "Comment"
+#~ msgid "Protect your privacy by signing and verifying postings"
+#~ msgstr "ការពារភាពឯកជនរបស់អ្នកដោយការចុះហត្ថលេខានិងផ្ទៀងផ្ទាត់ការប្រកាស"
+
+#~ msgctxt "Name"
+#~ msgid "Reading News"
+#~ msgstr "អានព័ត៌មាន"
+
+#~ msgctxt "Name"
+#~ msgid "KNode"
+#~ msgstr "KNode"
+
+#~ msgctxt "GenericName"
+#~ msgid "News Reader"
+#~ msgstr "កម្មវិធីអានព័ត៌មាន"
+
+#~ msgctxt "Comment"
+#~ msgid "Kontact KNode Plugin"
+#~ msgstr "កម្មវិធីជំនួយ Kontact KNode"
+
+#~ msgctxt "Name"
+#~ msgid "Usenet"
+#~ msgstr "Usenet"
+
+#~ msgctxt "Comment"
+#~ msgid "Usenet Component"
+#~ msgstr "សមាសធាតុយូសេនណែត"
+
+#~ msgctxt "Comment"
+#~ msgid "TimeTracker Plugin"
+#~ msgstr "កម្មវិធីជំនួយ TimeTracker"
+
+#~ msgctxt "Name"
+#~ msgid "Time Tracker"
+#~ msgstr "កម្មវិធីតាមដានពេលវេលា"
+
+#~ msgctxt "Comment"
+#~ msgid "Time Tracker Component"
+#~ msgstr "សមាសភាគកម្មវិធីតាមដានពេលវេលា"
+
+#~ msgctxt "Name"
+#~ msgid "Planner"
+#~ msgstr "អ្នករៀបចំផែនការ"
+
+#~ msgctxt "Comment"
+#~ msgid "Planner Setup"
+#~ msgstr "រៀបចំអ្នករៀបចំផែនការ"
+
+#~ msgctxt "Comment"
+#~ msgid "Planner Plugin"
+#~ msgstr "កម្មវិធីជំនួយអ្នករៀបចំផែនការ"
+
+#~ msgctxt "Comment"
+#~ msgid "Planner Summary"
+#~ msgstr "សង្ខេបផែនការ"
+
+#~ msgctxt "Name"
+#~ msgid "Journal in a blog"
+#~ msgstr "ទិនានុប្បវត្តិនៅក្នុងប្លក់"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows to post calendar journal entries as blog entries"
+#~ msgstr "អនុញ្ញាតឱ្យបញ្ចូលធាតុទិនានុប្បវត្តិប្រតិទិនជាធាតុកំណត់ហេតុបណ្ដាញ"
+
+#~ msgctxt "Name"
+#~ msgid "Calendar in Remote File"
+#~ msgstr "ប្រតិទិននៅក្នុងឯកសារពីចម្ងាយ"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to a calendar in a remote file using KDE's network framework KIO"
+#~ msgstr "ផ្តល់នូវការចូលប្រើប្រតិទិននៅក្នុងឯកសារពីចម្ងាយដោយប្រើបណ្តាញរបស់ KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Behavior"
+#~ msgstr "អាកប្បកិរិយា"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Behavior"
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធឥរិយាបថ"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "ktimetracker, configure, settings"
+#~ msgstr "ktimetracker កំណត់រចនាសម្ព័ន្ធការកំណត់"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Appearance"
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធរូបរាង"
+
+#~ msgctxt "Name"
+#~ msgid "Storage"
+#~ msgstr "ការផ្ទុក"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Storage"
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធផ្ទុក"
+
+#~ msgctxt "Name"
+#~ msgid "KTimeTracker Component"
+#~ msgstr "KTimeTracker សមាសភាគ"
+
+#~ msgctxt "Name"
+#~ msgid "KTimeTracker"
+#~ msgstr "ខេធីមេធីមឺរ"
+
+#~ msgctxt "GenericName"
+#~ msgid "Personal Time Tracker"
+#~ msgstr "កម្មវិធីតាមដានពេលវេលាផ្ទាល់ខ្លួន"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "PIM Activity Settings"
+#~ msgstr "ការកំណត់សកម្មភាព PIM"
+
+#~ msgctxt "Name"
+#~ msgid "Notes in Local File"
+#~ msgstr "កំណត់សំគាល់នៅក្នុងឯកសារមូលដ្ឋាន"
+
+#~ msgctxt "Name"
+#~ msgid "KOrganizer Print Plugin Interface"
+#~ msgstr "អន្តរកម្មកម្មវិធីជំនួយរបស់ &&amp; korganizer; បោះពុម្ព &&amp; # 160;"
+
+#~ msgctxt "Name"
+#~ msgid "Journal Print Style"
+#~ msgstr "រចនាប័ទ្មបោះពុម្ពទិនានុប្បវត្តិ"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin allows you to print out journal entries (diary entries)."
+#~ msgstr "កម្មវិធីជំនួយនេះអនុញ្ញាតឱ្យអ្នកបោះពុម្ពធាតុទិនានុប្បវត្តិ (ធាតុកំណត់ហេតុប្រចាំថ្ងៃ) ។"
+
+#~ msgctxt "Name"
+#~ msgid "Yearly Print Style"
+#~ msgstr "រចនាប័ទ្មបោះពុម្ពប្រចាំឆ្នាំ"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin allows you to print out a yearly calendar."
+#~ msgstr "កម្មវិធីជំនួយនេះអនុញ្ញាតឱ្យអ្នកបោះពុម្ពប្រតិទិនប្រចាំឆ្នាំ។"
+
+#~ msgctxt "Name"
+#~ msgid "Style"
+#~ msgstr "ស្តាយ"
+
+#~ msgctxt "Comment"
+#~ msgid "Style Settings"
+#~ msgstr "ការកំណត់រចនាប័ទ្ម"
+
+#, fuzzy
+#~ msgctxt "GenericName"
+#~ msgid "TNEF File Viewer"
+#~ msgstr "កម្មវិធីមើលឯកសារ TNEF"
+
+#~ msgctxt "Name"
+#~ msgid "Air"
+#~ msgstr "ខ្យល់"
+
+#~ msgctxt "Description"
+#~ msgid "An Air theme"
+#~ msgstr "ស្បែកអាកាស"
+
+#~ msgctxt "Name"
+#~ msgid "Simple"
+#~ msgstr "សាមញ្ញ"
+
+#~ msgctxt "Description"
+#~ msgid "A Simple theme"
+#~ msgstr "រូបរាងសាមញ្ញ"
+
+#~ msgctxt "Name"
+#~ msgid "Test"
+#~ msgstr "សាកល្បង"
+
+#~ msgctxt "Description"
+#~ msgid "A Test theme"
+#~ msgstr "ប្រធានបទសាកល្បង"
+
+#~ msgctxt "Name"
+#~ msgid "New Mail Arrived"
+#~ msgstr "សំបុត្រថ្មីបានមកដល់"
+
+#~ msgctxt "Comment"
+#~ msgid "New mail arrived"
+#~ msgstr "សំបុត្រថ្មីបានមកដល់"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Mail send"
+#~ msgstr "ផ្ញើអ៊ីមែល"
+
+#~ msgctxt "Name"
+#~ msgid "Novell GroupWise Server"
+#~ msgstr "ម៉ាស៊ីនបម្រើណូវែលគ្រុបវែល"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Groupware Wizard"
+#~ msgstr "អ្នកជំនួយការ Groupware របស់ KDE"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Kontact Touch Calendar"
+#~ msgstr "ប្រតិទិនទូចទូច"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Kontact Touch Contacts"
+#~ msgstr "ទំនាក់ទំនងទូចទូច"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Kontact Touch Notes"
+#~ msgstr "កំណត់ត្រាទូចថន"
+
+#~ msgctxt "Name"
+#~ msgid "KAlarm Event Serializer"
+#~ msgstr "ម៉ាស៊ីនបម្រើព្រឹត្តិការណ៍ខេអិល"
+
+#~ msgctxt "Comment"
+#~ msgid "An Akonadi serializer plugin for KAlarm events"
+#~ msgstr "កម្មវិធីជំនួយសៀរៀល Akonadi សម្រាប់ព្រឹត្តិការណ៍ Kalarm &&amp; # 160;"
+
+#~ msgctxt "Name"
+#~ msgid "KAlarm Directory"
+#~ msgstr "ថតខេលឡាម"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a local KAlarm folder"
+#~ msgstr "ផ្ទុកទិន្នន័យពីថតឯកសារ Kalarm មូលដ្ឋាន"
+
+#~ msgctxt "Name"
+#~ msgid "KAlarm Calendar File"
+#~ msgstr "ឯកសារប្រតិទិន Kalarm"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a KAlarm calendar file"
+#~ msgstr "ផ្ទុកទិន្នន័យពីឯកសារប្រតិទិន Kalarm"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Nepomuk Mail Feeder"
+#~ msgstr "អ្នកផ្ញើសំបុត្ររបស់ Nepomuk"
+
+#~ msgctxt "Comment"
+#~ msgid "Extension to push emails into Nepomuk"
+#~ msgstr "ផ្នែកបន្ថែមដើម្បីជំរុញអ៊ីមែលចូល Nepomuk"
+
+#~ msgctxt "Name"
+#~ msgid "Send To"
+#~ msgstr "ផ្ញើទៅ"
+
+#~ msgctxt "Name"
+#~ msgid "KAlarm Active Alarms"
+#~ msgstr "សំឡេងរោទិ៍សកម្មរបស់ Kalarm &&amp; # 160;"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a KAlarm active alarm calendar file"
+#~ msgstr "ផ្ទុកទិន្នន័យពីឯកសារប្រតិទិនការជូនដំណឹងសកម្មរបស់ Kalarm &&amp; # 160;"
+
+#~ msgctxt "Name"
+#~ msgid "KAlarm Archived Alarms"
+#~ msgstr "សំឡេងរោទិ៍ KAlarm ដែលបានទុកក្នុងប័ណ្ណសារ &&amp; # 160;"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a KAlarm archived alarm calendar file"
+#~ msgstr "ផ្ទុកទិន្នន័យពីឯកសារប្រតិទិនសំឡេងរោទិ៍ដែលបានទុកក្នុងប័ណ្ណសារ Kalarm &&amp; # 160;"
+
+#~ msgctxt "Name"
+#~ msgid "KAlarm Templates"
+#~ msgstr "ពុម្ព Kalarm"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a KAlarm alarm template file"
+#~ msgstr "ផ្ទុកទិន្នន័យពីឯកសារគំរូសំឡេងរោទិ៍ Kalarm"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Calendar"
+#~ msgstr "ប្រតិទិនរបស់ KDE"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Contacts"
+#~ msgstr "ទំនាក់ទំនងរបស់ KDE"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Mail"
+#~ msgstr "សំបុត្ររបស់ KDE"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Notes"
+#~ msgstr "កំណត់ចំណាំរបស់ KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Invitations Dispatcher Agent"
+#~ msgstr "ភ្នាក់ងារចែកចាយ"
+
+#~ msgctxt "Name"
+#~ msgid "E-mail successfully sent"
+#~ msgstr "បានផ្ញើអ៊ីមែលដោយជោគជ័យ"
+
+#~ msgctxt "Name"
+#~ msgid "E-mail sending failed"
+#~ msgstr "ការផ្ញើអ៊ីមែលបរាជ័យ"
+
+#~ msgctxt "Name"
+#~ msgid "Nepomuk Calendar Feeder"
+#~ msgstr "Feeder ប្រតិទិន Nepomuk"
+
+#~ msgctxt "Comment"
+#~ msgid "Extension to push events, journals and todos into Nepomuk"
+#~ msgstr "ការពន្យាពេលដើម្បីជំរុញព្រឹត្តិការណ៍ទិនានុប្បវត្តិនិងការងារត្រូវធ្វើទៅក្នុង Nepomuk"
+
+#~ msgctxt "Name"
+#~ msgid "Nepomuk Contact Feeder"
+#~ msgstr "អ្នកផ្តល់ព័ត៌មានទំនាក់ទំនង Nepomuk"
+
+#~ msgctxt "Comment"
+#~ msgid "Extension to push contacts into Nepomuk"
+#~ msgstr "ការពន្យាពេលដើម្បីជំរុញទំនាក់ទំនងចូលក្នុង Nepomuk"
+
+#~ msgctxt "Name"
+#~ msgid "New Email Notifier"
+#~ msgstr "កម្មវិធីជូនដំណឹងអ៊ីមែលថ្មី"
+
+#~ msgctxt "Comment"
+#~ msgid "Notifications about newly received emails"
+#~ msgstr "ការជូនដំណឹងអំពីអ៊ីម៉ែលដែលបានទទួលថ្មីៗ"
+
+#~ msgctxt "Name"
+#~ msgid "Strigi Feeder"
+#~ msgstr "ហ្វីហ្គីជីហ្វីត"
+
+#~ msgctxt "Comment"
+#~ msgid "Strigi-based fulltext search"
+#~ msgstr "ការស្វែងរកអត្ថបទដែលមានមូលដ្ឋានលើ Strigi"
+
+#~ msgctxt "Name"
+#~ msgid "Akonadi Configuration"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធ Akonadi"
+
+#~ msgctxt "Comment"
+#~ msgid "Configuration of the Akonadi Personal Information Management framework"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធក្របខ័ណ្ឌគ្រប់គ្រងព័ត៌មានផ្ទាល់ខ្លួនអាកុនដា"
+
+#~ msgctxt "Name"
+#~ msgid "Akonadi Resources Configuration"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធធនធាន Akonadi"
+
+#~ msgctxt "Name"
+#~ msgid "Akonadi Address Books"
+#~ msgstr "សៀវភៅអាសយដ្ឋានអាខេនណា"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to contacts stored in Akonadi address book folders"
+#~ msgstr "ផ្តល់នូវការចូលប្រើទំនាក់ទំនងដែលបានផ្ទុកនៅក្នុងថតសៀវភៅអាសយដ្ឋាន Akonadi"
+
+#~ msgctxt "Name"
+#~ msgid "Akonadi"
+#~ msgstr "អាកុនឌី"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to calendars stored in Akonadi calendar folders"
+#~ msgstr "ផ្តល់នូវការចូលប្រើប្រតិទិនដែលផ្ទុកនៅក្នុងថតប្រតិទិន Akonadi"
+
+#~ msgctxt "Name"
+#~ msgid "kaddressbookmigrator"
+#~ msgstr "kaddressbookmigrator"
+
+#~ msgctxt "Comment"
+#~ msgid "Tool to migrate the old kresource based address book to Akonadi."
+#~ msgstr "ឧបករណ៍ដើម្បីធ្វើចំណាកស្រុកសៀវភៅអាសយដ្ឋានដែលមានមូលដ្ឋានលើ kresource ចាស់ទៅ Akonadi ។"
+
+#~ msgctxt "Name"
+#~ msgid "Addressee Serializer"
+#~ msgstr "សៀរៀលសៀរៀលអ្នកទទួល"
+
+#~ msgctxt "Comment"
+#~ msgid "An Akonadi serializer plugin for addressee objects"
+#~ msgstr "កម្មវិធីជំនួយសៀរៀលអាហ្គូណាឌីសម្រាប់វត្ថុអាសយដ្ឋាន"
+
+#~ msgctxt "Name"
+#~ msgid "Bookmark serializer"
+#~ msgstr "ឧបករណ៍សម្គាល់សៀរៀល"
+
+#~ msgctxt "Comment"
+#~ msgid "An Akonadi serializer plugin for bookmark objects"
+#~ msgstr "កម្មវិធីជំនួយសៀរៀលអាហ្គូណាឌីសម្រាប់វត្ថុចំណាំ"
+
+#~ msgctxt "Comment"
+#~ msgid "An Akonadi serializer plugin for contact group objects"
+#~ msgstr "កម្មវិធីជំនួយសៀរៀលអាហ្គូណាឌីសម្រាប់វត្ថុក្រុមទំនាក់ទំនង"
+
+#~ msgctxt "Name"
+#~ msgid "Incidence Serializer"
+#~ msgstr "សៀរៀលឧប្បត្តិហេតុ"
+
+#~ msgctxt "Comment"
+#~ msgid "An Akonadi serializer plugin for events, tasks and journal entries"
+#~ msgstr "កម្មវិធីជំនួយសៀរៀលអាហ្គូណាឌីសម្រាប់ព្រឹត្តិការណ៍ភារកិច្ចនិងធាតុទិនានុប្បវត្តិ"
+
+#~ msgctxt "Name"
+#~ msgid "Mail Serializer"
+#~ msgstr "សៀរៀលសៀរៀល"
+
+#~ msgctxt "Comment"
+#~ msgid "An Akonadi serializer plugin for mail objects"
+#~ msgstr "កម្មវិធីជំនួយសៀរៀលអាហ្គូណាឌីសម្រាប់វត្ថុសំបុត្រ"
+
+#~ msgctxt "Name"
+#~ msgid "Microblog Serializer"
+#~ msgstr "ឧបករណ៍បំលែងមីក្រូប៊្លុក"
+
+#~ msgctxt "Comment"
+#~ msgid "An Akonadi serializer plugin for Microblog"
+#~ msgstr "កម្មវិធីជំនួយសៀរៀលអាហ្គូណាឌីសម្រាប់មីក្រូប៊្លុក"
+
+#~ msgctxt "Name"
+#~ msgid "AkoNotes"
+#~ msgstr "AkoNotes"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads a notes hierarchy from a local maildir folder"
+#~ msgstr "ផ្ទុកឋានានុក្រមកំណត់ចំណាំពីថតឯកសារ maildir មូលដ្ឋាន"
+
+#~ msgctxt "Name"
+#~ msgid "Birthdays & Anniversaries"
+#~ msgstr "ថ្ងៃកំណើតអ្នកផ្តល់កំណើត"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to birthday and anniversary dates of contacts in your address book as calendar events"
+#~ msgstr "ផ្តល់នូវការចូលប្រើខួបកំណើតនិងថ្ងៃខួបកំណើតនៃទំនាក់ទំនងនៅក្នុងសៀវភៅអាសយដ្ឋានរបស់អ្នកជាព្រឹត្តិការណ៍ប្រតិទិន"
+
+#~ msgctxt "Comment"
+#~ msgid "The address book with personal contacts"
+#~ msgstr "សៀវភៅអាសយដ្ឋានដែលមានទំនាក់ទំនងផ្ទាល់ខ្លួន"
+
+#~ msgctxt "Name"
+#~ msgid "DAV groupware resource"
+#~ msgstr "ធនធានឧបករណ៍ប្រើជាក្រុម DAV"
+
+#~ msgctxt "Comment"
+#~ msgid "Resource to manage DAV calendars and address books (CalDAV, GroupDAV)"
+#~ msgstr "ធនធានសម្រាប់គ្រប់គ្រងប្រតិទិនដាវ៉ានិងសៀវភៅអាសយដ្ឋាន (CalDAV, GroupDAV)"
+
+#~ msgctxt "Name"
+#~ msgid "ICal Calendar File"
+#~ msgstr "ឯកសារប្រតិទិនសុរិយោដី"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from an iCal file"
+#~ msgstr "ផ្ទុកទិន្នន័យពីឯកសារ iCal"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a notes file"
+#~ msgstr "ផ្ទុកទិន្នន័យពីឯកសារកំណត់ត្រា"
+
+#~ msgctxt "Name"
+#~ msgid "IMAP E-Mail Server"
+#~ msgstr "ម៉ាស៊ីនមេ IMAP អ៊ីម៉ែល"
+
+#~ msgctxt "Comment"
+#~ msgid "Connects to an IMAP e-mail server"
+#~ msgstr "ភ្ជាប់ទៅម៉ាស៊ីនមេអ៊ីមែល IMAP"
+
+#~ msgctxt "Name"
+#~ msgid "Generic IMAP Email Server"
+#~ msgstr "ម៉ាស៊ីនមេអ៊ីមែល IMAP ទូទៅ"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Address Book (traditional)"
+#~ msgstr "សៀវភៅអាសយដ្ឋាន KDE (ប្រពៃណី)"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a traditional KDE address book resource"
+#~ msgstr "ផ្ទុកទិន្នន័យពីធនធានសៀវភៅអាសយដ្ឋានរបស់ KDE បុរាណ"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Calendar (traditional)"
+#~ msgstr "ប្រតិទិន KDE (ប្រពៃណី)"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a traditional KDE calendar resource"
+#~ msgstr "ផ្ទុកទិន្នន័យពីធនធានប្រតិទិនរបស់ KDE បុរាណ"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Accounts"
+#~ msgstr "គណនី KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads contacts from the KDE accounts file"
+#~ msgstr "ផ្ទុកទំនាក់ទំនងពីឯកសារគណនី KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Knut"
+#~ msgstr "ឃុត"
+
+#~ msgctxt "Comment"
+#~ msgid "An agent for debugging purpose"
+#~ msgstr "ភ្នាក់ងារសម្រាប់គោលបំណងបំបាត់កំហុស"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to Kolab groupware folders on an IMAP server (IMAP accounts need to be set up separately)."
+#~ msgstr "ផ្តល់ការចូលប្រើថតឯកសារក្រុមកូឡបនៅលើម៉ាស៊ីនមេ IMAP (គណនី IMAP ចាំបាច់ត្រូវតំឡើងដាច់ដោយឡែក) ។"
+
+#~ msgctxt "Name"
+#~ msgid "Local Bookmarks"
+#~ msgstr "ចំណាំមូលដ្ឋាន"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a local bookmarks file"
+#~ msgstr "ផ្ទុកទិន្នន័យពីឯកសារចំណាំមូលដ្ឋាន"
+
+#~ msgctxt "Name"
+#~ msgid "Maildir"
+#~ msgstr "Maildir"
+
+#~ msgctxt "Comment"
+#~ msgid "Maildir account"
+#~ msgstr "គណនី Maildir"
+
+#~ msgctxt "Name"
+#~ msgid "Dummy MailTransport Resource"
+#~ msgstr "ធនធានផ្ញើសារតាមអ៊ីមផតថម"
+
+#~ msgctxt "Comment"
+#~ msgid "Dummy Resource implementing mail transport interface"
+#~ msgstr "ធនធានអត់មានអនុវត្តចំណុចប្រទាក់ដឹកជញ្ជូនតាមអ៊ីម៉ែល"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a local mbox file"
+#~ msgstr "ផ្ទុកទិន្នន័យពីឯកសារ mbox ក្នុងតំបន់"
+
+#~ msgctxt "Name"
+#~ msgid "MailBox"
+#~ msgstr "MailBox"
+
+#~ msgctxt "Comment"
+#~ msgid "Mailbox account"
+#~ msgstr "គណនីប្រអប់សំបុត្រ"
+
+#~ msgctxt "Name"
+#~ msgid "Microblog (Twitter and Identi.ca)"
+#~ msgstr "មីក្រូប្លូធូស (ធ្វីតធ័រនិងឌីមីធីស្សា)"
+
+#~ msgctxt "Comment"
+#~ msgid "Shows your microblog data from Twitter or Identi.ca."
+#~ msgstr "បង្ហាញទិន្នន័យប៊្លុករបស់អ្នកពី Twitter ឬ Identi.ca ។"
+
+#~ msgctxt "Name"
+#~ msgid "KMail Maildir"
+#~ msgstr "KMail Maildir"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a local KMail maildir folder"
+#~ msgstr "ផ្ទុកទិន្នន័យពីថតអ៊ីមែលរបស់ KMail មូលដ្ឋាន"
+
+#~ msgctxt "Name"
+#~ msgid "Nepomuk Tags (Virtual Folders)"
+#~ msgstr "ស្លាក Nepomuk (ថតនិម្មិត)"
+
+#~ msgctxt "Comment"
+#~ msgid "Virtual folders for selecting messages which have Nepomuk Tags."
+#~ msgstr "ថតឯកសារនិម្មិតសម្រាប់ជ្រើសរើសសារដែលមានស្លាកនេប៉ាល់។"
+
+#~ msgctxt "Name"
+#~ msgid "Usenet Newsgroups (NNTP)"
+#~ msgstr "ក្រុមព័ត៌មានយូណេសណិត (អិន។ អិន។ អិន។ អិល)"
+
+#~ msgctxt "Comment"
+#~ msgid "Makes it possible to read articles from a news server"
+#~ msgstr "ធ្វើឱ្យវាអាចអានអត្ថបទពីម៉ាស៊ីនមេព័ត៌មាន"
+
+#~ msgctxt "Name"
+#~ msgid "Open-Xchange Groupware Server"
+#~ msgstr "ម៉ាស៊ីនបម្រើបើកចំហរផ្លាស់ប្តូរក្រុម"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to the appointments, tasks, and contacts of an Open-Xchange groupware server."
+#~ msgstr "ផ្តល់នូវការចូលទៅកាន់ការណាត់ជួបភារកិច្ចនិងទំនាក់ទំនងរបស់ម៉ាស៊ីនមេបើកចំហរផ្លាស់ប្តូរក្រុម។"
+
+#~ msgctxt "Name"
+#~ msgid "POP3 E-Mail Server"
+#~ msgstr "ម៉ាស៊ីនមេអ៊ីមែល POP3"
+
+#~ msgctxt "Comment"
+#~ msgid "Connects to a POP3 e-mail server"
+#~ msgstr "ភ្ជាប់ទៅម៉ាស៊ីនមេអ៊ីមែល POP3"
+
+#~ msgctxt "Name"
+#~ msgid "Pop3"
+#~ msgstr "ប៉ុប ៣"
+
+#~ msgctxt "Comment"
+#~ msgid "Pop3 account"
+#~ msgstr "គណនី Pop3"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a directory with VCards"
+#~ msgstr "ផ្ទុកទិន្នន័យពីថតឯកសារជាមួយ VCards"
+
+#~ msgctxt "Name"
+#~ msgid "VCard File"
+#~ msgstr "ឯកសារ VCard"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a VCard file"
+#~ msgstr "ផ្ទុកទិន្នន័យពីឯកសារ VCard"
+
+#~ msgctxt "Name"
+#~ msgid "Akonaditray"
+#~ msgstr "Akonaditray"
+
+#~ msgctxt "GenericName"
+#~ msgid "Akonadi Tray Utility"
+#~ msgstr "ឧបករណ៍ប្រើប្រាស់ Akonadi Tray"
+
+#~ msgctxt "Comment"
+#~ msgid "Your e-mail was successfully sent."
+#~ msgstr "អ៊ីមែលរបស់អ្នកត្រូវបានផ្ញើដោយជោគជ័យ។"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Address Book"
+#~ msgstr "សៀវភៅអាសយដ្ឋាន KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "A Feed Reader for KDE"
+#~ msgstr "កម្មវិធីអានមតិព័ត៌មានសម្រាប់ KDE"
+
+#~ msgctxt "Name"
+#~ msgid "StickyNote"
+#~ msgstr "ក្រ​ដាស់​សំរាប់​ចារ"
+
+#~ msgctxt "Comment"
+#~ msgid "Connect to your libstickynotes-powered backend."
+#~ msgstr "ភ្ជាប់ទៅផ្នែកខាងក្រោយដែលដើរដោយថាមពល libstickynotes របស់អ្នក។"
+
+#~ msgctxt "Name"
+#~ msgid "ZIP"
+#~ msgstr "ហ្ស៊ីប"
+
+#~ msgctxt "Name"
+#~ msgid "OpenChange"
+#~ msgstr "អូខេខនរេស"
+
+#~ msgctxt "Comment"
+#~ msgid "Makes it possible to work with an OpenChange / Exchange server"
+#~ msgstr "ធ្វើឱ្យវាអាចធ្វើការជាមួយម៉ាស៊ីនមេអូអេសអូ / ប្តូរវេន"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Your e-mail was sent with success!"
+#~ msgstr "អ៊ីមែលរបស់អ្នកត្រូវបានផ្ញើដោយជោគជ័យ!"
+
+#~ msgctxt "Name"
+#~ msgid "KOrganizer Mobile"
+#~ msgstr "KOrganizer Mobile"
+
+#~ msgctxt "Name"
+#~ msgid "KMail Mobile"
+#~ msgstr "ខេអេមចល័ត"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Notes Mobile"
+#~ msgstr "ចល័តខេនណេសចំណាំ"
+
+#~ msgctxt "Name"
+#~ msgid "Encrypt & Sign File"
+#~ msgstr "អ៊ិនគ្រីបឯកសារ"
+
+#~ msgctxt "Name"
+#~ msgid "GroupDAV Server (e.g. OpenGroupware)"
+#~ msgstr "ម៉ាស៊ីនមេ GroupDAV (ឧទាហរណ៍ OpenGroupware)"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to contacts stored in address books on GroupDAV enabled servers, e.g. OpenGroupware"
+#~ msgstr "ផ្តល់នូវការចូលប្រើទំនាក់ទំនងដែលផ្ទុកនៅក្នុងសៀវភៅអាសយដ្ឋាននៅលើម៉ាស៊ីនមេដែលបើកដំណើរការ GroupDAV ឧទាហរណ៍ OpenGroupware"
+
+#~ msgctxt "Name"
+#~ msgid "Kolab"
+#~ msgstr "កុលបាប"
+
+#~ msgctxt "Name"
+#~ msgid "Disconnected Imap"
+#~ msgstr "ផ្តាច់អ៊ីមផត"
+
+#~ msgctxt "Comment"
+#~ msgid "Disconnected Imap account"
+#~ msgstr "ផ្តាច់គណនីអ៊ីមផត"
+
+#~ msgctxt "Name"
+#~ msgid "Imap"
+#~ msgstr "Imap"
+
+#~ msgctxt "Name"
+#~ msgid "Application Octet Stream"
+#~ msgstr "ការដាក់ពាក្យស្ទ្រីម Octet"
+
+#~ msgctxt "Comment"
+#~ msgid "A bodypart formatter plugin for application/octet-stream"
+#~ msgstr "កម្មវិធីជំនួយទម្រង់រាងកាយសម្រាប់កម្មវិធី / ខ្សែ - ស្ទ្រីម"
+
+#~ msgctxt "Name"
+#~ msgid "POP3"
+#~ msgstr "POP3"
+
+#~ msgctxt "Comment"
+#~ msgid "Fetches mail from a POP3 server"
+#~ msgstr "ប្រមូលសំបុត្រពីម៉ាស៊ីនមេ POP3"
+
+#~ msgctxt "Name"
+#~ msgid "Birthdays From KAddressBook"
+#~ msgstr "ថ្ងៃកំណើតពី KAddressBook"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to birthday dates of contacts in the KDE address book as calendar events"
+#~ msgstr "ផ្តល់នូវការចូលដំណើរការទៅថ្ងៃខែឆ្នាំកំណើតនៃទំនាក់ទំនងនៅក្នុងសៀវភៅអាសយដ្ឋានរបស់ KDE ជាព្រឹត្តិការណ៍ប្រតិទិន"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to contacts stored on a Groupware server."
+#~ msgstr "ផ្តល់នូវការចូលប្រើទំនាក់ទំនងដែលផ្ទុកនៅលើម៉ាស៊ីនមេក្រុម។"
+
+#~ msgctxt "Name"
+#~ msgid "OpenXchange Server"
+#~ msgstr "ម៉ាស៊ីនមេអូផិចផ្លាស់ប្តូរ"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to contacts stored on an Open-Xchange server"
+#~ msgstr "ផ្តល់នូវការចូលប្រើទំនាក់ទំនងដែលផ្ទុកនៅលើម៉ាស៊ីនមេ Open-Xchange"
+
+#~ msgctxt "Name"
+#~ msgid "SUSE LINUX Openexchange Server"
+#~ msgstr "ស៊ូស៊ីលីនយូអេសមេនខនសឺមេន"
+
+#~ msgctxt "Name"
+#~ msgid "DN-Attribute Order"
+#~ msgstr "DN- គុណលក្ខណៈគុណលក្ខណៈ"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the order in which DN attributes are shown"
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធលំដាប់ដែលគុណលក្ខណៈ DN ត្រូវបានបង្ហាញ"
+
+#~ msgctxt "Name"
+#~ msgid "Address Book on IMAP Server via KMail"
+#~ msgstr "សៀវភៅអាសយដ្ឋាននៅលើម៉ាស៊ីនមេ IMAP តាមរយៈ KMail"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to contacts stored on a Kolab server using IMAP via KMail or Kontact"
+#~ msgstr "ផ្តល់សិទ្ធិចូលប្រើទំនាក់ទំនងដែលផ្ទុកនៅលើម៉ាស៊ីនមេកូលបដោយប្រើ IMAP តាមរយៈ KMail ឬ Kontact"
+
+#~ msgctxt "Name"
+#~ msgid "Calendar on IMAP Server via KMail"
+#~ msgstr "ប្រតិទិននៅលើម៉ាស៊ីនមេ IMAP តាមរយៈ KMail"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to a calendar stored on a Kolab server using IMAP via KMail or Kontact"
+#~ msgstr "ផ្តល់ការចូលប្រើប្រតិទិនដែលផ្ទុកនៅលើម៉ាស៊ីនមេកូលបដោយប្រើ IMAP តាមរយៈ KMail ឬ Kontact"
+
+#~ msgctxt "Name"
+#~ msgid "IMAP Server via KMail"
+#~ msgstr "ម៉ាស៊ីនមេ IMAP តាមរយៈ KMail"
+
+#~ msgctxt "Name"
+#~ msgid "KitchenSync"
+#~ msgstr "KitchenSync"
+
+#~ msgctxt "GenericName"
+#~ msgid "Synchronization"
+#~ msgstr "ធ្វើសមកាលកម្ម"
+
+#~ msgctxt "Comment"
+#~ msgid "This conduit syncs the handheld calendar database with an Akonadi calendar Collection."
+#~ msgstr "ច្រករបៀងនេះធ្វើសមកាលកម្មមូលដ្ឋានទិន្នន័យប្រតិទិនយួរដៃជាមួយនឹងការប្រមូលប្រតិទិនអាកុនដា។"
+
+#~ msgctxt "Comment"
+#~ msgid "This conduit syncs the handheld address book database with an Akonadi collection."
+#~ msgstr "ច្រករបៀងនេះធ្វើសមកាលកម្មនូវសៀវភៅអាសយដ្ឋានសៀវភៅដៃដែលមានបណ្តុំអាហ្គូណាឌី។"
+
+#~ msgctxt "Comment"
+#~ msgid "Adds text files to your handheld, suitable for DOC readers."
+#~ msgstr "បន្ថែមឯកសារអត្ថបទទៅនឹងឧបករណ៍យួរដៃរបស់អ្នកដែលសមស្របសម្រាប់អ្នកអាន DOC ។"
+
+#~ msgctxt "Name"
+#~ msgid "Palm DOC"
+#~ msgstr "ដូងដុក"
+
+#~ msgctxt "Name"
+#~ msgid "KPalmDOC"
+#~ msgstr "KPalmDOC"
+
+#~ msgctxt "GenericName"
+#~ msgid "PalmDOC Converter"
+#~ msgstr "កម្មវិធីបំលែង PalmDOC"
+
+#~ msgctxt "Comment"
+#~ msgid "This conduit syncs the handheld keyring database with a database stored on the PC."
+#~ msgstr "ច្រករបៀងនេះធ្វើសមកាលកម្មមូលដ្ឋានទិន្នន័យ keyring ដែលមានឧបករណ៍យួរដៃដែលមានផ្ទុកទិន្នន័យនៅក្នុងកុំព្យូទ័រ។"
+
+#~ msgctxt "Name"
+#~ msgid "Keyring"
+#~ msgstr "ចិញ្ចៀន​ដ៏​សំខាន់"
+
+#~ msgctxt "Name"
+#~ msgid "MAL (AvantGo) Conduit"
+#~ msgstr "MAL (AvantGo) Conduit"
+
+#~ msgctxt "Comment"
+#~ msgid "Synchronize AvantGo (or generally a MAL server's content) to the handheld. This allows you to view web-pages offline on the handheld, like your cinema or TV schedule, or any other web page."
+#~ msgstr "ធ្វើសមកាលកម្ម AvantGo (ឬជាទូទៅមាតិការបស់ម៉ាស៊ីនមេម៉ាល់) ទៅនឹងឧបករណ៍យួរដៃ។ វាអនុញ្ញាតឱ្យអ្នកមើលគេហទំព័រនៅក្រៅអ៊ីនធឺណិតនៅលើឧបករណ៍យួរដៃដូចជារោងកុនទូរទស្សន៍ឬកម្មវិធីទូរទស្សន៍របស់អ្នកឬគេហទំព័រផ្សេងទៀត។"
+
+#~ msgctxt "Comment"
+#~ msgid "This conduit syncs your handheld memos with a local directory."
+#~ msgstr "ច្រករបៀងនេះធ្វើសមកាលកម្មអនុស្សាវរីយយួរដៃរបស់អ្នកជាមួយថតក្នុងតំបន់។"
+
+#~ msgctxt "Name"
+#~ msgid "NotePad"
+#~ msgstr "NotePad"
+
+#~ msgctxt "Comment"
+#~ msgid "This conduit backs up NotePad drawings to a local folder."
+#~ msgstr "បំពង់នេះបម្រុងទុកគំនូរ NotePad ទៅថតឯកសារក្នុងតំបន់។"
+
+#~ msgctxt "Name"
+#~ msgid "NULL"
+#~ msgstr "NULL"
+
+#~ msgctxt "Comment"
+#~ msgid "This conduit does nothing."
+#~ msgstr "ច្រករបៀងនេះមិនធ្វើអ្វីទេ។"
+
+#~ msgctxt "Comment"
+#~ msgid "Send mail from your handheld through KMail."
+#~ msgstr "ផ្ញើអ៊ីមែលពីឧបករណ៍យួរដៃរបស់អ្នកតាមរយៈ KMail ។"
+
+#~ msgctxt "Comment"
+#~ msgid "This conduit writes information about your handheld and the sync to a file."
+#~ msgstr "បំពង់នេះសរសេរព័ត៌មានអំពីឧបករណ៍យួរដៃរបស់អ្នកនិងការធ្វើសមកាលកម្មទៅឯកសារ។"
+
+#~ msgctxt "Name"
+#~ msgid "System Information"
+#~ msgstr "ប្រព័ន្ធ​ព័ត៌មាន"
+
+#~ msgctxt "Comment"
+#~ msgid "This conduit sets the time on your handheld from the PC clock."
+#~ msgstr "បំពង់នេះកំណត់ពេលវេលានៅលើឧបករណ៍យួរដៃរបស់អ្នកពីនាឡិកាកុំព្យូទ័រ។"
+
+#~ msgctxt "Name"
+#~ msgid "Time Synchronization"
+#~ msgstr "ធ្វើសមកាលកម្មពេលវេលា"
+
+#~ msgctxt "Comment"
+#~ msgid "This conduit syncs the handheld todo database with an Akonadi Todo Collection."
+#~ msgstr "ច្រករបៀងនេះធ្វើសមកាលកម្មនូវមូលដ្ឋានទិន្នន័យការងារត្រូវធ្វើជាមួយអាហ្គូណាឌីដូតូ។"
+
+#~ msgctxt "Name"
+#~ msgid "To-do"
+#~ msgstr "ធ្វើ"
+
+#~ msgctxt "Comment"
+#~ msgid "This conduit syncs the handheld address book with a database stored on the PC."
+#~ msgstr "ច្រករបៀងនេះធ្វើសមកាលកម្មសៀវភៅអាសយដ្ឋានដែលមានឧបករណ៍យួរដៃដែលមានផ្ទុកទិន្នន័យនៅក្នុងកុំព្យូទ័រ។"
+
+#~ msgctxt "Comment"
+#~ msgid "This conduit syncs the handheld keyring database with a database stored on the pc."
+#~ msgstr "ច្រករបៀងនេះធ្វើសមកាលកម្មមូលដ្ឋានទិន្នន័យ keyring ដែលមានឧបករណ៍យួរដៃដែលមានផ្ទុកទិន្នន័យនៅលើកុំព្យូទ័រ។"
+
+#~ msgctxt "Comment"
+#~ msgid "KPilot Conduit"
+#~ msgstr "KPilot Conduit"
+
+#~ msgctxt "Comment"
+#~ msgid "KPilot Main Configuration"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធមេ KPilot"
+
+#~ msgctxt "Name"
+#~ msgid "KPilotDaemon"
+#~ msgstr "KPilotDaemon"
+
+#~ msgctxt "Name"
+#~ msgid "KPilot"
+#~ msgstr "KPilot"
+
+#~ msgctxt "GenericName"
+#~ msgid "PalmPilot Tool"
+#~ msgstr "ឧបករណ៍ PalmPilot"
+
+#~ msgctxt "Name"
+#~ msgid "TV Schedules"
+#~ msgstr "កាលវិភាគទូរទស្សន៍"
+
+#~ msgctxt "Name"
+#~ msgid "Address Book on Scalix Server via KMail"
+#~ msgstr "សៀវភៅអាសយដ្ឋាននៅលើម៉ាស៊ីនមេ Scalix តាមរយៈ KMail"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides access to contacts stored on a Scalix server using IMAP via KMail or Kontact"
+#~ msgstr "ផ្តល់នូវការចូលប្រើទំនាក់ទំនងដែលផ្ទុកនៅលើម៉ាស៊ីនមេ Scalix ដោយប្រើ IMAP តាមរយៈ KMail ឬ Kontact"
+
+#~ msgctxt "Name"
+#~ msgid "Calendar on Scalix Server via KMail"
+#~ msgstr "ប្រតិទិននៅលើម៉ាស៊ីនមេ Scalix តាមរយៈ KMail"
+
+#~ msgctxt "Name"
+#~ msgid "Notes on Scalix Server via KMail"
+#~ msgstr "កំណត់ត្រានៅលើម៉ាស៊ីនមេ Scalix តាមរយៈ KMail"
+
+#~ msgctxt "Name"
+#~ msgid "Distribution List File"
+#~ msgstr "ឯកសារបញ្ជីចែកចាយ"
+
+#~ msgctxt "Comment"
+#~ msgid "Loads data from a distribution list file"
+#~ msgstr "ផ្ទុកទិន្នន័យពីឯកសារបញ្ជីចែកចាយ"
+
+#~ msgctxt "Name"
+#~ msgid "Timespan View Plugin for KOrganizer"
+#~ msgstr "កម្មវិធីជំនួយ Timespan មើលកម្មវិធីជំនួយសម្រាប់ &&amp; korganizer;"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin provides a timespan view for korganizer (like the to-do or month views). If you enable this plugin, you can switch to the timespan view and view your events like in a Gantt diagram."
+#~ msgstr "កម្មវិធីជំនួយនេះផ្តល់នូវទិដ្ឋភាពពេលវេលាសម្រាប់ korganizer (ដូចជាទិដ្ឋភាពការងារត្រូវធ្វើឬទិដ្ឋភាពខែ) ។ ប្រសិនបើអ្នកបើកដំណើរការកម្មវិធីជំនួយនេះអ្នកអាចប្តូរទៅទិដ្ឋភាពដងហើយមើលព្រឹត្តិការណ៍របស់អ្នកដូចជានៅក្នុងដ្យាក្រាម Gantt ។"
+
+#~ msgctxt "Name"
+#~ msgid "KAddressBook (KDE 3.1)"
+#~ msgstr "KAddressBook (KDE 3.1)"
+
+#~ msgctxt "Name"
+#~ msgid "Outlook 2000"
+#~ msgstr "ទស្សនវិស័យ ២០០០"
+
+#~ msgctxt "Name"
+#~ msgid "Yahoo! Address Book"
+#~ msgstr "យ៉ាហ៊ូ! សៀវភៅ​អាស័យ​ដ្ឋាន"
+
+#~ msgctxt "Comment"
+#~ msgid "Address Book with a D-Bus interface"
+#~ msgstr "សៀវភៅអាសយដ្ឋានដែលមានចំណុចប្រទាក់ D-Bus"
+
+#~ msgctxt "Name"
+#~ msgid "Instant Messaging"
+#~ msgstr "ការផ្ញើសារបន្ទាន់"
+
+#~ msgctxt "Comment"
+#~ msgid "Instant Messaging Address Editor"
+#~ msgstr "កម្មវិធីនិពន្ធអាសយដ្ឋានផ្ញើសារភ្លាមៗ"
+
+#~ msgctxt "Name"
+#~ msgid "KAddressbook Instant Messaging Protocol"
+#~ msgstr "ពិធីការផ្ញើសាររហ័ស KAddressbook"
+
+#~ msgctxt "Comment"
+#~ msgid "AIM Protocol"
+#~ msgstr "ពិធីសារ AIM"
+
+#~ msgctxt "Name"
+#~ msgid "AIM"
+#~ msgstr "អេអាយ"
+
+#~ msgctxt "Comment"
+#~ msgid "Gadu-Gadu Protocol"
+#~ msgstr "ពិធីសារហ្គាឌ - ហ្គូឌ"
+
+#~ msgctxt "Name"
+#~ msgid "Gadu-Gadu"
+#~ msgstr "ហ្គាឌូ - ហ្គូរូ"
+
+#~ msgctxt "Comment"
+#~ msgid "Novell GroupWise Messenger"
+#~ msgstr "ណូវែលគ្រុបកម្មវិធីផ្ញើសារ"
+
+#~ msgctxt "Name"
+#~ msgid "GroupWise"
+#~ msgstr "GroupWise"
+
+#~ msgctxt "Comment"
+#~ msgid "ICQ Protocol"
+#~ msgstr "ពិធីសារអាយស៊ីអេស"
+
+#~ msgctxt "Name"
+#~ msgid "ICQ"
+#~ msgstr "អាយស៊ីអេស"
+
+#~ msgctxt "Comment"
+#~ msgid "Internet Relay Chat"
+#~ msgstr "ជជែកកំសាន្តតាមអ៊ីនធឺណិត"
+
+#~ msgctxt "Name"
+#~ msgid "IRC"
+#~ msgstr "អាយស៊ីស៊ី"
+
+#~ msgctxt "Comment"
+#~ msgid "Jabber Protocol"
+#~ msgstr "ពិធីសារ Jabber"
+
+#~ msgctxt "Name"
+#~ msgid "Jabber"
+#~ msgstr "ចាបេប"
+
+#~ msgctxt "Comment"
+#~ msgid "Meanwhile Protocol"
+#~ msgstr "ទន្ទឹមនឹងនេះពិធីសារ"
+
+#~ msgctxt "Name"
+#~ msgid "Meanwhile"
+#~ msgstr "ទន្ទឹមនឹងនេះ"
+
+#~ msgctxt "Comment"
+#~ msgid "MSN Messenger"
+#~ msgstr "MSN Messenger"
+
+#~ msgctxt "Name"
+#~ msgid "MSN Messenger"
+#~ msgstr "MSN Messenger"
+
+#~ msgctxt "Comment"
+#~ msgid "Skype Internet Telephony"
+#~ msgstr "Skype តាមទូរស័ព្ទអ៊ិនធឺរណែត"
+
+#~ msgctxt "Name"
+#~ msgid "Skype"
+#~ msgstr "ស្កាយភ៍"
+
+#~ msgctxt "Comment"
+#~ msgid "SMS Protocol"
+#~ msgstr "ពិធីសារផ្ញើសារជាអក្សរ"
+
+#~ msgctxt "Name"
+#~ msgid "SMS"
+#~ msgstr "សារ"
+
+#~ msgctxt "Comment"
+#~ msgid "Yahoo Protocol"
+#~ msgstr "ពិធីការយ៉ាហ៊ូ"
+
+#~ msgctxt "Name"
+#~ msgid "Yahoo"
+#~ msgstr "យ៉ាហ៊ូ"
+
+#~ msgctxt "Name"
+#~ msgid "KAB Distribution List Next Generation Plugin"
+#~ msgstr "បញ្ជីចែកចាយខេប៊ីជំនាន់ក្រោយ"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for managing distribution lists"
+#~ msgstr "កម្មវិធីជំនួយសម្រាប់គ្រប់គ្រងបញ្ជីចែកចាយ"
+
+#~ msgctxt "Name"
+#~ msgid "Address Book Management Plugin"
+#~ msgstr "កម្មវិធីជំនួយគ្រប់គ្រងសៀវភៅអាសយដ្ឋាន"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for managing address books"
+#~ msgstr "កម្មវិធីជំនួយសម្រាប់គ្រប់គ្រងសៀវភៅអាសយដ្ឋាន"
+
+#~ msgctxt "Comment"
+#~ msgid "KAddressBook Contact Editor Widget Plugin"
+#~ msgstr "កម្មវិធីជំនួយទំនាក់ទំនងធាតុក្រាហ្វិករបស់ KAddressBook &&amp; ។ ;"
+
+#~ msgctxt "Comment"
+#~ msgid "KAddressBook Extension Plugin"
+#~ msgstr "កម្មវិធីបន្ថែមផ្នែកបន្ថែមរបស់ KAddressBook"
+
+#~ msgctxt "Comment"
+#~ msgid "KAddressBook Import/Export Plugin"
+#~ msgstr "កម្មវិធីជំនួយនាំចូល / នាំចេញខេ។ អេស។ ភី"
+
+#~ msgctxt "Name"
+#~ msgid "kabcdistlistupdater"
+#~ msgstr "kabcdistlistupdater"
+
+#~ msgctxt "Comment"
+#~ msgid "Tool to update the old distribution lists to the new ones."
+#~ msgstr "ឧបករណ៍ដើម្បីធ្វើបច្ចុប្បន្នភាពបញ្ជីចែកចាយចាស់ទៅបញ្ជីថ្មី។"
+
+#~ msgctxt "GenericName"
+#~ msgid "Address Manager"
+#~ msgstr "អ្នកគ្រប់គ្រងអាស័យដ្ឋាន"
+
+#~ msgctxt "Comment"
+#~ msgid "KAddressBook View Plugin"
+#~ msgstr "កម្មវិធីជំនួយទិដ្ឋភាព KAddressBook"
+
+#~ msgctxt "Name"
+#~ msgid "LDAP Lookup"
+#~ msgstr "រកមើលអិល។ ឌី។ ភី"
+
+#~ msgctxt "Name"
+#~ msgid "Electronic Business Card Files"
+#~ msgstr "ឯកសារនាមប័ណ្ណអេឡិចត្រូនិច"
+
+#~ msgctxt "Name"
+#~ msgid "Card View"
+#~ msgstr "មើលកាត"
+
+#~ msgctxt "Name"
+#~ msgid "Icon View"
+#~ msgstr "រូបតំណាងទិដ្ឋភាព"
+
+#~ msgctxt "Name"
+#~ msgid "KAB Bookmark XXPort Plugin"
+#~ msgstr "KAB កម្មវិធីជំនួយទី XXPort"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin to export the web addresses of the contacts as bookmarks"
+#~ msgstr "កម្មវិធីជំនួយដើម្បីនាំចេញអាសយដ្ឋានគេហទំព័ររបស់ទំនាក់ទំនងជាចំណាំ"
+
+#~ msgctxt "Name"
+#~ msgid "KAB CSV XXPort Plugin"
+#~ msgstr "KAB CSV XXPort Plugin"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin to import and export contacts in CSV format"
+#~ msgstr "កម្មវិធីជំនួយដើម្បីនាំចូលនិងនាំចេញទំនាក់ទំនងតាមទម្រង់ CSV"
+
+#~ msgctxt "Name"
+#~ msgid "KAB Eudora XXPort Plugin"
+#~ msgstr "កម្មវិធីជំនួយ KAB Eudora XXPort"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin to import and export Eudora contacts"
+#~ msgstr "កម្មវិធីជំនួយដើម្បីនាំចូលនិងនាំចេញទំនាក់ទំនង Eudora"
+
+#~ msgctxt "Name"
+#~ msgid "KAB GMX XXPort Plugin"
+#~ msgstr "កម្មវិធីជំនួយខេប៊ីជីអេស។ អេស។ ភី។ ផ"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin to import and export contacts in GMX's address book format"
+#~ msgstr "កម្មវិធីជំនួយដើម្បីនាំចូលនិងនាំចេញទំនាក់ទំនងជាទ្រង់ទ្រាយសៀវភៅអាសយដ្ឋានរបស់ជី។ អេស។ អិល"
+
+#~ msgctxt "Name"
+#~ msgid "KAB Mobile Phone XXPort Plugin"
+#~ msgstr "កម្មវិធីជំនួយទូរស័ព្ទចល័តខេអេសអិលភីធីផត"
+
+#~ msgctxt "Comment"
+#~ msgid "Mobile phone plugin to import and export address book entries"
+#~ msgstr "កម្មវិធីជំនួយទូរស័ព្ទចល័តដើម្បីនាំចូលនិងនាំចេញធាតុសៀវភៅអាសយដ្ឋាន"
+
+#~ msgctxt "Name"
+#~ msgid "KAB KDE2 XXPort Plugin"
+#~ msgstr "កម្មវិធីជំនួយខេអេសអិនខេ ២ អេស។ ភី"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin to import the old KDE 2 address book"
+#~ msgstr "កម្មវិធីជំនួយដើម្បីនាំចូលសៀវភៅអាសយដ្ឋានរបស់ KDE ២ ចាស់"
+
+#~ msgctxt "Name"
+#~ msgid "KAB LDIF XXPort Plugin"
+#~ msgstr "កម្មវិធីជំនួយខេប៊ីអិល។ អេ។ អេ។ អេ។ អេស។ ទី"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin to import and export contacts in Netscape and Mozilla LDIF format"
+#~ msgstr "កម្មវិធីជំនួយដើម្បីនាំចូលនិងនាំចេញទំនាក់ទំនងជាទ្រង់ទ្រាយ Netscape និង Mozilla LDIF"
+
+#~ msgctxt "Name"
+#~ msgid "KAB Opera XXPort Plugin"
+#~ msgstr "កម្មវិធីជំនួយខេប៊េសអ័រអិលផេស្ទ័រ"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin to import Opera contacts"
+#~ msgstr "កម្មវិធីជំនួយដើម្បីនាំចូលទំនាក់ទំនងរបស់ល្ខោនអូប៉េរ៉ា"
+
+#~ msgctxt "Name"
+#~ msgid "KAB MS Exchange Personal Address Book XXPort Plugin"
+#~ msgstr "កម្មវិធីជំនួយផ្លាស់ប្តូរអាសយដ្ឋានអាស័យដ្ឋានខេអេសអិមអេសភីភីផត"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin to import MS Exchange Personal Address Books"
+#~ msgstr "កម្មវិធីជំនួយដើម្បីនាំចូលសៀវភៅអាសយដ្ឋានអេសអេសប្តូរ"
+
+#~ msgctxt "Name"
+#~ msgid "KAB vCard XXPort Plugin"
+#~ msgstr "KAB vCard XXPort កម្មវិធីជំនួយ"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin to import and export contacts in vCard format"
+#~ msgstr "កម្មវិធីជំនួយដើម្បីនាំចូលនិងនាំចេញទំនាក់ទំនងជាទ្រង់ទ្រាយ vCard"
+
+#~ msgctxt "Name"
+#~ msgid "KContactManager"
+#~ msgstr "KContactManager"
+
+#~ msgctxt "Comment"
+#~ msgid "Kontact KContactManager Plugin"
+#~ msgstr "កម្មវិធីជំនួយ Kontact KContactManager"
+
+#~ msgctxt "Name"
+#~ msgid "eGroupware Server (via XML-RPC)"
+#~ msgstr "eGroupware Server (តាមរយៈ XML-RPC)"
+
+#~ msgctxt "Name"
+#~ msgid "High Contrast"
+#~ msgstr "កម្រិតពណ៌ខ្ពស់"
+
+#~ msgctxt "Comment"
+#~ msgid "Increased font sizes for visually impaired users"
+#~ msgstr "ការបង្កើនទំហំពុម្ពអក្សរសម្រាប់អ្នកប្រើប្រាស់ដែលមើលឃើញ"
+
+#~ msgctxt "Name"
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgctxt "Comment"
+#~ msgid "Standard profile with HTML preview enabled - less secure!"
+#~ msgstr "ទម្រង់ស្តង់ដារជាមួយការបើកមើល HTML ជាមុន - មិនមានសុវត្ថិភាពទេ!"
+
+#~ msgctxt "Name"
+#~ msgid "Purist"
+#~ msgstr "ភាពបរិសុទ្ធ"
+
+#~ msgctxt "Comment"
+#~ msgid "Most features turned off, KDE global settings are used"
+#~ msgstr "លក្ខណៈពិសេសភាគច្រើនត្រូវបានបិទការកំណត់សកលរបស់ KDE ត្រូវបានប្រើ"
+
+#~ msgctxt "Name"
+#~ msgid "Most Secure"
+#~ msgstr "សុវត្ថិភាពបំផុត"
+
+#~ msgctxt "Comment"
+#~ msgid "Sets all necessary options to achieve maximum security"
+#~ msgstr "កំណត់ជម្រើសចាំបាច់ទាំងអស់ដើម្បីទទួលបានសុវត្ថិភាពអតិបរមា"
+
+#~ msgctxt "Name"
+#~ msgid "Akonadi Imap"
+#~ msgstr "Akonadi Imap"
+
+#~ msgctxt "Comment"
+#~ msgid "Connects to an IMAP-server. Based on the KIMAP from kdepimlibs."
+#~ msgstr "ភ្ជាប់ទៅម៉ាស៊ីនមេ IMAP ។ ផ្អែកលើ KIMAP ពី kdepimlibs ។"
+
+#~ msgctxt "Name"
+#~ msgid "Akonadi Kolab Proxy Resource"
+#~ msgstr "ធនធានប្រូកស៊ី Akonadi Kolab"
+
+#~ msgctxt "Comment"
+#~ msgid "Proxy resource to monitor groupware folders."
+#~ msgstr "ធនធានប្រូកស៊ីដើម្បីត្រួតពិនិត្យថតជាក្រុម។"
+
+#~ msgctxt "Comment"
+#~ msgid "Thread mails in a collection"
+#~ msgstr "សារខ្សែស្រឡាយនៅក្នុងបណ្តុំ"
+
+#~ msgctxt "Comment"
+#~ msgid "KMobileTools Plugin"
+#~ msgstr "កម្មវិធីជំនួយ KMobileTools"
+
+#~ msgctxt "Name"
+#~ msgid "Mobile Phones"
+#~ msgstr "ទូរ​សព្ទ​ដៃ"
+
+#~ msgctxt "Comment"
+#~ msgid "Mobile Phone Component"
+#~ msgstr "សមាសភាគទូរស័ព្ទចល័ត"
+
+#~ msgctxt "Name"
+#~ msgid "News Feeds"
+#~ msgstr "មតិព័ត៌មាន"
+
+#~ msgctxt "Comment"
+#~ msgid "Kontact NewsTicker Plugin"
+#~ msgstr "កម្មវិធីជំនួយ Kontact NewsTicker"
+
+#~ msgctxt "Name"
+#~ msgid "NewsTicker"
+#~ msgstr "NewsTicker"
+
+#~ msgctxt "Name"
+#~ msgid "News Ticker"
+#~ msgstr "ព័ត៌មានធីកឃឺរ"
+
+#~ msgctxt "Comment"
+#~ msgid "News Ticker Component"
+#~ msgstr "សមាសធាតុព័ត៌មានធីកឃឺរ"
+
+#~ msgctxt "Comment"
+#~ msgid "Kontact Weather Plugin"
+#~ msgstr "កម្មវិធីជំនួយអាកាសធាតុ Kontact"
+
+#~ msgctxt "Name"
+#~ msgid "Weather"
+#~ msgstr "អាកាសធាតុ"
+
+#~ msgctxt "Comment"
+#~ msgid "Weather Information"
+#~ msgstr "ព័ត៌មានអាកាសធាតុ"
+
+#~ msgctxt "Name"
+#~ msgid "Mailody Imap"
+#~ msgstr "Mailody Imap"
+
+#~ msgctxt "Name"
+#~ msgid "KWSDL Compiler"
+#~ msgstr "អ្នកចងក្រង KWSDL"
+
+#~ msgctxt "Name"
+#~ msgid "KXForms"
+#~ msgstr "ខេអេហ្វអេហ្វដ"
+
+#~ msgctxt "GenericName"
+#~ msgid "XML Form Editor"
+#~ msgstr "កម្មវិធីនិពន្ធសំណុំបែបបទ XML"
+
+#~ msgctxt "Name"
+#~ msgid "XML Feature Plan"
+#~ msgstr "ផែនការលក្ខណៈ XML"

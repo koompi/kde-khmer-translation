@@ -1,0 +1,163 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2016, 2017, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-11 08:09+0000\n"
+"PO-Revision-Date: 2020-03-30 20:21+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#: applets/activities/metadata.desktop:3
+msgctxt "Name"
+msgid "Phone Activities"
+msgstr "Phone Activities"
+
+#: applets/activities/metadata.desktop:38
+msgctxt "Comment"
+msgid "Activity switcher for the phone"
+msgstr "Activity switcher for the phone"
+
+#: applets/clock/metadata.desktop:3
+msgctxt "Name"
+msgid "Clock"
+msgstr "Clock"
+
+#: applets/clock/metadata.desktop:39
+msgctxt "Comment"
+msgid "Time displayed in a digital format"
+msgstr "Time displayed in a digital format"
+
+#: applets/krunner/metadata.desktop:3
+msgctxt "Name"
+msgid "Search And Run"
+msgstr "Search And Run"
+
+#: applets/krunner/metadata.desktop:33
+msgctxt "Comment"
+msgid "Search and run Applications and services"
+msgstr "Search and run Applications and services"
+
+#: bin/plasma-mobile.desktop.cmake:5
+msgctxt "Name"
+msgid "Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: bin/plasma-mobile.desktop.cmake:38
+msgctxt "Comment"
+msgid "Plasma Mobile by KDE"
+msgstr "Plasma Mobile by KDE"
+
+#: containments/homescreen/package/metadata.desktop:4
+msgctxt "Name"
+msgid "Phone Homescreen"
+msgstr "Phone Homescreen"
+
+#: containments/panel/package/metadata.desktop:4
+msgctxt "Name"
+msgid "Phone Panel"
+msgstr "Phone Panel"
+
+#: containments/taskpanel/package/metadata.desktop:4
+msgctxt "Name"
+msgid "Phone Task panel"
+msgstr "Phone Task panel"
+
+#: kwinmultitasking/metadata.desktop:2
+msgctxt "Name"
+msgid "Phone multitask"
+msgstr "Phone multitask"
+
+#: kwinmultitasking/metadata.desktop:34
+msgctxt "Comment"
+msgid "Multitasking user interface for Phone devices"
+msgstr "Multitasking user interface for Phone devices"
+
+#: look-and-feel/metadata.desktop:2
+msgctxt "Name"
+msgid "Plasma Phone"
+msgstr "Plasma Phone"
+
+#: look-and-feel/metadata.desktop:35
+msgctxt "Comment"
+msgid "Plasma workspace for smartphones"
+msgstr "Plasma workspace for smartphones"
+
+#: look-and-feel/metadata.desktop:68
+msgctxt "Keywords"
+msgid "Phone, Workspace, Look and Feel"
+msgstr "Phone, Workspace, Look and Feel"
+
+#: shell/metadata.desktop:3
+msgctxt "Name"
+msgid "Phone"
+msgstr "Phone"
+
+#: shell/metadata.desktop:37
+msgctxt "Comment"
+msgid "Plasma shell for phones"
+msgstr "Plasma shell for phones"
+
+#: touchscreentest/org.kde.touchtest.desktop:2
+msgctxt "Name"
+msgid "Touch Test"
+msgstr "Touch Test"
+
+#: touchscreentest/org.kde.touchtest.desktop:40
+msgctxt "GenericName"
+msgid "Terminal"
+msgstr "Terminal"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma Phone Lockers"
+#~ msgstr "Plasma Phone Lockers"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma phone dialer"
+#~ msgstr "Plasma phone dialer"
+
+#~ msgctxt "Comment"
+#~ msgid "Phone"
+#~ msgstr "Phone"
+
+#~ msgctxt "Name"
+#~ msgid "Missed Call"
+#~ msgstr "Missed Call"
+
+#~ msgctxt "Comment"
+#~ msgid "A call has been missed"
+#~ msgstr "A call has been missed"
+
+#~ msgctxt "Name"
+#~ msgid "Ringing"
+#~ msgstr "Ringing"
+
+#~ msgctxt "Comment"
+#~ msgid "The phone is ringing"
+#~ msgstr "The phone is ringing"
+
+#~ msgctxt "Name"
+#~ msgid "Notifications"
+#~ msgstr "Notifications"
+
+#~ msgctxt "Comment"
+#~ msgid "Display notifications and jobs"
+#~ msgstr "Display notifications and jobs"
+
+#~ msgctxt "Name"
+#~ msgid "Quick Settings"
+#~ msgstr "Quick Settings"
+
+#~ msgctxt "Comment"
+#~ msgid "A panel to quickly access most important settings"
+#~ msgstr "A panel to quickly access most important settings"
+
+#~ msgctxt "Name"
+#~ msgid "Phonebook"
+#~ msgstr "Phonebook"

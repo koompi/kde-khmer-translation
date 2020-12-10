@@ -1,0 +1,203 @@
+# Steve Allewell <steve.allewell@gmail.com>, 2014, 2015, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-16 00:48+0000\n"
+"PO-Revision-Date: 2020-09-27 15:30+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: Autumn/metadata.desktop:2
+msgctxt "Name"
+msgid "Autumn 5.5"
+msgstr "Autumn 5.5"
+
+#: BytheWater/metadata.desktop:2
+msgctxt "Name"
+msgid "By the water"
+msgstr "By the water"
+
+#: Canopee/metadata.desktop:2
+msgctxt "Name"
+msgid "Canopée"
+msgstr "Canopée"
+
+#: Cascade/metadata.desktop:2
+msgctxt "Name"
+msgid "Cascade"
+msgstr "Cascade"
+
+#: Cluster/metadata.desktop:2
+msgctxt "Name"
+msgid "Cluster"
+msgstr "Cluster"
+
+#: ColdRipple/metadata.desktop:2
+msgctxt "Name"
+msgid "Cold Ripple"
+msgstr "Cold Ripple"
+
+#: ColorfulCups/metadata.desktop:2
+msgctxt "Name"
+msgid "Colorful Cups"
+msgstr "Colourful Cups"
+
+#: DarkestHour/metadata.desktop:2
+msgctxt "Name"
+msgid "Darkest Hour"
+msgstr "Darkest Hour"
+
+#: Elarun/metadata.desktop:2
+msgctxt "Name"
+msgid "Elarun"
+msgstr "Elarun"
+
+#: EveningGlow/metadata.desktop:2
+msgctxt "Name"
+msgid "Evening Glow"
+msgstr "Evening Glow"
+
+#: FallenLeaf/metadata.desktop:2
+msgctxt "Name"
+msgid "Fallen Leaf"
+msgstr "Fallen Leaf"
+
+#: Flow/metadata.desktop:2
+msgctxt "Name"
+msgid "Flow"
+msgstr "Flow"
+
+#: FlyingKonqui/metadata.desktop:2
+msgctxt "Name"
+msgid "Flying Konqui"
+msgstr "Flying Konqui"
+
+#: Grey/metadata.desktop:2
+msgctxt "Name"
+msgid "Grey"
+msgstr "Grey"
+
+#: IceCold/metadata.desktop:2
+msgctxt "Name"
+msgid "Ice Cold"
+msgstr "Ice Cold"
+
+#: Kite/metadata.desktop:2
+msgctxt "Name"
+msgid "Kite"
+msgstr "Kite"
+
+#: Kokkini/metadata.desktop:2
+msgctxt "Name"
+msgid "Kokkini"
+msgstr "Kokkini"
+
+#: OneStandsOut/metadata.desktop:2
+msgctxt "Name"
+msgid "One Stands Out"
+msgstr "One Stands Out"
+
+#: Opal/metadata.desktop:2
+msgctxt "Name"
+msgid "Opal"
+msgstr "Opal"
+
+#: PastelHills/metadata.desktop:2
+msgctxt "Name"
+msgid "Pastel Hills"
+msgstr "Pastel Hills"
+
+#: Path/metadata.desktop:2
+msgctxt "Name"
+msgid "Path"
+msgstr "Path"
+
+#: SafeLanding/metadata.desktop:2
+msgctxt "Name"
+msgid "Safe Landing"
+msgstr "Safe Landing"
+
+#: summer_1am/metadata.desktop:2
+msgctxt "Name"
+msgid "summer 1am"
+msgstr "summer 1am"
+
+#: Volna/metadata.desktop:2
+msgctxt "Name"
+msgid "Volna"
+msgstr "Volna"
+
+#~ msgctxt "Name"
+#~ msgid "Alps"
+#~ msgstr "Alps"
+
+#~ msgctxt "Name"
+#~ msgid "Blue Flower"
+#~ msgstr "Blue Flower"
+
+#~ msgctxt "Name"
+#~ msgid "Dance of the Spirits"
+#~ msgstr "Dance of the Spirits"
+
+#~ msgctxt "Name"
+#~ msgid "Event Day"
+#~ msgstr "Event Day"
+
+#~ msgctxt "Name"
+#~ msgid "Fog"
+#~ msgstr "Fog"
+
+#~ msgctxt "Name"
+#~ msgid "ForestFog"
+#~ msgstr "ForestFog"
+
+#~ msgctxt "Name"
+#~ msgid "Great white Heron"
+#~ msgstr "Great white Heron"
+
+#~ msgctxt "Name"
+#~ msgid "Green Leaves"
+#~ msgstr "Green Leaves"
+
+#~ msgctxt "Name"
+#~ msgid "Indian Summer"
+#~ msgstr "Indian Summer"
+
+#~ msgctxt "Name"
+#~ msgid "Landmannalaugar"
+#~ msgstr "Landmannalaugar"
+
+#~ msgctxt "Name"
+#~ msgid "Poppy"
+#~ msgstr "Poppy"
+
+#~ msgctxt "Name"
+#~ msgid "Spray"
+#~ msgstr "Spray"
+
+#~ msgctxt "Name"
+#~ msgid "Sunset"
+#~ msgstr "Sunset"
+
+#~ msgctxt "Name"
+#~ msgid "Tauplitz"
+#~ msgstr "Tauplitz"
+
+#~ msgctxt "Name"
+#~ msgid "Walmendinger Horn"
+#~ msgstr "Walmendinger Horn"
+
+#~ msgctxt "Name"
+#~ msgid "Water"
+#~ msgstr "Water"
+
+#~ msgctxt "Name"
+#~ msgid "Whisker Grass"
+#~ msgstr "Whisker Grass"

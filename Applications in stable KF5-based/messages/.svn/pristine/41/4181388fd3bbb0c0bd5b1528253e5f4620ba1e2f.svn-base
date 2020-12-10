@@ -1,0 +1,48 @@
+# Andrew Coles <andrew_coles@yahoo.co.uk>, 2009.
+# Steve Allewell <steve.allewell@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-19 04:53+0000\n"
+"PO-Revision-Date: 2014-07-04 23:07+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: src/kdiff3part.desktop:2
+msgctxt "Name"
+msgid "KDiff3Part"
+msgstr "KDiff3Part"
+
+#: src/org.kde.kdiff3.desktop:2
+msgctxt "Name"
+msgid "KDiff3"
+msgstr "KDiff3"
+
+#: src/org.kde.kdiff3.desktop:54
+msgctxt "GenericName"
+msgid "Diff/Patch Frontend"
+msgstr "Diff/Patch Frontend"
+
+#: src/org.kde.kdiff3.desktop:109
+msgctxt "Comment"
+msgid "A File And Directory Comparison And Merge Tool"
+msgstr "A File And Directory Comparison And Merge Tool"
+
+#~ msgctxt "Name"
+#~ msgid "Compare/Merge Files/Directories with KDiff3"
+#~ msgstr "Compare/Merge Files/Directories with KDiff3"
+
+#~ msgctxt "X-KDE-Submenu"
+#~ msgid "KDiff3"
+#~ msgstr "KDiff3"
+
+#~ msgctxt "Name"
+#~ msgid "Compare/Merge Files/Directories"
+#~ msgstr "Compare/Merge Files/Directories"

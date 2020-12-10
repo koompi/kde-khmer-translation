@@ -1,0 +1,45 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-11-30 14:41+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#: contents/ui/config/ConfigGeneral.qml:38
+#, kde-format
+msgid "Add Currency Pair"
+msgstr "បន្ថែមគូរូបិយប័ណ្ណ"
+
+#: contents/ui/config/ConfigGeneral.qml:55
+#, kde-format
+msgid "Paste currency pair symbol here"
+msgstr "បិទភ្ជាប់និមិត្តសញ្ញាគូរូបិយប័ណ្ណនៅទីនេះ"
+
+#: contents/ui/config/ConfigGeneral.qml:67
+#, kde-format
+msgid "Currency Pairs"
+msgstr "គូរូបិយប័ណ្ណ"
+
+#: contents/ui/config/ConfigGeneral.qml:81
+#, kde-format
+msgid "Symbol"
+msgstr "និមិត្តសញ្ញា"
+
+#: contents/ui/config/ConfigGeneral.qml:96
+#, kde-format
+msgid "Action"
+msgstr "សកម្មភាព"
+
+#: contents/ui/Currency.qml:34
+#, kde-format
+msgid "unknown"
+msgstr "មិនស្គាល់"

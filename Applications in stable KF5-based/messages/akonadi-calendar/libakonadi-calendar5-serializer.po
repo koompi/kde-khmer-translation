@@ -1,0 +1,565 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-10 15:41+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: akonadi_serializer_kcalcore.cpp:174
+#, kde-format
+msgid "Yes"
+msgstr "បាទ / ចាស"
+
+#: akonadi_serializer_kcalcore.cpp:176
+#, kde-format
+msgid "No"
+msgstr "ទេ"
+
+#: akonadi_serializer_kcalcore.cpp:198
+#, kde-format
+msgid "Attendees"
+msgstr "អ្នកចូលរួម"
+
+#: akonadi_serializer_kcalcore.cpp:201
+#, kde-format
+msgid "Organizer"
+msgstr "អ្នករៀបចំ"
+
+#: akonadi_serializer_kcalcore.cpp:206
+#, kde-format
+msgid "UID"
+msgstr "UID"
+
+#: akonadi_serializer_kcalcore.cpp:211
+#, kde-format
+msgid "Is all-day"
+msgstr "គឺពេញមួយថ្ងៃ"
+
+#: akonadi_serializer_kcalcore.cpp:216
+#, kde-format
+msgid "Has duration"
+msgstr "មានរយៈពេល"
+
+#: akonadi_serializer_kcalcore.cpp:221
+#, kde-format
+msgid "Duration"
+msgstr "រយៈពេល"
+
+#: akonadi_serializer_kcalcore.cpp:229
+#, kde-format
+msgid "Description"
+msgstr "ការពិពណ៌នា"
+
+#: akonadi_serializer_kcalcore.cpp:234
+#, kde-format
+msgid "Summary"
+msgstr "សង្ខេប"
+
+#: akonadi_serializer_kcalcore.cpp:239
+#, kde-format
+msgid "Status"
+msgstr "ស្ថានភាព"
+
+#: akonadi_serializer_kcalcore.cpp:244
+#, kde-format
+msgid "Secrecy"
+msgstr "ការសំងាត់"
+
+#: akonadi_serializer_kcalcore.cpp:249
+#, kde-format
+msgid "Priority"
+msgstr "អាទិភាព"
+
+#: akonadi_serializer_kcalcore.cpp:254
+#, kde-format
+msgid "Location"
+msgstr "ទីតាំង"
+
+#: akonadi_serializer_kcalcore.cpp:258
+#, kde-format
+msgid "Categories"
+msgstr "ប្រភេទ"
+
+#: akonadi_serializer_kcalcore.cpp:259
+#, kde-format
+msgid "Alarms"
+msgstr "សំឡេងរោទិ៍"
+
+#: akonadi_serializer_kcalcore.cpp:260
+#, kde-format
+msgid "Resources"
+msgstr "ធនធាន"
+
+#: akonadi_serializer_kcalcore.cpp:261
+#, kde-format
+msgid "Attachments"
+msgstr "ឯកសារភ្ជាប់"
+
+#: akonadi_serializer_kcalcore.cpp:262
+#, kde-format
+msgid "Exception Dates"
+msgstr "កាលបរិច្ឆេទលើកលែង"
+
+#: akonadi_serializer_kcalcore.cpp:263
+#, kde-format
+msgid "Exception Times"
+msgstr "ពេលវេលាលើកលែង"
+
+#: akonadi_serializer_kcalcore.cpp:268
+#, kde-format
+msgid "Created"
+msgstr "បានបង្កើត"
+
+#: akonadi_serializer_kcalcore.cpp:273
+#, kde-format
+msgid "Related Uid"
+msgstr "ទាក់ទងនឹងយូឌី"
+
+#: akonadi_serializer_kcalcore.cpp:280
+#, kde-format
+msgid "Start time"
+msgstr "ពេលវេលាចាប់ផ្តើម"
+
+#: akonadi_serializer_kcalcore.cpp:285
+#, kde-format
+msgid "Has End Date"
+msgstr "មានកាលបរិច្ឆេទបញ្ចប់"
+
+#: akonadi_serializer_kcalcore.cpp:290
+#, kde-format
+msgid "End Date"
+msgstr "កាលបរិច្ឆេទបញ្ចប់"
+
+#: akonadi_serializer_kcalcore.cpp:300
+#, kde-format
+msgid "Has Start Date"
+msgstr "មានកាលបរិច្ឆេទចាប់ផ្តើម"
+
+#: akonadi_serializer_kcalcore.cpp:305
+#, kde-format
+msgid "Has Due Date"
+msgstr "មានកាលបរិច្ឆេទដល់កំណត់"
+
+#: akonadi_serializer_kcalcore.cpp:310
+#, kde-format
+msgid "Due Date"
+msgstr "កាលបរិច្ឆេទ​កំណត់"
+
+#: akonadi_serializer_kcalcore.cpp:315
+#, kde-format
+msgid "Has Complete Date"
+msgstr "មានកាលបរិច្ឆេទបញ្ចប់"
+
+#: akonadi_serializer_kcalcore.cpp:320
+#, kde-format
+msgid "Complete"
+msgstr "បញ្ចប់"
+
+#: akonadi_serializer_kcalcore.cpp:325
+#, kde-format
+msgid "Completed"
+msgstr "បានបញ្ចប់"
+
+#: akonadi_serializer_kcalcore.cpp:340
+#, kde-format
+msgid "Changed Event"
+msgstr "ព្រឹត្តិការណ៍ផ្លាស់ប្តូរ"
+
+#: akonadi_serializer_kcalcore.cpp:341
+#, kde-format
+msgid "Conflicting Event"
+msgstr "ព្រឹត្តិការណ៍ទំនាស់"
+
+#: akonadi_serializer_kcalcore.cpp:343
+#, kde-format
+msgid "Changed Todo"
+msgstr "បានផ្លាស់ប្តូរ Todo"
+
+#: akonadi_serializer_kcalcore.cpp:344
+#, kde-format
+msgid "Conflicting Todo"
+msgstr "ទំនាស់ Todo"
+
+#~ msgid "Changed Contact"
+#~ msgstr "បានផ្លាស់ប្តូរទំនាក់ទំនង"
+
+#~ msgid "Conflicting Contact"
+#~ msgstr "ការប៉ះទង្គិចទំនាក់ទំនង"
+
+#~ msgid "Emails"
+#~ msgstr "អ៊ីមែល"
+
+#~ msgid "Phone Numbers"
+#~ msgstr "លេខទូរសព្ទ"
+
+#~ msgid "Addresses"
+#~ msgstr "អាសយដ្ឋាន"
+
+#~ msgid "Changed Contact Group"
+#~ msgstr "ផ្លាស់ប្តូរក្រុមទំនាក់ទំនង"
+
+#~ msgid "Conflicting Contact Group"
+#~ msgstr "ក្រុមទំនាក់ទំនងទំនាស់"
+
+#~ msgid "Name"
+#~ msgstr "ឈ្មោះ"
+
+#~ msgid "Member"
+#~ msgstr "សមាជិក"
+
+#~ msgctxt "@title:column"
+#~ msgid "Changed Alarm"
+#~ msgstr "បានប្តូរសំឡេងរោទិ៍"
+
+#~ msgctxt "@title:column"
+#~ msgid "Conflicting Alarm"
+#~ msgstr "សំឡេងរោទិ៍ទំនាស់"
+
+#~ msgctxt "@label"
+#~ msgid "Item revision"
+#~ msgstr "ការកែប្រែធាតុ"
+
+#~ msgctxt "@label Unique identifier"
+#~ msgid "UID"
+#~ msgstr "យូឌី"
+
+#~ msgctxt "@label"
+#~ msgid "Alarm type"
+#~ msgstr "ប្រភេទសំឡេងរោទិ៍"
+
+#~ msgctxt "@label"
+#~ msgid "Alarm status"
+#~ msgstr "ស្ថានភាពជូនដំណឹង"
+
+#~ msgctxt "@label"
+#~ msgid "Template name"
+#~ msgstr "ឈ្មោះគំរូ"
+
+#~ msgctxt "@label"
+#~ msgid "Creation time"
+#~ msgstr "ពេលវេលាបង្កើត"
+
+#~ msgctxt "@label"
+#~ msgid "Start time"
+#~ msgstr "ពេលវេលាចាប់ផ្តើម"
+
+#~ msgctxt "@label Start delay configured in an alarm template"
+#~ msgid "Template after time"
+#~ msgstr "គំរូបន្ទាប់ពីពេលវេលា"
+
+#~ msgctxt "@label"
+#~ msgid "Recurs"
+#~ msgstr "កើតឡើងវិញ"
+
+#~ msgctxt "@label"
+#~ msgid "Recurrence"
+#~ msgstr "ការកើតឡើងវិញ"
+
+#~ msgctxt "@label"
+#~ msgid "Sub-repetition"
+#~ msgstr "ពាក្យដដែលៗ"
+
+#~ msgctxt "@label"
+#~ msgid "Sub-repetition interval"
+#~ msgstr "ចន្លោះពេលពាក្យដដែលៗ"
+
+#~ msgctxt "@label"
+#~ msgid "Sub-repetition count"
+#~ msgstr "រាប់ពាក្យដដែលៗ"
+
+#~ msgctxt "@label"
+#~ msgid "Next sub-repetition"
+#~ msgstr "ពាក្យដដែលៗបន្ទាប់"
+
+#~ msgctxt "@label"
+#~ msgid "Work time only"
+#~ msgstr "ពេលវេលាធ្វើការតែប៉ុណ្ណោះ"
+
+#~ msgctxt "@label"
+#~ msgid "Holidays excluded"
+#~ msgstr "ថ្ងៃឈប់សម្រាកត្រូវបានដកចេញ"
+
+#~ msgctxt "@label"
+#~ msgid "Next recurrence"
+#~ msgstr "ការកើតឡើងដដែលៗបន្ទាប់"
+
+#~ msgctxt "@label"
+#~ msgid "Late cancel"
+#~ msgstr "បោះបង់ចោលយឺត"
+
+#~ msgctxt "@label Automatically close window"
+#~ msgid "Auto close"
+#~ msgstr "បិទដោយស្វ័យប្រវត្តិ"
+
+#~ msgctxt "@label"
+#~ msgid "Copy to KOrganizer"
+#~ msgstr "ចម្លងទៅ KOrganizer"
+
+#~ msgctxt "@label"
+#~ msgid "Enabled"
+#~ msgstr "បានបើកដំណើរការ"
+
+#~ msgctxt "@label"
+#~ msgid "Read-only"
+#~ msgstr "អាច​បាន​តែ​អាន"
+
+#~ msgctxt "@label Whether alarm should be archived"
+#~ msgid "Archive"
+#~ msgstr "ប័ណ្ណសារ"
+
+#~ msgctxt "@label"
+#~ msgid "Revision"
+#~ msgstr "ការពិនិត្យ​ឡើងវិញ"
+
+#~ msgctxt "@label"
+#~ msgid "Custom properties"
+#~ msgstr "លក្ខណៈសម្បត្តិផ្ទាល់ខ្លួន"
+
+#~ msgctxt "@label"
+#~ msgid "Message text"
+#~ msgstr "អត្ថបទសារ"
+
+#~ msgctxt "@label File to provide text for message"
+#~ msgid "Message file"
+#~ msgstr "ឯកសារសារ"
+
+#~ msgctxt "@label"
+#~ msgid "Foreground color"
+#~ msgstr "ពណ៌ផ្ទៃខាងមុខ"
+
+#~ msgctxt "@label"
+#~ msgid "Background color"
+#~ msgstr "ពណ៌ផ្ទៃខាងក្រោយ"
+
+#~ msgctxt "@label"
+#~ msgid "Font"
+#~ msgstr "ពុម្ពអក្សរ"
+
+#~ msgctxt "@label Shell command to execute before alarm"
+#~ msgid "Pre-alarm action"
+#~ msgstr "សកម្មភាពមុនការជូនដំណឹង"
+
+#~ msgctxt "@label"
+#~ msgid "Pre-alarm action cancel"
+#~ msgstr "បោះបង់សកម្មភាពមុនការជូនដំណឹង"
+
+#~ msgctxt "@label"
+#~ msgid "Pre-alarm action no error"
+#~ msgstr "សកម្មភាពមុនការជូនដំណឹងគ្មានកំហុសទេ"
+
+#~ msgctxt "@label Shell command to execute after alarm"
+#~ msgid "Post-alarm action"
+#~ msgstr "សកម្មភាពប្រកាសអាសន្ន"
+
+#~ msgctxt "@label"
+#~ msgid "Confirm acknowledgement"
+#~ msgstr "បញ្ជាក់ការទទួលស្គាល់"
+
+#~ msgctxt "@label"
+#~ msgid "KMail serial number"
+#~ msgstr "លេខស៊េរីរបស់ KMail"
+
+#~ msgctxt "@label Audio method"
+#~ msgid "Sound"
+#~ msgstr "សំឡេង"
+
+#~ msgctxt "@label Whether audio should repeat"
+#~ msgid "Sound repeat"
+#~ msgstr "សំឡេងម្តងទៀត"
+
+#~ msgctxt "@label"
+#~ msgid "Sound volume"
+#~ msgstr "កម្រិតសំឡេង"
+
+#~ msgctxt "@label"
+#~ msgid "Sound fade volume"
+#~ msgstr "កម្រិតសំឡេងខ្សោយ"
+
+#~ msgctxt "@label"
+#~ msgid "Sound fade time"
+#~ msgstr "សំឡេងបន្ថយពេលវេលា"
+
+#~ msgctxt "@label Whether the alarm has a reminder"
+#~ msgid "Reminder"
+#~ msgstr "Reminder"
+
+#~ msgctxt "@label Whether reminder is on first recurrence only"
+#~ msgid "Reminder once only"
+#~ msgstr "រំលឹកម្តងប៉ុណ្ណោះ"
+
+#~ msgctxt "@label Deferral type"
+#~ msgid "Deferral"
+#~ msgstr "ការបញ្ជូន"
+
+#~ msgctxt "@label"
+#~ msgid "Deferral time"
+#~ msgstr "ពេលវេលាពន្យាពេល"
+
+#~ msgctxt "@label Default deferral delay"
+#~ msgid "Deferral default"
+#~ msgstr "លំនាំដើមពន្យាពេល"
+
+#~ msgctxt "@label Whether deferral time is date-only by default"
+#~ msgid "Deferral default date only"
+#~ msgstr "កាលបរិច្ឆេទកំណត់ការពន្យារពេលប៉ុណ្ណោះ"
+
+#~ msgctxt "@label A shell command"
+#~ msgid "Command"
+#~ msgstr "Command"
+
+#~ msgctxt "@label"
+#~ msgid "Log file"
+#~ msgstr "ឯកសារកំណត់ហេតុ"
+
+#~ msgctxt "@label Execute in terminal window"
+#~ msgid "Execute in terminal"
+#~ msgstr "ប្រតិបត្តិនៅក្នុងស្ថានីយ"
+
+#~ msgctxt "@label"
+#~ msgid "Email subject"
+#~ msgstr "ប្រធានបទអ៊ីមែល"
+
+#~ msgctxt "@label Email address"
+#~ msgid "Email sender ID"
+#~ msgstr "លេខសម្គាល់អ្នកផ្ញើអ៊ីមែល"
+
+#~ msgctxt "@label Email address"
+#~ msgid "Email to"
+#~ msgstr "អ៊ីមែលទៅ"
+
+#~ msgctxt "@label true/false"
+#~ msgid "Email bcc"
+#~ msgstr "អ៊ីម៉ែលចម្លងជាសម្ងាត់ជូន"
+
+#~ msgctxt "@label"
+#~ msgid "Email body"
+#~ msgstr "តួអ៊ីមែល"
+
+#~ msgctxt "@label"
+#~ msgid "Email attachments"
+#~ msgstr "ឯកសារភ្ជាប់អ៊ីមែល"
+
+#~ msgctxt "@info Alarm type"
+#~ msgid "Display (text)"
+#~ msgstr "បង្ហាញ (អត្ថបទ)"
+
+#~ msgctxt "@info Alarm type"
+#~ msgid "Display (file)"
+#~ msgstr "បង្ហាញ (ឯកសារ)"
+
+#~ msgctxt "@info Alarm type"
+#~ msgid "Display (command)"
+#~ msgstr "បង្ហាញ (ពាក្យបញ្ជា)"
+
+#~ msgctxt "@info Alarm type"
+#~ msgid "Command"
+#~ msgstr "Command"
+
+#~ msgctxt "@info Alarm type"
+#~ msgid "Email"
+#~ msgstr "អ៊ីមែល"
+
+#~ msgctxt "@info Alarm type"
+#~ msgid "Audio"
+#~ msgstr "សំលេង"
+
+#~ msgctxt "@info Alarm type"
+#~ msgid "Active"
+#~ msgstr "សកម្ម"
+
+#~ msgctxt "@info Alarm type"
+#~ msgid "Archived"
+#~ msgstr "ទុកក្នុងប័ណ្ណសារ"
+
+#~ msgctxt "@info Alarm type"
+#~ msgid "Template"
+#~ msgstr "គំរូ"
+
+#~ msgctxt "@info Repeat at login"
+#~ msgid "At login until %1"
+#~ msgstr "នៅពេលចូលរហូតដល់ %1"
+
+#~ msgctxt "@info"
+#~ msgid "%1"
+#~ msgstr "%1"
+
+#~ msgctxt "@info Using default font"
+#~ msgid "Default"
+#~ msgstr "លំនាំដើម"
+
+#~ msgctxt "@info"
+#~ msgid "Reminder"
+#~ msgstr "Reminder"
+
+#~ msgctxt "@info"
+#~ msgid "Speak"
+#~ msgstr "និយាយ"
+
+#~ msgctxt "@info"
+#~ msgid "Beep"
+#~ msgstr "សំឡេងប៊ីប"
+
+#~ msgctxt "@info Percentage"
+#~ msgid "%1%%"
+#~ msgstr "%1 % %"
+
+#~ msgctxt "@info"
+#~ msgid "1 Second"
+#~ msgid_plural "%1 Seconds"
+#~ msgstr[0] "១ វិនាទី"
+#~ msgstr[1] "%1 វិនាទី"
+
+#~ msgctxt "@info Error indication"
+#~ msgid "error!"
+#~ msgstr "កំហុស!"
+
+#~ msgctxt "@info General purpose status indication: yes or no"
+#~ msgid "Yes"
+#~ msgstr "Yes"
+
+#~ msgctxt "@info General purpose status indication: yes or no"
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgctxt "@info"
+#~ msgid "1 Minute"
+#~ msgid_plural "%1 Minutes"
+#~ msgstr[0] "1 នាទី"
+#~ msgstr[1] "%1 នាទី"
+
+#~ msgctxt "@info"
+#~ msgid "1 Hour"
+#~ msgid_plural "%1 Hours"
+#~ msgstr[0] "1 ម៉ោង"
+#~ msgstr[1] "%1 ម៉ោង"
+
+#~ msgctxt "@info"
+#~ msgid "1 Day"
+#~ msgid_plural "%1 Days"
+#~ msgstr[0] "១ ថ្ងៃ"
+#~ msgstr[1] "%1 ថ្ងៃ"
+
+#~ msgctxt "@info/plain Alarm type"
+#~ msgid "Command"
+#~ msgstr "ពាក្យបញ្ជា"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Reminder"
+#~ msgstr "ការ​រំលឹក"
+
+#~ msgctxt "@info/plain General purpose status indication: yes or no"
+#~ msgid "Yes"
+#~ msgstr "ត្រូវហើយ"
+
+#~ msgctxt "@info/plain General purpose status indication: yes or no"
+#~ msgid "No"
+#~ msgstr "ទេ"

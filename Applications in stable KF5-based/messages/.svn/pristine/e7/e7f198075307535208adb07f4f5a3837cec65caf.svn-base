@@ -1,0 +1,128 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-disks package.
+#
+# Steve Allewell <steve.allewell@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-disks\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-10 08:33+0200\n"
+"PO-Revision-Date: 2020-09-27 15:53+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Steve Allewell"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "steve.allewell@gmail.com"
+
+#: kcm/module.cpp:18
+#, kde-format
+msgctxt "@title"
+msgid "Storage Device Health Monitoring"
+msgstr "Storage Device Health Monitoring"
+
+#: kcm/module.cpp:22
+#, kde-format
+msgctxt "@info:credit"
+msgid "Copyright 2020 Harald Sitter"
+msgstr "Copyright 2020 Harald Sitter"
+
+#: kcm/package/contents/main.qml:36
+#, kde-format
+msgctxt "@info/status"
+msgid "Unable to obtain data. KDED is not running."
+msgstr "Unable to obtain data. KDED is not running."
+
+#: kcm/package/contents/main.qml:47
+#, kde-format
+msgctxt "@info/status"
+msgid "No S.M.A.R.T. devices found."
+msgstr "No S.M.A.R.T. devices found."
+
+#: kcm/package/contents/main.qml:56
+#, kde-format
+msgctxt "@action/button action button to start partition manager"
+msgid "Partition Manager"
+msgstr "Partition Manager"
+
+#: kcm/package/contents/main.qml:62
+#, kde-format
+msgctxt "@action/button action button to start backup program"
+msgid "Backup"
+msgstr "Backup"
+
+#: kcm/package/contents/main.qml:68
+#, kde-format
+msgctxt "@action/button action button to monitor a device for smart failure"
+msgid "Monitor"
+msgstr "Monitor"
+
+#: kcm/package/contents/main.qml:69
+#, kde-format
+msgctxt "@action/button action button to ignore smart failures for a device"
+msgid "Ignore"
+msgstr "Ignore"
+
+#: kcm/package/contents/main.qml:81
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The SMART system of this device is reporting problems. This may be a sign of "
+"imminent device failure or data reliability being compromised. It is highly "
+"recommended that you backup your data and replace this drive as soon as "
+"possible to avoid losing any data."
+msgstr ""
+"The SMART system of this device is reporting problems. This may be a sign of "
+"imminent device failure or data reliability being compromised. It is highly "
+"recommended that you backup your data and replace this drive as soon as "
+"possible to avoid losing any data."
+
+#: kcm/package/contents/main.qml:83
+#, kde-format
+msgctxt "@info"
+msgid "This device appears to be working as expected."
+msgstr "This device appears to be working as expected."
+
+#: smartctl.cpp:32
+#, kde-format
+msgctxt ""
+"@label description of authentication request to read SMART data. %1 is a "
+"device path e.g. /dev/sda"
+msgid "Read SMART report for storage device %1"
+msgstr "Read SMART report for storage device %1"
+
+#: smartnotifier.cpp:25
+#, kde-format
+msgctxt "@title notification"
+msgid "Storage Device Problems"
+msgstr "Storage Device Problems"
+
+#: smartnotifier.cpp:27
+#, kde-kuit-format
+msgctxt ""
+"@info notification; text %1 is a pretty product name; %2 the device path e."
+"g. /dev/sda"
+msgid ""
+"The storage device <emphasis>%1</emphasis> (<filename>%2</filename>) is "
+"likely to fail soon!"
+msgstr ""
+"The storage device <emphasis>%1</emphasis> (<filename>%2</filename>) is "
+"likely to fail soon!"
+
+#: smartnotifier.cpp:33
+#, kde-format
+msgctxt "@action:button notification action to manage device problems"
+msgid "Manage"
+msgstr "Manage"

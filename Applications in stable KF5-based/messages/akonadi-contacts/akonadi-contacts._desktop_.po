@@ -1,0 +1,364 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-11-30 14:41+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.70\n"
+
+#: kcm/akonadicontact_actions.desktop:12
+#, 
+msgctxt "Name"
+msgid "Contact Actions"
+msgstr "សកម្មភាពទំនាក់ទំនង"
+
+#: kcm/akonadicontact_actions.desktop:67
+#, 
+msgctxt "Comment"
+msgid "Configure the Contact Actions"
+msgstr "កំណត់រចនាសម្ព័ន្ធសកម្មភាពទំនាក់ទំនង"
+
+#: kcm/akonadicontact_actions.desktop:121
+#, 
+msgctxt "X-KDE-Keywords"
+msgid "kaddressbook, configure, settings, contact, actions"
+msgstr "kaddressbook កំណត់រចនាសម្ព័ន្ធការកំណត់ទំនាក់ទំនងសកម្មភាព"
+
+#: serializers/akonadi_serializer_addressee.desktop:2
+#, 
+msgctxt "Name"
+msgid "Addressee Serializer"
+msgstr "សៀរៀលសៀរៀលអ្នកទទួល"
+
+#: serializers/akonadi_serializer_addressee.desktop:36
+#, 
+msgctxt "Comment"
+msgid "An Akonadi serializer plugin for addressee objects"
+msgstr "កម្មវិធីជំនួយសៀរៀលអាហ្គូណាឌីសម្រាប់វត្ថុអាសយដ្ឋាន"
+
+#: serializers/akonadi_serializer_contactgroup.desktop:2
+#, 
+msgctxt "Name"
+msgid "Contact Group Serializer"
+msgstr "ស៊ែរសៀរៀលក្រុម"
+
+#: serializers/akonadi_serializer_contactgroup.desktop:37
+#, 
+msgctxt "Comment"
+msgid "An Akonadi serializer plugin for contact group objects"
+msgstr "កម្មវិធីជំនួយសៀរៀលអាហ្គូណាឌីសម្រាប់វត្ថុក្រុមទំនាក់ទំនង"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "KAddressbook Instant Messaging Protocol"
+#~ msgstr "ពិធីការផ្ញើសាររហ័ស KAddressbook"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "AIM Protocol"
+#~ msgstr "ពិធីសារ AIM"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "AIM"
+#~ msgstr "អេអាយ"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Facebook Protocol"
+#~ msgstr "ពិធីសារហ្វេសប៊ុក"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Facebook"
+#~ msgstr "ហ្វេសប៊ុក"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Gadu-Gadu Protocol"
+#~ msgstr "ពិធីសារហ្គាឌ - ហ្គូឌ"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Gadu-Gadu"
+#~ msgstr "ហ្គាឌូ - ហ្គូរូ"
+
+#~ msgctxt "Comment"
+#~ msgid "Google Talk"
+#~ msgstr "Google Talk"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Google Talk"
+#~ msgstr "Google និយាយ"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Novell GroupWise Messenger"
+#~ msgstr "ណូវែលគ្រុបកម្មវិធីផ្ញើសារ"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "GroupWise"
+#~ msgstr "GroupWise"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "ICQ Protocol"
+#~ msgstr "ពិធីសារអាយស៊ីអេស"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "ICQ"
+#~ msgstr "អាយស៊ីអេស"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Internet Relay Chat"
+#~ msgstr "ជជែកកំសាន្តតាមអ៊ីនធឺណិត"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "IRC"
+#~ msgstr "អាយស៊ីស៊ី"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Jabber Protocol"
+#~ msgstr "ពិធីសារ Jabber"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Jabber"
+#~ msgstr "ចាបេប"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Meanwhile Protocol"
+#~ msgstr "ទន្ទឹមនឹងនេះពិធីសារ"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Meanwhile"
+#~ msgstr "ទន្ទឹមនឹងនេះ"
+
+#~ msgctxt "Comment"
+#~ msgid "MSN Messenger"
+#~ msgstr "MSN Messenger"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "MSN Messenger"
+#~ msgstr "MSN Messenger"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Tencent QQ Messaging"
+#~ msgstr "Tencent QQ ការផ្ញើសារ"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "QQ"
+#~ msgstr "សំណួរ"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Skype Internet Telephony"
+#~ msgstr "Skype តាមទូរស័ព្ទអ៊ិនធឺរណែត"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Skype"
+#~ msgstr "ស្កាយភ៍"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "SMS Protocol"
+#~ msgstr "ពិធីសារផ្ញើសារជាអក្សរ"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "SMS"
+#~ msgstr "សារ"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Twitter Protocol"
+#~ msgstr "ពិធីការ Twitter"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Yahoo Protocol"
+#~ msgstr "ពិធីការយ៉ាហ៊ូ"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Yahoo"
+#~ msgstr "យ៉ាហ៊ូ"
+
+#, 
+#~ msgctxt "Description"
+#~ msgid "An ioslave for the Sieve mail filtering protocol"
+#~ msgstr "ioslave សម្រាប់ពិធីសារត្រងអ៊ីមែល Sieve"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Knut"
+#~ msgstr "ឃុត"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "An agent for debugging purpose"
+#~ msgstr "ភ្នាក់ងារសម្រាប់គោលបំណងបំបាត់កំហុស"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Akonadi Test Search Plugin"
+#~ msgstr "កម្មវិធីជំនួយការធ្វើតេស្តតេស្តុនណាឌី"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Kontact Plugin"
+#~ msgstr "កម្មវិធីជំនួយ Kontact"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Mail Transport"
+#~ msgstr "ការដឹកជញ្ជូនតាមសំបុត្រ"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Binary"
+#~ msgstr "គោលពីរ"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Contacts"
+#~ msgstr "ទំនាក់ទំនង"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Folder"
+#~ msgstr "ថតឯកសារ"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Provides access to contacts, each stored in a single file, in a given folder. Supports standard vCard file and other formats depending on availability of plugins."
+#~ msgstr "ផ្តល់នូវការចូលប្រើទំនាក់ទំនងដែលនីមួយៗត្រូវបានរក្សាទុកនៅក្នុងឯកសារតែមួយនៅក្នុងថតដែលបានផ្តល់ឱ្យ។ គាំទ្រឯកសារ vCard ស្តង់ដារនិងទ្រង់ទ្រាយផ្សេងទៀតអាស្រ័យលើភាពអាចរកបានរបស់កម្មវិធីជំនួយ។"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "File"
+#~ msgstr "ឯកសារ"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Provides access to contacts stored in a single local file. Supports standard vCard files and other formats depending on available plugins."
+#~ msgstr "ផ្តល់នូវការចូលប្រើទំនាក់ទំនងដែលផ្ទុកនៅក្នុងឯកសារមូលដ្ឋានតែមួយ។ គាំទ្រឯកសារ vCard ស្តង់ដារនិងទ្រង់ទ្រាយផ្សេងទៀតអាស្រ័យលើកម្មវិធីជំនួយដែលមាន។"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "LDAP"
+#~ msgstr "អិល។ ឌី។ ភី"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Provides access to contacts stored on a LDAP directory server"
+#~ msgstr "ផ្តល់នូវការចូលប្រើទំនាក់ទំនងដែលផ្ទុកនៅលើម៉ាស៊ីនមេថត LDAP"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Network"
+#~ msgstr "បណ្តាញ"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Provides access to contacts in remote files using KDE's network framework KIO. Supports standard vCard files and other formats depending on available plugins."
+#~ msgstr "ផ្តល់នូវការចូលប្រើទំនាក់ទំនងនៅក្នុងឯកសារពីចម្ងាយដោយប្រើបណ្តាញរបស់ KDE ។ គាំទ្រឯកសារ vCard ស្តង់ដារនិងទ្រង់ទ្រាយផ្សេងទៀតអាស្រ័យលើកម្មវិធីជំនួយដែលមាន។"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Calendar"
+#~ msgstr "ប្រតិទិន"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Calendar in Local Directory"
+#~ msgstr "ប្រតិទិននៅក្នុងថតក្នុងស្រុក"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Provides access to calendar items, each stored in a single file, in a given directory"
+#~ msgstr "ផ្តល់នូវការចូលប្រើធាតុប្រតិទិនដែលនីមួយៗត្រូវបានរក្សាទុកនៅក្នុងឯកសារតែមួយនៅក្នុងថតដែលបានផ្តល់ឱ្យ"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "KDE Resources"
+#~ msgstr "ធនធានរបស់ KDE"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Configure KDE Resources"
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធធនធាន KDE"
+
+#, 
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "resources,konnector resource,contact resource,calendar resource,notes resource,alarm resource,imap"
+#~ msgstr "ធនធានធនធានខនសឺន័រធនធានទំនាក់ទំនងធនធានប្រតិទិនធនធានកំណត់ត្រាធនធានសំឡេងរោទិ៍ imap"
+
+#~ msgctxt "Name"
+#~ msgid "KResources Manager"
+#~ msgstr "KResources Manager"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "KResources Manager"
+#~ msgstr "អ្នកគ្រប់គ្រងធនធាន"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "KResources Plugin"
+#~ msgstr "កម្មវិធីជំនួយខេ។ ប្រភពធនធាន"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "KResources Framework Plugin"
+#~ msgstr "កម្មវិធីជំនួយគ្រោងការណ៍ក្រេឌីតប្រភព"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Calendar in Local File"
+#~ msgstr "ប្រតិទិននៅក្នុងឯកសារមូលដ្ឋាន"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Provides access to a calendar stored in a single local file"
+#~ msgstr "ផ្តល់នូវការចូលប្រើប្រតិទិនដែលផ្ទុកនៅក្នុងឯកសារមូលដ្ឋានតែមួយ"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "LDAP Server Settings"
+#~ msgstr "ការកំណត់ម៉ាស៊ីនមេ LDAP"
+
+#, 
+#~ msgctxt "Comment"
+#~ msgid "Configure the available LDAP servers"
+#~ msgstr "តំឡើងម៉ាស៊ីនមេ LDAP ដែលមាន"
+
+#, 
+#~ msgctxt "Name"
+#~ msgid "Directory"
+#~ msgstr "បញ្ជីឈ្មោះ"

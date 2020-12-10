@@ -1,0 +1,70 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Steve Allewell <steve.allewell@gmail.com>, 2016, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-16 03:40+0100\n"
+"PO-Revision-Date: 2018-04-14 11:49+0000\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: daemon.cpp:94
+msgid "Switch Display"
+msgstr "Switch Display"
+
+#: osdaction.cpp:49
+msgid "Switch to external screen"
+msgstr "Switch to external screen"
+
+#: osdaction.cpp:50
+msgid "Switch to laptop screen"
+msgstr "Switch to laptop screen"
+
+#: osdaction.cpp:51
+msgid "Unify outputs"
+msgstr "Unify outputs"
+
+#: osdaction.cpp:52
+msgid "Extend to left"
+msgstr "Extend to left"
+
+#: osdaction.cpp:53
+msgid "Extend to right"
+msgstr "Extend to right"
+
+#: osdaction.cpp:54
+msgid "Leave unchanged"
+msgstr "Leave unchanged"
+
+#~ msgctxt "OSD text after XF86Display button press"
+#~ msgid "No External Display"
+#~ msgstr "No External Display"
+
+#~ msgctxt "OSD text after XF86Display button press"
+#~ msgid "Changing Screen Layout"
+#~ msgstr "Changing Screen Layout"
+
+#~ msgctxt "osd when displaybutton is pressed"
+#~ msgid "No Action"
+#~ msgstr "No Action"
+
+#~ msgctxt "osd when displaybutton is pressed"
+#~ msgid "Cloned Display"
+#~ msgstr "Cloned Display"
+
+#~ msgctxt "osd when displaybutton is pressed"
+#~ msgid "External Only"
+#~ msgstr "External Only"
+
+#~ msgctxt "osd when displaybutton is pressed"
+#~ msgid "Internal Only"
+#~ msgstr "Internal Only"
