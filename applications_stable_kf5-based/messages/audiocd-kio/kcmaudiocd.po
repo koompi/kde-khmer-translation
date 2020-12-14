@@ -1,0 +1,323 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-11 12:01+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ឈ្មោះរបស់អ្នក"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "អ៊ីមែលរបស់អ្នក"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabGeneral)
+#: audiocdconfig.ui:27
+#, kde-format
+msgid "&General"
+msgstr "ទូទៅ"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, ec_enable_check)
+#: audiocdconfig.ui:49
+#, kde-format
+msgid "If you uncheck this option, the slave will not try to use error correction which can be useful for reading damaged CDs. However, this feature can be problematic in some cases, so you can switch it off here."
+msgstr "ប្រសិនបើអ្នកដោះធីកជម្រើសនេះទាសករនឹងមិនព្យាយាមប្រើការកែកំហុសដែលអាចមានប្រយោជន៍សម្រាប់អានស៊ីឌីដែលខូច។ ទោះយ៉ាងណាក៏ដោយលក្ខណៈពិសេសនេះអាចមានបញ្ហាក្នុងករណីខ្លះដូច្នេះអ្នកអាចបិទវានៅទីនេះ។"
+
+#. i18n: ectx: property (text), widget (QCheckBox, ec_enable_check)
+#: audiocdconfig.ui:52
+#, kde-format
+msgid "Use &error correction when reading the CD"
+msgstr "ប្រើការកែកំហុសនៅពេលអានស៊ីឌី"
+
+#. i18n: ectx: property (text), widget (QCheckBox, ec_skip_check)
+#: audiocdconfig.ui:62
+#, kde-format
+msgid "&Skip on errors"
+msgstr "រំលងកំហុស"
+
+#. i18n: ectx: property (title), widget (QGroupBox, encoderPriority)
+#: audiocdconfig.ui:88
+#, kde-format
+msgid "Encoder Priority"
+msgstr "អាទិភាពអ៊ិនកូដឌ័រ"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: audiocdconfig.ui:113
+#, kde-format
+msgid "Highest"
+msgstr "ខ្ពស់បំផុត"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: audiocdconfig.ui:123
+#, kde-format
+msgid "Lowest"
+msgstr "ទាបបំផុត"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: audiocdconfig.ui:136
+#, kde-format
+msgid "Normal"
+msgstr "ធម្មតា"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabNames)
+#: audiocdconfig.ui:153
+#, kde-format
+msgid "&Names"
+msgstr "ឈ្មោះ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, fileNameGroupBox)
+#: audiocdconfig.ui:159
+#, kde-format
+msgid "File Name (without extension)"
+msgstr "ឈ្មោះឯកសារ (ដោយគ្មានផ្នែកបន្ថែម)"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#. i18n: ectx: property (text), widget (QLabel, fileNameLabel_2)
+#. i18n: ectx: property (text), widget (QLabel, fileNameLabel_3)
+#: audiocdconfig.ui:165 audiocdconfig.ui:331 audiocdconfig.ui:462
+#, kde-format
+msgid "The following macros will be expanded:"
+msgstr "ម៉ាក្រូខាងក្រោមនឹងត្រូវបានពង្រីក៖"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel13)
+#. i18n: ectx: property (text), widget (QLabel, textLabel21)
+#. i18n: ectx: property (text), widget (QLabel, textLabel21_2)
+#: audiocdconfig.ui:177 audiocdconfig.ui:373 audiocdconfig.ui:504
+#, kde-format
+msgid "Genre"
+msgstr "ប្រភេទ"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel10)
+#. i18n: ectx: property (text), widget (QLabel, textLabel16)
+#. i18n: ectx: property (text), widget (QLabel, textLabel16_2)
+#: audiocdconfig.ui:187 audiocdconfig.ui:363 audiocdconfig.ui:494
+#, no-c-format, kde-format
+msgid "%{year}"
+msgstr "%{year}"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_3)
+#: audiocdconfig.ui:197
+#, no-c-format, kde-format
+msgid "%{title}"
+msgstr "%{title}"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5)
+#. i18n: ectx: property (text), widget (QLabel, textLabel18)
+#. i18n: ectx: property (text), widget (QLabel, textLabel18_2)
+#: audiocdconfig.ui:207 audiocdconfig.ui:393 audiocdconfig.ui:524
+#, kde-format
+msgid "Album Title"
+msgstr "ចំណងជើងអាល់ប៊ុម"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel11)
+#. i18n: ectx: property (text), widget (QLabel, textLabel20)
+#. i18n: ectx: property (text), widget (QLabel, textLabel20_2)
+#: audiocdconfig.ui:217 audiocdconfig.ui:343 audiocdconfig.ui:474
+#, kde-format
+msgid "Year"
+msgstr "ឆ្នាំ"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_4)
+#: audiocdconfig.ui:227
+#, kde-format
+msgid "Track Artist"
+msgstr "តាមដានសិល្បករ"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_3)
+#: audiocdconfig.ui:237
+#, kde-format
+msgid "Track Title"
+msgstr "ចំណងជើងបទ"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel9)
+#. i18n: ectx: property (text), widget (QLabel, textLabel19)
+#. i18n: ectx: property (text), widget (QLabel, textLabel19_2)
+#: audiocdconfig.ui:247 audiocdconfig.ui:383 audiocdconfig.ui:514
+#, kde-format
+msgid "Album Artist"
+msgstr "សិល្បករអាល់ប៊ុម"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8)
+#. i18n: ectx: property (text), widget (QLabel, textLabel15)
+#. i18n: ectx: property (text), widget (QLabel, textLabel15_2)
+#: audiocdconfig.ui:257 audiocdconfig.ui:353 audiocdconfig.ui:484
+#, no-c-format, kde-format
+msgid "%{albumartist}"
+msgstr "%{albumartist}​"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel12)
+#. i18n: ectx: property (text), widget (QLabel, textLabel17)
+#. i18n: ectx: property (text), widget (QLabel, textLabel17_2)
+#: audiocdconfig.ui:267 audiocdconfig.ui:403 audiocdconfig.ui:534
+#, no-c-format, kde-format
+msgid "%{genre}"
+msgstr "%{genre}"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: audiocdconfig.ui:277
+#, no-c-format, kde-format
+msgid "%{trackartist}"
+msgstr "%{trackartist}"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6)
+#. i18n: ectx: property (text), widget (QLabel, textLabel14)
+#. i18n: ectx: property (text), widget (QLabel, textLabel14_2)
+#: audiocdconfig.ui:287 audiocdconfig.ui:413 audiocdconfig.ui:544
+#, no-c-format, kde-format
+msgid "%{albumtitle}"
+msgstr "%{albumtitle}"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel7)
+#: audiocdconfig.ui:297
+#, kde-format
+msgid "Track Number"
+msgstr "លេខបទ"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4_2)
+#: audiocdconfig.ui:307
+#, no-c-format, kde-format
+msgid "%{number}"
+msgstr "%{number}"
+
+#. i18n: ectx: property (title), widget (QGroupBox, albumNameGroupBox)
+#: audiocdconfig.ui:325
+#, kde-format
+msgid "Album Name"
+msgstr "ឈ្មោះអាល់ប៊ុម"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, fileLocationGroupBox)
+#: audiocdconfig.ui:447
+#, no-c-format, kde-format
+msgid "This defines where files will appear in relation to the encoder root, you can use / to create subdirectories. E.g: %{albumartist}/%{albumtitle} "
+msgstr "នេះកំណត់កន្លែងដែលឯកសារនឹងលេចឡើងទាក់ទងនឹងឫសអ៊ិនកូដឌ័រអ្នកអាចប្រើ / ដើម្បីបង្កើតថតរង។ ឧទាហរណ៏៖ %{albumartist}/%{albumtitle} "
+
+#. i18n: ectx: property (title), widget (QGroupBox, fileLocationGroupBox)
+#: audiocdconfig.ui:450
+#, kde-format
+msgid "Files Location"
+msgstr "ទីតាំងឯកសារ"
+
+#. i18n: ectx: property (text), widget (QLineEdit, fileLocationLineEdit)
+#: audiocdconfig.ui:572
+#, no-c-format, kde-format
+msgid "%{albumtitle}/%{albumartist}"
+msgstr "%{albumtitle}/%{albumartist}"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: audiocdconfig.ui:582
+#, kde-format
+msgid "Name Regular Expression Replacement"
+msgstr "ដាក់ឈ្មោះជំនួសកន្សោមធម្មតា"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
+#: audiocdconfig.ui:588
+#, kde-format
+msgid "Selection:"
+msgstr "ការជ្រើសរើស៖"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: audiocdconfig.ui:599
+#, kde-format
+msgid "Regular expression used on all file names. For example using selection \" \" and replace with \"_\" would replace all the spaces with underlines.\n"
+msgstr "កន្សោមធម្មតាប្រើលើឈ្មោះឯកសារទាំងអស់។ ឧទាហរណ៍ការប្រើជម្រើស \" \" ហើយជំនួសដោយ \"\" នឹងជំនួសចន្លោះទាំងអស់ដោយគូសបញ្ជាក់។\n"
+
+#. i18n: ectx: property (text), widget (QLabel, inputlabel)
+#: audiocdconfig.ui:612
+#, kde-format
+msgid "Input:"
+msgstr "ការបញ្ចូល៖"
+
+#. i18n: ectx: property (text), widget (QLabel, outputLabel)
+#: audiocdconfig.ui:622
+#, kde-format
+msgid "Output:"
+msgstr "លទ្ធផល៖"
+
+#. i18n: ectx: property (text), widget (QLabel, exampleLabel)
+#: audiocdconfig.ui:632
+#, kde-format
+msgid "Example"
+msgstr "ឧទាហរណ៍"
+
+#. i18n: ectx: property (text), widget (QLabel, exampleOutput)
+#. i18n: ectx: property (text), widget (QLineEdit, example)
+#: audiocdconfig.ui:642 audiocdconfig.ui:652 kcmaudiocd.cpp:148
+#: kcmaudiocd.cpp:221
+#, kde-format
+msgid "Cool artist - example audio file.wav"
+msgstr "វិចិត្រករត្រជាក់ - ឧទាហរណ៍ឯកសារអូឌីយ៉ូ"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: audiocdconfig.ui:665
+#, kde-format
+msgid "Replace with:"
+msgstr "ជំនួយ​ដោយ៖"
+
+#: kcmaudiocd.cpp:64
+#, kde-format
+msgid "%1 Encoder"
+msgstr "ឧបករណ៍បំលែងកូដ %1"
+
+#: kcmaudiocd.cpp:98
+#, kde-format
+msgid "KDE Audio CD IO Slave"
+msgstr "ទាសករអូឌីយ៉ូអូឌីយ៉ូរបស់ KDE"
+
+#: kcmaudiocd.cpp:100
+#, kde-format
+msgid "Benjamin C. Meyer"
+msgstr "Benjamin C. Meyer"
+
+#: kcmaudiocd.cpp:100
+#, kde-format
+msgid "Former Maintainer"
+msgstr "អតីតអ្នកថែរក្សា"
+
+#: kcmaudiocd.cpp:101
+#, kde-format
+msgid "Carsten Duvenhorst"
+msgstr "Carsten Duvenhorst"
+
+#: kcmaudiocd.cpp:101
+#, kde-format
+msgid "Original Author"
+msgstr "អ្នកនិពន្ធដើម"
+
+#: kcmaudiocd.cpp:265
+#, kde-format
+msgid "<h1>Audio CDs</h1> The Audio CD IO-Slave enables you to easily create wav, FLAC, MP3, Ogg Vorbis or Opus files from your audio CD-ROMs or DVDs. The slave is invoked by typing <i>\"audiocd:/\"</i> in Dolphin's location bar. In this module, you can configure encoding, and device settings. Note that FLAC, MP3, Ogg Vorbis, and Opus encoding are only available if the corresponding libraries (libFLAC for FLAC and libvorbis for Ogg) and utilities (lame for MP3 and opus-tools for Opus) are installed in your system."
+msgstr "<h1> ស៊ីឌីអូឌីយ៉ូ </h1> អូឌីយ៉ូអូឌីយ៉ូស៊ីឌីអាចឱ្យអ្នកបង្កើតឯកសារអេមអេហ្វអិមអិលអេហ្វអូវីអូវីវីសឬអូសសពីស៊ីឌីរ៉ូមឬឌីវីឌីអូឌីយ៉ូរបស់អ្នកយ៉ាងងាយស្រួល។ ទាសករត្រូវបានហៅដោយវាយ <i> \"audiocd៖ / \" </i> នៅក្នុងរបាទីតាំងរបស់ដូហ្វីន។ នៅក្នុងម៉ូឌុលនេះអ្នកអាចកំណត់រចនាសម្ព័ន្ធការអ៊ិនកូដនិងការកំណត់ឧបករណ៍។ សូមកត់សម្គាល់ថាការអ៊ិនកូដ FLAC, MP3, Ogg Vorbis និង Opus អាចប្រើបានប្រសិនបើបណ្ណាល័យដែលត្រូវគ្នា (libFLAC សម្រាប់ FLAC និង libvorbis សម្រាប់ Ogg) និងឧបករណ៍ប្រើប្រាស់ផ្សេងៗ (ដែលប្រើសម្រាប់ MP3 និងឧបករណ៍សម្រាប់ Opus) ត្រូវបានតំឡើងនៅក្នុងប្រព័ន្ធរបស់អ្នក។"
+
+#~ msgid "kcmaudiocd"
+#~ msgstr "kcmaudiocd"
+
+#~ msgid "(c) 2000 - 2005 Audio CD developers"
+#~ msgstr "(គ) អ្នកអភិវឌ្ឍន៍ស៊ីឌីអូឌីយ៉ូ ២០០០ - ២០០៥"
+
+#~ msgid "Specify a location for the drive you want to use. Normally, this is a file inside the /dev folder representing your CD or DVD drive."
+#~ msgstr "បញ្ជាក់ទីតាំងសម្រាប់ដ្រាយដែលអ្នកចង់ប្រើ។ ជាធម្មតានេះគឺជាឯកសារនៅខាងក្នុងថតឯកសារ / dev ដែលតំណាងឱ្យដ្រាយស៊ីឌីឬឌីវីឌីរបស់អ្នក។"
+
+#~ msgid "/dev/cdrom"
+#~ msgstr "/ dev / cdrom"
+
+#~ msgid "Uncheck this if you want to specify a CD device different from the one autoprobed"
+#~ msgstr "ដោះធីកវាប្រសិនបើអ្នកចង់បញ្ជាក់ឧបករណ៍ស៊ីឌីដែលខុសគ្នាពីស៊ីឌីដែលបានបើក"
+
+#~ msgid "&Specify CD Device:"
+#~ msgstr "បញ្ជាក់ឧបករណ៍ស៊ីឌី៖"
+
+#~ msgid "Report errors found on the cd."
+#~ msgstr "រកឃើញកំហុសរាយការណ៍នៅលើស៊ីឌី។"

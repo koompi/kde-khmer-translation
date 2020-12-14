@@ -1,0 +1,2907 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-11 10:44+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ឈ្មោះរបស់អ្នក"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "អ៊ីមែលរបស់អ្នក"
+
+#. i18n: ectx: Menu (archive)
+#: app/arkui.rc:5 part/ark_part.rc:5
+#, kde-format
+msgid "&Archive"
+msgstr "ប័ណ្ណសារ"
+
+#: app/batchextract.cpp:123 app/batchextract.cpp:187
+#, kde-format
+msgid "Extracting Files"
+msgstr "ស្រង់ឯកសារ"
+
+#: app/batchextract.cpp:124 app/batchextract.cpp:188
+#, kde-format
+msgid "Source archive"
+msgstr "ប័ណ្ណសារប្រភព"
+
+#: app/batchextract.cpp:125 app/batchextract.cpp:189
+#, kde-format
+msgid "Destination"
+msgstr "ទិសដៅ"
+
+#: app/batchextract.cpp:138
+#, kde-format
+msgid "The following files could not be extracted:"
+msgstr "ឯកសារខាងក្រោមមិនអាចទាញយកបានទេ៖"
+
+#: app/batchextract.cpp:157
+#, kde-kuit-format
+msgctxt "@info"
+msgid "There was an error while extracting <filename>%1</filename>. Any further archive will not be extracted."
+msgstr "មានកំហុសខណៈពេលស្រង់ចេញ <filename> %1 </filename> ។ ប័ណ្ណសារណាមួយផ្សេងទៀតនឹងមិនត្រូវបានស្រង់ចេញទេ។"
+
+#: app/batchextract.cpp:158
+#, kde-kuit-format
+msgctxt "@info"
+msgid "There was an error while extracting <filename>%1</filename>:<nl/><message>%2</message><nl/>Any further archive will not be extracted."
+msgstr "មានកំហុសខណៈពេលស្រង់ចេញ <filename> %1 </filename> ៖ <nl/><message> %2 </message><nl/> ប័ណ្ណសារណាមួយផ្សេងទៀតនឹងមិនត្រូវបានស្រង់ចេញទេ។"
+
+#: app/batchextract.cpp:162
+#, kde-kuit-format
+msgctxt "@info"
+msgid "There was an error while extracting <filename>%1</filename>."
+msgstr "មានកំហុសខណៈពេលស្រង់ចេញ <filename> %1 </filename>"
+
+#: app/batchextract.cpp:163
+#, kde-kuit-format
+msgctxt "@info"
+msgid "There was an error while extracting <filename>%1</filename>:<nl/><message>%2</message>"
+msgstr "មានកំហុសខណៈពេលស្រង់ចេញ <filename> %1 </filename> ៖ <nl/><message> %2 </message>"
+
+#: app/batchextract.cpp:312
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive could not be extracted to <filename>%1</filename> because Ark can only extract to local destinations."
+msgstr "ប័ណ្ណសារមិនអាចត្រូវបានស្រង់ចេញទេ <filename> %1 </filename> ពីព្រោះ Ark អាចស្រង់បានតែគោលដៅក្នុងស្រុកប៉ុណ្ណោះ។"
+
+#: app/compressfileitemaction.cpp:69
+#, kde-format
+msgctxt "@action:inmenu Part of Compress submenu in Dolphin context menu"
+msgid "Here (as TAR.GZ)"
+msgstr "ទីនេះ (ជា TAR.GZ)"
+
+#: app/compressfileitemaction.cpp:78
+#, kde-format
+msgctxt "@action:inmenu Part of Compress submenu in Dolphin context menu"
+msgid "Here (as ZIP)"
+msgstr "ទីនេះ (ជាហ្ស៊ីប)"
+
+#: app/compressfileitemaction.cpp:85
+#, kde-format
+msgctxt "@action:inmenu Part of Compress submenu in Dolphin context menu"
+msgid "Compress to..."
+msgstr "បង្រួមទៅ ..."
+
+#: app/compressfileitemaction.cpp:90
+#, kde-format
+msgctxt "@action:inmenu Compress submenu in Dolphin context menu"
+msgid "Compress"
+msgstr "បង្រួម"
+
+#: app/extractfileitemaction.cpp:72
+#, kde-format
+msgctxt "@action:inmenu Part of Extract submenu in Dolphin context menu"
+msgid "Extract archive to..."
+msgstr "ស្រង់ចេញប័ណ្ណសារទៅ ..."
+
+#: app/extractfileitemaction.cpp:84
+#, kde-format
+msgctxt "@action:inmenu Part of Extract submenu in Dolphin context menu"
+msgid "Extract archive here"
+msgstr "ទាញយកប័ណ្ណសារនៅទីនេះ"
+
+#: app/extractfileitemaction.cpp:92
+#, kde-format
+msgctxt "@action:inmenu Part of Extract submenu in Dolphin context menu"
+msgid "Extract archive here, autodetect subfolder"
+msgstr "ទាញយកប័ណ្ណសារនៅទីនេះរកថតរងដោយស្វ័យប្រវត្តិ"
+
+#: app/extractfileitemaction.cpp:98
+#, kde-format
+msgctxt "@action:inmenu Extract submenu in Dolphin context menu"
+msgid "Extract"
+msgstr "ស្រង់ចេញ"
+
+#: app/extractHereDndPlugin.cpp:71
+#, kde-format
+msgctxt "@action:inmenu Context menu shown when an archive is being drag'n'dropped"
+msgid "Extract here"
+msgstr "ស្រង់នៅទីនេះ"
+
+#: app/main.cpp:95
+#, kde-format
+msgid "Ark"
+msgstr "Ark"
+
+#: app/main.cpp:97
+#, kde-format
+msgid "KDE Archiving tool"
+msgstr "ឧបករណ៍បណ្ណសាររបស់ KDE"
+
+#: app/main.cpp:99
+#, kde-format
+msgid "(c) 1997-2019, The Ark Developers"
+msgstr "(c) ឆ្នាំ ១៩៩៧-២០១៩ អ្នកអភិវឌ្ឍន៍ Ark"
+
+#: app/main.cpp:106
+#, kde-format
+msgid "Elvis Angelaccio"
+msgstr "Elvis Angelaccio"
+
+#: app/main.cpp:107
+#, kde-format
+msgid "Maintainer"
+msgstr "អ្នកថែរក្សា"
+
+#: app/main.cpp:109
+#, kde-format
+msgid "Ragnar Thomsen"
+msgstr "Ragnar Thomsen"
+
+#: app/main.cpp:110
+#, kde-format
+msgid "Maintainer, KF5 port"
+msgstr "អ្នកថែរក្សាកំពង់ផែ KF5"
+
+#: app/main.cpp:112
+#, kde-format
+msgid "Raphael Kubo da Costa"
+msgstr "Raphael Kubo da Costa"
+
+#: app/main.cpp:113 app/main.cpp:116 app/main.cpp:119
+#, kde-format
+msgid "Former Maintainer"
+msgstr "អតីតអ្នកថែរក្សា"
+
+#: app/main.cpp:115
+#, kde-format
+msgid "Harald Hvaal"
+msgstr "Harald Hvaal"
+
+#: app/main.cpp:118
+#, kde-format
+msgid "Henrique Pinto"
+msgstr "Henrique Pinto"
+
+#: app/main.cpp:121
+#, kde-format
+msgid "Helio Chissini de Castro"
+msgstr "Helio Chissini de Castro"
+
+#: app/main.cpp:122
+#, kde-format
+msgid "Former maintainer"
+msgstr "អតីតអ្នកថែរក្សា"
+
+#: app/main.cpp:124
+#, kde-format
+msgid "Georg Robbers"
+msgstr "លោក George Robbers"
+
+#: app/main.cpp:127
+#, kde-format
+msgid "Roberto Selbach Teixeira"
+msgstr "Roberto Selbach Teixeira"
+
+#: app/main.cpp:130
+#, kde-format
+msgid "Francois-Xavier Duranceau"
+msgstr "Francois-Xavier Duranceau"
+
+#: app/main.cpp:133
+#, kde-format
+msgid "Emily Ezust (Corel Corporation)"
+msgstr "Emily Ezust (សាជីវកម្មស្នូល)"
+
+#: app/main.cpp:136
+#, kde-format
+msgid "Michael Jarrett (Corel Corporation)"
+msgstr "Michael Jarrett (សាជីវកម្មស្នូល)"
+
+#: app/main.cpp:139
+#, kde-format
+msgid "Robert Palmbos"
+msgstr "Robert Palmbos"
+
+#: app/main.cpp:143
+#, kde-format
+msgid "Vladyslav Batyrenko"
+msgstr "Vladyslav Batyrenko"
+
+#: app/main.cpp:144
+#, kde-format
+msgid "Advanced editing functionalities"
+msgstr "មុខងារកែសម្រួលកម្រិតខ្ពស់"
+
+#: app/main.cpp:147
+#, kde-format
+msgid "Bryce Corkins"
+msgstr "Bryce Corkins"
+
+#: app/main.cpp:148
+#, kde-format
+msgid "Icons"
+msgstr "រូបតំណាង"
+
+#: app/main.cpp:150
+#, kde-format
+msgid "Liam Smit"
+msgstr "Liam Smit"
+
+#: app/main.cpp:151
+#, kde-format
+msgid "Ideas, help with the icons"
+msgstr "គំនិត, ជួយជាមួយរូបតំណាង"
+
+#: app/main.cpp:153
+#, kde-format
+msgid "Andrew Smith"
+msgstr "Andrew Smith"
+
+#: app/main.cpp:154
+#, kde-format
+msgid "bkisofs code"
+msgstr "កូដ bkisofs"
+
+#: app/main.cpp:164
+#, kde-format
+msgid "URLs to open."
+msgstr "URLs ដើម្បីបើក។"
+
+#: app/main.cpp:167
+#, kde-format
+msgid "Show a dialog for specifying the options for the operation (extract/add)"
+msgstr "បង្ហាញប្រអប់សម្រាប់បញ្ជាក់ជម្រើសសម្រាប់ប្រតិបត្តិការ (ដកស្រង់ / បន្ថែម)"
+
+#: app/main.cpp:170
+#, kde-format
+msgid "Destination folder to extract to. Defaults to current path if not specified."
+msgstr "ថតទិសដៅដើម្បីស្រង់ចេញ។ លំនាំដើមទៅផ្លូវបច្ចុប្បន្នប្រសិនបើមិនបានបញ្ជាក់។"
+
+#. i18n: ectx: label, entry (openDestinationFolderAfterExtraction), group (Extraction)
+#: app/main.cpp:174 kerfuffle/ark.kcfg:23
+#, kde-format
+msgid "Open destination folder after extraction."
+msgstr "បើកថតទិសដៅបន្ទាប់ពីស្រង់ចេញ។"
+
+#: app/main.cpp:177
+#, kde-format
+msgid "Query the user for an archive filename and add specified files to it. Quit when finished."
+msgstr "សួរអ្នកប្រើសម្រាប់ឈ្មោះឯកសារប័ណ្ណសារនិងបន្ថែមឯកសារដែលបានបញ្ជាក់ទៅវា។ ចាកចេញនៅពេលបញ្ចប់។"
+
+#: app/main.cpp:180
+#, kde-format
+msgid "Add the specified files to 'filename'. Create archive if it does not exist. Quit when finished."
+msgstr "បន្ថែមឯកសារដែលបានបញ្ជាក់ទៅ 'ឈ្មោះឯកសារ' ។ បង្កើតប័ណ្ណសារប្រសិនបើវាមិនមាន។ ចាកចេញនៅពេលបញ្ចប់។"
+
+#: app/main.cpp:184
+#, kde-format
+msgid "Change the current dir to the first entry and add all other entries relative to this one."
+msgstr "ផ្លាស់ប្តូរ dir បច្ចុប្បន្នទៅធាតុទីមួយហើយបន្ថែមធាតុផ្សេងទៀតដែលទាក់ទងទៅនឹងធាតុនេះ។"
+
+#: app/main.cpp:187
+#, kde-format
+msgid "Automatically choose a filename, with the selected suffix (for example rar, tar.gz, zip or any other supported types)"
+msgstr "ជ្រើសរើសឈ្មោះឯកសារដោយស្វ័យប្រវត្តិដោយមានបច្ច័យដែលបានជ្រើសរើស (ឧទាហរណ៍ rar, tar.gz, zip ឬប្រភេទដែលគាំទ្រផ្សេងទៀត)"
+
+#: app/main.cpp:191
+#, kde-format
+msgid "Use the batch interface instead of the usual dialog. This option is implied if more than one url is specified."
+msgstr "ប្រើចំណុចប្រទាក់បាច់ជំនួសឱ្យប្រអប់ធម្មតា។ ជម្រើសនេះត្រូវបានបញ្ជាក់ប្រសិនបើមាន url ច្រើនជាងមួយត្រូវបានបញ្ជាក់។"
+
+#: app/main.cpp:194
+#, kde-format
+msgid "The destination argument will be set to the path of the first file supplied."
+msgstr "អាគុយម៉ង់គោលដៅនឹងត្រូវបានកំណត់ទៅផ្លូវនៃឯកសារដំបូងដែលបានផ្គត់ផ្គង់។"
+
+#: app/main.cpp:197
+#, kde-format
+msgid "Archive contents will be read, and if detected to not be a single folder or a single file archive, a subfolder with the name of the archive will be created."
+msgstr "មាតិកាប័ណ្ណសារនឹងត្រូវបានអានហើយប្រសិនបើត្រូវបានរកឃើញថាមិនមែនជាថតឯកសារតែមួយឬប័ណ្ណសារឯកសារតែមួយនោះថតរងដែលមានឈ្មោះថាប័ណ្ណសារនឹងត្រូវបានបង្កើត។"
+
+#: app/main.cpp:200
+#, kde-format
+msgid "List supported MIME types."
+msgstr "បញ្ជីប្រភេទ MIME ដែលបានគាំទ្រ។"
+
+#: app/mainwindow.cpp:147
+#, kde-format
+msgid "Unable to find Ark's KPart component, please check your installation."
+msgstr "មិនអាចរកឃើញសមាសធាតុ KPart របស់ Ark សូមពិនិត្យមើលការតំឡើងរបស់អ្នក។"
+
+#: app/mainwindow.cpp:186
+#, kde-format
+msgctxt "action, to open an archive"
+msgid "Open"
+msgstr "បើក"
+
+#: app/mainwindow.cpp:187
+#, kde-format
+msgid "Open an archive"
+msgstr "បើកប័ណ្ណសារ"
+
+#: app/mainwindow.cpp:209
+#, kde-format
+msgctxt "to open an archive"
+msgid "Open Archive"
+msgstr "បើកប័ណ្ណសារ"
+
+#: app/mainwindow.cpp:310
+#, kde-format
+msgid "Create New Archive"
+msgstr "បង្កើតប័ណ្ណសារថ្មី"
+
+#: kerfuffle/adddialog.cpp:59 kerfuffle/adddialog.cpp:97
+#, kde-format
+msgid "Advanced Options"
+msgstr "ជម្រើសកម្រិតខ្ពស់"
+
+#: kerfuffle/adddialog.cpp:68
+#, kde-format
+msgctxt "@action:button"
+msgid "Add"
+msgstr "បន្ថែម"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupCompressFiles)
+#: kerfuffle/adddialog.ui:35
+#, kde-format
+msgid "Files/Folders to Compress"
+msgstr "ឯកសារ / ថតឯកសារដើម្បីបង្រួម"
+
+#: kerfuffle/addtoarchive.cpp:99
+#, kde-format
+msgid "Compress to Archive"
+msgstr "បង្រួមទៅប័ណ្ណសារ"
+
+#: kerfuffle/addtoarchive.cpp:153
+#, kde-format
+msgid "No input files were given."
+msgstr "មិនមានឯកសារបញ្ចូលត្រូវបានផ្តល់ឱ្យទេ។"
+
+#: kerfuffle/addtoarchive.cpp:160
+#, kde-kuit-format
+msgid "You need to either supply a filename for the archive or a suffix (such as rar, tar.gz) with the <command>--autofilename</command> argument."
+msgstr "អ្នកត្រូវផ្តល់ឈ្មោះឯកសារសម្រាប់ប័ណ្ណសារឬបច្ច័យ (ដូចជា Rr, tar.gz) ជាមួយ <command> --autofilename </command> អាគុយម៉ង់។"
+
+#. i18n: ectx: label, entry (showEncryptionWarning), group (General)
+#: kerfuffle/ark.kcfg:9
+#, kde-format
+msgid "Whether to show a warning when creating zip archives with AES encryption."
+msgstr "ថាតើត្រូវបង្ហាញការព្រមាននៅពេលបង្កើតប័ណ្ណសារហ្ស៊ីបជាមួយការអ៊ិនគ្រីបអេអេស។"
+
+#. i18n: ectx: label, entry (defaultOpenAction), group (General)
+#: kerfuffle/ark.kcfg:13
+#, kde-format
+msgid "Default action when opening archive entries."
+msgstr "សកម្មភាពលំនាំដើមនៅពេលបើកធាតុប័ណ្ណសារ។"
+
+#. i18n: ectx: label, entry (closeAfterExtraction), group (Extraction)
+#: kerfuffle/ark.kcfg:27
+#, kde-format
+msgid "Close Ark after extraction."
+msgstr "បិទ Ark បន្ទាប់ពីស្រង់ចេញ។"
+
+#. i18n: ectx: label, entry (preservePaths), group (Extraction)
+#: kerfuffle/ark.kcfg:31
+#, kde-format
+msgid "Preserve paths when extracting."
+msgstr "ថែរក្សាផ្លូវនៅពេលស្រង់ចេញ។"
+
+#. i18n: ectx: label, entry (extractToSubfolder), group (Extraction)
+#: kerfuffle/ark.kcfg:35
+#, kde-format
+msgid "Extract to a subfolder if the archive has more than one top-level entry."
+msgstr "ស្រង់ចេញទៅថតរងប្រសិនបើប័ណ្ណសារមានធាតុកំពូលលើសពីមួយ។"
+
+#. i18n: ectx: label, entry (splitterSizes), group (MainWindow)
+#: kerfuffle/ark.kcfg:41
+#, kde-format
+msgid "How the main window is divided."
+msgstr "របៀបដែលផ្ទាំងកម្មវិធីមេត្រូវបានបែងចែក។"
+
+#. i18n: ectx: label, entry (showInfoPanel), group (MainWindow)
+#: kerfuffle/ark.kcfg:45
+#, kde-format
+msgid "Whether to show the information panel."
+msgstr "ថាតើត្រូវបង្ហាញបន្ទះព័ត៌មាន។"
+
+#. i18n: ectx: label, entry (limitPreviewFileSize), group (Preview)
+#: kerfuffle/ark.kcfg:55
+#, kde-format
+msgid "Whether to limit the preview according to file size."
+msgstr "ថាតើត្រូវកម្រិតការមើលជាមុនយោងទៅតាមទំហំឯកសារ។"
+
+#. i18n: ectx: label, entry (previewFileSizeLimit), group (Preview)
+#: kerfuffle/ark.kcfg:59
+#, kde-format
+msgid "Preview file size limit in megabytes."
+msgstr "មើលដែនកំណត់ទំហំឯកសារគិតជាមេកាបៃ។"
+
+#: kerfuffle/cliinterface.cpp:270
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Failed to locate program <filename>%1</filename> on disk."
+msgstr "បានបរាជ័យក្នុងការរកទីតាំងកម្មវិធី <filename> %1 </filename> នៅលើថាស។"
+
+#: kerfuffle/cliinterface.cpp:380
+#, kde-format
+msgid "Extraction failed. Make sure that enough space is available."
+msgstr "ការស្រង់ចេញបានបរាជ័យ។ ត្រូវប្រាកដថាមានទំហំគ្រប់គ្រាន់។"
+
+#: kerfuffle/cliinterface.cpp:383
+#, kde-format
+msgid "Extraction failed. Make sure you provided the correct password and that enough space is available."
+msgstr "ការស្រង់ចេញបានបរាជ័យ។ សូមប្រាកដថាអ្នកបានផ្តល់លេខសម្ងាត់ត្រឹមត្រូវហើយមានទំហំគ្រប់គ្រាន់។"
+
+#: kerfuffle/cliinterface.cpp:394 kerfuffle/cliinterface.cpp:519
+#, kde-format
+msgctxt "@info"
+msgid "Could not move the extracted file to the destination directory."
+msgid_plural "Could not move the extracted files to the destination directory."
+msgstr[0] "មិនអាចផ្លាស់ទីឯកសារដែលបានស្រង់ចេញទៅថតទិសដៅទេ។"
+msgstr[1] "មិនអាចផ្លាស់ទីឯកសារដែលបានស្រង់ចេញទៅថតទិសដៅទេ។"
+
+#: kerfuffle/cliinterface.cpp:878
+#, kde-format
+msgctxt "@info"
+msgid "Extraction failed because the disk is full."
+msgstr "ការស្រង់ចេញបានបរាជ័យពីព្រោះថាសពេញហើយ។"
+
+#: kerfuffle/cliinterface.cpp:885
+#, kde-format
+msgctxt "@info"
+msgid "Extraction failed: Incorrect password"
+msgstr "ការស្រង់ចេញបានបរាជ័យ៖ ពាក្យសម្ងាត់មិនត្រឹមត្រូវ"
+
+#: kerfuffle/cliinterface.cpp:919
+#, kde-format
+msgid "Incorrect password."
+msgstr "ពាក្យសម្ងាត់មិនត្រឹមត្រូវ។"
+
+#: kerfuffle/cliinterface.cpp:942
+#, kde-format
+msgid "Ark does not currently support testing this archive."
+msgstr "បច្ចុប្បន្ន Ark មិនគាំទ្រការសាកល្បងប័ណ្ណសារនេះទេ។"
+
+#: kerfuffle/compressionoptionswidget.cpp:149
+#, kde-format
+msgid "Protection of the list of files is not possible with the %1 format."
+msgstr "ការការពារបញ្ជីឯកសារមិនអាចធ្វើទៅបានជាមួយនឹងទ្រង់ទ្រាយ %1 ។"
+
+#: kerfuffle/compressionoptionswidget.cpp:158
+#, kde-format
+msgid "Protection of the archive with password is not possible with the %1 format."
+msgstr "ការការពារប័ណ្ណសារជាមួយលេខសម្ងាត់មិនអាចធ្វើទៅបានទេជាមួយនឹងទម្រង់ %1 ។"
+
+#: kerfuffle/compressionoptionswidget.cpp:173
+#, kde-format
+msgid "It is not possible to set compression level for the %1 format."
+msgstr "មិនអាចកំណត់កម្រិតបង្ហាប់សម្រាប់ទ្រង់ទ្រាយ %1 ទេ។"
+
+#: kerfuffle/compressionoptionswidget.cpp:193
+#, kde-format
+msgid "It is not possible to set compression method for the %1 format."
+msgstr "មិនអាចកំណត់វិធីបង្ហាប់សម្រាប់ទ្រង់ទ្រាយ %1 ។"
+
+#: kerfuffle/compressionoptionswidget.cpp:216
+#, kde-format
+msgid "The %1 format does not support multi-volume archives."
+msgstr "ទ្រង់ទ្រាយ %1 មិនគាំទ្របណ្ណាសារច្រើនទេ។"
+
+#. i18n: ectx: property (title), widget (KCollapsibleGroupBox, collapsibleCompression)
+#: kerfuffle/compressionoptionswidget.ui:20
+#, kde-format
+msgid "Compression"
+msgstr "ការបង្រួម"
+
+#. i18n: ectx: property (text), widget (QLabel, lblCompLevel1)
+#: kerfuffle/compressionoptionswidget.ui:35
+#, kde-format
+msgid "Level:"
+msgstr "កំរិតៈ"
+
+#. i18n: ectx: property (text), widget (QLabel, lblCompLevel2)
+#: kerfuffle/compressionoptionswidget.ui:45
+#, kde-format
+msgid "Min"
+msgstr "នាទី"
+
+#. i18n: ectx: property (text), widget (QLabel, lblCompMethod)
+#: kerfuffle/compressionoptionswidget.ui:83
+#, kde-format
+msgid "Method:"
+msgstr "វិធីសាស្រ្ត៖"
+
+#. i18n: ectx: property (text), widget (QLabel, lblCompLevel3)
+#: kerfuffle/compressionoptionswidget.ui:93
+#, kde-format
+msgid "Max"
+msgstr "អតិបរមា"
+
+#. i18n: ectx: property (title), widget (KCollapsibleGroupBox, collapsibleEncryption)
+#: kerfuffle/compressionoptionswidget.ui:118
+#, kde-format
+msgid "Password Protection"
+msgstr "ការការពារលេខសម្ងាត់"
+
+#. i18n: ectx: property (text), widget (QLabel, lblEncMethod)
+#: kerfuffle/compressionoptionswidget.ui:130
+#, kde-format
+msgid "Encryption method:"
+msgstr "វិធីសាស្ត្រអ៊ិនគ្រីប៖"
+
+#. i18n: ectx: property (text), widget (QCheckBox, encryptHeaderCheckBox)
+#: kerfuffle/compressionoptionswidget.ui:160
+#, kde-format
+msgid "Ask for password before showing the list of files in the archive"
+msgstr "សួររកលេខសំងាត់មុនពេលបង្ហាញបញ្ជីឯកសារនៅក្នុងប័ណ្ណសារ"
+
+#. i18n: ectx: property (text), widget (KMessageWidget, warningMsgWidget)
+#: kerfuffle/compressionoptionswidget.ui:170
+#, kde-format
+msgid "This encryption method may not be supported by older archiving software."
+msgstr "វិធីសាស្ត្រអ៊ិនគ្រីបនេះប្រហែលជាមិនត្រូវបានគាំទ្រដោយកម្មវិធីបណ្ណសារចាស់ទេ។"
+
+#. i18n: ectx: property (title), widget (KCollapsibleGroupBox, collapsibleMultiVolume)
+#: kerfuffle/compressionoptionswidget.ui:183
+#, kde-format
+msgid "Multi-volume Archive"
+msgstr "ប័ណ្ណសារពហុបរិមាណ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, multiVolumeCheckbox)
+#: kerfuffle/compressionoptionswidget.ui:192
+#, kde-format
+msgid "Create multi-volume archive"
+msgstr "បង្កើតប័ណ្ណសារពហុបរិមាណ"
+
+#. i18n: ectx: property (text), widget (QLabel, lblVolumeSize)
+#: kerfuffle/compressionoptionswidget.ui:210
+#, kde-format
+msgid "Volume size:"
+msgstr "ទំហំសំឡេង៖"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_previewFileSizeLimit)
+#. i18n: ectx: property (suffix), widget (QDoubleSpinBox, volumeSizeSpinbox)
+#: kerfuffle/compressionoptionswidget.ui:223
+#: kerfuffle/previewsettingspage.ui:32
+#, kde-format
+msgid " megabytes"
+msgstr " មេកាបៃ"
+
+#: kerfuffle/createdialog.cpp:132
+#, kde-format
+msgctxt "the argument is a file extension (the period is not a typo)"
+msgid "Automatically add .%1"
+msgstr "បន្ថែមដោយស្វ័យប្រវត្តិ។ %1"
+
+#: kerfuffle/createdialog.cpp:219
+#, kde-format
+msgid "The chosen password does not match the given verification password."
+msgstr "ពាក្យសម្ងាត់ដែលបានជ្រើសរើសមិនត្រូវគ្នានឹងលេខកូដផ្ទៀងផ្ទាត់ដែលបានផ្តល់ទេ។"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kerfuffle/createdialog.ui:30
+#, kde-format
+msgid "Folder:"
+msgstr "ថតឯកសារ៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: kerfuffle/createdialog.ui:47
+#, kde-format
+msgid "Filename:"
+msgstr "ឈ្មោះ​ឯកសារ៖"
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, filenameLineEdit)
+#: kerfuffle/createdialog.ui:54
+#, kde-format
+msgid "Type archive name..."
+msgstr "វាយបញ្ចូលឈ្មោះប័ណ្ណសារ ..."
+
+#. i18n: ectx: property (text), widget (QLabel, m_typeLabel)
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: kerfuffle/createdialog.ui:61 part/infopanel.ui:93
+#, kde-format
+msgid "Type:"
+msgstr "ប្រភេទ៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: kerfuffle/createdialog.ui:78
+#, kde-format
+msgid "Extension:"
+msgstr "ផ្នែកបន្ថែម៖"
+
+#: kerfuffle/extractiondialog.cpp:61
+#, kde-format
+msgctxt "@title:window"
+msgid "Extract"
+msgstr "ស្រង់ចេញ"
+
+#: kerfuffle/extractiondialog.cpp:75
+#, kde-format
+msgid "Extract"
+msgstr "ស្រង់ចេញ"
+
+#: kerfuffle/extractiondialog.cpp:118
+#, kde-format
+msgid "The subfolder name may not contain the character '/'."
+msgstr "ឈ្មោះថតរងអាចមិនមានតួអក្សរ '/' ។"
+
+#: kerfuffle/extractiondialog.cpp:128
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The folder <filename>%1</filename> already exists. Are you sure you want to extract here?"
+msgstr "ថតឯកសារ <filename> %1 </filename> ធ្លាប់​មាន​រួចហើយ។ តើអ្នកពិតជាចង់ស្រង់ចេញនៅទីនេះឬ?"
+
+#: kerfuffle/extractiondialog.cpp:129
+#, kde-format
+msgid "Folder exists"
+msgstr "មានថត"
+
+#: kerfuffle/extractiondialog.cpp:130
+#, kde-format
+msgid "Extract here"
+msgstr "ស្រង់នៅទីនេះ"
+
+#: kerfuffle/extractiondialog.cpp:131
+#, kde-format
+msgid "Retry"
+msgstr "ព្យាយាមម្តងទៀត"
+
+#: kerfuffle/extractiondialog.cpp:141 kerfuffle/extractiondialog.cpp:147
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The folder <filename>%1</filename> could not be created."
+msgstr "ថតឯកសារ <filename> %1 </filename> មិនអាចត្រូវបានបង្កើត។"
+
+#: kerfuffle/extractiondialog.cpp:142
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<filename>%1</filename> already exists, but is not a folder."
+msgstr "<filename> %1 </filename> មានរួចហើយប៉ុន្តែមិនមែនជាថតទេ។"
+
+#: kerfuffle/extractiondialog.cpp:148
+#, kde-format
+msgid "Please check your permissions to create it."
+msgstr "សូមពិនិត្យមើលសិទ្ធិរបស់អ្នកដើម្បីបង្កើតវា។"
+
+#: kerfuffle/extractiondialog.cpp:187
+#, kde-format
+msgid "Extract multiple archives"
+msgstr "ស្រង់ចេញប័ណ្ណសារជាច្រើន"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ExtractionDialog)
+#: kerfuffle/extractiondialog.ui:21
+#, kde-format
+msgid "Extraction Dialog"
+msgstr "ប្រអប់ស្រង់ចេញ"
+
+#. i18n: ectx: property (text), widget (QLabel, extractAllLabel)
+#: kerfuffle/extractiondialog.ui:70
+#, kde-format
+msgid "Extract All Files"
+msgstr "ស្រង់ឯកសារទាំងអស់"
+
+#. i18n: ectx: property (title), widget (QGroupBox, singleFolderGroup)
+#: kerfuffle/extractiondialog.ui:79
+#, kde-format
+msgid "E&xtraction into subfolder:"
+msgstr "ការស្រង់ចេញទៅក្នុងថតរង៖"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: kerfuffle/extractiondialog.ui:113
+#, kde-format
+msgid "Options"
+msgstr "ជម្រើស"
+
+#. i18n: ectx: property (text), widget (QCheckBox, openFolderCheckBox)
+#: kerfuffle/extractiondialog.ui:132
+#, kde-format
+msgid "Open &destination folder after extraction"
+msgstr "បើកថតទិសដៅបន្ទាប់ពីស្រង់ចេញ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, closeAfterExtraction)
+#: kerfuffle/extractiondialog.ui:139
+#, kde-format
+msgid "Close &Ark after extraction"
+msgstr "បិទ Ark បន្ទាប់ពីស្រង់ចេញ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, preservePaths)
+#: kerfuffle/extractiondialog.ui:146
+#, kde-format
+msgid "&Preserve paths when extracting"
+msgstr "ថែរក្សាផ្លូវនៅពេលស្រង់ចេញ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoSubfolders)
+#: kerfuffle/extractiondialog.ui:153
+#, kde-format
+msgid "&Automatically create subfolders"
+msgstr "បង្កើតថតរងដោយស្វ័យប្រវត្តិ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, filesToExtractGroupBox)
+#: kerfuffle/extractiondialog.ui:169
+#, kde-format
+msgctxt "@title:group"
+msgid "Extract"
+msgstr "ស្រង់ចេញ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, selectedFilesButton)
+#: kerfuffle/extractiondialog.ui:187
+#, kde-format
+msgid "Sele&cted files only"
+msgstr "ឯកសារដែលបានជ្រើសរើសតែប៉ុណ្ណោះ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, allFilesButton)
+#: kerfuffle/extractiondialog.ui:203
+#, kde-format
+msgid "All &files"
+msgstr "ឯកសារ​ទាំងអស់"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_openDestinationFolderAfterExtraction)
+#: kerfuffle/extractionsettingspage.ui:17
+#, kde-format
+msgid "Open destination folder after extraction"
+msgstr "បើកថតទិសដៅបន្ទាប់ពីស្រង់ចេញ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_closeAfterExtraction)
+#: kerfuffle/extractionsettingspage.ui:24
+#, kde-format
+msgid "Close Ark after extraction"
+msgstr "បិទ Ark បន្ទាប់ពីស្រង់ចេញ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_preservePaths)
+#: kerfuffle/extractionsettingspage.ui:31
+#, kde-format
+msgid "Preserve paths when extracting"
+msgstr "ថែរក្សាផ្លូវនៅពេលស្រង់ចេញ"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_extractToSubfolder)
+#: kerfuffle/extractionsettingspage.ui:41
+#, kde-format
+msgid "Whether to check by default the extraction into subfolder checkbox in the Extraction Dialog, when the archive has more than one top-level entry."
+msgstr "ថាតើត្រូវពិនិត្យមើលតាមលំនាំដើមការដកស្រង់ចូលក្នុងប្រអប់ធីកថតឯកសារនៅក្នុងប្រអប់ទាញយកនៅពេលដែលប័ណ្ណសារមានធាតុកំពូលលើសពីមួយ។"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_extractToSubfolder)
+#: kerfuffle/extractionsettingspage.ui:44
+#, kde-format
+msgid "Extract to a subfolder if the archive has more than one top-level entry"
+msgstr "ស្រង់ចេញទៅថតរងប្រសិនបើប័ណ្ណសារមានធាតុកំពូលលើសពីមួយ"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kerfuffle/generalsettingspage.ui:17
+#, kde-format
+msgid "When clicking a file in an archive or pressing the Return key:"
+msgstr "នៅពេលចុចឯកសារក្នុងប័ណ្ណសារឬចុចគ្រាប់ចុចត្រឡប់៖"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton)
+#: kerfuffle/generalsettingspage.ui:33
+#, kde-format
+msgid "Pre&view the file with internal previewer"
+msgstr "មើលឯកសារជាមុនជាមួយកម្មវិធីមើលជាមុន"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_2)
+#: kerfuffle/generalsettingspage.ui:43
+#, kde-format
+msgid "Open the fi&le with associated application"
+msgstr "បើកឯកសារជាមួយកម្មវិធីដែលជាប់ទាក់ទង"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_showEncryptionWarning)
+#: kerfuffle/generalsettingspage.ui:60
+#, kde-format
+msgid "Show a warning when creating zip archives with AES encryption"
+msgstr "បង្ហាញការព្រមាននៅពេលបង្កើតប័ណ្ណសារហ្ស៊ីបជាមួយការអ៊ិនគ្រីបអេអេអេស"
+
+#: kerfuffle/jobs.cpp:117
+#, kde-format
+msgid "No suitable plugin found. Ark does not seem to support this file type."
+msgstr "រកមិនឃើញកម្មវិធីជំនួយសមរម្យ។  Ark ហាក់ដូចជាមិនគាំទ្រប្រភេទឯកសារនេះទេ។"
+
+#: kerfuffle/jobs.cpp:121
+#, kde-format
+msgid "Failed to load a suitable plugin. Make sure any executables needed to handle the archive type are installed."
+msgstr "បានបរាជ័យក្នុងការផ្ទុកកម្មវិធីជំនួយដែលសមរម្យ។ ត្រូវប្រាកដថាប្រតិបត្តិដែលត្រូវការដើម្បីគ្រប់គ្រងប្រភេទប័ណ្ណសារត្រូវបានតំឡើង។"
+
+#: kerfuffle/jobs.cpp:185
+#, kde-format
+msgid "Could not load the archive because it contains ill-formed entries and might be a malicious archive."
+msgstr "មិនអាចផ្ទុកប័ណ្ណសារបានទេព្រោះវាមានធាតុមិនត្រឹមត្រូវហើយអាចជាប័ណ្ណសារព្យាបាទ។"
+
+#: kerfuffle/jobs.cpp:268
+#, kde-format
+msgid "Loading archive"
+msgstr "ផ្ទុកប័ណ្ណសារ"
+
+#: kerfuffle/jobs.cpp:268 kerfuffle/jobs.cpp:522 kerfuffle/jobs.cpp:668
+#: kerfuffle/jobs.cpp:721 kerfuffle/jobs.cpp:759 kerfuffle/jobs.cpp:791
+#: kerfuffle/jobs.cpp:839
+#, kde-format
+msgid "Archive"
+msgstr "ប័ណ្ណសារ"
+
+#: kerfuffle/jobs.cpp:518
+#, kde-format
+msgid "Extracting all files"
+msgstr "ស្រង់ឯកសារទាំងអស់"
+
+#. i18np on purpose so this translation may properly be reused.
+#: kerfuffle/jobs.cpp:520 kerfuffle/jobs.cpp:594
+#, kde-format
+msgid "Extracting one file"
+msgid_plural "Extracting %1 files"
+msgstr[0] "ស្រង់ឯកសារមួយ"
+msgstr[1] "ស្រង់ឯកសារ %1"
+
+#: kerfuffle/jobs.cpp:522
+#, kde-format
+msgctxt "extraction folder"
+msgid "Destination"
+msgstr "ទិសដៅ"
+
+#: kerfuffle/jobs.cpp:526
+#, kde-kuit-format
+msgid "Could not write to destination <filename>%1</filename>.<nl/>Check whether you have sufficient permissions."
+msgstr "មិនអាចសរសេរទៅទិសដៅបានទេ <filename> %1 </filename> ។ <nl/> ពិនិត្យមើលថាតើអ្នកមានសិទ្ធិគ្រប់គ្រាន់ដែរឬទេ។"
+
+#: kerfuffle/jobs.cpp:667
+#, kde-format
+msgid "Compressing a file"
+msgid_plural "Compressing %1 files"
+msgstr[0] "បង្រួមឯកសារ"
+msgstr[1] "ការបង្រួមឯកសារ %1"
+
+#: kerfuffle/jobs.cpp:720
+#, kde-format
+msgid "Moving a file"
+msgid_plural "Moving %1 files"
+msgstr[0] "ការផ្លាស់ទីឯកសារ"
+msgstr[1] "ផ្លាស់ទីឯកសារ %1"
+
+#: kerfuffle/jobs.cpp:758
+#, kde-format
+msgid "Copying a file"
+msgid_plural "Copying %1 files"
+msgstr[0] "ការចម្លងឯកសារ"
+msgstr[1] "ការចម្លងឯកសារ %1"
+
+#: kerfuffle/jobs.cpp:790
+#, kde-format
+msgid "Deleting a file from the archive"
+msgid_plural "Deleting %1 files"
+msgstr[0] "ការលុបឯកសារចេញពីប័ណ្ណសារ"
+msgstr[1] "ការលុបឯកសារ %1"
+
+#: kerfuffle/jobs.cpp:814
+#, kde-format
+msgid "Adding comment"
+msgstr "បន្ថែមមតិយោបល់"
+
+#: kerfuffle/jobs.cpp:839
+#, kde-format
+msgid "Testing archive"
+msgstr "ប័ណ្ណសារសាកល្បង"
+
+#: kerfuffle/pluginsettingspage.cpp:57
+#, kde-format
+msgid "The plugin cannot be used because one or more required executables are missing. Check your installation."
+msgstr "កម្មវិធីជំនួយមិនអាចប្រើបានទេពីព្រោះកម្មវិធីប្រតិបត្តិមួយឬច្រើនដែលត្រូវការត្រូវការបាត់។ ពិនិត្យមើលការតំឡើងរបស់អ្នក។"
+
+#. i18n: @title:column
+#. i18n: ectx: property (text), widget (QTreeWidget, kcfg_disabledPlugins)
+#: kerfuffle/pluginsettingspage.ui:24
+#, kde-format
+msgid "Name"
+msgstr "ឈ្មោះ"
+
+#. i18n: @title:column
+#. i18n: ectx: property (text), widget (QTreeWidget, kcfg_disabledPlugins)
+#: kerfuffle/pluginsettingspage.ui:29
+#, kde-format
+msgid "Description"
+msgstr "ការពិពណ៌នា"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_limitPreviewFileSize)
+#: kerfuffle/previewsettingspage.ui:22
+#, kde-format
+msgid "Disable preview for files larger than:"
+msgstr "បិទការមើលជាមុនសម្រាប់ឯកសារធំជាង៖"
+
+#: kerfuffle/propertiesdialog.cpp:61
+#, kde-format
+msgctxt "@title:window"
+msgid "Properties for %1"
+msgstr "លក្ខណៈសម្បត្តិសម្រាប់ %1"
+
+#. i18n: ectx: property (text), widget (KSqueezedTextLabel, m_passwordValueLabel)
+#: kerfuffle/propertiesdialog.cpp:69 kerfuffle/propertiesdialog.cpp:71
+#: part/infopanel.ui:195
+#, kde-format
+msgid "yes"
+msgstr "បាទ / ចាស"
+
+#: kerfuffle/propertiesdialog.cpp:69 kerfuffle/propertiesdialog.cpp:70
+#: kerfuffle/propertiesdialog.cpp:71 kerfuffle/propertiesdialog.cpp:84
+#, kde-format
+msgid "no"
+msgstr "ទេ"
+
+#: kerfuffle/propertiesdialog.cpp:70
+#, kde-format
+msgid "yes (%1 volumes)"
+msgstr "បាទ (បរិមាណ %1)"
+
+#: kerfuffle/propertiesdialog.cpp:72
+#, kde-format
+msgid "%1 file"
+msgid_plural "%1 files"
+msgstr[0] "ឯកសារ %1"
+msgstr[1] "ឯកសារ %1"
+
+#: kerfuffle/propertiesdialog.cpp:73
+#, kde-format
+msgid ", %1 folder"
+msgid_plural ", %1 folders"
+msgstr[0] ", ថត %1"
+msgstr[1] ", ថត %1"
+
+#: kerfuffle/propertiesdialog.cpp:87
+#, kde-format
+msgid "only file contents (%1)"
+msgstr "មានតែមាតិកាឯកសារប៉ុណ្ណោះ (%1)"
+
+#: kerfuffle/propertiesdialog.cpp:90
+#, kde-format
+msgid "yes (%1)"
+msgstr "បាទ (%1)"
+
+#: kerfuffle/propertiesdialog.cpp:107 kerfuffle/propertiesdialog.cpp:108
+#: kerfuffle/propertiesdialog.cpp:109
+#, kde-format
+msgid "Calculating..."
+msgstr "កំពុងគណនា ..."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kerfuffle/propertiesdialog.ui:37
+#, kde-format
+msgid "Archive name:"
+msgstr "ឈ្មោះប័ណ្ណសារ៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: kerfuffle/propertiesdialog.ui:54
+#, kde-format
+msgid "Archive type:"
+msgstr "ប្រភេទប័ណ្ណសារ៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: kerfuffle/propertiesdialog.ui:71
+#, kde-format
+msgid "Mime-type:"
+msgstr "ប្រភេទ Mime៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: kerfuffle/propertiesdialog.ui:88
+#, kde-format
+msgid "Opened read-only:"
+msgstr "បានបើកតែអាន៖"
+
+#. i18n: ectx: property (text), widget (QLabel, m_passwordLabel)
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: kerfuffle/propertiesdialog.ui:105 part/infopanel.ui:179
+#, kde-format
+msgid "Password-protected:"
+msgstr "ការពារពាក្យសម្ងាត់៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: kerfuffle/propertiesdialog.ui:122
+#, kde-format
+msgid "Has comment:"
+msgstr "មានយោបល់៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: kerfuffle/propertiesdialog.ui:139
+#, kde-format
+msgid "Number of entries:"
+msgstr "ចំនួនធាតុ៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: kerfuffle/propertiesdialog.ui:156
+#, kde-format
+msgid "Unpacked size:"
+msgstr "ទំហំខ្ចប់៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: kerfuffle/propertiesdialog.ui:173
+#, kde-format
+msgid "Packed size:"
+msgstr "ទំហំកញ្ចប់៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: kerfuffle/propertiesdialog.ui:190
+#, kde-format
+msgid "Compression ratio:"
+msgstr "សមាមាត្របង្ហាប់៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: kerfuffle/propertiesdialog.ui:207
+#, kde-format
+msgid "Last modified:"
+msgstr "កែប្រែចុងក្រោយ៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#: kerfuffle/propertiesdialog.ui:224
+#, kde-format
+msgid "MD5 hash:"
+msgstr "MD5 hash៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_13)
+#: kerfuffle/propertiesdialog.ui:244
+#, kde-format
+msgid "SHA-1 hash:"
+msgstr "SHA-1 hash៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_14)
+#: kerfuffle/propertiesdialog.ui:261
+#, kde-format
+msgid "SHA-256 hash:"
+msgstr "SHA-256 hash៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_15)
+#: kerfuffle/propertiesdialog.ui:278
+#, kde-format
+msgid "Multi-volume:"
+msgstr "បរិមាណច្រើន៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_16)
+#: kerfuffle/propertiesdialog.ui:295
+#, kde-format
+msgid "Compression method(s):"
+msgstr "វិធីសាស្ត្របង្ហាប់៖"
+
+#: kerfuffle/queries.cpp:94
+#, kde-format
+msgctxt "@title:window"
+msgid "File Already Exists"
+msgstr "ឯកសារមានរួចហើយ"
+
+#: kerfuffle/queries.cpp:177
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive <filename>%1</filename> is password protected. Please enter the password."
+msgstr "ប័ណ្ណសារ <filename> %1 </filename> ត្រូវបានការពារដោយពាក្យសម្ងាត់។ សូមបញ្ចូលពាក្យសម្ងាត់។"
+
+#: kerfuffle/queries.cpp:181
+#, kde-format
+msgid "Incorrect password, please try again."
+msgstr "ពាក្យសម្ងាត់មិនត្រឹមត្រូវសូមព្យាយាមម្តងទៀត។"
+
+#: kerfuffle/queries.cpp:216
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive you're trying to open is corrupt.<nl/>Some files may be missing or damaged."
+msgstr "ប័ណ្ណសារដែលអ្នកព្យាយាមបើកគឺខូច។ <nl/> ឯកសារខ្លះអាចបាត់ឬខូច។"
+
+#: kerfuffle/queries.cpp:218
+#, kde-format
+msgctxt "@title:window"
+msgid "Corrupt archive"
+msgstr "ប័ណ្ណសារពុករលួយ"
+
+#: kerfuffle/queries.cpp:219
+#, kde-format
+msgctxt "@action:button"
+msgid "Open as Read-Only"
+msgstr "បើកជាបានតែអាន"
+
+#: kerfuffle/queries.cpp:220
+#, kde-format
+msgctxt "@action:button"
+msgid "Don't Open"
+msgstr "កុំបើក"
+
+#: kerfuffle/queries.cpp:229
+#, kde-format
+msgid "Don't ask again."
+msgstr "កុំសួរម្តងទៀត។"
+
+#: kerfuffle/queries.cpp:241
+#, kde-format
+msgid "Error during extraction"
+msgstr "កំហុសក្នុងកំឡុងពេលស្រង់ចេញ"
+
+#: kerfuffle/queries.cpp:242
+#, kde-kuit-format
+msgid "Extraction of the entry:<nl/>    <filename>%1</filename><nl/>failed with the error message:<nl/>    %2<nl/><nl/>Do you want to continue extraction?<nl/>"
+msgstr "ការស្រង់ចេញនៃធាតុ៖ <nl/><filename> %1 </filename><nl/> បានបរាជ័យជាមួយសារកំហុស៖ <nl/> %2 <nl/><nl/> តើអ្នកចង់បន្តទាញយកទេ? <nl/>"
+
+#: part/archivemodel.cpp:175
+#, kde-format
+msgctxt "Name of a file inside an archive"
+msgid "Name"
+msgstr "ឈ្មោះ"
+
+#: part/archivemodel.cpp:177
+#, kde-format
+msgctxt "Uncompressed size of a file inside an archive"
+msgid "Size"
+msgstr "ទំហំ"
+
+#: part/archivemodel.cpp:179
+#, kde-format
+msgctxt "Compressed size of a file inside an archive"
+msgid "Compressed"
+msgstr "បង្រួម"
+
+#: part/archivemodel.cpp:181
+#, kde-format
+msgctxt "Compression rate of file"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: part/archivemodel.cpp:183
+#, kde-format
+msgctxt "File's owner username"
+msgid "Owner"
+msgstr "ម្ចាស់"
+
+#: part/archivemodel.cpp:185
+#, kde-format
+msgctxt "File's group"
+msgid "Group"
+msgstr "ក្រុម"
+
+#: part/archivemodel.cpp:187
+#, kde-format
+msgctxt "File permissions"
+msgid "Mode"
+msgstr "របៀប"
+
+#: part/archivemodel.cpp:189
+#, kde-format
+msgctxt "CRC hash code"
+msgid "CRC checksum"
+msgstr "ឆែកកាកបាទក្រហមកម្ពុជា"
+
+#: part/archivemodel.cpp:191
+#, kde-format
+msgctxt "BLAKE2 hash code"
+msgid "BLAKE2 checksum"
+msgstr "ឆេកសាំ BLAKE2"
+
+#: part/archivemodel.cpp:193
+#, kde-format
+msgctxt "Compression method"
+msgid "Method"
+msgstr "វិធីសាស្រ្ត"
+
+#: part/archivemodel.cpp:196
+#, kde-format
+msgctxt "File version"
+msgid "Version"
+msgstr "កំណែ"
+
+#: part/archivemodel.cpp:198
+#, kde-format
+msgctxt "Timestamp"
+msgid "Date"
+msgstr "កាលបរិច្ឆេទ"
+
+#: part/archivemodel.cpp:200
+#, kde-format
+msgctxt "Unnamed column"
+msgid "??"
+msgstr "??"
+
+#: part/archivemodel.cpp:311
+#, kde-format
+msgid "Adding files is not supported for this archive."
+msgstr "ការបន្ថែមឯកសារមិនត្រូវបានគាំទ្រសម្រាប់ប័ណ្ណសារនេះទេ។"
+
+#: part/archivemodel.cpp:319
+#, kde-format
+msgid "You can only add local files to an archive."
+msgstr "អ្នកអាចបន្ថែមតែឯកសារមូលដ្ឋានទៅប័ណ្ណសារ។"
+
+#. i18n: ectx: Menu (ark_file)
+#: part/ark_part.rc:15
+#, kde-format
+msgid "&File"
+msgstr "ឯកសារ"
+
+#. i18n: ectx: Menu (settings)
+#: part/ark_part.rc:29
+#, kde-format
+msgid "&Settings"
+msgstr "ការកំណត់"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: part/ark_part.rc:34
+#, kde-format
+msgid "Main Toolbar"
+msgstr "របារឧបករណ៍មេ"
+
+#: part/arkviewer.cpp:60
+#, kde-format
+msgid "Closing preview"
+msgstr "ការបិទការមើលជាមុន"
+
+#: part/arkviewer.cpp:61
+#, kde-format
+msgid "Please wait while the preview is being closed..."
+msgstr "សូមរង់ចាំខណៈពេលដែលការមើលជាមុនត្រូវបានបិទ ..."
+
+#: part/arkviewer.cpp:122
+#, kde-kuit-format
+msgid "The internal viewer cannot preview this type of file<nl/>(%1).<nl/><nl/>Do you want to try to view it as plain text?"
+msgstr "កម្មវិធីមើលខាងក្នុងមិនអាចមើលជាមុននូវប្រភេទឯកសារនេះទេ <nl/> (%1) ។ <nl/><nl/> តើអ្នកចង់ព្យាយាមមើលវាជាអត្ថបទធម្មតាទេ?"
+
+#: part/arkviewer.cpp:123 part/arkviewer.cpp:135
+#, kde-format
+msgctxt "@title:window"
+msgid "Cannot Preview File"
+msgstr "មិនអាចមើលឯកសារជាមុនបានទេ"
+
+#: part/arkviewer.cpp:124 part/arkviewer.cpp:136
+#, kde-format
+msgctxt "@action:button"
+msgid "Preview as Text"
+msgstr "មើលជាអត្ថបទ"
+
+#: part/arkviewer.cpp:134
+#, kde-kuit-format
+msgid "The internal viewer cannot preview this unknown type of file.<nl/><nl/>Do you want to try to view it as plain text?"
+msgstr "កម្មវិធីមើលខាងក្នុងមិនអាចមើលជាមុននូវប្រភេទឯកសារដែលមិនស្គាល់នេះទេ។ <nl/><nl/> តើអ្នកចង់ព្យាយាមមើលវាជាអត្ថបទធម្មតាទេ?"
+
+#: part/arkviewer.cpp:161
+#, kde-format
+msgid "The internal viewer cannot preview this file."
+msgstr "កម្មវិធីមើលខាងក្នុងមិនអាចមើលឯកសារនេះជាមុនបានទេ។"
+
+#: part/infopanel.cpp:67
+#, kde-format
+msgid "No archive loaded"
+msgstr "មិនមានផ្ទុកប័ណ្ណសារទេ"
+
+#: part/infopanel.cpp:118
+#, kde-format
+msgid "Symbolic Link"
+msgstr "តំណនិមិត្តសញ្ញា"
+
+#: part/infopanel.cpp:123
+#, kde-format
+msgid "Unknown size"
+msgstr "ទំហំមិនស្គាល់"
+
+#: part/infopanel.cpp:148
+#, kde-format
+msgid "One file selected"
+msgid_plural "%1 files selected"
+msgstr[0] "ឯកសារមួយត្រូវបានជ្រើសរើស"
+msgstr[1] "%1 បានជ្រើសរើសឯកសារ"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, InformationPanel)
+#: part/infopanel.ui:20
+#, kde-format
+msgid "Information Panel"
+msgstr "បន្ទះព័ត៌មាន"
+
+#. i18n: ectx: property (text), widget (QLabel, additionalInfo)
+#: part/infopanel.ui:64
+#, kde-format
+msgid "Unknown file type"
+msgstr "មិនស្គាល់ប្រភេទឯកសារ"
+
+#. i18n: ectx: property (text), widget (QLabel, m_ownerLabel)
+#: part/infopanel.ui:113
+#, kde-format
+msgid "Owner:"
+msgstr "ម្ចាស់៖"
+
+#. i18n: ectx: property (text), widget (QLabel, m_groupLabel)
+#: part/infopanel.ui:133
+#, kde-format
+msgid "Group:"
+msgstr "ក្រុម៖"
+
+#. i18n: ectx: property (text), widget (QLabel, m_targetLabel)
+#: part/infopanel.ui:153
+#, kde-format
+msgid "Target:"
+msgstr "គោលដៅ៖"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, JobTrackerWidget)
+#: part/jobtracker.ui:13
+#, kde-format
+msgid "Job Tracker"
+msgstr "អ្នកតាមដានការងារ"
+
+#. i18n: ectx: property (text), widget (QLabel, descriptionLabel)
+#: part/jobtracker.ui:43
+#, kde-format
+msgid "<b>Job Description</b>"
+msgstr "<b> ការពិពណ៌នាការងារ </b>"
+
+#. i18n: ectx: property (text), widget (QLabel, informationLabel)
+#: part/jobtracker.ui:62
+#, kde-format
+msgid "Some Information about the job"
+msgstr "ព័ត៌មានខ្លះអំពីការងារ"
+
+#: part/overwritedialog.cpp:47
+#, kde-format
+msgid "Files with the following paths already exist. Remove them if you really want to overwrite."
+msgstr "ឯកសារដែលមានផ្លូវដូចខាងក្រោមមានរួចហើយ។ យកពួកវាចេញប្រសិនបើអ្នកពិតជាចង់សរសេរជាន់លើ។"
+
+#: part/overwritedialog.cpp:49
+#, kde-format
+msgid "Files with the following paths already exist. Do you want to continue overwriting them?"
+msgstr "ឯកសារដែលមានផ្លូវដូចខាងក្រោមមានរួចហើយ។ តើអ្នកចង់បន្តសរសេរជាន់លើពួកវាទេ?"
+
+#: part/part.cpp:99
+#, kde-format
+msgid "ArkPart"
+msgstr "ផ្នែក Ark"
+
+#: part/part.cpp:123
+#, kde-format
+msgid "Comment"
+msgstr "មតិយោបល់"
+
+#: part/part.cpp:134
+#, kde-format
+msgid "Comment has been modified."
+msgstr "មតិយោបល់ត្រូវបានកែប្រែ។"
+
+#: part/part.cpp:139
+#, kde-format
+msgid "Save"
+msgstr "រក្សាទុក"
+
+#: part/part.cpp:162
+#, kde-format
+msgid "Type to search..."
+msgstr "វាយបញ្ចូលដើម្បីស្វែងរក ..."
+
+#: part/part.cpp:310
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Ark can extract archives to local destinations only."
+msgstr "Ark អាចស្រង់ចេញប័ណ្ណសារទៅកាន់គោលដៅក្នុងស្រុក។"
+
+#: part/part.cpp:362
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Information Panel"
+msgstr "បង្ហាញផ្ទាំងព័ត៌មាន"
+
+#: part/part.cpp:369
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Save Copy As..."
+msgstr "រក្សាទុកច្បាប់ចម្លងជា ..."
+
+#: part/part.cpp:373
+#, kde-format
+msgctxt "open a file with external program"
+msgid "&Open"
+msgstr "បើក"
+
+#: part/part.cpp:375
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Click to open the selected file with the associated application"
+msgstr "ចុចដើម្បីបើកឯកសារដែលបានជ្រើសរើសជាមួយកម្មវិធីដែលជាប់ទាក់ទង"
+
+#: part/part.cpp:379
+#, kde-format
+msgctxt "open a file with external program"
+msgid "Open &With..."
+msgstr "បើក​ជាមួយ..."
+
+#: part/part.cpp:381
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Click to open the selected file with an external program"
+msgstr "ចុចដើម្បីបើកឯកសារដែលបានជ្រើសរើសជាមួយកម្មវិធីខាងក្រៅ"
+
+#: part/part.cpp:385
+#, kde-format
+msgctxt "to preview a file inside an archive"
+msgid "Pre&view"
+msgstr "មើលជាមុន"
+
+#: part/part.cpp:387
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Click to preview the selected file"
+msgstr "ចុចដើម្បីមើលឯកសារដែលបានជ្រើសរើសជាមុន"
+
+#: part/part.cpp:392
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "E&xtract All"
+msgstr "ទាញយកទាំងអស់"
+
+#: part/part.cpp:394
+#, kde-format
+msgid "Click to open an extraction dialog, where you can choose how to extract all the files in the archive"
+msgstr "ចុចដើម្បីបើកប្រអប់ស្រង់ចេញដែលអ្នកអាចជ្រើសរើសវិធីស្រង់ចេញឯកសារទាំងអស់នៅក្នុងប័ណ្ណសារ"
+
+#: part/part.cpp:399
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Extract"
+msgstr "ស្រង់ចេញ"
+
+#: part/part.cpp:402
+#, kde-format
+msgid "Click to open an extraction dialog, where you can choose to extract either all files or just the selected ones"
+msgstr "ចុចដើម្បីបើកប្រអប់ស្រង់ចេញដែលអ្នកអាចជ្រើសរើសដើម្បីស្រង់ចេញនូវឯកសារទាំងអស់ឬគ្រាន់តែជាឯកសារដែលបានជ្រើសរើសប៉ុណ្ណោះ"
+
+#: part/part.cpp:407
+#, kde-format
+msgid "Add &Files..."
+msgstr "បន្ថែម​ឯកសារ..."
+
+#: part/part.cpp:408 part/part.cpp:470
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Click to add files to the archive"
+msgstr "ចុចដើម្បីបន្ថែមឯកសារទៅប័ណ្ណសារ"
+
+#: part/part.cpp:424
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Properties"
+msgstr "លក្ខណៈសម្បត្តិ"
+
+#: part/part.cpp:426
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Click to see properties for archive"
+msgstr "ចុចដើម្បីមើលលក្ខណៈសម្បត្តិសម្រាប់ប័ណ្ណសារ"
+
+#: part/part.cpp:432
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Click to add or edit comment"
+msgstr "ចុចដើម្បីបន្ថែមឬកែសម្រួលមតិយោបល់"
+
+#: part/part.cpp:437
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Test Integrity"
+msgstr "សាកល្បងភាពត្រឹមត្រូវ"
+
+#: part/part.cpp:439 part/part.cpp:471
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Click to test the archive for integrity"
+msgstr "ចុចដើម្បីសាកល្បងប័ណ្ណសារសម្រាប់ភាពសុចរិត"
+
+#: part/part.cpp:465
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Adding files to existing password-protected archives with no header-encryption is currently not supported.<nl/><nl/>Extract the files and create a new archive if you want to add files."
+msgstr "ការបន្ថែមឯកសារទៅប័ណ្ណសារដែលការពារដោយពាក្យសម្ងាត់ដែលមានស្រាប់ដោយគ្មានការអ៊ិនគ្រីបបឋមកថាបច្ចុប្បន្នមិនត្រូវបានគាំទ្រទេ។ <nl/><nl/> ទាញយកឯកសារនិងបង្កើតប័ណ្ណសារថ្មីប្រសិនបើអ្នកចង់បន្ថែមឯកសារ។"
+
+#: part/part.cpp:468
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Testing password-protected archives with no header-encryption is currently not supported."
+msgstr "បណ្ណសារដែលការពារដោយពាក្យសម្ងាត់ដោយគ្មានការអ៊ិនគ្រីបបឋមកថាបច្ចុប្បន្នមិនត្រូវបានគាំទ្រ។"
+
+#: part/part.cpp:536
+#, kde-format
+msgctxt "@action:inmenu mutually exclusive with Add &Comment"
+msgid "Edit &Comment"
+msgstr "កែសម្រួលមតិយោបល់"
+
+#: part/part.cpp:537 part/part.cpp:545
+#, kde-format
+msgctxt "@action:inmenu mutually exclusive with Edit &Comment"
+msgid "Add &Comment"
+msgstr "បន្ថែមមតិយោបល់"
+
+#: part/part.cpp:646
+#, kde-format
+msgid "The archive passed the integrity test."
+msgstr "ប័ណ្ណសារបានឆ្លងកាត់ការសាកល្បងសុចរិតភាព។"
+
+#: part/part.cpp:646 part/part.cpp:648
+#, kde-format
+msgid "Test Results"
+msgstr "លទ្ធផល​តេ​ស្ត"
+
+#: part/part.cpp:648
+#, kde-format
+msgid "The archive failed the integrity test."
+msgstr "ប័ណ្ណសារបានបរាជ័យក្នុងការសាកល្បងសុចរិតភាព។"
+
+#: part/part.cpp:669
+#, kde-format
+msgid "Extract To..."
+msgstr "ស្រង់ចេញទៅ ..."
+
+#: part/part.cpp:683
+#, kde-format
+msgid "Quick Extract To..."
+msgstr "ស្រង់ចេញរហ័សទៅ ..."
+
+#: part/part.cpp:812
+#, kde-format
+msgctxt "@title:tab"
+msgid "General"
+msgstr "ទូទៅ"
+
+#: part/part.cpp:813
+#, kde-format
+msgctxt "@title:tab"
+msgid "Extraction"
+msgstr "ការស្រង់ចេញ"
+
+#: part/part.cpp:814
+#, kde-format
+msgctxt "@title:tab"
+msgid "Plugins"
+msgstr "កម្មវិធីជំនួយ"
+
+#: part/part.cpp:815
+#, kde-format
+msgctxt "@title:tab"
+msgid "Previews"
+msgstr "ការមើលជាមុន"
+
+#: part/part.cpp:827
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<filename>%1</filename> is a directory."
+msgstr "<filename> %1 </filename> គឺជាថតឯកសារ។"
+
+#: part/part.cpp:836
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not overwrite <filename>%1</filename>. Check whether you have write permission."
+msgstr "មិនអាចសរសេរជាន់ពីលើបានទេ <filename> %1 </filename> ។ ពិនិត្យមើលថាតើអ្នកមានការអនុញ្ញាតក្នុងការសរសេរ។"
+
+#: part/part.cpp:842
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive <filename>%1</filename> will be created as soon as you add a file."
+msgstr "ប័ណ្ណសារ <filename> %1 </filename> នឹងត្រូវបានបង្កើតនៅពេលដែលអ្នកបន្ថែមឯកសារ។"
+
+#: part/part.cpp:845
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive <filename>%1</filename> was not found."
+msgstr "ប័ណ្ណសារ <filename> %1 </filename> មិនត្រូវបានរកឃើញ។"
+
+#: part/part.cpp:850
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive <filename>%1</filename> could not be loaded, as it was not possible to read from it."
+msgstr "ប័ណ្ណសារ <filename> %1 </filename> មិនអាចផ្ទុកបានទេព្រោះមិនអាចអានពីវាបាន។"
+
+#: part/part.cpp:863
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive <filename>%1</filename> already exists. Do you wish to overwrite it?"
+msgstr "ប័ណ្ណសារ <filename> %1 </filename> ធ្លាប់​មាន​រួចហើយ។ តើអ្នកចង់សរសេរជាន់លើវាទេ?"
+
+#: part/part.cpp:865
+#, kde-format
+msgctxt "@title:window"
+msgid "File Exists"
+msgstr "ឯកសារមាន"
+
+#: part/part.cpp:902
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive is empty or Ark could not open its content."
+msgstr "ប័ណ្ណសារគឺទទេឬ Ark មិនអាចបើកមាតិការបស់វាបានទេ។"
+
+#: part/part.cpp:907
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Ark does not currently support ISO files with UDF filesystem."
+msgstr "បច្ចុប្បន្ន Ark មិនគាំទ្រឯកសារអាយអេសអូជាមួយប្រព័ន្ធឯកសារយូឌីអេហ្វ។"
+
+#: part/part.cpp:936
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Loading the archive <filename>%1</filename> failed with the following error:<nl/><message>%2</message>"
+msgstr "ផ្ទុកប័ណ្ណសារ <filename> %1 </filename> បានបរាជ័យដោយមានកំហុសដូចខាងក្រោមៈ <nl/><message> %2 </message>"
+
+#: part/part.cpp:996
+#, kde-format
+msgid "Ark cannot open symlinks."
+msgstr "Ark មិនអាចបើកតំណភ្ជាប់បានទេ។"
+
+#: part/part.cpp:1101
+#, kde-kuit-format
+msgid "The file <filename>%1</filename> was modified. Do you want to update the archive?"
+msgstr "ឯកសារ <filename> %1 </filename> ត្រូវបានកែប្រែ។ តើអ្នកចង់ធ្វើបច្ចុប្បន្នភាពប័ណ្ណសារទេ?"
+
+#: part/part.cpp:1103
+#, kde-format
+msgctxt "@title:window"
+msgid "File Modified"
+msgstr "បានកែប្រែឯកសារ"
+
+#: part/part.cpp:1383
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Files"
+msgstr "បន្ថែម​ឯកសារ"
+
+#: part/part.cpp:1388
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Files to %1"
+msgstr "បន្ថែមឯកសារទៅ %1"
+
+#: part/part.cpp:1452
+#, kde-format
+msgid "Filename can't contain slashes and can't be equal to \".\" or \"..\""
+msgstr "ឈ្មោះឯកសារមិនអាចមានសញ្ញា (_) និងមិនអាចស្មើនឹង \".\" ឬ \"..\""
+
+#: part/part.cpp:1496
+#, kde-format
+msgid "Folders can't be moved into themselves."
+msgstr "ថតឯកសារមិនអាចត្រូវបានផ្លាស់ប្តូរទៅក្នុងខ្លួនគេទេ។"
+
+#: part/part.cpp:1497
+#, kde-format
+msgid "Moving a folder into itself"
+msgstr "ការផ្លាស់ប្តូរថតឯកសារទៅក្នុងខ្លួនវា"
+
+#: part/part.cpp:1525
+#, kde-format
+msgid "Entries with the same names can't be pasted to the same destination."
+msgstr "ធាតុដែលមានឈ្មោះដូចគ្នាមិនអាចត្រូវបានបិទភ្ជាប់ទៅទិសដៅតែមួយទេ។"
+
+#: part/part.cpp:1620
+#, kde-format
+msgctxt "@info"
+msgid "Deleting this file is not undoable. Are you sure you want to do this?"
+msgid_plural "Deleting these files is not undoable. Are you sure you want to do this?"
+msgstr[0] "ការលុបឯកសារនេះគឺមិនអាចធ្វើវិញបានទេ។ តើអ្នកប្រាកដជាចង់ធ្វើវាឬ?"
+msgstr[1] "ការលុបឯកសារទាំងនេះគឺមិនអាចធ្វើបានទេ។ តើអ្នកប្រាកដជាចង់ធ្វើវាឬ?"
+
+#: part/part.cpp:1623
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete File"
+msgid_plural "Delete Files"
+msgstr[0] "លុប​ឯកសារ"
+msgstr[1] "លុបឯកសារ"
+
+#: part/part.cpp:1667
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Copy As"
+msgstr "រក្សាទុកចម្លងជា"
+
+#: part/part.cpp:1682
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive could not be saved as <filename>%1</filename>. Try saving it to another location."
+msgstr "ប័ណ្ណសារមិនអាចរក្សាទុកបានទេ <filename> %1 </filename> ។ ព្យាយាមរក្សាទុកវាទៅទីតាំងមួយផ្សេងទៀត។"
+
+#: part/part.cpp:1686
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive <filename>%1</filename> does not exist anymore, therefore it cannot be copied to the specified location."
+msgstr "ប័ណ្ណសារ <filename> %1 </filename> មិនមានទៀតទេដូច្នេះវាមិនអាចចម្លងទៅទីតាំងដែលបានបញ្ជាក់បានទេ។"
+
+#: plugins/cli7zplugin/cliplugin.cpp:125
+#: plugins/cliunarchiverplugin/cliplugin.cpp:100
+#, kde-format
+msgid "Listing the archive failed."
+msgstr "ការចុះបញ្ជីប័ណ្ណសារបានបរាជ័យ។"
+
+#: plugins/cli7zplugin/cliplugin.cpp:303
+#, kde-format
+msgid "Extraction failed due to an unknown error."
+msgstr "ការស្រង់ចេញបានបរាជ័យដោយសារកំហុសមិនស្គាល់។"
+
+#: plugins/cli7zplugin/cliplugin.cpp:309 plugins/clizipplugin/cliplugin.cpp:202
+#, kde-format
+msgid "Extraction failed due to one or more corrupt files. Any extracted files may be damaged."
+msgstr "ការស្រង់ចេញបានបរាជ័យដោយសារឯកសារខូចមួយឬច្រើន។ រាល់ឯកសារដែលបានស្រង់ចេញអាចខូច។"
+
+#: plugins/cli7zplugin/cliplugin.cpp:320
+#, kde-format
+msgid "Delete operation failed. Try upgrading p7zip or disabling the p7zip plugin in the configuration dialog."
+msgstr "ប្រតិបត្តិការលុបចោលបានបរាជ័យ។ ព្យាយាមធ្វើឱ្យប្រសើរ p7zip ឬបិទកម្មវិធីជំនួយ p7zip នៅក្នុងប្រអប់កំណត់រចនាសម្ព័ន្ធ។"
+
+#: plugins/clirarplugin/cliplugin.cpp:171
+#: plugins/clirarplugin/cliplugin.cpp:314
+#: plugins/clirarplugin/cliplugin.cpp:571
+#, kde-format
+msgid "Failed to find all archive volumes."
+msgstr "បានបរាជ័យក្នុងការស្វែងរកបរិមាណប័ណ្ណសារ។"
+
+#: plugins/clirarplugin/cliplugin.cpp:335
+#, kde-format
+msgid "Your unrar executable is version %1, which is too old to handle this archive. Please update to a more recent version."
+msgstr "ប្រតិបត្ដិការមិនផ្លូវការរបស់អ្នកគឺកំណែ %1 ដែលចាស់ពេកមិនអាចគ្រប់គ្រងប័ណ្ណសារនេះបាន។ សូមធ្វើបច្ចុប្បន្នភាពទៅកំណែថ្មីជាងនេះ។"
+
+#: plugins/clirarplugin/cliplugin.cpp:342
+#, kde-format
+msgid "Unrar reported a non-RAR archive. The installed unrar version (%1) is old. Try updating your unrar."
+msgstr "យូរ៉ារ៉ាបានរាយការណ៍ប័ណ្ណសារដែលមិនមែនជារ៉ាហ្វា។ កំណែអាន់ឌឺដែលបានតំឡើង (%1) ចាស់។ ព្យាយាមធ្វើបច្ចុប្បន្នភាពបញ្ជីឈ្មោះរបស់អ្នក។"
+
+#: plugins/clirarplugin/cliplugin.cpp:566
+#, kde-format
+msgid "One or more wrong checksums"
+msgstr "ឆេកឆាន់មួយឬច្រើន"
+
+#: plugins/cliunarchiverplugin/cliplugin.cpp:112
+#, kde-format
+msgid "Extraction failed."
+msgstr "ការស្រង់ចេញបានបរាជ័យ។"
+
+#: plugins/cliunarchiverplugin/cliplugin.cpp:146
+#, kde-format
+msgid "Not enough memory for loading the archive."
+msgstr "មិនមានអង្គចងចាំគ្រប់គ្រាន់សម្រាប់ផ្ទុកប័ណ្ណសារទេ។"
+
+#: plugins/cliunarchiverplugin/cliplugin.cpp:198
+#, kde-format
+msgid "Wrong password."
+msgstr "លេខសំងាត់​ខុស។"
+
+#: plugins/clizipplugin/cliplugin.cpp:192
+#, kde-format
+msgid "Extraction failed due to unsupported compression method (%1)."
+msgstr "ការស្រង់ចេញបានបរាជ័យដោយសារវិធីសាស្ត្របង្ហាប់មិនគាំទ្រ (%1) ។"
+
+#: plugins/clizipplugin/cliplugin.cpp:197
+#, kde-format
+msgid "Extraction failed due to unsupported encryption method."
+msgstr "ការទាញយកបានបរាជ័យដោយសារវិធីសាស្ត្របំលែងកូដ។"
+
+#: plugins/clizipplugin/cliplugin.cpp:325
+#, kde-format
+msgctxt "referred to compression method"
+msgid "unknown"
+msgstr "មិនស្គាល់"
+
+#: plugins/libarchive/libarchiveplugin.cpp:285
+#, kde-format
+msgid "This archive contains archive entries with absolute paths, which are not supported by Ark."
+msgstr "ប័ណ្ណសារនេះមានធាតុបណ្ណសារដែលមានផ្លូវដាច់ខាតដែលមិនត្រូវបានគាំទ្រដោយ Ark ។"
+
+#: plugins/libarchive/libarchiveplugin.cpp:410
+#, kde-format
+msgctxt "@info"
+msgid "Fatal error, extraction aborted."
+msgstr "កំហុសធ្ងន់ធ្ងរការដកស្រង់ត្រូវបានបញ្ឈប់។"
+
+#: plugins/libarchive/libarchiveplugin.cpp:444
+#, kde-format
+msgid "The archive reader could not be initialized."
+msgstr "អ្នកអានបណ្ណសារមិនអាចត្រូវបានចាប់ផ្តើមទេ។"
+
+#: plugins/libarchive/libarchiveplugin.cpp:458
+#, kde-format
+msgctxt "@info"
+msgid "Archive corrupted or insufficient permissions."
+msgstr "ប័ណ្ណសារខូចឬសិទ្ធិមិនគ្រប់គ្រាន់។"
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:228
+#, kde-format
+msgctxt "@info"
+msgid "Failed to create a temporary file for writing data."
+msgstr "បានបរាជ័យក្នុងការបង្កើតឯកសារបណ្តោះអាសន្នសម្រាប់ការសរសេរទិន្នន័យ។"
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:234
+#, kde-format
+msgid "The archive writer could not be initialized."
+msgstr "អ្នកនិពន្ធបណ្ណសារមិនអាចត្រូវបានចាប់ផ្តើមទេ។"
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:252
+#, kde-format
+msgctxt "@info"
+msgid "Could not open the archive for writing entries."
+msgstr "មិនអាចបើកប័ណ្ណសារសម្រាប់ការសរសេរធាតុ។"
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:299
+#, kde-format
+msgid "The compression type '%1' is not supported by Ark."
+msgstr "ប្រភេទបង្ហាប់ '%1' មិនត្រូវបានគាំទ្រដោយ Ark ឡើយ។"
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:308
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:362
+#, kde-format
+msgctxt "@info"
+msgid "Could not set the compression method."
+msgstr "មិនអាចកំណត់វិធីសាស្ត្របង្ហាប់បានទេ។"
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:372
+#, kde-format
+msgctxt "@info"
+msgid "Could not set the compression level."
+msgstr "មិនអាចកំណត់កម្រិតបង្ហាប់បានទេ។"
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:491
+#, kde-format
+msgctxt "@info"
+msgid "Could not compress entry, operation aborted."
+msgstr "មិនអាចបង្រួមធាតុចូលប្រតិបត្តិការត្រូវបានបោះបង់។"
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:532
+#, kde-format
+msgctxt "@info Error in a message box"
+msgid "Could not compress entry."
+msgstr "មិនអាចបង្រួមធាតុបានទេ។"
+
+#: plugins/libsinglefileplugin/singlefileplugin.cpp:67
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Ark could not extract <filename>%1</filename>."
+msgstr "Ark មិនអាចដកស្រង់បានទេ <filename> %1 </filename>"
+
+#: plugins/libsinglefileplugin/singlefileplugin.cpp:75
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Ark could not open <filename>%1</filename> for extraction."
+msgstr "Ark មិនអាចបើកបានទេ <filename> %1 </filename> សម្រាប់ការស្រង់ចេញ។"
+
+#: plugins/libsinglefileplugin/singlefileplugin.cpp:89
+#, kde-kuit-format
+msgctxt "@info"
+msgid "There was an error while reading <filename>%1</filename> during extraction."
+msgstr "មានកំហុសពេលអាន <filename> %1 </filename> កំឡុងពេលស្រង់ចេញ។"
+
+#: plugins/libzipplugin/libzipplugin.cpp:83
+#: plugins/libzipplugin/libzipplugin.cpp:126
+#: plugins/libzipplugin/libzipplugin.cpp:400
+#: plugins/libzipplugin/libzipplugin.cpp:445
+#: plugins/libzipplugin/libzipplugin.cpp:532
+#: plugins/libzipplugin/libzipplugin.cpp:800
+#: plugins/libzipplugin/libzipplugin.cpp:849
+#, kde-kuit-format
+msgid "Failed to open archive: %1"
+msgstr "បានបរាជ័យក្នុងការបើកប័ណ្ណសារ៖ %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:178
+#: plugins/libzipplugin/libzipplugin.cpp:429
+#: plugins/libzipplugin/libzipplugin.cpp:457
+#: plugins/libzipplugin/libzipplugin.cpp:830
+#: plugins/libzipplugin/libzipplugin.cpp:912
+#, kde-kuit-format
+msgid "Failed to write archive."
+msgstr "បានបរាជ័យក្នុងការសរសេរប័ណ្ណសារ។"
+
+#: plugins/libzipplugin/libzipplugin.cpp:223
+#: plugins/libzipplugin/libzipplugin.cpp:886
+#, kde-kuit-format
+msgid "Failed to add entry: %1"
+msgstr "បានបរាជ័យក្នុងការបន្ថែមធាតុ៖ %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:270
+#, kde-kuit-format
+msgid "Failed to set compression options for entry: %1"
+msgstr "បានបរាជ័យក្នុងការកំណត់ជម្រើសបង្ហាប់សម្រាប់ការបញ្ចូល៖ %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:370
+#: plugins/libzipplugin/libzipplugin.cpp:754
+#: plugins/libzipplugin/libzipplugin.cpp:895
+#, kde-kuit-format
+msgid "Failed to read metadata for entry: %1"
+msgstr "បានបរាជ័យក្នុងការអានទិន្នន័យមេតាសម្រាប់ការបញ្ចូល៖ %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:414
+#: plugins/libzipplugin/libzipplugin.cpp:419
+#, kde-kuit-format
+msgid "Failed to delete entry: %1"
+msgstr "បានបរាជ័យក្នុងការលុបការបញ្ចូល៖ %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:637
+#, kde-kuit-format
+msgid "Failed to create directory: %1"
+msgstr "បានបរាជ័យក្នុងការបង្កើតថតឯកសារ៖ %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:710
+#, kde-kuit-format
+msgid "Failed to open '%1':<nl/>%2"
+msgstr "បានបរាជ័យក្នុងការបើក '%1'៖ <nl/> %2"
+
+#: plugins/libzipplugin/libzipplugin.cpp:718
+#, kde-kuit-format
+msgid "Failed to open file for writing: %1"
+msgstr "បានបរាជ័យក្នុងការបើកឯកសារសម្រាប់ការសរសេរ៖ %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:731
+#, kde-kuit-format
+msgid "Failed to read data for entry: %1"
+msgstr "បានបរាជ័យក្នុងការអានទិន្នន័យសម្រាប់ការបញ្ចូល៖ %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:736
+#, kde-kuit-format
+msgid "Failed to write data for entry: %1"
+msgstr "បានបរាជ័យក្នុងការសរសេរទិន្នន័យសម្រាប់ការបញ្ចូល៖ %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:746
+#, kde-kuit-format
+msgid "Failed to locate entry: %1"
+msgstr "បានបរាជ័យក្នុងការកំណត់ទីតាំងធាតុ៖ %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:814
+#: plugins/libzipplugin/libzipplugin.cpp:820
+#, kde-kuit-format
+msgid "Failed to move entry: %1"
+msgstr "បានបរាជ័យក្នុងការផ្លាស់ទីធាតុ៖ %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:872
+#, kde-kuit-format
+msgid "Failed to copy entry: %1"
+msgstr "បានបរាជ័យក្នុងការចម្លងការចូល៖ %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:902
+#, kde-kuit-format
+msgid "Failed to set metadata for entry: %1"
+msgstr "បានបរាជ័យក្នុងការកំណត់ទិន្នន័យមេតាសម្រាប់ការចូល៖ %1"
+
+#~ msgctxt "@title:window"
+#~ msgid "Save Archive As"
+#~ msgstr "រក្សាទុកប័ណ្ណសារជា"
+
+#~ msgctxt "@info"
+#~ msgid "An archive named <filename>%1</filename> already exists. Are you sure you want to overwrite it?"
+#~ msgstr "ប័ណ្ណសារឈ្មោះ <filename> %1 </filename> ធ្លាប់​មាន​រួចហើយ។ តើអ្នកពិតជាចង់សរសេរជាន់លើវាឬ?"
+
+#~ msgctxt "@title:tab"
+#~ msgid "General Settings"
+#~ msgstr "ការកំណត់​ទូទៅ"
+
+#~ msgctxt "@title:tab"
+#~ msgid "Extraction Settings"
+#~ msgstr "ការកំណត់ការស្រង់ចេញ"
+
+#~ msgctxt "@title:tab"
+#~ msgid "Preview Settings"
+#~ msgstr "មើលការកំណត់ជាមុន"
+
+#~ msgctxt "CRC hash code"
+#~ msgid "CRC"
+#~ msgstr "កាកបាទក្រហមកម្ពុជា"
+
+#~ msgid "There was an error during extraction."
+#~ msgstr "មានកំហុសកំឡុងពេលទាញយក។"
+
+#~ msgid "&Rename"
+#~ msgstr "ប្តូរឈ្មោះ"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Click to rename the selected file"
+#~ msgstr "ចុចដើម្បីប្តូរឈ្មោះឯកសារដែលបានជ្រើសរើស"
+
+#~ msgid "De&lete"
+#~ msgstr "លុប"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Click to delete the selected files"
+#~ msgstr "ចុចដើម្បីលុបឯកសារដែលបានជ្រើសរើស"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "C&ut"
+#~ msgstr "កាត់"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Click to cut the selected files"
+#~ msgstr "ចុចដើម្បីកាត់ឯកសារដែលបានជ្រើសរើស"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "C&opy"
+#~ msgstr "ចម្លង"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Click to copy the selected files"
+#~ msgstr "ចុចដើម្បីចម្លងឯកសារដែលបានជ្រើសរើស"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Pa&ste"
+#~ msgstr "បិទភ្ជាប់"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Click to paste the files here"
+#~ msgstr "ចុចដើម្បីបិទភ្ជាប់ឯកសារនៅទីនេះ"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "&Find Files"
+#~ msgstr "ស្វែងរកឯកសារ"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Click to search in archive"
+#~ msgstr "ចុចដើម្បីស្វែងរកក្នុងប័ណ្ណសារ"
+
+#~ msgid "Adding a file"
+#~ msgid_plural "Adding %1 files"
+#~ msgstr[0] "បន្ថែមឯកសារ"
+#~ msgstr[1] "បន្ថែមឯកសារ %1"
+
+#~ msgid "<b>Type:</b> %1"
+#~ msgstr "<b> ប្រភេទ៖ </b> %1"
+
+#~ msgid "<b>Owner:</b> %1"
+#~ msgstr "<b> ម្ចាស់៖ </b> %1"
+
+#~ msgid "<b>Group:</b> %1"
+#~ msgstr "<b> ក្រុម៖ </b> %1"
+
+#~ msgid "<b>Target:</b> %1"
+#~ msgstr "<b> គោលដៅ៖ </b> %1"
+
+#~ msgid "<b>Password protected:</b> Yes"
+#~ msgstr "<b> បានការពារលេខសម្ងាត់៖ </b> ត្រូវហើយ"
+
+#~ msgid "Cancel"
+#~ msgstr "បោះបង់"
+
+#~ msgid "OK"
+#~ msgstr "យល់ព្រម"
+
+#~ msgctxt "@action:button"
+#~ msgid "Overwrite"
+#~ msgstr "សរសេរជាន់លើ"
+
+#~ msgid "Invalid filename"
+#~ msgstr "ឈ្មោះឯកសារមិនត្រឹមត្រូវ"
+
+#~ msgid "Pasting entries with the same name"
+#~ msgstr "ការបិទភ្ជាប់ធាតុដែលមានឈ្មោះដូចគ្នា"
+
+#~ msgctxt "@info"
+#~ msgid "Extraction failed at:<nl/><filename>%1</filename>"
+#~ msgstr "ការស្រង់ចេញបានបរាជ័យនៅ៖ <nl/><filename> %1 </filename>"
+
+#~ msgctxt "@info"
+#~ msgid "Could not open the archive <filename>%1</filename>.<nl/>Check whether you have sufficient permissions."
+#~ msgstr "មិនអាចបើកប័ណ្ណសារ <filename> %1 </filename> ។ <nl/> ពិនិត្យមើលថាតើអ្នកមានសិទ្ធិគ្រប់គ្រាន់ដែរឬទេ។"
+
+#~ msgctxt "@info"
+#~ msgid "Failed to create a temporary file to compress <filename>%1</filename>."
+#~ msgstr "បានបរាជ័យក្នុងការបង្កើតឯកសារបណ្តោះអាសន្នដើម្បីបង្រួម <filename> %1 </filename>"
+
+#~ msgctxt "@info"
+#~ msgid "Opening the archive for writing failed with the following error:<nl/><message>%1</message>"
+#~ msgstr "ការបើកបណ្ណសារសម្រាប់ការសរសេរបានបរាជ័យដោយមានកំហុសដូចខាងក្រោមៈ <nl/><message> %1 </message>"
+
+#~ msgctxt "@info"
+#~ msgid "Setting the compression method failed with the following error:<nl/><message>%1</message>"
+#~ msgstr "ការកំណត់វិធីសាស្ត្របង្ហាប់បានបរាជ័យដោយមានកំហុសដូចខាងក្រោមៈ <nl/><message> %1 </message>"
+
+#~ msgctxt "@info"
+#~ msgid "Setting the compression level failed with the following error:<nl/><message>%1</message>"
+#~ msgstr "ការកំណត់កម្រិតបង្ហាប់បានបរាជ័យដោយមានកំហុសដូចខាងក្រោមៈ <nl/><message> %1 </message>"
+
+#~ msgctxt "@info"
+#~ msgid "Compression failed while processing:<nl/><filename>%1</filename><nl/><nl/>Operation aborted."
+#~ msgstr "ការបង្ហាប់បានបរាជ័យពេលដំណើរការ៖ <nl/><filename> %1 </filename><nl/><nl/> ប្រតិបត្តិការត្រូវបានបញ្ឈប់។"
+
+#~ msgctxt "@info Error in a message box"
+#~ msgid "Ark could not compress <filename>%1</filename>:<nl/>%2"
+#~ msgstr " Ark មិនអាចបង្រួមបានទេ <filename> %1 </filename> ៖ <nl/> %2"
+
+#~ msgid "yes (excluding the list of files)"
+#~ msgstr "បាទ / ចាស (មិនរួមបញ្ចូលបញ្ជីឯកសារ)"
+
+#~ msgid "yes (including the list of files)"
+#~ msgstr "បាទ / ចាស (រួមទាំងបញ្ជីឯកសារ)"
+
+#~ msgid "Failed to create the new archive. No suitable plugin found."
+#~ msgstr "បានបរាជ័យក្នុងការបង្កើតប័ណ្ណសារថ្មី។ រកមិនឃើញកម្មវិធីជំនួយសមរម្យ។"
+
+#~ msgid "Failed to create the new archive. Could not load a suitable plugin."
+#~ msgstr "បានបរាជ័យក្នុងការបង្កើតប័ណ្ណសារថ្មី។ មិនអាចដំណើរការកម្មវិធីជំនួយដែលសមរម្យទេ។"
+
+#~ msgid "It is not possible to create archives of this type."
+#~ msgstr "មិនមានលទ្ធភាពបង្កើតបណ្ណសារនៃប្រភេទនេះទេ។"
+
+#~ msgctxt "File comment"
+#~ msgid "Comment"
+#~ msgstr "វិចារ"
+
+#~ msgctxt "@info"
+#~ msgid "Could not read until the end of the archive"
+#~ msgstr "មិនអាចអានរហូតដល់ចប់ប័ណ្ណសារ"
+
+#~ msgid "The source file could not be read."
+#~ msgstr "ឯកសារប្រភពមិនអាចអានបានទេ។"
+
+#~ msgid "Add Fo&lder..."
+#~ msgstr "បន្ថែមថតឯកសារ ..."
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Click to add a folder to the archive"
+#~ msgstr "ចុចដើម្បីបន្ថែមថតឯកសារទៅប័ណ្ណសារ"
+
+#~ msgctxt "@title:window"
+#~ msgid "Add Folder"
+#~ msgstr "បន្ថែមថតឯកសារ"
+
+#~ msgid "Metadata Label"
+#~ msgstr "ស្លាកមេតាតាតា"
+
+#~ msgid "ActionsLabel"
+#~ msgstr "សកម្មភាពលីប៊ែល"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "&Edit Comment"
+#~ msgstr "កែសម្រួលមតិយោបល់"
+
+#~ msgid "The password cannot be empty."
+#~ msgstr "លេខសំងាត់មិនអាចទទេបានទេ។"
+
+#~ msgid "Please select a filename for the archive."
+#~ msgstr "សូមជ្រើសរើសឈ្មោះឯកសារសម្រាប់ប័ណ្ណសារ។"
+
+#~ msgid "No file selected"
+#~ msgstr "គ្មានឯកសារត្រូវបានជ្រើសរើសទេ"
+
+#~ msgid "Protect the archive with a password"
+#~ msgstr "ការពារប័ណ្ណសារដោយប្រើលេខសំងាត់"
+
+#~ msgid "Open File"
+#~ msgstr "បើក​ឯកសារ"
+
+#~ msgid "Click to open an extraction dialog, where you can choose how to extract the selected files"
+#~ msgstr "ចុចដើម្បីបើកប្រអប់ស្រង់ចេញដែលអ្នកអាចជ្រើសរើសវិធីស្រង់ចេញឯកសារដែលបានជ្រើសរើស"
+
+#~ msgctxt "@action:intoolbar"
+#~ msgid "E&xtract"
+#~ msgstr "ស្រង់ចេញ"
+
+#~ msgctxt "@title:window"
+#~ msgid "Error Opening Archive"
+#~ msgstr "កំហុសក្នុងការបើកប័ណ្ណសារ"
+
+#~ msgid "All supported archives ("
+#~ msgstr "បណ្ណសារដែលបានគាំទ្រទាំងអស់ ("
+
+#, fuzzy
+#~ msgid "lblArchiveNamed"
+#~ msgstr "lblArchiveឈ្មោះd"
+
+#, fuzzy
+#~ msgid "lblArchiveType"
+#~ msgstr "lblArchiveType"
+
+#, fuzzy
+#~ msgid "lblPasswordProtected"
+#~ msgstr "lblPasswordProtected"
+
+#, fuzzy
+#~ msgid "lblHasComment"
+#~ msgstr "lblHasComment"
+
+#, fuzzy
+#~ msgid "lblCompressionRatio"
+#~ msgstr "lblCompressionRatio"
+
+#, fuzzy
+#~ msgid "lblModified"
+#~ msgstr "lblModified"
+
+#, fuzzy
+#~ msgid "lblIcon"
+#~ msgstr "lblIcon"
+
+#~ msgctxt "@info"
+#~ msgid "Could not open the archive <filename>%1</filename> for reading"
+#~ msgstr "មិនអាចបើកប័ណ្ណសារ <filename> %1 </filename> សម្រាប់ការអាន"
+
+#~ msgctxt "@info"
+#~ msgid "File <filename>%1</filename> not found in the archive"
+#~ msgstr "ឯកសារ <filename> %1 </filename> រកមិនឃើញនៅក្នុងប័ណ្ណសារ"
+
+#~ msgctxt "@info"
+#~ msgid "Error creating directory <filename>%1</filename>"
+#~ msgstr "កំហុសក្នុងការបង្កើតថតឯកសារ <filename> %1 </filename>"
+
+#~ msgctxt "@info"
+#~ msgid "Could not open the archive <filename>%1</filename> for writing."
+#~ msgstr "មិនអាចបើកប័ណ្ណសារ <filename> %1 </filename> សម្រាប់ការសរសេរ។"
+
+#~ msgctxt "@info"
+#~ msgid "Could not add the directory <filename>%1</filename> to the archive"
+#~ msgstr "មិនអាចបន្ថែមថតឯកសារបានទេ <filename> %1 </filename> ទៅប័ណ្ណសារ"
+
+#~ msgctxt "@info"
+#~ msgid "Could not open the archive <filename>%1</filename> after adding file."
+#~ msgstr "មិនអាចបើកប័ណ្ណសារ <filename> %1 </filename> បន្ទាប់ពីបន្ថែមឯកសារ។"
+
+#~ msgctxt "@info"
+#~ msgid "Could not add the file <filename>%1</filename> to the archive."
+#~ msgstr "មិនអាចបន្ថែមឯកសារបានទេ <filename> %1 </filename> ទៅប័ណ្ណសារ។"
+
+#~ msgid "Developer"
+#~ msgstr "អ្នកអភិវឌ្ឍន៍"
+
+#~ msgid "Developer, KF5 port"
+#~ msgstr "អ្នកអភិវឌ្ឍន៍កំពង់ផែ KF5"
+
+#~ msgid "Form"
+#~ msgstr "សំណុំបែបបទ"
+
+#~ msgid "Click to open an archive, click and hold to open a recently-opened archive"
+#~ msgstr "ចុចដើម្បីបើកប័ណ្ណសារចុចនិងសង្កត់ដើម្បីបើកប័ណ្ណសារដែលទើបនឹងបើកថ្មី"
+
+#~ msgid "Confirm password:"
+#~ msgstr "បញ្ជាក់ពាក្យសម្ងាត់៖"
+
+#~ msgid "Password:"
+#~ msgstr "ពាក្យសម្ងាត់៖"
+
+#~ msgid "&Action"
+#~ msgstr "សកម្មភាព"
+
+#~ msgctxt "open a file with external program"
+#~ msgid "&Open File"
+#~ msgstr "បើក​ឯកសារ"
+
+#~ msgctxt "@info"
+#~ msgid "Could not open the archive <filename>%1</filename>, libarchive cannot handle it."
+#~ msgstr "មិនអាចបើកប័ណ្ណសារ <filename> %1 </filename> , សេរីនិយមមិនអាចដោះស្រាយវាបាន។"
+
+#~ msgctxt "@info"
+#~ msgid "The archive reading failed with the following error: <message>%1</message>"
+#~ msgstr "ការអានបណ្ណសារបានបរាជ័យដោយមានកំហុសដូចខាងក្រោមៈ <message> %1 </message>"
+
+#~ msgctxt "@info"
+#~ msgid "Corrupt archive detected. Do you want Ark to attempt loading the archive?<nl/><nl/>Some files may be missing or damaged, and the archive will be opened read-only."
+#~ msgstr "រកឃើញប័ណ្ណសារពុករលួយ។ តើអ្នកចង់អោយ Ark ព្យាយាមផ្ទុកប័ណ្ណសារទេ? <nl/><nl/> ឯកសារខ្លះអាចបាត់ឬខូចហើយប័ណ្ណសារនឹងត្រូវបានបើកតែប៉ុណ្ណោះ។"
+
+#~ msgctxt "@info"
+#~ msgid "Ark cannot create archives of the type you have chosen.<br />Please choose another archive type below."
+#~ msgstr " Ark មិនអាចបង្កើតប័ណ្ណសារប្រភេទដែលអ្នកបានជ្រើសរើសទេ។ <br /> សូមជ្រើសរើសប្រភេទប័ណ្ណសារផ្សេងទៀតនៅខាងក្រោម។"
+
+#~ msgctxt "@title:window"
+#~ msgid "Unable to Determine Archive Type"
+#~ msgstr "មិនអាចកំណត់ប្រភេទប័ណ្ណសារ"
+
+#~ msgctxt "@info"
+#~ msgid "Ark was unable to determine the archive type of the filename.<br />Please choose the correct archive type below."
+#~ msgstr " Ark មិនអាចកំណត់ប្រភេទប័ណ្ណសាររបស់ឈ្មោះឯកសារទេ។ <br /> សូមជ្រើសរើសប្រភេទប័ណ្ណសារត្រឹមត្រូវខាងក្រោម។"
+
+#~ msgid "Preview is not possible for symlinks."
+#~ msgstr "ការមើលជាមុនមិនអាចធ្វើទៅបានសម្រាប់តំណភ្ជាប់។"
+
+#~ msgid ""
+#~ "Easter egg for the developers:\n"
+#~ "This is where future versions will have extra compression options for the various compression interfaces."
+#~ msgstr ""
+#~ "ស៊ុត Easter សម្រាប់អ្នកអភិវឌ្ឍន៍៖\n"
+#~ "នេះគឺជាកន្លែងដែលកំណែអនាគតនឹងមានជម្រើសបង្ហាប់បន្ថែមសម្រាប់ចំណុចប្រទាក់បង្ហាប់ផ្សេងៗ។"
+
+#~ msgid "Limit preview file size"
+#~ msgstr "កំណត់ទំហំឯកសារមើលជាមុន"
+
+#~ msgid "URL of an archive to be opened"
+#~ msgstr "URL នៃប័ណ្ណសារដែលត្រូវបើក"
+
+#~ msgid "Options for adding files"
+#~ msgstr "ជម្រើសសម្រាប់បន្ថែមឯកសារ"
+
+#~ msgid "Options for batch extraction:"
+#~ msgstr "ជម្រើសសម្រាប់ការទាញយកបាច់៖"
+
+#~ msgctxt "@info"
+#~ msgid "Found program <filename>%1</filename>, but failed to initialize the process."
+#~ msgstr "រកឃើញកម្មវិធី <filename> %1 </filename> ប៉ុន្តែបានបរាជ័យក្នុងការចាប់ផ្តើមដំណើរការនេះ។"
+
+#~ msgid "One item"
+#~ msgid_plural "%1 items"
+#~ msgstr[0] "ធាតុមួយ"
+#~ msgstr[1] "ធាតុ %1"
+
+#~ msgid "Delete files"
+#~ msgstr "លុបឯកសារ"
+
+#~ msgid "Unable to open the file '%1', libarchive cannot handle it."
+#~ msgstr "មិនអាចបើកឯកសារ '%1' បានទេ។"
+
+#~ msgid "Recent folders"
+#~ msgstr "ថតថ្មីៗ"
+
+#~ msgid "Operation finished."
+#~ msgstr "ប្រតិបត្តិការបានបញ្ចប់។"
+
+#~ msgid "Setting format failed with the error '%1'"
+#~ msgstr "ការកំណត់ទ្រង់ទ្រាយបានបរាជ័យជាមួយកំហុស '%1'"
+
+#~ msgid "Could not extract '%1'"
+#~ msgstr "មិនអាចដកស្រង់ '%1'"
+
+#~ msgid "KSqueezedTextLabel"
+#~ msgstr "KSqueezedTextLabel"
+
+#~ msgid "<font size=\"+2\"><b>Filename</b></font>"
+#~ msgstr "<font size=\"+2\"><b> ឈ្មោះ​ឯកសារ </b></font>"
+
+#~ msgid "Missing Folder"
+#~ msgstr "បាត់ថតឯកសារ"
+
+#~ msgid "Create Folder"
+#~ msgstr "បង្កើតថតឯកសារ"
+
+#~ msgid "Do Not Create"
+#~ msgstr "កុំបង្កើត"
+
+#~ msgid "The folder could not be created. Please check permissions."
+#~ msgstr "មិនអាចបង្កើតថតនេះបានទេ។ សូមពិនិត្យមើលសិទ្ធិ។"
+
+#~ msgid "An error occurred while performing the operation."
+#~ msgstr "កំហុសមួយបានកើតឡើងខណៈពេលកំពុងប្រតិបត្តិការ។"
+
+#~ msgid "The folder '%1' could not be created. Please check permissions."
+#~ msgstr "មិនអាចបង្កើតថត '%1' បានទេ។ សូមពិនិត្យមើលសិទ្ធិ។"
+
+#~ msgid "Create a subfolder under the destination directory and extract here."
+#~ msgstr "បង្កើតថតរងនៅក្រោមទិសដៅទិសដៅនិងដកស្រង់នៅទីនេះ។"
+
+#~ msgid "Unable to find 7zr, 7za or 7z"
+#~ msgstr "មិនអាចរកបាន 7zr, 7za ឬ 7z"
+
+#~ msgid "Unknown error when extracting files"
+#~ msgstr "កំហុសមិនស្គាល់នៅពេលដកស្រង់ឯកសារ"
+
+#~ msgid "Could not create path"
+#~ msgstr "មិនអាចបង្កើតផ្លូវបានទេ"
+
+#~ msgid "Could not locate file '%1' in the archive"
+#~ msgstr "មិនអាចរកទីតាំងឯកសារ '%1' នៅក្នុងប័ណ្ណសារ"
+
+#~ msgid "Could not read from the input file '%1'"
+#~ msgstr "មិនអាចអានពីឯកសារបញ្ចូល '%1'"
+
+#~ msgid "Could not find a file named %1 in the archive."
+#~ msgstr "មិនអាចរកឃើញឯកសារដែលមានឈ្មោះថា %1 នៅក្នុងប័ណ្ណសារ។"
+
+#~ msgid "Neither rar or unrar are available in your PATH."
+#~ msgstr "មិនមាន Rr ឬ unrar ដែលមាននៅក្នុង PATH របស់អ្នកទេ។"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Note: the archive has been detected as a <span style=\" font-weight:600;\">single-folder archive</span>, so this option has been automatically unchecked...</p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http៖//www.w3.org/TR/REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+#~ "ទំ, លី {ស - ដកឃ្លា៖ រុំមុន; }\n"
+#~ "</style></head><body style=\" font-family៖'Bitstream Vera Sans'; font-size៖10pt; font-weight៖400; font-style៖normal;\">\n"
+#~ "<p style=\" margin-top៖0px; margin-bottom៖0px; margin-left៖0px; margin-right៖0px; -qt-block-indent៖0; text-indent៖0px;\"> សម្គាល់ៈប័ណ្ណសារត្រូវបានរកឃើញជាឯកសារ <span style=\" font-weight៖600;\"> ប័ណ្ណសារថតឯកសារតែមួយ </span> ដូច្នេះជម្រើសនេះត្រូវបានដោះធីកដោយស្វ័យប្រវត្តិ ... </p></body></html>"
+
+#~ msgid "Unexpected output from the unace process."
+#~ msgstr "លទ្ធផលដែលមិនបានរំពឹងទុកពីដំណើរការដែលមិនដំណើរការ។"
+
+#~ msgid "Unable to launch <tt>unace</tt>. Make sure you have that tool installed and available."
+#~ msgstr "មិនអាចបើកដំណើរការបានទេ <tt> អោន </tt> ។ ត្រូវប្រាកដថាអ្នកបានតំឡើងនិងមានឧបករណ៍នោះ។"
+
+#~ msgid "Only extracting full archive is currently supported."
+#~ msgstr "បច្ចុប្បន្នមានតែការស្រង់ចេញប័ណ្ណសារពេញលេញប៉ុណ្ណោះ។"
+
+#~ msgid "Only extracting while preserving paths is currently supported."
+#~ msgstr "មានតែការស្រង់ចេញខណៈពេលដែលការថែរក្សាផ្លូវបច្ចុប្បន្នត្រូវបានគាំទ្រ។"
+
+#~ msgid "Extracting with root node other than default is not currently supported."
+#~ msgstr "បច្ចុប្បន្នការទាញលុបជាមួយថ្នាំង root ក្រៅពីលំនាំដើមមិនត្រូវបានគាំទ្រទេ។"
+
+#~ msgid "<tt>unace</tt> crashed unexpectedly."
+#~ msgstr "<tt> អោន </tt> គាំងដោយមិនរំពឹងទុក។"
+
+#~ msgid "<tt>unace</tt> has encountered error when extracting:<pre>%1</pre>"
+#~ msgstr "<tt> អោន </tt> បានជួបប្រទះកំហុសនៅពេលដកស្រង់៖ <pre> %1 </pre>"
+
+#~ msgid "Ark was unable to automatically determine the archive type of the filename. Please use a standard file extension (such as zip, rar or tar.gz), or manually choose one from the following mimetypes."
+#~ msgstr " Ark មិនអាចកំណត់ប្រភេទប័ណ្ណសារនៃឈ្មោះឯកសារដោយស្វ័យប្រវត្តិទេ។ សូមប្រើផ្នែកបន្ថែមឯកសារស្តង់ដារ (ដូចជា zip, rar ឬ tar.gz) ឬជ្រើសរើសដោយដៃមួយពីប្រភេទ mimetypes ខាងក្រោម។"
+
+#~ msgctxt "Timestamp"
+#~ msgid "Time"
+#~ msgstr "ពេលវេលា"
+
+#~ msgid "Couldn't open the file '%1', libarchive can't handle it."
+#~ msgstr "មិនអាចបើកឯកសារ '%1' បានទេ។"
+
+#, fuzzy
+#~ msgid "Extracting all files from the archive '%1'"
+#~ msgstr "ទាញយកឯកសារទាំងអស់ពីប័ណ្ណសារ '%1'"
+
+#, fuzzy
+#~ msgid "Extracting one file from the archive %2"
+#~ msgid_plural "Extracting %1 files from the archive '%2'"
+#~ msgstr[0] "ទាញយកឯកសារមួយពីប័ណ្ណសារ %2"
+#~ msgstr[1] "ស្រង់ឯកសារ %1 ពីប័ណ្ណសារ '%2'"
+
+#~ msgid "Could not start a subprocess."
+#~ msgstr "មិនអាចចាប់ផ្តើមដំណើរការរងទេ។"
+
+#~ msgid "The deletion operation failed."
+#~ msgstr "ប្រតិបត្តិការលុបបានបរាជ័យ។"
+
+#~ msgid "The extraction operation failed."
+#~ msgstr "ប្រតិបត្តិការទាញយកបានបរាជ័យ។"
+
+#~ msgid "The addition operation failed."
+#~ msgstr "ប្រតិបត្តិការបន្ថែមបានបរាជ័យ។"
+
+#~ msgid "Choose Archive Format"
+#~ msgstr "ជ្រើសទ្រង់ទ្រាយប័ណ្ណសារ"
+
+#~ msgid ""
+#~ "This file appears to be of type %1,\n"
+#~ "which is not a supported archive format.\n"
+#~ "In order to proceed, please choose the format\n"
+#~ "of the file."
+#~ msgstr ""
+#~ "ឯកសារនេះទំនងជាប្រភេទ %1,\n"
+#~ "ដែលមិនមែនជាទ្រង់ទ្រាយប័ណ្ណសារដែលគាំទ្រ។\n"
+#~ "ដើម្បីដំណើរការសូមជ្រើសរើសទ្រង់ទ្រាយ\n"
+#~ "នៃឯកសារ។"
+
+#~ msgid ""
+#~ "You are about to open a file that has a non-standard extension.\n"
+#~ "Ark has detected the format: %1\n"
+#~ "If this is not correct, please choose the appropriate format."
+#~ msgstr ""
+#~ "អ្នករៀបនឹងបើកឯកសារដែលមានផ្នែកបន្ថែមមិនស្តង់ដារ។\n"
+#~ "Ark បានរកឃើញទ្រង់ទ្រាយ៖ %1\n"
+#~ "ប្រសិនបើនេះមិនត្រឹមត្រូវសូមជ្រើសរើសទម្រង់សមស្រប។"
+
+#~ msgid "ark"
+#~ msgstr " Ark "
+
+#~ msgid "Ark KParts Component"
+#~ msgstr "សមាសធាតុ Ark ខេភីត"
+
+#~ msgid "Edit &With..."
+#~ msgstr "កែសម្រួលជាមួយ ..."
+
+#~ msgid "&Unselect All"
+#~ msgstr "មិនជ្រើសទាំងអស់"
+
+#~ msgid "&Invert Selection"
+#~ msgstr "ការដាក់បញ្ច្រាសការជ្រើសរើស"
+
+#~ msgid "Configure &Ark..."
+#~ msgstr "តំឡើង Ark  ..."
+
+#~ msgid "Show Search Bar"
+#~ msgstr "បង្ហាញរបារស្វែងរក"
+
+#~ msgid "Hide Search Bar"
+#~ msgstr "លាក់របារស្វែងរក"
+
+#~ msgid ""
+#~ "The archive \"%1\" has been modified.\n"
+#~ "Do you want to save it?"
+#~ msgstr ""
+#~ "ប័ណ្ណសារ \" %1\" ត្រូវបានកែប្រែ។\n"
+#~ "តើអ្នកចង់រក្សាទុកទេ?"
+
+#~ msgid "Downloading %1..."
+#~ msgstr "កំពុងទាញយក %1 ..."
+
+#~ msgid "Total: 0 files"
+#~ msgstr "សរុប៖ ០ ឯកសារ"
+
+#~ msgid "Wrong number of arguments specified"
+#~ msgstr "ចំនួនអាគុយម៉ង់ខុសដែលបានបញ្ជាក់"
+
+#~ msgid "You need to specify at least one file to be added to the archive."
+#~ msgstr "អ្នកត្រូវបញ្ជាក់យ៉ាងហោចណាស់ឯកសារមួយដើម្បីបន្ថែមទៅប័ណ្ណសារ។"
+
+#~ msgid "You have run out of disk space."
+#~ msgstr "អ្នកអស់ទំហំផ្ទុកហើយ។"
+
+#, fuzzy
+#~ msgid ""
+#~ "The file you are trying to view may be an executable. Running untrusted executables may compromise your system's security.\n"
+#~ "Are you sure you want to run that file?"
+#~ msgstr ""
+#~ "ឯកសារដែលអ្នកកំពុងព្យាយាមមើលអាចប្រតិបត្តិបាន។ ការដំណើរការប្រតិបត្តិដែលមិនទុកចិត្តអាចធ្វើឱ្យខូចប្រព័ន្ធរបស់អ្នក។\n"
+#~ "តើអ្នកពិតជាចង់ដំណើរការឯកសារនោះមែនទេ?"
+
+#~ msgid "Run Nevertheless"
+#~ msgstr "រត់ទោះយ៉ាងណា"
+
+#~ msgid "&Search:"
+#~ msgstr "ស្វែងរក"
+
+#~ msgid ""
+#~ "Please save your archive in the same format as the original.\n"
+#~ "Hint: Use one of the suggested extensions."
+#~ msgstr ""
+#~ "សូមរក្សាទុកប័ណ្ណសាររបស់អ្នកក្នុងទម្រង់ដូចគ្នានឹងឯកសារដើម។\n"
+#~ "ជំនួយ៖ ប្រើផ្នែកបន្ថែមដែលបានស្នើ។"
+
+#~ msgid ""
+#~ "The following files will not be extracted\n"
+#~ "because they already exist:"
+#~ msgstr ""
+#~ "ឯកសារខាងក្រោមនឹងមិនត្រូវបានស្រង់ចេញ\n"
+#~ "ទេពីព្រោះវាមានរួចហើយ៖"
+
+#~ msgid "You do not have permission to access that archive."
+#~ msgstr "អ្នកគ្មានសិទ្ធិចូលមើលប័ណ្ណសារនោះទេ។"
+
+#~ msgid "Do Not Overwrite"
+#~ msgstr "កុំសរសេរជាន់លើ"
+
+#~ msgid "You do not have permission to write to the directory %1"
+#~ msgstr "អ្នកមិនមានការអនុញ្ញាតឱ្យសរសេរទៅថត %1 ទេ"
+
+#~ msgid ""
+#~ "You are currently working with a simple compressed file.\n"
+#~ "Would you like to make it into an archive so that it can contain multiple files?\n"
+#~ "If so, you must choose a name for your new archive."
+#~ msgstr ""
+#~ "បច្ចុប្បន្នអ្នកកំពុងធ្វើការជាមួយឯកសារបង្រួមធម្មតា។\n"
+#~ "តើអ្នកចង់ធ្វើឱ្យវាទៅជាប័ណ្ណសារដូច្នេះវាអាចផ្ទុកឯកសារច្រើនដែរឬទេ?\n"
+#~ "បើដូច្នោះមែនអ្នកត្រូវតែជ្រើសរើសឈ្មោះសម្រាប់ប័ណ្ណសារថ្មីរបស់អ្នក។"
+
+#~ msgid "Make Into Archive"
+#~ msgstr "បង្កើតជាប័ណ្ណសារ"
+
+#~ msgid "Do Not Make"
+#~ msgstr "កុំធ្វើ"
+
+#~ msgid "Select Files to Add"
+#~ msgstr "ជ្រើសឯកសារដើម្បីបន្ថែម"
+
+#~ msgid "Select Folder to Add"
+#~ msgstr "ជ្រើសថតដើម្បីបន្ថែម"
+
+#~ msgid "Adding folder..."
+#~ msgstr "កំពុងបន្ថែមថតឯកសារ ..."
+
+#~ msgid "Removing..."
+#~ msgstr "កំពុងលុប ..."
+
+#~ msgid "The archive to extract from no longer exists."
+#~ msgstr "ប័ណ្ណសារដើម្បីទាញយកពីលែងមានទៀតហើយ។"
+
+#~ msgid "Edit with:"
+#~ msgstr "កែសម្រួលជាមួយ៖"
+
+#~ msgid "Trouble editing the file..."
+#~ msgstr "កំពុងកែសម្រួលឯកសារ ..."
+
+#~ msgid "Readding edited file..."
+#~ msgstr "កំពុងអានឯកសារដែលបានកែសម្រួល ..."
+
+#~ msgid "The internal viewer is not able to display this file. Would you like to view it using an external program?"
+#~ msgstr "អ្នកមើលខាងក្នុងមិនអាចបង្ហាញឯកសារនេះបានទេ។ តើអ្នកចង់មើលវាដោយប្រើកម្មវិធីខាងក្រៅទេ?"
+
+#~ msgid "View Externally"
+#~ msgstr "មើលខាងក្រៅ"
+
+#~ msgid "Do Not View"
+#~ msgstr "កុំមើល"
+
+#, fuzzy
+#~ msgctxt "%2 is the total size of selected files"
+#~ msgid "1 files selected  %2"
+#~ msgid_plural "%1 files selected  %2"
+#~ msgstr[0] "ឯកសារ ១ ដែលបានជ្រើសរើស %2"
+#~ msgstr[1] "%1 ឯកសារដែលបានជ្រើសរើស %2"
+
+#~ msgid "Do you wish to add this to the current archive or open it as a new archive?"
+#~ msgstr "តើអ្នកចង់បន្ថែមវាទៅប័ណ្ណសារបច្ចុប្បន្នឬបើកវាជាប័ណ្ណសារថ្មីទេ?"
+
+#~ msgid "There is no archive currently open. Do you wish to create one now for these files?"
+#~ msgstr "បច្ចុប្បន្នមិនមានប័ណ្ណសារបើកទេ។ តើអ្នកចង់បង្កើតវាឥឡូវនេះសំរាប់ឯកសារទាំងនេះទេ?"
+
+#~ msgid "There is no archive currently open. Do you wish to create one now for this file?"
+#~ msgstr "បច្ចុប្បន្នមិនមានប័ណ្ណសារបើកទេ។ តើអ្នកចង់បង្កើតវាឥឡូវនេះសំរាប់ឯកសារនេះទេ?"
+
+#~ msgid "Create Archive"
+#~ msgstr "បង្កើតប័ណ្ណសារ"
+
+#~ msgid "Unknown archive format or corrupted archive"
+#~ msgstr "មិនស្គាល់ទ្រង់ទ្រាយប័ណ្ណសារឬប័ណ្ណសារខូច"
+
+#~ msgid ""
+#~ "The utility %1 is not in your PATH.\n"
+#~ "Please install it or contact your system administrator."
+#~ msgstr ""
+#~ "ឧបករណ៍ប្រើប្រាស់ %1 មិនមាននៅក្នុង PATH របស់អ្នកទេ។\n"
+#~ "សូមដំឡើងវាឬទាក់ទងអ្នកគ្រប់គ្រងប្រព័ន្ធរបស់អ្នក។"
+
+#~ msgid "This archive is read-only. If you want to save it under a new name, go to the File menu and select Save As."
+#~ msgstr "ប័ណ្ណសារនេះគឺបានតែអាន។ ប្រសិនបើអ្នកចង់រក្សាទុកវាក្រោមឈ្មោះថ្មីចូលទៅកាន់ម៉ឺនុយឯកសារហើយជ្រើសរើសរក្សាទុកជា។"
+
+#~ msgid "An error occurred while trying to open the archive %1"
+#~ msgstr "កំហុសមួយបានកើតឡើងខណៈពេលព្យាយាមបើកប័ណ្ណសារ %1"
+
+#~ msgid ""
+#~ "You are creating a simple compressed archive which contains only one input file.\n"
+#~ "When uncompressed, the file name will be based on the name of the archive file.\n"
+#~ "If you add more files you will be prompted to convert it to a real archive."
+#~ msgstr ""
+#~ "អ្នកកំពុងបង្កើតប័ណ្ណសារបង្រួមសាមញ្ញដែលមានឯកសារបញ្ចូលតែមួយ។\n"
+#~ "នៅពេលមិនបានបង្ហាប់ឈ្មោះឯកសារនឹងត្រូវផ្អែកលើឈ្មោះឯកសារប័ណ្ណសារ។\n"
+#~ "ប្រសិនបើអ្នកបន្ថែមឯកសារបន្ថែមអ្នកនឹងត្រូវបានបំផុសគំនិតឱ្យបម្លែងវាទៅជាប័ណ្ណសារពិតប្រាកដ។"
+
+#~ msgid "Trouble writing to the archive..."
+#~ msgstr "បញ្ហាសរសេរទៅប័ណ្ណសារ ..."
+
+#~ msgid "Extract Files From %1"
+#~ msgstr "ស្រង់ឯកសារពី %1"
+
+#~ msgid "Extract:"
+#~ msgstr "ដកស្រង់៖"
+
+#~ msgid "You do not have write permission to this folder. Please provide another folder."
+#~ msgstr "អ្នកមិនមានសិទ្ធិសរសេរចូលក្នុងថតនេះទេ។ សូមផ្តល់នូវថតឯកសារផ្សេងទៀត។"
+
+#~ msgctxt "Packed Ratio"
+#~ msgid "%1 %"
+#~ msgstr "%1 %"
+
+#, fuzzy
+#~ msgid "(c) 1997-2005, The Various Ark Developers"
+#~ msgstr "(គ) ឆ្នាំ ១៩៩៧-២០០៥ អ្នកអភិវឌ្ឍន៍ Ark ផ្សេងៗ"
+
+#~ msgid ""
+#~ "Extract 'archive' to 'folder'. Quit when finished.\n"
+#~ "'folder' will be created if it does not exist."
+#~ msgstr ""
+#~ "ស្រង់ 'ប័ណ្ណសារ' ទៅ 'ថតឯកសារ' ។ ចាកចេញនៅពេលបញ្ចប់។\n"
+#~ "'ថតឯកសារ' នឹងត្រូវបានបង្កើតប្រសិនបើវាមិនមាន។"
+
+#~ msgid ""
+#~ "Add 'files' to 'archive'. Quit when finished.\n"
+#~ "'archive' will be created if it does not exist."
+#~ msgstr ""
+#~ "បន្ថែម 'ឯកសារ' ទៅ 'ប័ណ្ណសារ' ។ ចាកចេញនៅពេលបញ្ចប់។\n"
+#~ "'ប័ណ្ណសារ' នឹងត្រូវបានបង្កើតប្រសិនបើវាមិនមាន។"
+
+#~ msgid ""
+#~ "Used with '--extract-to'. When specified, 'archive'\n"
+#~ "will be extracted to a subfolder of 'folder'\n"
+#~ "whose name will be the name of 'archive' without the filename extension."
+#~ msgstr ""
+#~ "ត្រូវបានប្រើជាមួយ '--extract-to' ។ នៅពេលដែលបានបញ្ជាក់, 'ប័ណ្ណសារ'\n"
+#~ "នឹងត្រូវបានស្រង់ចេញទៅថតរងនៃ 'ថត'\n"
+#~ "ដែលឈ្មោះរបស់វានឹងមានឈ្មោះនៃប័ណ្ណសារ 'ដោយគ្មានការបន្ថែមឈ្មោះឯកសារ។"
+
+#~ msgid "New &Window"
+#~ msgstr "ផ្ទាំងកម្មវិធីថ្មី"
+
+#~ msgid "Re&load"
+#~ msgstr "ផ្ទុកឡើងវិញ"
+
+#~ msgid ""
+#~ "The archive %1 is already open and has been raised.\n"
+#~ "Note: if the filename does not match, it only means that one of the two is a symbolic link."
+#~ msgstr ""
+#~ "ប័ណ្ណសារ %1 បានបើករួចហើយហើយត្រូវបានលើកឡើង។\n"
+#~ "សំគាល់ៈប្រសិនបើឈ្មោះឯកសារមិនត្រូវគ្នាវាមានន័យថាមួយក្នុងចំណោមពីរគឺជាតំណនិមិត្តសញ្ញា។"
+
+#~ msgid "Open &as:"
+#~ msgstr "បើកជា៖"
+
+#~ msgid "Autodetect (default)"
+#~ msgstr "រកឃើញស្វ័យប្រវត្តិ (លំនាំដើម)"
+
+#~ msgid "Select Archive to Add Files To"
+#~ msgstr "ជ្រើសប័ណ្ណសារដើម្បីបន្ថែមឯកសារទៅ"
+
+#~ msgid "Please Wait"
+#~ msgstr "សូមរង់ចាំ"
+
+#~ msgid "Replace old files only &with newer files"
+#~ msgstr "ជំនួសឯកសារចាស់តែជាមួយឯកសារថ្មី"
+
+#~ msgid "Force &MS-DOS short filenames (Zip)"
+#~ msgstr "បង្ខំឈ្មោះឯកសារខ្លី MS-DOS (ហ្ស៊ីប)"
+
+#~ msgid "Translate &LF to DOS CRLF (Zip)"
+#~ msgstr "បកប្រែ LF ទៅ DOS CRLF (Zip)"
+
+#~ msgid "&Store symlinks as links (Zip, Rar)"
+#~ msgstr "ទុកតំណនិមិត្តសញ្ញាជាតំណ (ហ្ស៊ីព, រ៉ា)"
+
+#~ msgid "&Recursively add subfolders (Zip, Rar)"
+#~ msgstr "បន្ថែមថតរងម្តងហើយម្តងទៀត (ហ្ស៊ីពរ៉ារ៉ា)"
+
+#~ msgid "Last folders used for extraction"
+#~ msgstr "ថតចុងក្រោយត្រូវបានប្រើសម្រាប់ទាញយក"
+
+#~ msgid "Replace old files only with newer files"
+#~ msgstr "ជំនួសឯកសារចាស់តែជាមួយឯកសារថ្មី"
+
+#~ msgid "If this option is enabled and you add filenames that already exist in an archive, only replace the old files if the added files are newer than them"
+#~ msgstr "ប្រសិនបើជម្រើសនេះត្រូវបានបើកហើយអ្នកបន្ថែមឈ្មោះឯកសារដែលមានរួចហើយនៅក្នុងប័ណ្ណសារសូមជំនួសតែឯកសារចាស់ប្រសិនបើឯកសារដែលបានបន្ថែមថ្មីជាងពួកគេ។"
+
+#~ msgid "Overwrite files (Zip, Tar, Zoo, Rar)"
+#~ msgstr "សរសេរជាន់លើឯកសារ (ហ្ស៊ីបតាបសួនសត្វរ៉ារ៉ា)"
+
+#~ msgid "Overwrite any files that have matching names on disk with the one from the archive"
+#~ msgstr "សរសេរជាន់លើឯកសារណាដែលមានឈ្មោះត្រូវគ្នានៅលើថាសនិងឯកសារមួយពីប័ណ្ណសារ"
+
+#~ msgid "Preserve permissions"
+#~ msgstr "អភិរក្សសិទ្ធិ"
+
+#~ msgid "Save the user, group, and permission settings on files. Use with care, as this may result in files being extracted that do not belong to any valid user on your computer"
+#~ msgstr "រក្សាទុកអ្នកប្រើក្រុមនិងការកំណត់ការអនុញ្ញាតលើឯកសារ។ ប្រើដោយប្រុងប្រយ័ត្នព្រោះបញ្ហានេះអាចបណ្តាលឱ្យឯកសារត្រូវបានស្រង់ចេញដែលមិនមែនជារបស់អ្នកប្រើប្រាស់ត្រឹមត្រូវនៅលើកុំព្យូទ័ររបស់អ្នក"
+
+#~ msgid "Force MS-DOS short filenames (Zip)"
+#~ msgstr "បង្ខំឈ្មោះឯកសារខ្លី MS-DOS (ហ្ស៊ីប)"
+
+#~ msgid "Force names of files in Zip archives to the DOS 8.3 format"
+#~ msgstr "បង្ខំឈ្មោះឯកសារនៅក្នុងប័ណ្ណសារហ្ស៊ីបទៅជាទំរង់ DOS 8.3"
+
+#~ msgid "Translate LF to DOS CRLF"
+#~ msgstr "បកប្រែ LF ទៅ DOS CRLF"
+
+#~ msgid "Ignore folder names (Zip)"
+#~ msgstr "មិនអើពើឈ្មោះថតឯកសារ (ហ្ស៊ីព)"
+
+#~ msgid "Extract all the files into the extraction folder, ignoring any folder structure in the archive."
+#~ msgstr "ទាញយកឯកសារទាំងអស់ទៅក្នុងថតទាញលុបដោយមិនអើពើនឹងរចនាសម្ព័ន្ធថតណាមួយនៅក្នុងប័ណ្ណសារ។"
+
+#~ msgid "Store symlinks as links (Zip, Rar)"
+#~ msgstr "ទុកតំណនិមិត្តសញ្ញាជាតំណ (ហ្ស៊ីព, រ៉ា)"
+
+#~ msgid "Recursively add subfolders (Zip, Rar)"
+#~ msgstr "បន្ថែមថតរងម្តងហើយម្តងទៀត (ហ្ស៊ីពរ៉ារ៉ា)"
+
+#~ msgid "Convert filenames to lowercase (Zip, Rar)"
+#~ msgstr "បំលែងឈ្មោះឯកសារទៅជាអក្សរតូច (ហ្ស៊ីព, រ៉ា)"
+
+#~ msgid "Convert filenames to uppercase"
+#~ msgstr "បំលែងឈ្មោះឯកសារទៅជាអក្សរធំ"
+
+#~ msgid "Show search bar"
+#~ msgstr "បង្ហាញរបារស្វែងរក"
+
+#~ msgid "Enable Konqueror integration"
+#~ msgstr "បើកដំណើរការសមាហរណកម្ម Konqueror"
+
+#~ msgid "Enables integration with Konqueror's context menus, letting you easily archive or unarchive files. This option will only work if you have the kdeaddons package installed."
+#~ msgstr "បើកដំណើរការសមាហរណកម្មជាមួយម៉ឺនុយបរិបទរបស់ Konqueror ដែលអនុញ្ញាតឱ្យអ្នកងាយស្រួលក្នុងប័ណ្ណសារឬឯកសារគ្មានឯកសារ។ ជម្រើសនេះនឹងដំណើរការបានលុះត្រាតែអ្នកបានដំឡើងកញ្ចប់ kdeaddons ។"
+
+#~ msgid "Use integrated viewer"
+#~ msgstr "ប្រើកម្មវិធីមើលរួមបញ្ចូលគ្នា"
+
+#~ msgid "Tar Command"
+#~ msgstr "បញ្ជាការ Tar"
+
+#~ msgid "Enable experimental support for loading ACE files"
+#~ msgstr "បើកដំណើរការគាំទ្រសាកល្បងសម្រាប់ផ្ទុកឯកសារ ACE"
+
+#~ msgid "O&verwrite files (Zip, Tar, Zoo, Rar)"
+#~ msgstr "សរសេរជាន់លើឯកសារ (ហ្ស៊ីបតាបសួនសត្វរ៉ារ៉ា)"
+
+#~ msgid "&Preserve permissions (Tar)"
+#~ msgstr "អភិរក្សសិទ្ធិ (Tar)"
+
+#~ msgid "&Ignore folder names (Zip)"
+#~ msgstr "មិនអើពើឈ្មោះថតឯកសារ (ហ្ស៊ីព)"
+
+#~ msgid "Convert file names to &lowercase (Zip, Rar)"
+#~ msgstr "បំលែងឈ្មោះឯកសារទៅជាអក្សរតូច (ហ្ស៊ីព, រ៉ា)"
+
+#~ msgid "Convert file names to &uppercase (Rar)"
+#~ msgstr "បំលែងឈ្មោះឯកសារទៅជាអក្សរធំ (រ៉ា)"
+
+#~ msgid "&Use integrated viewer"
+#~ msgstr "ប្រើកម្មវិធីមើលរួមបញ្ចូលគ្នា"
+
+#~ msgid "&Enable Konqueror integration"
+#~ msgstr "បើកដំណើរការសមាហរណកម្ម Konqueror"
+
+#, fuzzy
+#~ msgid "<font size=\"-1\"><i>Konqueror integration is only available<br> if you install the Konqueror integration<br> plugin from the kdeaddons package.</i></font>"
+#~ msgstr "<font size=\"-1\"><i> ការរួមបញ្ចូលរបស់ Konqueror គឺអាចប្រើបាន <br> ប្រសិនបើអ្នកដំឡើងការរួមបញ្ចូលរបស់ Konqueror <br> កម្មវិធីជំនួយពីកញ្ចប់ kdeaddons ។ </i></font>"
+
+#~ msgid "Unable to fork a decompressor"
+#~ msgstr "មិនអាចបំបែកកម្មវិធីបង្ហាប់បានទេ"
+
+#~ msgid "Trouble writing to the tempfile..."
+#~ msgstr "បញ្ហាក្នុងការសរសេរទៅកាន់បណ្តាញ tempfile ..."
+
+#~ msgid " Permissions "
+#~ msgstr "ការអនុញ្ញាត"
+
+#~ msgid " Owner/Group "
+#~ msgstr "ម្ចាស់ / ក្រុម"
+
+#~ msgid " Timestamp "
+#~ msgstr "ត្រាពេលវេលា"
+
+#~ msgid " Link "
+#~ msgstr "តំណ"
+
+#~ msgid " Size Now "
+#~ msgstr "ទំហំឥឡូវ"
+
+#~ msgid " Ratio "
+#~ msgstr "សមាមាត្រ"
+
+#~ msgctxt "(used as part of a sentence)"
+#~ msgid "start-up folder"
+#~ msgstr "ថតចាប់ផ្ដើម"
+
+#~ msgctxt "folder for extracting files (used as part of a sentence)"
+#~ msgid "extract folder"
+#~ msgstr "ស្រង់ចេញនូវថតឯកសារ"
+
+#~ msgid "Settings"
+#~ msgstr "ការកំណត់"
+
+#~ msgid "&Adding"
+#~ msgstr "ការបន្ថែម"
+
+#~ msgid "Add Settings"
+#~ msgstr "បន្ថែមការកំណត់"
+
+#~ msgid "Replace &old files only with newer files"
+#~ msgstr "ជំនួសឯកសារចាស់តែជាមួយឯកសារថ្មី"
+
+#~ msgid "Keep entries &generic (Lha)"
+#~ msgstr "រក្សាធាតុទូទៅ (ឡា)"
+
+#~ msgid "Translate LF to DOS &CRLF (Zip)"
+#~ msgstr "បកប្រែ LF ទៅ DOS CRLF (Zip)"
+
+#~ msgid "Convert filenames to &lowercase (Zip, Rar)"
+#~ msgstr "បំលែងឈ្មោះឯកសារទៅជាអក្សរតូច (ហ្ស៊ីព, រ៉ា)"
+
+#~ msgid "Convert filenames to &uppercase (Rar)"
+#~ msgstr "បំលែងឈ្មោះឯកសារជាអក្សរធំ (រ៉ា)"
+
+#~ msgid "1 file selected  %2"
+#~ msgstr "ឯកសារដែលបានជ្រើសរើស ១ %2"
+
+#~ msgid "Addition"
+#~ msgstr "ការបន្ថែម"
+
+#~ msgid "File Addition Settings"
+#~ msgstr "ការកំណត់ការបន្ថែមឯកសារ"
+
+#~ msgid "This area is for displaying information about the files contained within an archive."
+#~ msgstr "តំបន់នេះគឺសម្រាប់បង្ហាញព័ត៌មានអំពីឯកសារដែលមាននៅក្នុងប័ណ្ណសារ។"
+
+#~ msgid "(c) 1997-2006, The Various Ark Developers"
+#~ msgstr "(គ) ឆ្នាំ ១៩៩៧-២០០៦ អ្នកអភិវឌ្ឍន៍ Ark ផ្សេងៗ"
+
+#~ msgid "Reset Search"
+#~ msgstr "កំណត់ការស្វែងរកឡើងវិញ"
+
+#~ msgid ""
+#~ "Reset Search\n"
+#~ "Resets the search bar, so that all archive entries are shown again."
+#~ msgstr ""
+#~ "កំណត់ការស្វែងរកឡើងវិញ\n"
+#~ "កំណត់របារស្វែងរកឡើងវិញដូច្នេះធាតុប័ណ្ណសារទាំងអស់ត្រូវបានបង្ហាញម្តងទៀត។"

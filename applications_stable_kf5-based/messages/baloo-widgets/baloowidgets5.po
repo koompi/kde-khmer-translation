@@ -1,0 +1,603 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-11 12:24+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: src/filemetadataprovider.cpp:163 src/filemetadataprovider.cpp:169
+#: src/filemetadataprovider.cpp:239 src/filemetadataprovider.cpp:242
+#, kde-format
+msgctxt "@item:intable"
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] "ធាតុ %1"
+msgstr[1] "ធាតុ %1"
+
+#: src/filemetadataprovider.cpp:417 src/filemetadataprovider.cpp:433
+#, kde-format
+msgctxt "@label"
+msgid "Comment"
+msgstr "វិចារ"
+
+#: src/filemetadataprovider.cpp:418
+#, kde-format
+msgctxt "@label"
+msgid "Created"
+msgstr "បានបង្កើត"
+
+#: src/filemetadataprovider.cpp:419
+#, kde-format
+msgctxt "@label"
+msgid "Accessed"
+msgstr "បានចូលប្រើ"
+
+#: src/filemetadataprovider.cpp:420
+#, kde-format
+msgctxt "@label"
+msgid "Modified"
+msgstr "បានកែប្រែ"
+
+#: src/filemetadataprovider.cpp:421
+#, kde-format
+msgctxt "@label"
+msgid "Owner"
+msgstr "ម្ចាស់"
+
+#: src/filemetadataprovider.cpp:422
+#, kde-format
+msgctxt "@label"
+msgid "Group"
+msgstr "ក្រុម"
+
+#: src/filemetadataprovider.cpp:423
+#, kde-format
+msgctxt "@label"
+msgid "Permissions"
+msgstr "ការអនុញ្ញាត"
+
+#: src/filemetadataprovider.cpp:424 src/filemetadataprovider.cpp:432
+#, kde-format
+msgctxt "@label"
+msgid "Rating"
+msgstr "ការវាយតម្លៃ"
+
+#: src/filemetadataprovider.cpp:425
+#, kde-format
+msgctxt "@label"
+msgid "Size"
+msgstr "ទំហំ"
+
+#: src/filemetadataprovider.cpp:426 src/filemetadataprovider.cpp:431
+#, kde-format
+msgctxt "@label"
+msgid "Tags"
+msgstr "ស្លាក"
+
+#: src/filemetadataprovider.cpp:427
+#, kde-format
+msgctxt "@label"
+msgid "Total Size"
+msgstr "ទំហំសរុប"
+
+#: src/filemetadataprovider.cpp:428
+#, kde-format
+msgctxt "@label"
+msgid "Hidden items"
+msgstr "របស់ដែលលាក់"
+
+#: src/filemetadataprovider.cpp:429
+#, kde-format
+msgctxt "@label"
+msgid "Type"
+msgstr "ប្រភេទ"
+
+#: src/filemetadataprovider.cpp:430
+#, kde-format
+msgctxt "@label"
+msgid "Link to"
+msgstr "ភ្ជាប់ទៅ"
+
+#: src/filemetadataprovider.cpp:434
+#, kde-format
+msgctxt "@label"
+msgid "Downloaded From"
+msgstr "ទាញយកពី"
+
+#: src/filepropertiesplugin/baloofilepropertiesplugin.cpp:67
+#, kde-format
+msgctxt "Tab page with file meta data"
+msgid "&Details"
+msgstr "ព័ត៌មានលម្អិត"
+
+#: src/kcommentwidget.cpp:67 src/tagwidget.cpp:85
+#, kde-format
+msgctxt "@label"
+msgid "Add..."
+msgstr "បន្ថែម ..."
+
+#: src/kcommentwidget.cpp:73 src/tagwidget.cpp:85
+#, kde-format
+msgctxt "@label"
+msgid "Edit..."
+msgstr "កែសម្រួល ..."
+
+#: src/kcommentwidget.cpp:119
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Comment"
+msgstr "កែសម្រួលមតិយោបល់"
+
+#: src/kcommentwidget.cpp:120
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Comment"
+msgstr "បន្ថែមមតិយោបល់"
+
+#: src/keditcommentdialog.cpp:45 src/kedittagsdialog.cpp:52
+#, kde-format
+msgid "Save"
+msgstr "រក្សាទុក"
+
+#: src/kedittagsdialog.cpp:47
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Tags"
+msgstr "កែសម្រួលស្លាក"
+
+#: src/kedittagsdialog.cpp:48
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Tags"
+msgstr "បន្ថែមស្លាក"
+
+#: src/kedittagsdialog.cpp:62
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Configure which tags should be applied."
+msgstr "កំណត់រចនាសម្ព័ន្ធស្លាកណាមួយដែលគួរត្រូវបានអនុវត្ត។"
+
+#: src/kedittagsdialog.cpp:70
+#, kde-format
+msgctxt "@label"
+msgid "Create new tag:"
+msgstr "បង្កើតស្លាកថ្មី៖"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:44
+#, kde-format
+msgid "Assign Tags"
+msgstr "ចាត់តាំងស្លាក"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:79
+#, kde-format
+msgid "Create New..."
+msgstr "បង្កើត​ថ្មី..."
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:83
+#, kde-format
+msgid "New tag"
+msgstr "ស្លាកថ្មី"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:83
+#, kde-format
+msgid "New tag:"
+msgstr "ស្លាកថ្មី ៖"
+
+#: src/widgetfactory.cpp:85 src/widgetfactory.cpp:95
+#, kde-format
+msgctxt "String list separator"
+msgid ", "
+msgstr ", "
+
+#~ msgctxt "unknown file size"
+#~ msgid "Unknown"
+#~ msgstr "មិនស្គាល់"
+
+#~ msgctxt "@label bitrate (per second)"
+#~ msgid "%1/s"
+#~ msgstr "%1 / s"
+
+#~ msgctxt "@label samplerate in kilohertz"
+#~ msgid "%1 kHz"
+#~ msgstr "%1 kHz"
+
+#~ msgctxt "@label"
+#~ msgid "Change..."
+#~ msgstr "ផ្លាស់ប្តូរ ..."
+
+#~ msgctxt "@title:window"
+#~ msgid "Change Comment"
+#~ msgstr "ផ្លាស់ប្តូរមតិយោបល់"
+
+#~ msgctxt "@title:window"
+#~ msgid "Change Tags"
+#~ msgstr "ប្តូរស្លាក"
+
+#~ msgctxt "This is added to the query builder widget when a proposal containing a placeholder is selected"
+#~ msgid "[something]"
+#~ msgstr "[something]"
+
+#~ msgctxt "Pattern placeholder having no specific type"
+#~ msgid "[something]"
+#~ msgstr "[អ្វីមួយ]"
+
+#~ msgctxt "Pattern placeholder of date-time type"
+#~ msgid "[date and time]"
+#~ msgstr "[កាលបរិច្ឆេទ​និង​ពេលវេលា]"
+
+#~ msgctxt "Pattern placeholder for a tag name"
+#~ msgid "[tag name]"
+#~ msgstr "[ឈ្មោះស្លាក]"
+
+#~ msgctxt "Pattern placeholder for a contact identifier"
+#~ msgid "[contact]"
+#~ msgstr "[ទំនាក់ទំនង]"
+
+#~ msgctxt "Pattern placeholder for an e-mail address"
+#~ msgid "[email address]"
+#~ msgstr "[អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល]"
+
+#~ msgctxt "Pattern placeholder for a standard property name"
+#~ msgid "[property]"
+#~ msgstr "[ទ្រព្យសម្បត្តិ]"
+
+#~ msgctxt "@label"
+#~ msgid "Add Comment..."
+#~ msgstr "បន្ថែមមតិយោបល់ ..."
+
+#~ msgctxt "Numeric rating of a resource"
+#~ msgid "rated as $1;rated $1;score is $1;score|scored $1;having $1 stars|star"
+#~ msgstr "វាយតម្លៃជា $1; $1, ពិន្ទុគឺ $1, ពិន្ទុ; ស៊ុតបញ្ចូលទី $1; មាន $1 ផ្កាយ"
+
+#~ msgid "Rating (0 to 10)"
+#~ msgstr "ការវាយតំលៃ (០ ដល់ ១០)"
+
+#~ msgctxt "Comment of a resource"
+#~ msgid "described as $1;description|comment is $1;described|description|comment $1"
+#~ msgstr "ពិពណ៌នាថាជា $1; ការពិពណ៌នា | អត្ថាធិប្បាយគឺ $1 បានពិពណ៌នា | ការពិពណ៌នា | អត្ថាធិប្បាយបានទេ $1"
+
+#~ msgid "Comment or description"
+#~ msgstr "យោបល់ឬការពិពណ៌នា"
+
+#~ msgctxt "Author of a document"
+#~ msgid "written|created|composed by $1;author is $1;by $1"
+#~ msgstr "សរសេរ | បង្កើត | តែងដោយ $1 អ្នកនិពន្ធគឺ $1; ដោយ $1"
+
+#~ msgid "Author"
+#~ msgstr "អ្នកនិពន្ធ"
+
+#~ msgctxt "Size of a file"
+#~ msgid "size is $1;size $1;being $1 large;$1 large"
+#~ msgstr "ទំហំគឺ $1; ទំហំ $1; កំពុង $1 ធំ; $1 ធំ"
+
+#~ msgid "Size"
+#~ msgstr "ទំហំ"
+
+#~ msgctxt "Name of a file or contact"
+#~ msgid "name is $1;name $1;named $1"
+#~ msgstr "ឈ្មោះ $1; ឈ្មោះ $1; ឈ្មោះ $1"
+
+#~ msgid "Name"
+#~ msgstr "ឈ្មោះ"
+
+#~ msgctxt "Date of creation"
+#~ msgid "created|dated at|on|in|of $1;created|dated $1;creation date|time|datetime is $1"
+#~ msgstr "បានបង្កើត | ចុះកាលបរិច្ឆេទនៅ | លើ | នៅក្នុង | នៃ $1 បានបង្កើត | ចុះកាលបរិច្ឆេទ $1 កាលបរិច្ឆេទបង្កើត | ពេលវេលា"
+
+#~ msgid "Date of creation"
+#~ msgstr "កាលបរិច្ឆេទនៃការបង្កើត"
+
+#~ msgctxt "Date of last modification"
+#~ msgid "modified|edited at|on $1;modified|edited $1;modification|edition date|time|datetime is $1"
+#~ msgstr "បានកែប្រែ | កែប្រែនៅ | លើ $1 បានកែប្រែ | កែប្រែ $1 ការកែប្រែ | កាលបរិច្ឆេទបោះពុម្ពផ្សាយ - ពេលវេលា; ពេលវេលាគឺ $1"
+
+#~ msgid "Date of last modification"
+#~ msgstr "កាលបរិច្ឆេទនៃការកែប្រែចុងក្រោយ"
+
+#~ msgid "Tag name"
+#~ msgstr "ឈ្មោះស្លាក"
+
+#~ msgctxt "$1 is a property name (non-translatable unfortunately) and $2 is the value against which the property is matched. Note that the equal/greater/smaller sign has already been folded in $2"
+#~ msgid "$1 is $2;$1 $2"
+#~ msgstr "$1 គឺ $2; $1 $2"
+
+#~ msgid "File property"
+#~ msgstr "លក្ខណសម្បត្តិឯកសារ"
+
+#~ msgctxt "Characters that are kept in the query for further processing but are considered word boundaries"
+#~ msgid ".,;:!?()[]{}<>=#+-"
+#~ msgstr "។ ,;៖!? () [] {} <>"
+
+#~ msgctxt "Adding an offset to a period of time ($1=period, $2=offset)"
+#~ msgid "in $2 $1"
+#~ msgstr "ក្នុង $2 $1"
+
+#~ msgctxt "Removing an offset from a period of time ($1=period, $2=offset)"
+#~ msgid "$2 $1 ago"
+#~ msgstr "$2 $1 កន្លងទៅ"
+
+#~ msgctxt "In one day"
+#~ msgid "tomorrow"
+#~ msgstr "ថ្ងៃស្អែក"
+
+#~ msgid "Tomorrow"
+#~ msgstr "ថ្ងៃស្អែក"
+
+#~ msgctxt "One day ago"
+#~ msgid "yesterday"
+#~ msgstr "ម្សិលមិញ"
+
+#~ msgid "Yesterday"
+#~ msgstr "ម្សិលមិញ"
+
+#~ msgctxt "The current day"
+#~ msgid "today"
+#~ msgstr "ថ្ងៃនេះ"
+
+#~ msgid "Today"
+#~ msgstr "ថ្ងៃនេះ"
+
+#~ msgctxt "First period (first day, month, etc)"
+#~ msgid "first $1"
+#~ msgstr "ដំបូង $1"
+
+#~ msgid "First week, month, day, ..."
+#~ msgstr "សប្តាហ៍ដំបូងខែថ្ងៃ ..."
+
+#~ msgctxt "Last period (last day, month, etc)"
+#~ msgid "last $1 of"
+#~ msgstr "$1 ចុងក្រោយនៃ"
+
+#~ msgid "Last week, month, day, ..."
+#~ msgstr "សប្តាហ៍មុនខែខែថ្ងៃ ..."
+
+#~ msgctxt "Setting the value of a period, as in 'third week' ($1=period, $2=value)"
+#~ msgid "$2 $1"
+#~ msgstr "$2 $1"
+
+#~ msgctxt "Adding 1 to a period of time"
+#~ msgid "next $1"
+#~ msgstr "$1 បន្ទាប់"
+
+#~ msgid "Next week, month, day, ..."
+#~ msgstr "សប្តាហ៍ក្រោយខែខែថ្ងៃ ..."
+
+#~ msgctxt "Removing 1 to a period of time"
+#~ msgid "last $1"
+#~ msgstr "$1 ចុងក្រោយ"
+
+#~ msgid "Previous week, month, day, ..."
+#~ msgstr "សប្តាហ៍មុនខែខែថ្ងៃ ..."
+
+#~ msgctxt "An hour ($5) and an optional minute ($6), PM"
+#~ msgid "at $5 :|\\. $6 pm;at $5 h pm;at $5 pm;$5 : $6 pm;$5 h pm;$5 pm"
+#~ msgstr "នៅ $5៖ | \\ ។ $6 ល្ងាច; នៅ $5 ម៉ោង; នៅ $5 ល្ងាច; $5៖ $6 ល្ងាច; $5 ម៉ោង; $5 ល្ងាច"
+
+#~ msgid "A time after midday"
+#~ msgstr "ពេលវេលាបន្ទាប់ពីថ្ងៃត្រង់"
+
+#~ msgctxt "An hour ($5) and an optional minute ($6), AM"
+#~ msgid "at $5 :|\\. $6 am;at $5 \\. $6;at $5 h am;at $5 am;at $5;$5 :|\\. $6 am;$5 : $6 : $7;$5 : $6;$5 h am;$5 h;$5 am"
+#~ msgstr "នៅ $5៖ | \\ ។ $6 ព្រឹក; នៅ $5 \\ ។ $6; នៅ $5 ម៉ោង; នៅ $5 ព្រឹក; នៅ $5; $5៖ | \\ ។ $6 ព្រឹក; $5៖ $6៖ $7; $5៖ $6; $5 ម៉ោង am; $5 ម៉ោង; $5 ព្រឹក"
+
+#~ msgid "A time"
+#~ msgstr "ពេលវេលាមួយ"
+
+#~ msgctxt "A year ($1), month ($2), day ($3), day of week ($4), hour ($5), minute ($6), second ($7), in every combination supported by your language"
+#~ msgid "$3 of $2 $1;$3 st|nd|rd|th $2 $1;$3 st|nd|rd|th of $2 $1;$3 of $2;$3 st|nd|rd|th $2;$3 st|nd|rd|th of $2;$2 $3 st|nd|rd|th;$2 $3;$2 $1;$1 - $2 - $3;$1 - $2;$3 / $2 / $1;$3 / $2;in $2 $1; in $1;, $1"
+#~ msgstr "$3 នៃ $2 $1; $3 st | nd | rd | ទី $2 $1; $3 ផ្លូវលេខទី ២ នៃ $2 $1; $3 នៃ $2; $3 st | nd | rd | ទី $2; $3 ផ្លូវលេខទី ២ នៃ $2; $2 $3 ស្តុបទី ២, ទី ២; $2 $3; $2 $1; $1 - $2 - $3; $1 - $2; $3 / $2 / $1; $3 / $2; ក្នុង $2 $1; ក្នុង $1 ;, $1"
+
+#~ msgctxt "Decimal values with an integer ($1) and decimal ($2) part"
+#~ msgid "$1 \\. $2"
+#~ msgstr "$1 \\ ។ $2"
+
+#~ msgid "A decimal value"
+#~ msgstr "តម្លៃគោលដប់"
+
+#~ msgctxt "Equality"
+#~ msgid "contains|containing $1"
+#~ msgstr "មាន | ផ្ទុក $1"
+
+#~ msgid "Containing"
+#~ msgstr "មាន"
+
+#~ msgctxt "Strictly greater"
+#~ msgid "greater|bigger|more than $1;at least $1;> $1"
+#~ msgstr "ធំជាង | ធំជាង | ច្រើនជាង $1 យ៉ាងហោចណាស់ $1;> $1"
+
+#~ msgid "Greater than"
+#~ msgstr "ធំជាង"
+
+#~ msgctxt "After in time"
+#~ msgid "after|since $1"
+#~ msgstr "បន្ទាប់ពី | ចាប់តាំងពី $1"
+
+#~ msgid "After"
+#~ msgstr "បន្ទាប់ពី"
+
+#~ msgctxt "Strictly smaller"
+#~ msgid "smaller|less|lesser than $1;at most $1;< $1"
+#~ msgstr "តូចជាងតូចជាងតូចជាង $1; ភាគច្រើន $1; &lt;$1"
+
+#~ msgid "Smaller than"
+#~ msgstr "តូចជាង"
+
+#~ msgctxt "Before in time"
+#~ msgid "before|until $1"
+#~ msgstr "មុន | រហូតដល់ $1"
+
+#~ msgid "Before"
+#~ msgstr "មុន"
+
+#~ msgctxt "Equality"
+#~ msgid "equal|equals|= $1;equal to $1"
+#~ msgstr "ស្មើ | ស្មើ | = $1; ស្មើ $1"
+
+#~ msgid "Equal to"
+#~ msgstr "ស្មើនឹង"
+
+#~ msgctxt "Space-separated list of words representing a year"
+#~ msgid "year years"
+#~ msgstr "ឆ្នាំ"
+
+#~ msgctxt "Space-separated list of words representing a month"
+#~ msgid "month months"
+#~ msgstr "ខែខែ"
+
+#~ msgctxt "Space-separated list of words representing a week"
+#~ msgid "week weeks"
+#~ msgstr "សប្តាហ៍សប្តាហ៍"
+
+#~ msgctxt "Space-separated list of words representing a day"
+#~ msgid "day days"
+#~ msgstr "ថ្ងៃថ្ងៃ"
+
+#~ msgctxt "Space-separated list of words representing an hour"
+#~ msgid "hour hours"
+#~ msgstr "ម៉ោងម៉ោង"
+
+#~ msgctxt "Space-separated list of words representing a minute"
+#~ msgid "minute minutes"
+#~ msgstr "នាទីនាទី"
+
+#~ msgctxt "Space-separated list of words representing a second"
+#~ msgid "second seconds"
+#~ msgstr "វិនាទីទីពីរ"
+
+#~ msgctxt "Lower-case units corresponding to a kilobyte"
+#~ msgid "kb kilobyte kilobytes"
+#~ msgstr "គីបគីបប៊ីប៊ីប"
+
+#~ msgctxt "Lower-case units corresponding to a megabyte"
+#~ msgid "mb megabyte megabytes"
+#~ msgstr "មេកាបៃមេកាបៃ"
+
+#~ msgctxt "Lower-case units corresponding to a gigabyte"
+#~ msgid "gb gigabyte gigabytes"
+#~ msgstr "ជីកាបៃជីកាបៃជីកាបៃ"
+
+#~ msgctxt "Lower-case units corresponding to a terabyte"
+#~ msgid "tb terabyte terabytes"
+#~ msgstr "ធីប៊ីតេរ៉ាប៊ីតតេរ៉ាប៊ី"
+
+#~ msgctxt "Lower-case units corresponding to a kibibyte"
+#~ msgid "kib k kibibyte kibibytes"
+#~ msgstr "kib k kibibyte kibibytes"
+
+#~ msgctxt "Lower-case units corresponding to a mebibyte"
+#~ msgid "mib m mebibyte mebibytes"
+#~ msgstr "មីប mebibyte mebibytes"
+
+#~ msgctxt "Lower-case units corresponding to a gibibyte"
+#~ msgid "gib g gibibyte gibibytes"
+#~ msgstr "gibibyte gibibyte gibibyte"
+
+#~ msgctxt "Lower-case units corresponding to a tebibyte"
+#~ msgid "tib t tebibyte tebibytes"
+#~ msgstr "tibib tebtey tebibytes"
+
+#~ msgctxt "Space-separated list of words meaning 0"
+#~ msgid "zero nought null"
+#~ msgstr "សូន្យគ្មានន័យ"
+
+#~ msgctxt "Space-separated list of words meaning 1"
+#~ msgid "one a first"
+#~ msgstr "មួយដំបូង"
+
+#~ msgctxt "Space-separated list of words meaning 2"
+#~ msgid "two second"
+#~ msgstr "ពីរវិនាទី"
+
+#~ msgctxt "Space-separated list of words meaning 3"
+#~ msgid "three third"
+#~ msgstr "បីទីបី"
+
+#~ msgctxt "Space-separated list of words meaning 4"
+#~ msgid "four fourth"
+#~ msgstr "បួនទីបួន"
+
+#~ msgctxt "Space-separated list of words meaning 5"
+#~ msgid "five fifth"
+#~ msgstr "ប្រាំទីប្រាំ"
+
+#~ msgctxt "Space-separated list of words meaning 6"
+#~ msgid "six sixth"
+#~ msgstr "ប្រាំមួយប្រាំមួយ"
+
+#~ msgctxt "Space-separated list of words meaning 7"
+#~ msgid "seven seventh"
+#~ msgstr "ប្រាំពីរប្រាំពីរ"
+
+#~ msgctxt "Space-separated list of words meaning 8"
+#~ msgid "eight eighth"
+#~ msgstr "ប្រាំបីប្រាំបី"
+
+#~ msgctxt "Space-separated list of words meaning 9"
+#~ msgid "nine ninth"
+#~ msgstr "ប្រាំបួនប្រាំបួន"
+
+#~ msgctxt "Space-separated list of words meaning 10"
+#~ msgid "ten tenth"
+#~ msgstr "ដប់ភាគដប់"
+
+#~ msgctxt "List of lowercase prefixes or suffix that need to be split from values"
+#~ msgid "k m g b kb mb gb tb kib mib gib tib h am pm th rd nd st"
+#~ msgstr "kmgb គីឡូម៉ែតជីបប៊ីប៊ីប៊ីប៊ីប៊ីជីបជីបម៉ោងតែមួយព្រឹកម៉ោងទី ១៩"
+
+#~ msgctxt "List of words representing a file"
+#~ msgid "file files"
+#~ msgstr "file file"
+
+#~ msgctxt "List of words representing an image"
+#~ msgid "image images picture pictures photo photos"
+#~ msgstr "រូបភាពរូបភាពរូបភាពរូបភាពរូបថតរូបថត"
+
+#~ msgctxt "List of words representing a video"
+#~ msgid "video videos movie movies film films"
+#~ msgstr "វីដេអូខ្សែភាពយន្ដខ្សែភាពយន្ដខ្សែភាពយន្ដខ្សែភាពយន្ត"
+
+#~ msgctxt "List of words representing an audio file"
+#~ msgid "music musics"
+#~ msgstr "តន្រ្តីករ"
+
+#~ msgctxt "List of words representing a document"
+#~ msgid "document documents"
+#~ msgstr "ឯកសារឯកសារ"
+
+#~ msgctxt "List of words representing an email"
+#~ msgid "mail mails email emails e-mail e-mails message messages"
+#~ msgstr "អ៊ីមែលផ្ញើអ៊ីមែលអ៊ីមែលអ៊ីមែលសារអ៊ីមែល"
+
+#~ msgctxt "List of words representing an archive"
+#~ msgid "archive archives tarball tarballs zip"
+#~ msgstr "បណ្ណសារបណ្ណាល័យតារាងបាល់ជ័របាល់ទិក"
+
+#~ msgctxt "List of words representing a folder"
+#~ msgid "folder folders directory directories"
+#~ msgstr "ថតឯកសារថតឯកសារ"
+
+#~ msgctxt "List of words representing a contact"
+#~ msgid "contact contacts person people"
+#~ msgstr "ទាក់ទងមនុស្សទំនាក់ទំនងមនុស្ស"
+
+#~ msgctxt "List of words representing a note"
+#~ msgid "note notes"
+#~ msgstr "កំណត់ចំណាំចំណាំ"
+
+#~ msgid "and"
+#~ msgstr "និង"
+
+#~ msgid "or"
+#~ msgstr "ឬ"
+
+#~ msgid "not"
+#~ msgstr "មិនមែនទេ"

@@ -1,0 +1,199 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-11 12:46+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: src/applet/package/metadata.desktop:2 src/bluedevil.notifyrc:3
+#: src/kcm/package/metadata.desktop:2
+#: src/kio/bluetooth/bluetooth-network.desktop:3
+msgctxt "Name"
+msgid "Bluetooth"
+msgstr "ប៊្លូធូស"
+
+#: src/applet/package/metadata.desktop:51
+msgctxt "Comment"
+msgid "Bluetooth status and control"
+msgstr "ស្ថានភាពប៊្លូធូសនិងការគ្រប់គ្រង"
+
+#: src/bluedevil.notifyrc:51
+msgctxt "Comment"
+msgid "Bluetooth system"
+msgstr "ប្រព័ន្ធប៊្លូធូស"
+
+#: src/bluedevil.notifyrc:102
+msgctxt "Name"
+msgid "Authorization Requested"
+msgstr "ការស្នើសុំការអនុញ្ញាត"
+
+#: src/bluedevil.notifyrc:150
+msgctxt "Comment"
+msgid "A device wants to connect"
+msgstr "ឧបករណ៍ចង់ភ្ជាប់"
+
+#: src/bluedevil.notifyrc:202
+msgctxt "Name"
+msgid "Confirm PIN"
+msgstr "បញ្ជាក់លេខសម្ងាត់"
+
+#: src/bluedevil.notifyrc:250
+msgctxt "Comment"
+msgid "Confirm a device request using matching PINs"
+msgstr "បញ្ជាក់ការស្នើសុំឧបករណ៍ដោយប្រើលេខកូដសម្ងាត់ដែលត្រូវគ្នា"
+
+#: src/bluedevil.notifyrc:301
+msgctxt "Name"
+msgid "Request PIN"
+msgstr "ស្នើសុំលេខសម្ងាត់"
+
+#: src/bluedevil.notifyrc:349
+msgctxt "Comment"
+msgid "A PIN is needed"
+msgstr "ត្រូវការលេខសម្ងាត់"
+
+#: src/bluedevil.notifyrc:402
+msgctxt "Name"
+msgid "Incoming File"
+msgstr "ឯកសារចូល"
+
+#: src/bluedevil.notifyrc:451
+msgctxt "Comment"
+msgid "Incoming file transfer"
+msgstr "ផ្ទេរឯកសារចូល"
+
+#: src/bluedevil.notifyrc:503
+msgctxt "Name"
+msgid "Connection Failed"
+msgstr "ការ​ត​ភ្ជាប់​បាន​បរាជ័យ"
+
+#: src/bluedevil.notifyrc:551
+msgctxt "Comment"
+msgid "Connection to device failed"
+msgstr "ការភ្ជាប់ទៅឧបករណ៍បានបរាជ័យ"
+
+#: src/bluedevil.notifyrc:603
+msgctxt "Name"
+msgid "Device Setup Finished"
+msgstr "ការដំឡើងឧបករណ៍បានបញ្ចប់"
+
+#: src/bluedevil.notifyrc:636
+msgctxt "Comment"
+msgid "Setting up a Bluetooth device finished successfully"
+msgstr "ការដំឡើងឧបករណ៍ប៊្លូធូសបានបញ្ចប់ដោយជោគជ័យ"
+
+#: src/kcm/package/metadata.desktop:50
+msgctxt "Comment"
+msgid "Manage bluetooth devices"
+msgstr "គ្រប់គ្រងឧបករណ៍ប៊្លូធូស"
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:2
+msgctxt "Name"
+msgid "BlueDevil Send File"
+msgstr "BlueDevil ផ្ញើឯកសារ"
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:47
+msgctxt "GenericName"
+msgid "BlueDevil Send File"
+msgstr "BlueDevil ផ្ញើឯកសារ"
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:92
+msgctxt "Comment"
+msgid "BlueDevil Send File"
+msgstr "ប៊្លូឌីវីលផ្ញើឯកសារ"
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:2
+msgctxt "Name"
+msgid "BlueDevil Wizard"
+msgstr "ជំនួយការ BlueDevil"
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:49
+msgctxt "GenericName"
+msgid "BlueDevil Wizard"
+msgstr "ជំនួយការ BlueDevil"
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:96
+msgctxt "Comment"
+msgid "BlueDevil Wizard"
+msgstr "ជំនួយការ BlueDevil"
+
+#~ msgctxt "Name"
+#~ msgid "Adapters"
+#~ msgstr "អាដាប់ធ័រ"
+
+#~ msgctxt "Comment"
+#~ msgid "Bluetooth Adapters"
+#~ msgstr "អាដាប់ទ័រប៊្លូធូស"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Network,Connectivity,Bluetooth"
+#~ msgstr "បណ្តាញការតភ្ជាប់ប៊្លូធូស"
+
+#~ msgctxt "Name"
+#~ msgid "Devices"
+#~ msgstr "ឧបករណ៍"
+
+#~ msgctxt "Name"
+#~ msgid "Advanced Settings"
+#~ msgstr "ការកំណត់កម្រិតខ្ពស់"
+
+#~ msgctxt "Comment"
+#~ msgid "Advanced Bluetooth Settings"
+#~ msgstr "ការកំណត់ប៊្លូធូសកម្រិតខ្ពស់"
+
+#~ msgctxt "Name"
+#~ msgid "Send file via Bluetooth"
+#~ msgstr "ផ្ញើឯកសារតាមរយៈប៊្លូធូស"
+
+#~ msgctxt "X-KDE-Submenu"
+#~ msgid "Bluetooth"
+#~ msgstr "ប៊្លូធូស"
+
+#~ msgctxt "Comment"
+#~ msgid "Handles Bluetooth events"
+#~ msgstr "គ្រប់គ្រងព្រឹត្តិការណ៍ប៊្លូធូស"
+
+#~ msgctxt "Name"
+#~ msgid "Bluetooth File Transfer"
+#~ msgstr "ផ្ទេរឯកសារប៊្លូធូស"
+
+#~ msgctxt "Comment"
+#~ msgid "Supports Bluetooth file transfer using ObexFTP"
+#~ msgstr "គាំទ្រការផ្ទេរឯកសារប៊្លូធូសដោយប្រើ ObexFTP"
+
+#~ msgctxt "Name"
+#~ msgid "File Transfers"
+#~ msgstr "ការផ្ទេរឯកសារ"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Bluetooth file sharing and transfers"
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធការចែករំលែកនិងផ្ទេរឯកសារប៊្លូធូស"
+
+#~ msgctxt "Name"
+#~ msgid "Confirm Mode Change"
+#~ msgstr "បញ្ជាក់ការផ្លាស់ប្តូររបៀប"
+
+#~ msgctxt "Comment"
+#~ msgid "Bluetooth mode is about to be changed (normal to flight for example)"
+#~ msgstr "របៀបប៊្លូធូសជិតត្រូវបានផ្លាស់ប្តូរ (ធម្មតាទៅជើងហោះហើរឧទាហរណ៍)"
+
+#~ msgctxt "Name"
+#~ msgid "BlueDevil"
+#~ msgstr "BlueDevil"
+
+#~ msgctxt "GenericName"
+#~ msgid "BlueDevil"
+#~ msgstr "ប៊្លូឌីវីល"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Bluetooth support"
+#~ msgstr "គាំទ្រប៊្លូធូសរបស់ KDE"

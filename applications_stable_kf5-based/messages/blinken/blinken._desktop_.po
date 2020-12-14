@@ -1,0 +1,835 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-11 12:27+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: src/org.kde.blinken.desktop:2
+msgctxt "Name"
+msgid "Blinken"
+msgstr "Blinken"
+
+#: src/org.kde.blinken.desktop:59
+msgctxt "GenericName"
+msgid "Memory Enhancement Game"
+msgstr "ហ្គេមបង្កើនការចងចាំ"
+
+#: src/org.kde.blinken.desktop:114
+msgctxt "Comment"
+msgid "A memory enhancement game"
+msgstr "ល្បែងបង្កើនការចងចាំ"
+
+#~ msgctxt "Name"
+#~ msgid "AdvancedPlot"
+#~ msgstr "AdvancedPlot"
+
+#~ msgctxt "Name"
+#~ msgid "Differentiate"
+#~ msgstr "ខុសគ្នា"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify calculating derivatives of expressions"
+#~ msgstr "ប្រអប់ជំនួយការដើម្បីងាយស្រួលក្នុងការគណនាដេរីវេនៃកន្សោម"
+
+#~ msgctxt "Name"
+#~ msgid "Integrate"
+#~ msgstr "រួមបញ្ចូល"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify calculation of integrals"
+#~ msgstr "ប្រអប់ជំនួយការដើម្បីងាយស្រួលក្នុងការគណនាអាំងតេក្រាល"
+
+#~ msgctxt "Name"
+#~ msgid "Create Matrix"
+#~ msgstr "បង្កើតម៉ាទ្រីស"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify entering of matrices"
+#~ msgstr "ប្រអប់ជំនួយការដើម្បីសម្រួលដល់ការចូលនៃម៉ារីទិក"
+
+#~ msgctxt "Name"
+#~ msgid "Eigenvalues"
+#~ msgstr "Eigenvalues"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify calculating of Eigenvalues"
+#~ msgstr "ប្រអប់ជំនួយការដើម្បីងាយស្រួលក្នុងការគណនាអ៊ីតេវ៉ាលែន"
+
+#~ msgctxt "Name"
+#~ msgid "Eigenvectors"
+#~ msgstr "អេឡិចត្រូនិច"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify calculating of EigenVectors"
+#~ msgstr "ប្រអប់ជំនួយការដើម្បីធ្វើឱ្យមានភាពងាយស្រួលក្នុងការគណនាអេឡិចត្រូនិច"
+
+#~ msgctxt "Name"
+#~ msgid "Invert Matrix"
+#~ msgstr "បញ្ច្រាសម៉ាទ្រីស"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify inverting of matrices"
+#~ msgstr "ប្រអប់ជំនួយការដើម្បីងាយស្រួលក្នុងការបញ្ច្រាសម៉ាទ្រីស"
+
+#~ msgctxt "Name"
+#~ msgid "Plot2d"
+#~ msgstr "ដីឡូតិ៍ ២ ឃ"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify plotting of 2D functions"
+#~ msgstr "ប្រអប់ជំនួយការដើម្បីសម្រួលដល់ការធ្វើផែនការមុខងារទ្វេមាត្រ"
+
+#~ msgctxt "Name"
+#~ msgid "Plot3d"
+#~ msgstr "ដីឡូតិ៍ ៣ ឃ"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify plotting of 3D functions"
+#~ msgstr "ប្រអប់ជំនួយការដើម្បីសម្រួលដល់ការធ្វើផែនការមុខងារ 3D"
+
+#~ msgctxt "Name"
+#~ msgid "RunScript"
+#~ msgstr "RunScript"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant for running an external Script file"
+#~ msgstr "ជំនួយការសម្រាប់ដំណើរការឯកសារស្គ្រីបខាងក្រៅ"
+
+#~ msgctxt "Name"
+#~ msgid "Solve"
+#~ msgstr "ដោះស្រាយ"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify solving of equations"
+#~ msgstr "ប្រអប់ជំនួយការដើម្បីងាយស្រួលក្នុងការដោះស្រាយសមីការ"
+
+#~ msgctxt "Name"
+#~ msgid "KAlgebra"
+#~ msgstr "ខេលីល"
+
+#~ msgctxt "Comment"
+#~ msgid "KAlgebra backend for Cantor. Lets you use the same language you use in the KAlgebra application in Cantor worksheets."
+#~ msgstr "ផ្នែកខាងក្រោយរបស់ KAlgebra សម្រាប់ Cantor ។ អនុញ្ញាតឱ្យអ្នកប្រើភាសាដូចគ្នាដែលអ្នកប្រើនៅក្នុងកម្មវិធី KAlgebra នៅក្នុងសន្លឹកកិច្ចការ Cantor ។"
+
+#~ msgctxt "Name"
+#~ msgid "Maxima"
+#~ msgstr "Maxima"
+
+#~ msgctxt "Comment"
+#~ msgid "Backend for the Maxima Computer Algebra System"
+#~ msgstr "ផ្នែកខាងក្រោយសម្រាប់ប្រព័ន្ធពិជគណិតកុំព្យូទ័រម៉ាស៊ីម៉ា"
+
+#~ msgctxt "Name"
+#~ msgid "nullbackend"
+#~ msgstr "nullbackend"
+
+#~ msgctxt "Comment"
+#~ msgid "Backend for Cantor for testing purposes"
+#~ msgstr "Backend សម្រាប់ Cantor សម្រាប់គោលបំណងសាកល្បង"
+
+#~ msgctxt "Name"
+#~ msgid "Octave"
+#~ msgstr "Octave"
+
+#~ msgctxt "Comment"
+#~ msgid "Backend for GNU Octave"
+#~ msgstr "កម្មវិធីខាងក្រោយសម្រាប់ GNU Octave"
+
+#~ msgctxt "Comment"
+#~ msgid "Backend for The R Project for Statistical Computing"
+#~ msgstr "Backend សម្រាប់គម្រោង for សម្រាប់គណនាស្ថិតិ"
+
+#~ msgctxt "Name"
+#~ msgid "Sage"
+#~ msgstr "Sage"
+
+#~ msgctxt "Comment"
+#~ msgid "Backend for the Sage Mathematics Software"
+#~ msgstr "កម្មវិធីខាងក្រោយសម្រាប់សូរិយាគណិតវិទ្យា"
+
+#~ msgctxt "Name"
+#~ msgid "Cantor"
+#~ msgstr "ខាន់័រ"
+
+#~ msgctxt "GenericName"
+#~ msgid "KDE Frontend to Mathematical Software"
+#~ msgstr "កម្មវិធីផ្នែកខាងមុខរបស់ KDE ទៅកម្មវិធីគណិតវិទ្យា"
+
+#~ msgctxt "Name"
+#~ msgid "CantorPart"
+#~ msgstr "CantorPart"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant for Cantor"
+#~ msgstr "ជំនួយការសម្រាប់ Cantor"
+
+#~ msgctxt "Comment"
+#~ msgid "A Backend for Cantor"
+#~ msgstr "Backend សម្រាប់ Cantor"
+
+#~ msgctxt "Comment"
+#~ msgid "A Plugin for Cantor's Panel"
+#~ msgstr "កម្មវិធីជំនួយសម្រាប់បន្ទះខនន័រ"
+
+#~ msgctxt "Name"
+#~ msgid "Help"
+#~ msgstr "ជំនួយ"
+
+#~ msgctxt "Comment"
+#~ msgid "A panel to display help"
+#~ msgstr "បន្ទះដើម្បីបង្ហាញជំនួយ"
+
+#~ msgctxt "Name"
+#~ msgid "Variable Manager"
+#~ msgstr "កម្មវិធីគ្រប់គ្រងអថេរ"
+
+#~ msgctxt "Comment"
+#~ msgid "A panel to manage the variables of a session"
+#~ msgstr "បន្ទះដើម្បីគ្រប់គ្រងអថេរនៃសម័យ"
+
+#~ msgctxt "Name"
+#~ msgid "KAlgebra Mobile"
+#~ msgstr "KAlgebra ចល័ត"
+
+#~ msgctxt "GenericName"
+#~ msgid "Pocket Graph Calculator"
+#~ msgstr "ម៉ាស៊ីនគណនាក្រាហ្វិចហោប៉ៅ"
+
+#~ msgctxt "Comment"
+#~ msgid "Pocket Math Expression Solver and Plotter"
+#~ msgstr "ហោប៉ៅគណិតវិទ្យាបញ្ចេញមតិនិងឃេឃិប"
+
+#~ msgctxt "Name"
+#~ msgid "KAlgebra Script"
+#~ msgstr "KAlgebra ស្គ្រីប"
+
+#~ msgctxt "Name"
+#~ msgid "Console"
+#~ msgstr "កុងសូល"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides a console to use KAlgebra as a calculator"
+#~ msgstr "ផ្តល់កុងសូលដើម្បីប្រើ KAlgebra ជាម៉ាស៊ីនគិតលេខ"
+
+#~ msgctxt "Name"
+#~ msgid "Graph 2D"
+#~ msgstr "ក្រាហ្វិច ២ ឌី"
+
+#~ msgctxt "Comment"
+#~ msgid "Draws any 2D graph you want"
+#~ msgstr "គូរក្រាហ្វិចទ្វេដែលអ្នកចង់បាន"
+
+#~ msgctxt "Name"
+#~ msgid "Value Tables"
+#~ msgstr "តារាងតម្លៃ"
+
+#~ msgctxt "Name"
+#~ msgid "Variables"
+#~ msgstr "អថេរ"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides an enumeration of all defined variables"
+#~ msgstr "ផ្តល់នូវការរាប់ចំនួនអថេរដែលបានកំណត់ទាំងអស់"
+
+#~ msgctxt "Comment"
+#~ msgid "A Calculator"
+#~ msgstr "ម៉ាស៊ីនគិតលេខ"
+
+#~ msgctxt "GenericName"
+#~ msgid "Graph Calculator"
+#~ msgstr "ម៉ាស៊ីនគណនាក្រាហ្វិច"
+
+#~ msgctxt "Comment"
+#~ msgid "Math Expression Solver and Plotter"
+#~ msgstr "កម្មវិធីដោះស្រាយការបញ្ចេញគណិតវិទ្យានិងអ្នករៀបចំផែនការ"
+
+#~ msgctxt "Name"
+#~ msgid "KalziumGLPart"
+#~ msgstr "KalziumGLPart"
+
+#~ msgctxt "Comment"
+#~ msgid "An OpenGL-based 3D-renderer for molecules"
+#~ msgstr "ឧបករណ៍បង្ហាញ 3D ដែលមានមូលដ្ឋានលើអូជីនជីលសម្រាប់ម៉ូលេគុល"
+
+#~ msgctxt "Name"
+#~ msgid "Chemical Data"
+#~ msgstr "Chemical Data"
+
+#~ msgctxt "Comment"
+#~ msgid "Chemical Data Applet"
+#~ msgstr "ឧបករណ៍ទិន្នន័យគីមី"
+
+#~ msgctxt "Name"
+#~ msgid "Kalzium concentration Calculator"
+#~ msgstr "Kalzium concentration Calculator"
+
+#~ msgctxt "Comment"
+#~ msgid "Kalzium concentration Calculator"
+#~ msgstr "ម៉ាស៊ីនគណនាកំហាប់ Kalzium"
+
+#~ msgctxt "Name"
+#~ msgid "Chemistry: Did You Know"
+#~ msgstr "គីមីវិទ្យា៖ តើអ្នកដឹងទេ?"
+
+#~ msgctxt "Comment"
+#~ msgid "Facts about the chemical elements"
+#~ msgstr "ការពិតអំពីធាតុគីមី"
+
+#~ msgctxt "Name"
+#~ msgid "Kalzium gas Calculator"
+#~ msgstr "Kalzium gas Calculator"
+
+#~ msgctxt "Comment"
+#~ msgid "Kalzium gas Calculator"
+#~ msgstr "ម៉ាស៊ីនគណនាហ្គាស្យូម"
+
+#~ msgctxt "Name"
+#~ msgid "Kalzium nuclear Calculator"
+#~ msgstr "ម៉ាស៊ីនគណនានុយក្លេអ៊ែរ Kalzium"
+
+#~ msgctxt "Comment"
+#~ msgid "Kalzium Nuclear Calculator"
+#~ msgstr "ម៉ាស៊ីនគណនានុយក្លេអ៊ែរ Kalzium"
+
+#~ msgctxt "Name"
+#~ msgid "Molar mass calculator"
+#~ msgstr "ម៉ាស៊ីនគិតលេខម៉ុល"
+
+#~ msgctxt "Comment"
+#~ msgid "Small periodic table of elements with a molar mass calculator"
+#~ msgstr "តារាងតាមកាលកំណត់តូចៗនៃធាតុដែលមានម៉ាស៊ីនគណនាម៉ាស់ថ្គាម"
+
+#~ msgctxt "Name"
+#~ msgid "Kalzium"
+#~ msgstr "កាលីស្យូម"
+
+#~ msgctxt "Comment"
+#~ msgid "Chemical Data"
+#~ msgstr "ទិន្នន័យគីមី"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Periodic Table of Elements"
+#~ msgstr "តារាងតាមកាលកំណត់របស់ KDE"
+
+#~ msgctxt "GenericName"
+#~ msgid "Periodic Table of Elements"
+#~ msgstr "តារាងតាមកាលកំណត់នៃធាតុ"
+
+#~ msgctxt "Name"
+#~ msgid "Kanagram"
+#~ msgstr "ខាណាហាន់"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Letter Order Game"
+#~ msgstr "ល្បែងបញ្ជាទិញសំបុត្ររបស់ KDE"
+
+#~ msgctxt "GenericName"
+#~ msgid "Letter Order Game"
+#~ msgstr "ល្បែងបញ្ជាទិញសំបុត្រ"
+
+#~ msgctxt "GenericName"
+#~ msgid "Exercise Fractions"
+#~ msgstr "លំហាត់ប្រភាគ"
+
+#~ msgctxt "Comment"
+#~ msgid "Practice exercises with fractions"
+#~ msgstr "អនុវត្តលំហាត់ជាមួយប្រភាគ"
+
+#~ msgctxt "Name"
+#~ msgid "KBruch"
+#~ msgstr "ក្រុមហ៊ុន KBruch"
+
+#~ msgctxt "Name"
+#~ msgid "KGeography"
+#~ msgstr "KGeography"
+
+#~ msgctxt "GenericName"
+#~ msgid "Geography Trainer"
+#~ msgstr "អ្នកបណ្តុះបណ្តាលភូមិសាស្ត្រ"
+
+#~ msgctxt "Comment"
+#~ msgid "A Geography Learning Program"
+#~ msgstr "កម្មវិធីសិក្សាភូមិសាស្ត្រ"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Hangman Game"
+#~ msgstr "ល្បែងហ្គេនហាំមែន"
+
+#~ msgctxt "GenericName"
+#~ msgid "Hangman Game"
+#~ msgstr "ហ្គេមហាំមែន"
+
+#~ msgctxt "Name"
+#~ msgid "KHangMan"
+#~ msgstr "ឃាងម៉ាន់"
+
+#~ msgctxt "Name"
+#~ msgid "Dr. Geo Info"
+#~ msgstr "បណ្ឌិត Geo Geo"
+
+#~ msgctxt "Name"
+#~ msgid "Kig Info"
+#~ msgstr "ព័ត៌មាន Kig"
+
+#~ msgctxt "Name"
+#~ msgid "Kig"
+#~ msgstr "គីជី"
+
+#~ msgctxt "GenericName"
+#~ msgid "Interactive Geometry"
+#~ msgstr "ធរណីមាត្រអន្តរកម្ម"
+
+#~ msgctxt "Comment"
+#~ msgid "Explore Geometric Constructions"
+#~ msgstr "រុករកសំណង់ធរណីមាត្រ"
+
+#~ msgctxt "Name"
+#~ msgid "KigPart"
+#~ msgstr "គីជីប៉ាត"
+
+#~ msgctxt "GenericName"
+#~ msgid "Japanese Reference/Study Tool"
+#~ msgstr "ឧបករណ៍យោង / សិក្សាភាសាជប៉ុន"
+
+#~ msgctxt "Comment"
+#~ msgid "Japanese Reference and Study Tool"
+#~ msgstr "ឧបករណ៍យោងនិងសិក្សាភាសាជប៉ុន"
+
+#~ msgctxt "Name"
+#~ msgid "Kiten"
+#~ msgstr "Kiten"
+
+#~ msgctxt "Comment"
+#~ msgid "a KDE program to learn the alphabet"
+#~ msgstr "កម្មវិធី KDE ដើម្បីរៀនអក្ខរក្រម"
+
+#~ msgctxt "Name"
+#~ msgid "KLettres"
+#~ msgstr "ខេធីខេត"
+
+#~ msgctxt "GenericName"
+#~ msgid "Learn The Alphabet"
+#~ msgstr "រៀនអក្ខរក្រម"
+
+#~ msgctxt "Comment"
+#~ msgid "Function Plotter"
+#~ msgstr "អ្នករៀបចំមុខងារ"
+
+#~ msgctxt "Name"
+#~ msgid "KmPlot"
+#~ msgstr "KmPlot"
+
+#~ msgctxt "GenericName"
+#~ msgid "Mathematical Function Plotter"
+#~ msgstr "Plotter មុខងារគណិតវិទ្យា"
+
+#~ msgctxt "Name"
+#~ msgid "KmPlotPart"
+#~ msgstr "KmPlotPart"
+
+#~ msgctxt "Comment"
+#~ msgid "Desktop Planetarium"
+#~ msgstr "Desktop Planetarium"
+
+#~ msgctxt "Name"
+#~ msgid "KStars"
+#~ msgstr "ខេស្តា"
+
+#~ msgctxt "GenericName"
+#~ msgid "Desktop Planetarium"
+#~ msgstr "ដេសថបភឺរវឺរ"
+
+#~ msgctxt "GenericName"
+#~ msgid "Touch Typing Tutor"
+#~ msgstr "ប៉ះគ្រូវាយអក្សរ"
+
+#~ msgctxt "Name"
+#~ msgid "KTouch"
+#~ msgstr "ខេធីត"
+
+#~ msgctxt "Name"
+#~ msgid "KTurtle"
+#~ msgstr "ខេធីធូល"
+
+#~ msgctxt "GenericName"
+#~ msgid "Educational Programming Environment"
+#~ msgstr "បរិស្ថានកម្មវិធីអប់រំ"
+
+#~ msgctxt "Comment"
+#~ msgid "A flashcard and vocabulary learning program"
+#~ msgstr "កម្មវិធីរៀនកាតសំឡេងនិងវាក្យសព្ទ"
+
+#~ msgctxt "Name"
+#~ msgid "KWordQuiz"
+#~ msgstr "KWordQuiz"
+
+#~ msgctxt "GenericName"
+#~ msgid "Flash Card Trainer"
+#~ msgstr "គ្រូបង្ហាត់កាត"
+
+#~ msgctxt "Comment"
+#~ msgid "KWordQuiz"
+#~ msgstr "KWordQuiz"
+
+#~ msgctxt "Name"
+#~ msgid "QuizCorrect"
+#~ msgstr "Quiz ត្រឹមត្រូវ"
+
+#~ msgctxt "Comment"
+#~ msgid "Correct answer"
+#~ msgstr "ចម្លើយ​ត្រឹមត្រូវ"
+
+#~ msgctxt "Name"
+#~ msgid "QuizError"
+#~ msgstr "Quizកំហុស"
+
+#~ msgctxt "Comment"
+#~ msgid "Wrong answer"
+#~ msgstr "ចំលើយ​ខុស"
+
+#~ msgctxt "Name"
+#~ msgid "syntaxerror"
+#~ msgstr "syntaxerror"
+
+#~ msgctxt "Comment"
+#~ msgid "Error in syntax"
+#~ msgstr "កំហុសក្នុងវាក្យសម្ព័ន្ធ"
+
+#~ msgctxt "Name"
+#~ msgid "Marble"
+#~ msgstr "ថ្មម៉ាប"
+
+#~ msgctxt "GenericName"
+#~ msgid "Desktop Globe"
+#~ msgstr "ផ្ទៃ Desktop ហ្គូហ្គល"
+
+#~ msgctxt "Name"
+#~ msgid "Marble Part"
+#~ msgstr "ផ្នែកថ្មម៉ាប"
+
+#~ msgctxt "Name"
+#~ msgid "World Clock"
+#~ msgstr "នាឡិកាពិភពលោក"
+
+#~ msgctxt "Comment"
+#~ msgid "Shows the time in different parts of the world"
+#~ msgstr "បង្ហាញពេលវេលានៅផ្នែកផ្សេងៗនៃពិភពលោក"
+
+#~ msgctxt "Name"
+#~ msgid "Parley"
+#~ msgstr "ផាលី"
+
+#~ msgctxt "Comment"
+#~ msgid "Vocabulary data for Plasmoids"
+#~ msgstr "ទិន្នន័យវាក្យសព្ទសម្រាប់ Plasmoids"
+
+#~ msgctxt "Comment"
+#~ msgid "Vocabulary Cards"
+#~ msgstr "កាតវាក្យសព្ទ"
+
+#~ msgctxt "Name"
+#~ msgid "Example Parley Script"
+#~ msgstr "ឧទាហរណ៍ស្គ្រីបប៉ាលី"
+
+#~ msgctxt "Comment"
+#~ msgid "This example script offers two actions: 1) Move selected vocabulary to a different lesson 2) Change the grade of selected words to known (highest grade)"
+#~ msgstr "ស្គ្រីបឧទាហរណ៍នេះផ្តល់នូវសកម្មភាពពីរ៖ ១) ផ្លាស់ប្តូរវាក្យសព្ទដែលបានជ្រើសរើសទៅមេរៀនខុសគ្នា ២) ប្តូរថ្នាក់ពាក្យដែលបានជ្រើសរើសទៅជាស្គាល់ (ថ្នាក់ខ្ពស់បំផុត)"
+
+#~ msgctxt "Name"
+#~ msgid "Google Dictionary (translation)"
+#~ msgstr "វចនានុក្រមហ្គូហ្គល (ការបកប្រែ)"
+
+#~ msgctxt "Comment"
+#~ msgid "Uses Google Dictionary (translate.google.com) to translate words"
+#~ msgstr "ប្រើវចនានុក្រមហ្គូហ្គល (translate.google.com) ដើម្បីបកប្រែពាក្យ"
+
+#~ msgctxt "Name"
+#~ msgid "Google Images (online image fetching)"
+#~ msgstr "រូបភាពហ្គូហ្គល (ការទៅរករូបភាពតាមអ៊ីនធឺណិត)"
+
+#~ msgctxt "Comment"
+#~ msgid "This script automatically fetches images from images.google.com for the selected word.  The search language depends on the selected word.  Downloaded images are stored in a <<document file name>>_files folder next to the document file. Requires PyQt4."
+#~ msgstr "ស្គ្រីបនេះទាញយករូបភាពពី images.google.com ដោយស្វ័យប្រវត្តិសម្រាប់ពាក្យដែលបានជ្រើសរើស។ ភាសាស្វែងរកអាស្រ័យលើពាក្យដែលបានជ្រើសរើស។ រូបភាពដែលបានទាញយកត្រូវបានរក្សាទុកនៅក្នុងក <<document file name> > ថតឯកសារនៅជាប់នឹងឯកសារឯកសារ។ ត្រូវការ PyQt ៤ ។"
+
+#~ msgctxt "Name"
+#~ msgid "LEO Dictionary (Translation)"
+#~ msgstr "វចនានុក្រមអិលអូអេស (ការបកប្រែ)"
+
+#~ msgctxt "Comment"
+#~ msgid "Uses LEO Dictionary (dict.leo.org) to translate words"
+#~ msgstr "ប្រើវចនានុក្រមអិលអូអិល (dict.leo.org) ដើម្បីបកប្រែពាក្យ"
+
+#~ msgctxt "Name"
+#~ msgid "Testing Purposes Script"
+#~ msgstr "ស្គ្រីបគោលបំណងគោលបំណង"
+
+#~ msgctxt "Comment"
+#~ msgid "Description of what the plugin does"
+#~ msgstr "ការពិពណ៌នាអំពីអ្វីដែលកម្មវិធីជំនួយធ្វើ"
+
+#~ msgctxt "Name"
+#~ msgid "Wiktionary Sound"
+#~ msgstr "សំឡេងសំឡេង"
+
+#~ msgctxt "Comment"
+#~ msgid "This script fetches sound files from http://commons.wikimedia.org."
+#~ msgstr "ស្គ្រីបនេះទាញយកឯកសារសំឡេងពី http៖//commons.wikimedia.org ។"
+
+#~ msgctxt "GenericName"
+#~ msgid "Vocabulary Trainer"
+#~ msgstr "គ្រូបណ្តុះបណ្តាលវាក្យស័ព្ទ"
+
+#~ msgctxt "Name"
+#~ msgid "Bees"
+#~ msgstr "ឃ្មុំ"
+
+#~ msgctxt "Description"
+#~ msgid "Awesome cute bees"
+#~ msgstr "ឃ្មុំគួរឱ្យស្ញប់ស្ញែង"
+
+#~ msgctxt "Name"
+#~ msgid "Gray"
+#~ msgstr "ពណ៌ប្រផេះ"
+
+#~ msgctxt "Description"
+#~ msgid "A simple gray theme."
+#~ msgstr "រូបរាងពណ៌ប្រផេះធម្មតា។"
+
+#~ msgctxt "Comment"
+#~ msgid "Rocs Data Structure Plugin"
+#~ msgstr "កម្មវិធីជំនួយរចនាសម្ព័ន្ធទិន្នន័យរបស់រ៉ូស"
+
+#~ msgctxt "Name"
+#~ msgid "Graph"
+#~ msgstr "ក្រាហ្វ"
+
+#~ msgctxt "Name"
+#~ msgid "Linked list"
+#~ msgstr "បញ្ជីភ្ជាប់"
+
+#~ msgctxt "Name"
+#~ msgid "Dot file"
+#~ msgstr "ឯកសារចុច"
+
+#~ msgctxt "Comment"
+#~ msgid "Read and write Graphviz files."
+#~ msgstr "អាននិងសរសេរឯកសារ Graphviz ។"
+
+#~ msgctxt "Name"
+#~ msgid "GML file"
+#~ msgstr "ឯកសារ GML"
+
+#~ msgctxt "Comment"
+#~ msgid "Read and write GML files."
+#~ msgstr "អាននិងសរសេរឯកសារ GML ។"
+
+#~ msgctxt "Name"
+#~ msgid "TXT file"
+#~ msgstr "ឯកសារ TXT"
+
+#~ msgctxt "Comment"
+#~ msgid "Read and write TXT files."
+#~ msgstr "អាននិងសរសេរឯកសារ TXT ។"
+
+#~ msgctxt "Name"
+#~ msgid "KML file"
+#~ msgstr "ឯកសារ KML"
+
+#~ msgctxt "Comment"
+#~ msgid "Read and write Keyhole Markup Language files."
+#~ msgstr "អាននិងសរសេរឯកសារភាសា Keyhole Markup ។"
+
+#~ msgctxt "Name"
+#~ msgid "Make Complete"
+#~ msgstr "ធ្វើឱ្យពេញលេញ"
+
+#~ msgctxt "Comment"
+#~ msgid "Make all graphs complete. All actual edges will be removed."
+#~ msgstr "ធ្វើក្រាហ្វិចទាំងអស់ឱ្យបានពេញលេញ។ គែមពិតប្រាកដទាំងអស់នឹងត្រូវដកចេញ។"
+
+#~ msgctxt "Comment"
+#~ msgid "Rocs File Plugin"
+#~ msgstr "កម្មវិធីជំនួយឯកសារ Rocs"
+
+#~ msgctxt "Comment"
+#~ msgid "Rocs Tool Plugin"
+#~ msgstr "កម្មវិធីជំនួយឧបករណ៍រ៉ូប"
+
+#~ msgctxt "Name"
+#~ msgid "Rocs"
+#~ msgstr "ច្របូកច្របល់"
+
+#~ msgctxt "GenericName"
+#~ msgid "Rocs Graph Theory"
+#~ msgstr "ទ្រឹស្តីក្រាហ្វិច"
+
+#~ msgctxt "Comment"
+#~ msgid "Graph Theory Tool for Professors and Students."
+#~ msgstr "ឧបករណ៍ទ្រឹស្តីក្រាហ្វិចសំរាប់សាស្ត្រាចារ្យនិងនិស្សិត។"
+
+#~ msgctxt "Name"
+#~ msgid "Step"
+#~ msgstr "ជំហាន"
+
+#~ msgctxt "GenericName"
+#~ msgid "Interactive Physical Simulator"
+#~ msgstr "ម៉ាស៊ីនពិសោធន៏រាងកាយអន្តរកម្ម"
+
+#~ msgctxt "Comment"
+#~ msgid "Simulate physics experiments"
+#~ msgstr "ពិសោធពិសោធរូបវិទ្យា"
+
+#~ msgctxt "Description"
+#~ msgid "Awesome cute bees (disfigured by Parley developers)."
+#~ msgstr "ឃ្មុំគួរឱ្យស្ញប់ស្ញែង (ត្រូវបានក្លែងបន្លំដោយអ្នកអភិវឌ្ឍន៍ Parley) ។"
+
+#~ msgctxt "Comment"
+#~ msgid "KAlgebra backend for Cantor"
+#~ msgstr "ផ្នែកខាងក្រោយរបស់ KAlgebra សម្រាប់ Cantor"
+
+#~ msgctxt "Name"
+#~ msgid "Clean"
+#~ msgstr "ស្អាត"
+
+#~ msgctxt "Description"
+#~ msgid "Clean theme for KDE 4"
+#~ msgstr "ស្បែកស្អាតសម្រាប់ KDE ៤"
+
+#~ msgctxt "Name"
+#~ msgid "Default"
+#~ msgstr "លំនាំដើម"
+
+#~ msgctxt "Description"
+#~ msgid "Default theme for KDE 4"
+#~ msgstr "ស្បែកលំនាំដើមសម្រាប់ KDE ៤"
+
+#~ msgctxt "Name"
+#~ msgid "KPercentage"
+#~ msgstr "KPercentage"
+
+#~ msgctxt "GenericName"
+#~ msgid "Exercise Percentages"
+#~ msgstr "ភាគរយនៃការធ្វើលំហាត់ប្រាណ"
+
+#, fuzzy
+#~ msgctxt "GenericName"
+#~ msgid "Vocabulary Practice"
+#~ msgstr "ការអនុវត្តវាក្យសព្ទ"
+
+#~ msgctxt "Name"
+#~ msgid "KVocTrain"
+#~ msgstr "KVocTrain"
+
+#~ msgctxt "Comment"
+#~ msgid "Vocabulary Trainer Document"
+#~ msgstr "ឯកសារគ្រូបណ្តុះបណ្តាលវាក្យស័ព្ទ"
+
+#~ msgctxt "Comment"
+#~ msgid "A program to help revise Latin"
+#~ msgstr "កម្មវិធីជួយកែប្រែឡាតាំង"
+
+#~ msgctxt "Name"
+#~ msgid "KLatin"
+#~ msgstr "កាលីតាន"
+
+#~ msgctxt "GenericName"
+#~ msgid "Latin Reviser"
+#~ msgstr "ឡាតាំង Reviser"
+
+#~ msgctxt "Comment"
+#~ msgid "KWordQuiz Vocabulary"
+#~ msgstr "វាក្យសព្ទ KWordQuiz"
+
+#~ msgctxt "Comment"
+#~ msgid "Cabri Figure"
+#~ msgstr "រូបខាប៊ី"
+
+#~ msgctxt "Comment"
+#~ msgid "Dr. Geo Figure"
+#~ msgstr "បណ្ឌិត Geo Geo"
+
+#~ msgctxt "Comment"
+#~ msgid "KGeo Figure"
+#~ msgstr "រូបខេកូ"
+
+#~ msgctxt "Comment"
+#~ msgid "Kig Figure"
+#~ msgstr "រូបគីជី"
+
+#~ msgctxt "Comment"
+#~ msgid "KSeg Document"
+#~ msgstr "ឯកសារអេសអេស"
+
+#~ msgctxt "Name"
+#~ msgid "Languages"
+#~ msgstr "ភាសា"
+
+#~ msgctxt "Name"
+#~ msgid "Mathematics"
+#~ msgstr "គណិតវិទ្យា"
+
+#~ msgctxt "Name"
+#~ msgid "Miscellaneous"
+#~ msgstr "ផ្សេងៗ"
+
+#~ msgctxt "Name"
+#~ msgid "Science"
+#~ msgstr "វិទ្យាសាស្ត្រ"
+
+#~ msgctxt "Name"
+#~ msgid "Teaching Tools"
+#~ msgstr "ឧបករណ៍បង្រៀន"
+
+#~ msgctxt "GenericName"
+#~ msgid "Simon Says Game"
+#~ msgstr "ស៊ីម៉ូននិយាយថាហ្គេម"
+
+#~ msgctxt "Name"
+#~ msgid "KEduca"
+#~ msgstr "ខេអ៊ីឌា"
+
+#~ msgctxt "GenericName"
+#~ msgid "Tests & Exams"
+#~ msgstr "តេស្តអេមអេស"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Tests & Exams Program"
+#~ msgstr "កម្មវិធីតេស្តអិមអេសធីអេស"
+
+#~ msgctxt "GenericName"
+#~ msgid "Tests & Exams Editor"
+#~ msgstr "កម្មវិធីនិពន្ធ TestsExams"
+
+#~ msgctxt "Name"
+#~ msgid "KEduca-Editor"
+#~ msgstr "KEduca-Editor"
+
+#~ msgctxt "Comment"
+#~ msgid "Edu Document"
+#~ msgstr "ឯកសារ Edu"
+
+#~ msgctxt "Comment"
+#~ msgid "Edu Gallery Document"
+#~ msgstr "ឯកសារវិចិត្រសាល Edu"
+
+#~ msgctxt "Comment"
+#~ msgid "A KDE Logo programming environment"
+#~ msgstr "បរិស្ថានសរសេរឡូហ្គោ KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Kverbos"
+#~ msgstr "កូវបូស"
+
+#~ msgctxt "GenericName"
+#~ msgid "Study Spanish Verbforms"
+#~ msgstr "សិក្សាកិរិយាស័ព្ទអេស្ប៉ាញ"

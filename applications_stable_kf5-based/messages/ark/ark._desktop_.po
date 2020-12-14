@@ -1,0 +1,855 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-11 11:20+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: app/ark_dndextract.desktop.cmake:5
+msgctxt "Name"
+msgid "Ark Extract Here"
+msgstr "ដកស្រង់ Ark នៅទីនេះ"
+
+#: app/org.kde.ark.desktop.cmake:3
+msgctxt "GenericName"
+msgid "Archiving Tool"
+msgstr "ឧបករណ៍បណ្ណសារ"
+
+#: app/org.kde.ark.desktop.cmake:77
+msgctxt "Name"
+msgid "Ark"
+msgstr "Ark"
+
+#: app/org.kde.ark.desktop.cmake:160
+msgctxt "Comment"
+msgid "Work with file archives"
+msgstr "ធ្វើការជាមួយប័ណ្ណសារឯកសារ"
+
+#: kerfuffle/kerfufflePlugin.desktop:4
+msgctxt "Comment"
+msgid "Plugin for handling of archive formats for the Kerfuffle library"
+msgstr "កម្មវិធីជំនួយសម្រាប់គ្រប់គ្រងទ្រង់ទ្រាយប័ណ្ណសារសម្រាប់បណ្ណាល័យ Kerfuffle"
+
+#: part/ark_part.desktop.cmake:3
+msgctxt "Name"
+msgid "Archiver"
+msgstr "បណ្ណសារ"
+
+#: part/ark_part.desktop.cmake:76
+msgctxt "Comment"
+msgid "Archive Handling Tool"
+msgstr "ឧបករណ៍ដោះស្រាយប័ណ្ណសារ"
+
+#~ msgctxt "X-KDE-Submenu"
+#~ msgid "Compress"
+#~ msgstr "បង្រួម"
+
+#~ msgctxt "Name"
+#~ msgid "Here (as TAR.GZ)"
+#~ msgstr "ទីនេះ (ជា TAR.GZ)"
+
+#~ msgctxt "Name"
+#~ msgid "Here (as ZIP)"
+#~ msgstr "ទីនេះ (ជាហ្ស៊ីប)"
+
+#~ msgctxt "Name"
+#~ msgid "Compress to..."
+#~ msgstr "បង្រួមទៅ ..."
+
+#~ msgctxt "X-KDE-Submenu"
+#~ msgid "Extract"
+#~ msgstr "ស្រង់ចេញ"
+
+#~ msgctxt "Name"
+#~ msgid "Extract archive here"
+#~ msgstr "ទាញយកប័ណ្ណសារនៅទីនេះ"
+
+#~ msgctxt "Name"
+#~ msgid "Extract archive to..."
+#~ msgstr "ស្រង់ចេញប័ណ្ណសារទៅ ..."
+
+#~ msgctxt "Name"
+#~ msgid "Extract archive here, autodetect subfolder"
+#~ msgstr "ទាញយកប័ណ្ណសារនៅទីនេះរកថតរងដោយស្វ័យប្រវត្តិ"
+
+#~ msgctxt "Name"
+#~ msgid "TODO archive plugin"
+#~ msgstr "កម្មវិធីជំនួយបណ្ណសារ TODO"
+
+#~ msgctxt "Name"
+#~ msgid "ZIP archive plugin"
+#~ msgstr "កម្មវិធីជំនួយប័ណ្ណសារហ្ស៊ីប"
+
+#~ msgctxt "Name"
+#~ msgid "kerfuffle_libarchive"
+#~ msgstr "kerfufflelibarchive"
+
+#~ msgctxt "Comment"
+#~ msgid "LibArchive Plugin for Kerfuffle"
+#~ msgstr "កម្មវិធីជំនួយ LibArchive សម្រាប់ Kerfuffle"
+
+#~ msgctxt "Name"
+#~ msgid "kerfuffle_libarchive_readonly"
+#~ msgstr "kerfufflelibarchivereadonly"
+
+#~ msgctxt "Name"
+#~ msgid "7zip archive plugin"
+#~ msgstr "កម្មវិធីជំនួយបណ្ណសារ 7zip"
+
+#~ msgctxt "Name"
+#~ msgid "Here (as RAR)"
+#~ msgstr "ទីនេះ (ជា RAR)"
+
+#~ msgctxt "Name"
+#~ msgid "kerfuffle_karchive"
+#~ msgstr "kerfufflekarchive"
+
+#~ msgctxt "Comment"
+#~ msgid "KArchive plugin for Kerfuffle"
+#~ msgstr "កម្មវិធីជំនួយ KArchive សម្រាប់ Kerfuffle"
+
+#~ msgctxt "Name"
+#~ msgid "lha archive plugin"
+#~ msgstr "កម្មវិធីជំនួយបណ្ណសារ lha"
+
+#~ msgctxt "Name"
+#~ msgid "RAR archive plugin"
+#~ msgstr "កម្មវិធីជំនួយប័ណ្ណសារ RAR"
+
+#~ msgctxt "Name"
+#~ msgid "The Unarchiver plugin"
+#~ msgstr "កម្មវិធីជំនួយ Unarchiver"
+
+#~ msgctxt "Name"
+#~ msgid "kerfuffle_libbz2"
+#~ msgstr "kerfufflelibbz2"
+
+#~ msgctxt "Comment"
+#~ msgid "libbz2 plugin for Kerfuffle"
+#~ msgstr "កម្មវិធីជំនួយ libbz2 សម្រាប់ Kerfuffle"
+
+#~ msgctxt "Name"
+#~ msgid "kerfuffle_libgz"
+#~ msgstr "kerfufflelibgz"
+
+#~ msgctxt "Comment"
+#~ msgid "libgz plugin for Kerfuffle"
+#~ msgstr "កម្មវិធីជំនួយ libgz សម្រាប់ Kerfuffle"
+
+#~ msgctxt "Name"
+#~ msgid "kerfuffle_libxz"
+#~ msgstr "kerfufflelibxz"
+
+#~ msgctxt "Comment"
+#~ msgid "libxz plugin for Kerfuffle"
+#~ msgstr "កម្មវិធីជំនួយ libxz សម្រាប់ Kerfuffle"
+
+#~ msgctxt "Name"
+#~ msgid "Here"
+#~ msgstr "នៅទីនេះ"
+
+#~ msgctxt "Name"
+#~ msgid "As ZIP Archive"
+#~ msgstr "ជាប័ណ្ណសារហ្ស៊ីប"
+
+#~ msgctxt "Name"
+#~ msgid "As RAR Archive"
+#~ msgstr "ក្នុងនាមជា RAR Archive"
+
+#~ msgctxt "Name"
+#~ msgid "As TAR.GZ Archive"
+#~ msgstr "ក្នុងនាមជា TAR.GZ ប័ណ្ណសារ"
+
+#~ msgctxt "Name"
+#~ msgid "As ZIP/TAR Archive"
+#~ msgstr "ក្នុងនាមជាប័ណ្ណសារហ្ស៊ីប / TAR"
+
+#~ msgctxt "Name"
+#~ msgid "Filelight"
+#~ msgstr "Filelight"
+
+#~ msgctxt "GenericName"
+#~ msgid "Disk Usage Statistics"
+#~ msgstr "ស្ថិតិការប្រើប្រាស់ថាស"
+
+#~ msgctxt "Comment"
+#~ msgid "View disk usage information"
+#~ msgstr "មើលព័ត៌មានអំពីការប្រើប្រាស់ថាស"
+
+#~ msgctxt "Name"
+#~ msgid "Radial Map"
+#~ msgstr "ផែនទីមូល"
+
+#~ msgctxt "Name"
+#~ msgid "KCalc"
+#~ msgstr "ខេកាលីក"
+
+#~ msgctxt "GenericName"
+#~ msgid "Scientific Calculator"
+#~ msgstr "ការគណនាបែបវិទ្យាសាស្ត្រ"
+
+#~ msgctxt "GenericName"
+#~ msgid "Character Selector"
+#~ msgstr "Character Selector"
+
+#~ msgctxt "Name"
+#~ msgid "KCharSelect"
+#~ msgstr "ខេខេអេសអេស"
+
+#~ msgctxt "Name"
+#~ msgid "Storage Devices"
+#~ msgstr "ឧបករណ៍ផ្ទុក"
+
+#~ msgctxt "Comment"
+#~ msgid "Shows the disk usage of the mounted devices"
+#~ msgstr "បង្ហាញការប្រើប្រាស់ឌីសរបស់ឧបករណ៍ម៉ោន"
+
+#~ msgctxt "Name"
+#~ msgid "KDiskFree"
+#~ msgstr "ក្រុមហ៊ុន KDiskFree"
+
+#~ msgctxt "GenericName"
+#~ msgid "View Disk Usage"
+#~ msgstr "មើលការប្រើប្រាស់ថាស"
+
+#~ msgctxt "Name"
+#~ msgid "KwikDisk"
+#~ msgstr "KwikDisk"
+
+#~ msgctxt "GenericName"
+#~ msgid "Removable Media Utility"
+#~ msgstr "ឧបករណ៍ប្រើប្រាស់ប្រព័ន្ធផ្សព្វផ្សាយចល័ត"
+
+#~ msgctxt "Name"
+#~ msgid "Format"
+#~ msgstr "ទ្រង់ទ្រាយ"
+
+#~ msgctxt "GenericName"
+#~ msgid "Floppy Formatter"
+#~ msgstr "Floppy Formatter"
+
+#~ msgctxt "Name"
+#~ msgid "KFloppy"
+#~ msgstr "KFloppy"
+
+#~ msgctxt "Name"
+#~ msgid "Encrypt File"
+#~ msgstr "អ៊ិនគ្រីបឯកសារ"
+
+#~ msgctxt "Name"
+#~ msgid "Archive & Encrypt Folder"
+#~ msgstr "ថតឯកសារ ArchiveEncrypt"
+
+#~ msgctxt "GenericName"
+#~ msgid "Encryption Tool"
+#~ msgstr "ឧបករណ៍អ៊ិនគ្រីប"
+
+#~ msgctxt "Comment"
+#~ msgid "A GnuPG frontend"
+#~ msgstr "ផ្នែកខាងមុខរបស់ GnuPG"
+
+#~ msgctxt "Name"
+#~ msgid "KGpg"
+#~ msgstr "KGpg"
+
+#~ msgctxt "Name"
+#~ msgid "View file decrypted"
+#~ msgstr "មើលឯកសារដែលបានអ៊ិនគ្រីប"
+
+#~ msgctxt "Name"
+#~ msgid "Remote Control Data Engine"
+#~ msgstr "ម៉ាស៊ីនទិន្នន័យបញ្ជាពីចំងាយ"
+
+#~ msgctxt "Comment"
+#~ msgid "Data engine for kremotecontrol"
+#~ msgstr "ម៉ាស៊ីនទិន្នន័យសម្រាប់ kremotecontrol"
+
+#~ msgctxt "Name"
+#~ msgid "Remote Controls"
+#~ msgstr "ឧបករណ៍បញ្ជាពីចំងាយ"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure your remote controls for use with applications"
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធការបញ្ជាពីចម្ងាយរបស់អ្នកសម្រាប់ប្រើជាមួយកម្មវិធី"
+
+#~ msgctxt "Name"
+#~ msgid "K Remote Control Daemon"
+#~ msgstr "ដេមិនត្រួតពិនិត្យពីចម្ងាយ K"
+
+#~ msgctxt "Comment"
+#~ msgid "KRemoteControl Daemon"
+#~ msgstr "ដាប់ឌឺខេអរមេធ័រតេឡេ"
+
+#~ msgctxt "Name"
+#~ msgid "KRemoteControl notification"
+#~ msgstr "ការជូនដំណឹងរបស់ KRemoteControl"
+
+#~ msgctxt "Comment"
+#~ msgid "KRemoteControl global notification event"
+#~ msgstr "ព្រឹត្តិការណ៍ជូនដំណឹងជាសកលរបស់ក្រេឌីតគ្រប់គ្រង"
+
+#~ msgctxt "Name"
+#~ msgid "Mode switch event"
+#~ msgstr "ព្រឹត្តិការណ៍ប្តូររបៀប"
+
+#~ msgctxt "Comment"
+#~ msgid "Mode has changed"
+#~ msgstr "របៀបបានផ្លាស់ប្ដូរ"
+
+#~ msgctxt "Name"
+#~ msgid "Application event"
+#~ msgstr "ព្រឹត្តិការណ៍ដាក់ពាក្យ"
+
+#~ msgctxt "Comment"
+#~ msgid "KRemoteControl has started an application"
+#~ msgstr "ក្រេអឹមតេស្ត្រូថលបានចាប់ផ្តើមដាក់ពាក្យសុំ"
+
+#~ msgctxt "Name"
+#~ msgid "KRemoteControl Notifier Item"
+#~ msgstr "ធាតុជូនដំណឹង KRemoteControl"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Linux Infrared Remote Control"
+#~ msgstr "លីនុចអ៊ីនហ្វ្រារ៉េដបញ្ជាពីចម្ងាយ"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Remote Control Management Backend"
+#~ msgstr "កម្មវិធីគ្រប់គ្រងការបញ្ជាពីចម្ងាយ"
+
+#~ msgctxt "GenericName"
+#~ msgid "Countdown Launcher"
+#~ msgstr "កម្មវិធីរាប់ថយក្រោយ"
+
+#~ msgctxt "Name"
+#~ msgid "KTimer"
+#~ msgstr "ខេធីមឺរ"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Wallet"
+#~ msgstr "កាបូបរបស់ KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Wallet Configuration"
+#~ msgstr "ការកំណត់រចនាសម្ព័ន្ធកាបូបរបស់ KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Wallet Management Tool"
+#~ msgstr "Wallet Management Tool"
+
+#~ msgctxt "Name"
+#~ msgid "KWalletManager"
+#~ msgstr "KWalletManager"
+
+#~ msgctxt "GenericName"
+#~ msgid "Wallet Management Tool"
+#~ msgstr "ឧបករណ៍គ្រប់គ្រងកាបូប"
+
+#~ msgctxt "Name"
+#~ msgid "Printer Applet"
+#~ msgstr "Printer Applet"
+
+#~ msgctxt "Comment"
+#~ msgid "System tray icon for managing print jobs"
+#~ msgstr "រូបតំណាងថាសប្រព័ន្ធសម្រាប់ការគ្រប់គ្រងការងារបោះពុម្ព"
+
+#~ msgctxt "Comment"
+#~ msgid "Printer Applet"
+#~ msgstr "អាប់ភ្លែតព្រីនធ័រ"
+
+#~ msgctxt "Name"
+#~ msgid "New Printer"
+#~ msgstr "ព្រីនថ្មី"
+
+#~ msgctxt "Comment"
+#~ msgid "Configuring New Printer"
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធម៉ាស៊ីនព្រីនថ្មី"
+
+#~ msgctxt "Name"
+#~ msgid "Printer Added"
+#~ msgstr "Printer Added"
+
+#~ msgctxt "Comment"
+#~ msgid "Printer Added"
+#~ msgstr "បានបន្ថែមម៉ាស៊ីនបោះពុម្ព"
+
+#~ msgctxt "Name"
+#~ msgid "Missing Printer Driver"
+#~ msgstr "Missing Printer Driver"
+
+#~ msgctxt "Comment"
+#~ msgid "Missing Printer Driver"
+#~ msgstr "បាត់កម្មវិធីបញ្ជាម៉ាស៊ីនបោះពុម្ព"
+
+#~ msgctxt "Name"
+#~ msgid "Other"
+#~ msgstr "Other"
+
+#~ msgctxt "Comment"
+#~ msgid "Other"
+#~ msgstr "ផ្សេងទៀត"
+
+#~ msgctxt "Name"
+#~ msgid "SuperKaramba Theme Files"
+#~ msgstr "ឯកសារស្បែក SuperKaramba"
+
+#~ msgctxt "Comment"
+#~ msgid "Karamba Desktop Themes"
+#~ msgstr "ផ្ទៃ Desktop ផ្ទៃ Desktop ការ៉ាមបា"
+
+#~ msgctxt "Name"
+#~ msgid "SuperKaramba"
+#~ msgstr "SuperKaramba"
+
+#~ msgctxt "Comment"
+#~ msgid "Karamba Desktop Theme"
+#~ msgstr "ស្បែកផ្ទៃ Desktop ការ៉ាមបា"
+
+#~ msgctxt "Comment"
+#~ msgid "SuperKaramba Plasma Applet"
+#~ msgstr "ស៊ុបផ្លាស្មាផ្លាស្មាម"
+
+#~ msgctxt "Comment"
+#~ msgid "An engine for cool desktop eyecandy."
+#~ msgstr "ម៉ាស៊ីនសម្រាប់កែវភ្នែកផ្ទៃ Desktop ត្រជាក់។"
+
+#~ msgctxt "GenericName"
+#~ msgid "Desktop Widgets"
+#~ msgstr "ធាតុក្រាហ្វិកផ្ទៃ Desktop "
+
+#~ msgctxt "Name"
+#~ msgid "Sweeper"
+#~ msgstr "អ្នកបោស"
+
+#~ msgctxt "GenericName"
+#~ msgid "System Cleaner"
+#~ msgstr "អ្នកបោសសំអាតប្រព័ន្ធ"
+
+#~ msgctxt "Name"
+#~ msgid "Bitfields test"
+#~ msgstr "ការសាកល្បង Bitfields"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "A test structure for dynamic arrays (JS). Do not translate, it's a waste of time"
+#~ msgstr "រចនាសម្ពន្ធ័តេស្តសំរាប់អារេថាមវន្ត (JS) ។ កុំបកប្រែវាជាការខ្ជះខ្ជាយពេលវេលា"
+
+#~ msgctxt "Name"
+#~ msgid "Testing dynamic length arrays"
+#~ msgstr "ការធ្វើតេស្តអារេប្រវែងឌីណាមិក"
+
+#~ msgctxt "Comment"
+#~ msgid "A test structure for dynamic arrays"
+#~ msgstr "រចនាសម្ព័ន្ធសាកល្បងសម្រាប់អារេថាមវន្ត"
+
+#~ msgctxt "Name"
+#~ msgid "ELF structure"
+#~ msgstr "រចនាសម្ព័ន្ធអេហ្វអ៊ីអេហ្វ"
+
+#~ msgctxt "Comment"
+#~ msgid "Structure for Executable and Linkable Format (ELF)"
+#~ msgstr "រចនាសម្ព័ន្ធសំរាប់ទំរង់ប្រតិបត្តិនិងអាចភ្ជាប់បាន (ELF)"
+
+#~ msgctxt "Name"
+#~ msgid "Testing enums"
+#~ msgstr "ការធ្វើតេស្តអង់តែន"
+
+#~ msgctxt "Comment"
+#~ msgid "A test structure for enums"
+#~ msgstr "រចនាសម្ព័នតេស្តសំរាប់អង់តែន"
+
+#~ msgctxt "Name"
+#~ msgid "PNG file header"
+#~ msgstr "បឋមកថាឯកសារ PNG"
+
+#~ msgctxt "Comment"
+#~ msgid "A test structure containing the PNG file header (file must be set to big-endian)"
+#~ msgstr "រចនាសម្ព័ន្ធសាកល្បងដែលមានបឋមកថាឯកសារ PNG (ឯកសារត្រូវតែត្រូវបានកំណត់ជាអ្នកជំនាញខាងផ្នែកធំ)"
+
+#~ msgctxt "Name"
+#~ msgid "JavaScript test"
+#~ msgstr "តេស្ត JavaScript"
+
+#~ msgctxt "Comment"
+#~ msgid "Just testing structures defined in JS"
+#~ msgstr "គ្រាន់តែការសាកល្បងរចនាសម្ព័ន្ធដែលបានកំណត់នៅក្នុង JS"
+
+#~ msgctxt "Name"
+#~ msgid "Another simple test"
+#~ msgstr "ការធ្វើតេស្តសាមញ្ញមួយទៀត"
+
+#~ msgctxt "Comment"
+#~ msgid "A few more test structures"
+#~ msgstr "រចនាសម្ព័ន្ធសាកល្បងពីរបីបន្ថែមទៀត"
+
+#~ msgctxt "Name"
+#~ msgid "Simple test"
+#~ msgstr "តេស្តសាមញ្ញ"
+
+#~ msgctxt "Comment"
+#~ msgid "A few test structures"
+#~ msgstr "រចនាសម្ព័ន្ធសាកល្បងពីរបី"
+
+#~ msgctxt "Name"
+#~ msgid "Okteta Mobile"
+#~ msgstr "អូតូតាតាចល័ត"
+
+#~ msgctxt "Name"
+#~ msgid "BytesEdit Widget"
+#~ msgstr "ធាតុក្រាហ្វិកប៊ីតអ៊ីឌីត"
+
+#~ msgctxt "Name"
+#~ msgid "Okteta Hex Viewer"
+#~ msgstr "អ្នកមើល Okteta Hex"
+
+#~ msgctxt "Name"
+#~ msgid "Okteta"
+#~ msgstr "អូតាតា"
+
+#~ msgctxt "GenericName"
+#~ msgid "Hex Editor"
+#~ msgstr "កម្មវិធីនិពន្ធហេច"
+
+#~ msgctxt "Name"
+#~ msgid "IRKick"
+#~ msgstr "IRKick"
+
+#~ msgctxt "GenericName"
+#~ msgid "KDE LIRC Server"
+#~ msgstr "ម៉ាស៊ីនបម្រើ KDE LIRC"
+
+#~ msgctxt "Name"
+#~ msgid "Irkick notification"
+#~ msgstr "ការជូនដំណឹង Irkick"
+
+#~ msgctxt "Comment"
+#~ msgid "Irkick"
+#~ msgstr "Irkick"
+
+#~ msgctxt "Name"
+#~ msgid "kerfuffle_bk"
+#~ msgstr "kerfufflebk"
+
+#~ msgctxt "Comment"
+#~ msgid "bkisofs plugin for Kerfuffle"
+#~ msgstr "កម្មវិធីជំនួយ bkisofs សម្រាប់ Kerfuffle"
+
+#~ msgctxt "Name"
+#~ msgid "Embedded Binary Viewer"
+#~ msgstr "Embedded Binary Viewer"
+
+#~ msgctxt "Comment"
+#~ msgid "Embedded Binary Viewer"
+#~ msgstr "កម្មវិធីមើលគោលពីរដែលបង្កប់"
+
+#~ msgctxt "Name"
+#~ msgid "kerfuffle_7zip"
+#~ msgstr "kerfuffle7zip"
+
+#~ msgctxt "Comment"
+#~ msgid "7zip plugin for Kerfuffle"
+#~ msgstr "កម្មវិធីជំនួយ 7zip សម្រាប់ Kerfuffle"
+
+#~ msgctxt "Name"
+#~ msgid "kerfuffle_libzip"
+#~ msgstr "kerfufflelibzip"
+
+#~ msgctxt "Comment"
+#~ msgid "libzip plugin for Kerfuffle"
+#~ msgstr "កម្មវិធីជំនួយ libzip សម្រាប់ Kerfuffle"
+
+#~ msgctxt "Name"
+#~ msgid "kerfuffle_rar"
+#~ msgstr "kerfufflerar"
+
+#~ msgctxt "Comment"
+#~ msgid "rar plugin for Kerfuffle"
+#~ msgstr "កម្មវិធីជំនួយ rar សម្រាប់ Kerfuffle"
+
+#~ msgctxt "Name"
+#~ msgid "unACE for Kerfuffle"
+#~ msgstr "Unace សម្រាប់ Kerfuffle"
+
+#~ msgctxt "Comment"
+#~ msgid "plugin for unpacking ACE archives"
+#~ msgstr "កម្មវិធីជំនួយសម្រាប់ពន្លាប័ណ្ណសារ ACE"
+
+#~ msgctxt "Name"
+#~ msgid "Gzip-compressed tar archive"
+#~ msgstr "ប័ណ្ណសារ tar ដែលបង្រួមដោយជីហ្ស៊ីប"
+
+#~ msgctxt "Name"
+#~ msgid "kerfuffle_liblzma"
+#~ msgstr "kerfuffleliblzma"
+
+#~ msgctxt "Comment"
+#~ msgid "liblzma plugin for Kerfuffle"
+#~ msgstr "កម្មវិធីជំនួយ liblzma សម្រាប់ Kerfuffle"
+
+#~ msgctxt "GenericName"
+#~ msgid "Binary Editor"
+#~ msgstr "កម្មវិធីនិពន្ធគោលពីរ"
+
+#~ msgctxt "Name"
+#~ msgid "KJots"
+#~ msgstr "ខេជេត"
+
+#~ msgctxt "GenericName"
+#~ msgid "Note Taker"
+#~ msgstr "អ្នកកត់ចំណាំ"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Kontact KJots Plugin"
+#~ msgstr "កម្មវិធីជំនួយ Kontact KJots"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "KJotsPart"
+#~ msgstr "KJotsPart"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Laptop"
+#~ msgstr "កុំព្យូទ័រយួរដៃ"
+
+#~ msgctxt "Comment"
+#~ msgid "Laptop battery monitor"
+#~ msgstr "ម៉ូនីទ័រថ្មរបស់កុំព្យូទ័រយួរដៃ"
+
+#~ msgctxt "Name"
+#~ msgid "Laptop Battery Monitor"
+#~ msgstr "ម៉ូនីទ័រថ្មកុំព្យូទ័រយួរដៃ"
+
+#~ msgctxt "Comment"
+#~ msgid "Laptop Battery"
+#~ msgstr "Laptop Battery"
+
+#~ msgctxt "Name"
+#~ msgid "Laptop Battery"
+#~ msgstr "ថ្មកុំព្យូទ័រយួរដៃ"
+
+#~ msgctxt "Comment"
+#~ msgid "PCMCIA status"
+#~ msgstr "ស្ថានភាព PCMCIA"
+
+#~ msgctxt "Name"
+#~ msgid "PCMCIA"
+#~ msgstr "ភីស៊ីស៊ីអេ។ អេ"
+
+#~ msgctxt "Name"
+#~ msgid "Asus Laptop Plugin"
+#~ msgstr "កម្មវិធីជំនួយកុំព្យូទ័រយួរដៃអេស៊ាស"
+
+#~ msgctxt "Comment"
+#~ msgid "Enables support for special Asus laptop keys"
+#~ msgstr "បើកដំណើរការគាំទ្រសម្រាប់គ្រាប់ចុចកុំព្យូទ័រយួរដៃពិសេសរបស់ Asus"
+
+#~ msgctxt "Name"
+#~ msgid "Dell I8k Laptop Plugin"
+#~ msgstr "កម្មវិធីជំនួយកុំព្យូទ័រយួរដៃ Dell I8k"
+
+#~ msgctxt "Comment"
+#~ msgid "Enables support for special Dell laptop keys"
+#~ msgstr "បើកដំណើរការគាំទ្រសម្រាប់គ្រាប់ចុចកុំព្យូទ័រយួរដៃ Dell ពិសេស"
+
+#~ msgctxt "Name"
+#~ msgid "Demo Plugin"
+#~ msgstr "កម្មវិធីជំនួយសាកល្បង"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin does nothing."
+#~ msgstr "កម្មវិធីជំនួយនេះមិនធ្វើអ្វីទាំងអស់។"
+
+#~ msgctxt "Name"
+#~ msgid "Generic Keyboard Plugin"
+#~ msgstr "កម្មវិធីជំនួយក្តារចុចទូទៅ"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin enables support for special keys on all sorts of keyboards and laptops."
+#~ msgstr "កម្មវិធីជំនួយនេះជួយគាំទ្រគ្រាប់ចុចពិសេសនៅលើក្តារចុចនិងកុំព្យូទ័រយួរដៃគ្រប់ប្រភេទ។"
+
+#~ msgctxt "Name"
+#~ msgid "Sony Vaio Laptop"
+#~ msgstr "កុំព្យូទ័រយួរដៃ Sony Vaio"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the KDE Interface to the Sony Programmable Interrupt Controller Driver"
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធចំណុចប្រទាក់ KDE ទៅកម្មវិធីបញ្ជាឧបករណ៍រំខានដែលរារាំងកម្មវិធីសូនី"
+
+#~ msgctxt "Comment"
+#~ msgid "KMilo Module for Sony Vaio Laptop support"
+#~ msgstr "ម៉ូឌុលកូយឡៃសម្រាប់ការគាំទ្រកុំព្យូទ័រយួរដៃសូវៀវ៉ៃ"
+
+#~ msgctxt "Name"
+#~ msgid "KMilo"
+#~ msgstr "គីឡូម៉ែត្រ"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE special key notifier"
+#~ msgstr "ឧបករណ៍ជូនដំណឹងកូនសោពិសេសរបស់ KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Apple (R) PowerBook (R) Plugin"
+#~ msgstr "កម្មវិធីជំនួយអេបផលអេបផលអេសបឺរី (អេ)"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin enables support for special keys on Apple (R) PowerBook (R) laptops via pbbuttonsd."
+#~ msgstr "កម្មវិធីជំនួយនេះជួយគាំទ្រគ្រាប់ចុចពិសេសនៅលើកុំព្យូទ័រយួរដៃអេបផលអេបផលអេហ្វអេសតាមរយៈអេបផល។"
+
+#~ msgctxt "Name"
+#~ msgid "Apple PowerBook Plugin"
+#~ msgstr "កម្មវិធីជំនួយ Apple PowerBook"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin enabled support for special keys on Apple PowerBooks via pbbuttonsd."
+#~ msgstr "កម្មវិធីជំនួយនេះបើកការគាំទ្រសម្រាប់គ្រាប់ចុចពិសេសនៅលើ Apple PowerBooks តាមរយៈ pbbuttonsd ។"
+
+#~ msgctxt "Name"
+#~ msgid "IBM Thinkpad Laptop"
+#~ msgstr "កុំព្យូទ័រយួរដៃអិលអឹមអេហ្វផតថេប"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the KDE Interface to the IBM Thinkpad Special Controls"
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធចំណុចប្រទាក់ KDE ទៅវត្ថុបញ្ជាពិសេសរបស់អាយ។ អេស។ អេស"
+
+#~ msgctxt "Name"
+#~ msgid "Thinkpad Plugin"
+#~ msgstr "កម្មវិធីជំនួយផេបថេត"
+
+#~ msgctxt "Comment"
+#~ msgid "Enables support for special Thinkpad keys"
+#~ msgstr "បើកដំណើរការគាំទ្រសម្រាប់កូនសោ Thinkpad ពិសេស"
+
+#~ msgctxt "GenericName"
+#~ msgid "System Monitor"
+#~ msgstr "ម៉ូនីទ័រប្រព័ន្ធ"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "K System Information Monitor (GKrellM style)"
+#~ msgstr "K ប្រព័ន្ធត្រួតពិនិត្យព័ត៌មានប្រព័ន្ធ (រចនាបថ GKrellM)"
+
+#~ msgctxt "Name"
+#~ msgid "KSim"
+#~ msgstr "ខេស៊ីម"
+
+#~ msgctxt "Name"
+#~ msgid "CPU"
+#~ msgstr "ស៊ីភីយូ"
+
+#~ msgctxt "Comment"
+#~ msgid "CPU Monitor Plugin"
+#~ msgstr "កម្មវិធីជំនួយត្រួតពិនិត្យម៉ូនីទ័រស៊ីភីយូ"
+
+#~ msgctxt "Comment"
+#~ msgid "Disk Monitor Plugin"
+#~ msgstr "កម្មវិធីជំនួយឌីសម៉ូនីទ័រ"
+
+#~ msgctxt "Name"
+#~ msgid "Disk"
+#~ msgstr "ថាស"
+
+#~ msgctxt "Name"
+#~ msgid "DFree"
+#~ msgstr "DFree"
+
+#~ msgctxt "Comment"
+#~ msgid "Mounted Partitions Monitor"
+#~ msgstr "ម៉ូនីទ័រម៉ោនថ៍ម៉ោន"
+
+#~ msgctxt "Comment"
+#~ msgid "Dell I8K Hardware Monitor Plugin"
+#~ msgstr "កម្មវិធីជំនួយម៉ូនីទ័រផ្នែករឹងរបស់ក្រុមហ៊ុន Dell I8K"
+
+#~ msgctxt "Name"
+#~ msgid "Dell I8K"
+#~ msgstr "Dell I8K"
+
+#~ msgctxt "Comment"
+#~ msgid "Lm_sensors Status Monitor"
+#~ msgstr "កម្មវិធីត្រួតពិនិត្យស្ថានភាព Lmsensors"
+
+#~ msgctxt "Name"
+#~ msgid "Lm_sensors"
+#~ msgstr "Lmsensors"
+
+#~ msgctxt "Comment"
+#~ msgid "Mail Monitor Plugin"
+#~ msgstr "កម្មវិធីជំនួយត្រួតពិនិត្យអ៊ីមែល"
+
+#~ msgctxt "Name"
+#~ msgid "Mail"
+#~ msgstr "សំបុត្រ"
+
+#~ msgctxt "Comment"
+#~ msgid "Net Status Monitor"
+#~ msgstr "ម៉ូនីទ័រស្ថានភាពសុទ្ធ"
+
+#~ msgctxt "Name"
+#~ msgid "Net"
+#~ msgstr "សុទ្ធ"
+
+#~ msgctxt "Comment"
+#~ msgid "Snmp Status Monitor"
+#~ msgstr "កម្មវិធីត្រួតពិនិត្យស្ថានភាព Snmp"
+
+#~ msgctxt "Name"
+#~ msgid "Snmp"
+#~ msgstr "Snmp"
+
+#~ msgctxt "Name"
+#~ msgid "Character Selector"
+#~ msgstr "ឧបករណ៍ជ្រើសរើសតួអក្សរ"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Allows to pick shown characters for clipboard"
+#~ msgstr "អនុញ្ញាតឱ្យជ្រើសរើសតួអក្សរដែលបានបង្ហាញសម្រាប់ក្តារតម្បៀតខ្ទាស់"
+
+#, fuzzy
+#~ msgctxt "X-KDE-PluginInfo-Category"
+#~ msgid "SuperKaramba"
+#~ msgstr "SuperKaramba"
+
+#~ msgctxt "Name"
+#~ msgid "KRegExpEditor"
+#~ msgstr "KRegExpEditor"
+
+#~ msgctxt "GenericName"
+#~ msgid "Regular Expression Editor"
+#~ msgstr "កម្មវិធីនិពន្ធកន្សោមធម្មតា"
+
+#~ msgctxt "Name"
+#~ msgid "RegExp Editor Widget"
+#~ msgstr "ធាតុក្រាហ្វិកកម្មវិធីនិពន្ធ RegExp"
+
+#~ msgctxt "Keywords"
+#~ msgid "KCMLirc,kcmlirc"
+#~ msgstr "ខេស៊ីលីអិលស៊ី, kcmlirc"
+
+#~ msgctxt "Keywords"
+#~ msgid "Sony, Vaio, kvaio, brightness, mute, Jog Dial"
+#~ msgstr "សូនី, វ៉ៃយ៉ូ, kvaio, ពន្លឺ, ស្ងាត់, Jog Dial"
+
+#~ msgctxt "Keywords"
+#~ msgid "IBM, Thinkpad, brightness, mute, Jog Dial"
+#~ msgstr "IBM, Thinkpad, ភ្លឺ, ស្ងាត់, ជេក Dial"
+
+#~ msgctxt "Keywords"
+#~ msgid "Wallet,Form Fill,Passwords,Form Data"
+#~ msgstr "កាបូបបំពេញសំណុំបែបបទលេខសម្ងាត់ទិន្នន័យសំណុំបែបបទ"
+
+#~ msgctxt "Name"
+#~ msgid "KEdit"
+#~ msgstr "ខេឌីត"

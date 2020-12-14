@@ -1,0 +1,253 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-11-30 14:41+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: main.cpp:24 main.cpp:28
+#, kde-format
+msgid "Breeze Settings"
+msgstr "ការកំណត់ខ្យល់"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: ui/breezestyleconfig.ui:39
+#, kde-format
+msgid "General"
+msgstr "ទូទៅ"
+
+#. i18n: ectx: property (text), widget (QLabel, _windowDragLabel)
+#: ui/breezestyleconfig.ui:51
+#, kde-format
+msgid "W&indows' drag mode:"
+msgstr "របៀបអូសរបស់វីនដូ៖"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _viewDrawFocusIndicator)
+#: ui/breezestyleconfig.ui:64
+#, kde-format
+msgid "Draw focus indicator in lists"
+msgstr "គូរសូចនាករផ្តោតអារម្មណ៍នៅក្នុងបញ្ជី"
+
+#. i18n: ectx: property (text), widget (QLabel, _mnemonicsLabel)
+#: ui/breezestyleconfig.ui:71
+#, kde-format
+msgid "&Keyboard accelerators visibility:"
+msgstr "ភាពមើលឃើញនៃឧបករណ៍បង្កើនល្បឿនក្តារចុច៖"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, _mnemonicsMode)
+#: ui/breezestyleconfig.ui:85
+#, kde-format
+msgid "Always Hide Keyboard Accelerators"
+msgstr "លាក់ឧបករណ៍បង្កើនល្បឿនក្តារចុចជានិច្ច"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, _mnemonicsMode)
+#: ui/breezestyleconfig.ui:90
+#, kde-format
+msgid "Show Keyboard Accelerators When Needed"
+msgstr "បង្ហាញឧបករណ៍បង្កើនល្បឿនក្តារចុចនៅពេលត្រូវការ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, _mnemonicsMode)
+#: ui/breezestyleconfig.ui:95
+#, kde-format
+msgid "Always Show Keyboard Accelerators"
+msgstr "បង្ហាញឧបករណ៍បង្កើនល្បឿនក្តារចុចជានិច្ច"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, _windowDragMode)
+#: ui/breezestyleconfig.ui:117
+#, kde-format
+msgid "Drag windows from titlebar only"
+msgstr "ទាញផ្ទាំងវិនដូពីរបារចំណងជើង"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, _windowDragMode)
+#: ui/breezestyleconfig.ui:122
+#, kde-format
+msgid "Drag windows from titlebar, menubar and toolbars"
+msgstr "ទាញផ្ទាំងកម្មវិធីចេញពីរបារចំណងជើងរបារម៉ឺនុយនិងរបារឧបករណ៍"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, _windowDragMode)
+#: ui/breezestyleconfig.ui:127
+#, kde-format
+msgid "Drag windows from all empty areas"
+msgstr "ទាញផ្ទាំងវិនដូពីគ្រប់ទិសទី"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _tabBarDrawCenteredTabs)
+#: ui/breezestyleconfig.ui:148
+#, kde-format
+msgid "Center tabbar tabs"
+msgstr "ផ្ទាំងផ្ទាំងកណ្តាល"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _toolBarDrawItemSeparator)
+#: ui/breezestyleconfig.ui:155
+#, kde-format
+msgid "Draw toolbar item separators"
+msgstr "គូរឧបករណ៍បំបែកធាតុរបារឧបករណ៍"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _sliderDrawTickMarks)
+#: ui/breezestyleconfig.ui:162
+#, kde-format
+msgid "Draw slider tick marks"
+msgstr "គូសសញ្ញាធីករំកិល"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _splitterProxyEnabled)
+#: ui/breezestyleconfig.ui:169
+#, kde-format
+msgid "Enable extended resize handles"
+msgstr "បើកដំណើរការចំណុចទាញទំហំពង្រីក"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
+#: ui/breezestyleconfig.ui:177
+#, kde-format
+msgid "Frames"
+msgstr "ស៊ុម"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _dockWidgetDrawFrame)
+#: ui/breezestyleconfig.ui:183
+#, kde-format
+msgid "Draw frame around dockable panels"
+msgstr "គូរស៊ុមជុំវិញបន្ទះដែលអាចចតបាន"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _titleWidgetDrawFrame)
+#: ui/breezestyleconfig.ui:190
+#, kde-format
+msgid "Draw frame around page titles"
+msgstr "គូរស៊ុមជុំវិញចំណងជើងទំព័រ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _sidePanelDrawFrame)
+#: ui/breezestyleconfig.ui:197
+#, kde-format
+msgid "Draw frame around side panels"
+msgstr "គូរស៊ុមជុំវិញបន្ទះចំហៀង"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _menuItemDrawThinFocus)
+#: ui/breezestyleconfig.ui:204
+#, kde-format
+msgid "Draw a thin line to indicate focus in menus and menubars"
+msgstr "គូរបន្ទាត់ស្តើងដើម្បីបង្ហាញការផ្តោតអារម្មណ៍នៅក្នុងម៉ឺនុយនិងរបារម៉ឺនុយ"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_4)
+#: ui/breezestyleconfig.ui:225
+#, kde-format
+msgid "Scrollbars"
+msgstr "រមូរ"
+
+#. i18n: ectx: property (text), widget (QLabel, _scrollBarAddLineLabel)
+#: ui/breezestyleconfig.ui:244
+#, kde-format
+msgid "Bottom arrow button t&ype:"
+msgstr "ប្រភេទប៊ូតុងព្រួញក្រោម៖"
+
+#. i18n: ectx: property (text), widget (QLabel, _scrollBarSubLineLabel)
+#: ui/breezestyleconfig.ui:257
+#, kde-format
+msgid "&Top arrow button type:"
+msgstr "ប្រភេទប៊ូតុងព្រួញកំពូល៖"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, _scrollBarSubLineButtons)
+#. i18n: ectx: property (text), item, widget (QComboBox, _scrollBarAddLineButtons)
+#: ui/breezestyleconfig.ui:271 ui/breezestyleconfig.ui:290
+#, kde-format
+msgid "No Buttons"
+msgstr "គ្មានប៊ូតុងទេ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, _scrollBarSubLineButtons)
+#. i18n: ectx: property (text), item, widget (QComboBox, _scrollBarAddLineButtons)
+#: ui/breezestyleconfig.ui:276 ui/breezestyleconfig.ui:295
+#, kde-format
+msgid "One Button"
+msgstr "ប៊ូតុងមួយ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, _scrollBarSubLineButtons)
+#. i18n: ectx: property (text), item, widget (QComboBox, _scrollBarAddLineButtons)
+#: ui/breezestyleconfig.ui:281 ui/breezestyleconfig.ui:300
+#, kde-format
+msgid "Two Buttons"
+msgstr "ប៊ូតុងពីរ"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_5)
+#: ui/breezestyleconfig.ui:322
+#, kde-format
+msgid "Transparency"
+msgstr "តម្លាភាព"
+
+#. i18n: ectx: property (text), widget (QLabel, _menuOpacityTransparentLabel)
+#: ui/breezestyleconfig.ui:343
+#, kde-format
+msgid "Transparent"
+msgstr "ថ្លា"
+
+#. i18n: ectx: property (text), widget (QLabel, _menuOpacityOpaqueLabel)
+#: ui/breezestyleconfig.ui:369
+#, kde-format
+msgid "Opaque"
+msgstr "ស្រអាប់"
+
+#. i18n: ectx: property (text), widget (QLabel, _menuGroupDescription)
+#: ui/breezestyleconfig.ui:380
+#, kde-format
+msgid "Menu:"
+msgstr "ម៉ឺនុយ៖"
+
+#, 
+#~ msgid "Animations"
+#~ msgstr "ចលនា"
+
+#, 
+#~ msgid "A&nimations duration:"
+#~ msgstr "រយៈពេលចលនា៖"
+
+#, 
+#~ msgid " ms"
+#~ msgstr "ms"
+
+#, 
+#~ msgid "Enable animations"
+#~ msgstr "បើកដំណើរការចលនា"
+
+#, 
+#~ msgid "Only show full scrollbar on mouse over"
+#~ msgstr "បង្ហាញតែរបាររមូរពេញលេញលើម៉ៅ"
+
+#, 
+#~ msgid "Advanced"
+#~ msgstr "កម្រិតខ្ពស់"
+
+#, 
+#~ msgid "Widget Style"
+#~ msgstr "រចនាប័ទ្មធាតុក្រាហ្វិក"
+
+#, 
+#~ msgid "Modify the appearance of widgets"
+#~ msgstr "កែប្រែរូបរាងរបស់ធាតុក្រាហ្វិក"
+
+#, 
+#~ msgid "Window Decorations"
+#~ msgstr "ការតុបតែងផ្ទាំងកម្មវិធី"
+
+#, 
+#~ msgid "Modify the appearance of window decorations"
+#~ msgstr "កែប្រែរូបរាងនៃការតុបតែងផ្ទាំងកម្មវិធី"
+
+#, 
+#~ msgid "Unable to find breeze style configuration plugin"
+#~ msgstr "មិនអាចរកឃើញកម្មវិធីជំនួយកំណត់រចនាសម្ព័ន្ធស្ទីលខ្យល់"
+
+#, 
+#~ msgid "Unable to find breeze decoration configuration plugin"
+#~ msgstr "មិនអាចរកឃើញកម្មវិធីជំនួយកំណត់រចនាសម្ព័ន្ធការតុបតែងខ្យល់"
+
+#, 
+#~ msgid "Dialog"
+#~ msgstr "ប្រអប់"
+
+#, 
+#~ msgid "Form"
+#~ msgstr "សំណុំបែបបទ"

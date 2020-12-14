@@ -1,0 +1,51 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-11-30 14:41+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: src/calendarplugin.desktop:2
+#, 
+msgctxt "Name"
+msgid "Calendar Plugin Interface"
+msgstr "អន្តរកម្មកម្មវិធីជំនួយប្រតិទិន"
+
+#: src/calendarplugin.desktop:43
+#, 
+msgctxt "Comment"
+msgid "Calendar Plugin"
+msgstr "កម្មវិធីជំនួយប្រតិទិន"
+
+#: src/printing/itemlist/listprint.desktop:3
+#, 
+msgctxt "Name"
+msgid "List Print Style"
+msgstr "រាយបញ្ជីបោះពុម្ព"
+
+#: src/printing/itemlist/listprint.desktop:42
+#, 
+msgctxt "Comment"
+msgid "This plugin allows you to print out events and to-dos in list form."
+msgstr "កម្មវិធីជំនួយនេះអនុញ្ញាតឱ្យអ្នកបោះពុម្ពព្រឹត្តិការណ៍និងការងារត្រូវធ្វើក្នុងទម្រង់ជាបញ្ជី។"
+
+#: src/printing/whatsnext/whatsnextprint.desktop:3
+#, 
+msgctxt "Name"
+msgid "What's Next Print Style"
+msgstr "តើអ្វីទៅជាស្ទីលបោះពុម្ពបន្ទាប់"
+
+#: src/printing/whatsnext/whatsnextprint.desktop:42
+#, 
+msgctxt "Comment"
+msgid "This plugin allows you to print out a list of all upcoming events and to-dos."
+msgstr "កម្មវិធីជំនួយនេះអនុញ្ញាតឱ្យអ្នកបោះពុម្ពបញ្ជីនៃព្រឹត្តិការណ៍និងការងារត្រូវធ្វើដែលនឹងមកដល់។"

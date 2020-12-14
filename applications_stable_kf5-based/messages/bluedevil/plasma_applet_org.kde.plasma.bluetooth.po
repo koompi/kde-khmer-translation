@@ -1,0 +1,235 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-11 12:49+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: package/contents/ui/BluetoothApplet.qml:23
+#, kde-format
+msgid "Bluetooth"
+msgstr "ប៊្លូធូស"
+
+#: package/contents/ui/BluetoothApplet.qml:38
+#, kde-format
+msgid "Configure &Bluetooth..."
+msgstr "កំណត់រចនាសម្ព័ន្ធប៊្លូធូស ..."
+
+#: package/contents/ui/DeviceItem.qml:35
+#, kde-format
+msgid "Disconnect"
+msgstr "ផ្តាច់"
+
+#: package/contents/ui/DeviceItem.qml:35
+#, kde-format
+msgid "Connect"
+msgstr "ភ្ជាប់"
+
+#: package/contents/ui/DeviceItem.qml:67
+#, kde-format
+msgid "Browse Files"
+msgstr "រកមើលឯកសារ"
+
+#: package/contents/ui/DeviceItem.qml:79
+#, kde-format
+msgid "Send File"
+msgstr "ផ្ញើឯកសារ"
+
+#: package/contents/ui/DeviceItem.qml:144
+#, kde-format
+msgid "Copy"
+msgstr "ចម្លង"
+
+#: package/contents/ui/DeviceItem.qml:203
+#, kde-format
+msgid "Yes"
+msgstr "ត្រូវហើយ"
+
+#: package/contents/ui/DeviceItem.qml:205
+#, kde-format
+msgid "No"
+msgstr "ទេ"
+
+#: package/contents/ui/DeviceItem.qml:221
+#, kde-format
+msgid "Remote Name"
+msgstr "ឈ្មោះពីចម្ងាយ"
+
+#: package/contents/ui/DeviceItem.qml:225
+#, kde-format
+msgid "Address"
+msgstr "អាសយដ្ឋាន"
+
+#: package/contents/ui/DeviceItem.qml:228
+#, kde-format
+msgid "Paired"
+msgstr "បានផ្គូផ្គង"
+
+#: package/contents/ui/DeviceItem.qml:231
+#, kde-format
+msgid "Trusted"
+msgstr "ទុកចិត្ត"
+
+#: package/contents/ui/DeviceItem.qml:234
+#, kde-format
+msgid "Adapter"
+msgstr "អាដាប់ធ័រ"
+
+#: package/contents/ui/DeviceItem.qml:243
+#, kde-format
+msgid "Disconnecting"
+msgstr "ផ្តាច់"
+
+#: package/contents/ui/DeviceItem.qml:243
+#, kde-format
+msgid "Connecting"
+msgstr "ភ្ជាប់"
+
+#: package/contents/ui/DeviceItem.qml:252
+#, kde-format
+msgid "Audio device"
+msgstr "ឧបករណ៍អូឌីយ៉ូ"
+
+#: package/contents/ui/DeviceItem.qml:259
+#, kde-format
+msgid "Input device"
+msgstr "ឧបករណ៍បញ្ចូល"
+
+#: package/contents/ui/DeviceItem.qml:266
+#, kde-format
+msgid "File transfer"
+msgstr "ផ្ទេរឯកសារ"
+
+#: package/contents/ui/DeviceItem.qml:269
+#, kde-format
+msgid "Send file"
+msgstr "ផ្ញើឯកសារ"
+
+#: package/contents/ui/DeviceItem.qml:272
+#, kde-format
+msgid "Input"
+msgstr "ការបញ្ចូល"
+
+#: package/contents/ui/DeviceItem.qml:275
+#, kde-format
+msgid "Audio"
+msgstr "សំលេង"
+
+#: package/contents/ui/DeviceItem.qml:278
+#, kde-format
+msgid "Network"
+msgstr "បណ្តាញ"
+
+#: package/contents/ui/DeviceItem.qml:282
+#, kde-format
+msgid "Other device"
+msgstr "ឧបករណ៍ផ្សេងទៀត"
+
+#: package/contents/ui/DeviceItem.qml:289
+#, kde-format
+msgid "%1% Battery"
+msgstr "%1 % ថ្ម"
+
+#: package/contents/ui/DeviceItem.qml:330
+#, kde-format
+msgctxt "Notification when the connection failed due to Failed:HostIsDown"
+msgid "The device is unreachable"
+msgstr "ឧបករណ៍មិនអាចទៅដល់បានទេ"
+
+#: package/contents/ui/DeviceItem.qml:333
+#, kde-format
+msgctxt "Notification when the connection failed due to Failed"
+msgid "Connection to the device failed"
+msgstr "ការភ្ជាប់ទៅឧបករណ៍បានបរាជ័យ"
+
+#: package/contents/ui/DeviceItem.qml:339
+#, kde-format
+msgctxt "Notification when the connection failed due to NotReady"
+msgid "The device is not ready"
+msgstr "ឧបករណ៍មិនទាន់រួចរាល់"
+
+#: package/contents/ui/FullRepresentation.qml:23
+#, kde-format
+msgid "Add New Device"
+msgstr "បន្ថែមឧបករណ៍ថ្មី"
+
+#: package/contents/ui/FullRepresentation.qml:35
+#: package/contents/ui/Toolbar.qml:31
+#, kde-format
+msgid "Enable Bluetooth"
+msgstr "បើកដំណើរការប៊្លូធូស"
+
+#: package/contents/ui/FullRepresentation.qml:74
+#, kde-format
+msgid "Connected devices"
+msgstr "ឧបករណ៍ភ្ជាប់"
+
+#: package/contents/ui/FullRepresentation.qml:74
+#, kde-format
+msgid "Available devices"
+msgstr "ឧបករណ៍ដែលមាន"
+
+#: package/contents/ui/FullRepresentation.qml:96
+#, kde-format
+msgid "No Bluetooth Adapters Available"
+msgstr "មិនមានអាដាប់ទ័រប៊្លូធូសទេ"
+
+#: package/contents/ui/FullRepresentation.qml:98
+#, kde-format
+msgid "Bluetooth is Disabled"
+msgstr "ប៊្លូធូសត្រូវបានបិទ"
+
+#: package/contents/ui/FullRepresentation.qml:100
+#, kde-format
+msgid "No Devices Found"
+msgstr "រកមិនឃើញឧបករណ៍ទេ"
+
+#: package/contents/ui/logic.js:33
+#, kde-format
+msgid "Bluetooth is disabled"
+msgstr "ប៊្លូធូសត្រូវបានបិទ"
+
+#: package/contents/ui/logic.js:36
+#, kde-format
+msgid "No adapters available"
+msgstr "មិនមានអាដាប់ទ័រអាចប្រើបានទេ"
+
+#: package/contents/ui/logic.js:38
+#, kde-format
+msgid "Bluetooth is offline"
+msgstr "ប៊្លូធូសនៅក្រៅអ៊ីនធឺណិត"
+
+#: package/contents/ui/logic.js:41
+#, kde-format
+msgid "%1 connected"
+msgstr "%1 ភ្ជាប់"
+
+#: package/contents/ui/logic.js:43
+#, kde-format
+msgctxt "Number of connected devices"
+msgid "%1 connected device"
+msgid_plural "%1 connected devices"
+msgstr[0] "ឧបករណ៍ភ្ជាប់ %1"
+msgstr[1] "ឧបករណ៍ភ្ជាប់ %1"
+
+#: package/contents/ui/logic.js:49
+#, kde-format
+msgid "No connected devices"
+msgstr "គ្មានឧបករណ៍ភ្ជាប់ទេ"
+
+#: package/contents/ui/Toolbar.qml:49
+#, kde-format
+msgid "Add New Device..."
+msgstr "បន្ថែមឧបករណ៍ថ្មី ..."
+
+#~ msgid "Configure Bluetooth..."
+#~ msgstr "កំណត់រចនាសម្ព័ន្ធប៊្លូធូស ..."

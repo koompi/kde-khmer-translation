@@ -1,0 +1,430 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-11 14:28+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: config/breezeexceptionlistwidget.cpp:96
+#, kde-format
+msgid "New Exception - Breeze Settings"
+msgstr "ការលើកលែងថ្មី - ការកំណត់ខ្យល់"
+
+#: config/breezeexceptionlistwidget.cpp:144
+#, kde-format
+msgid "Edit Exception - Breeze Settings"
+msgstr "កែសម្រួលការលើកលែង - ការកំណត់ខ្យល់"
+
+#: config/breezeexceptionlistwidget.cpp:175
+#, kde-format
+msgid "Question - Breeze Settings"
+msgstr "សំណួរ - ការកំណត់ខ្យល់"
+
+#: config/breezeexceptionlistwidget.cpp:175
+#, kde-format
+msgid "Remove selected exception?"
+msgstr "លុបករណីលើកលែងដែលបានជ្រើសរើស?"
+
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: config/breezeexceptionlistwidget.cpp:176
+#: config/ui/breezeexceptionlistwidget.ui:91
+#, kde-format
+msgid "Remove"
+msgstr "លុប"
+
+#: config/breezeexceptionlistwidget.cpp:313
+#, kde-format
+msgid "Warning - Breeze Settings"
+msgstr "ការព្រមាន - ការកំណត់ខ្យល់"
+
+#: config/breezeexceptionlistwidget.cpp:313
+#, kde-format
+msgid "Regular Expression syntax is incorrect"
+msgstr "វាក្យសម្ពន្ធកន្សោមធម្មតាមិនត្រឹមត្រូវ"
+
+#: config/breezeexceptionmodel.cpp:21
+#, kde-format
+msgid "Exception Type"
+msgstr "ប្រភេទករណីលើកលែង"
+
+#: config/breezeexceptionmodel.cpp:22
+#, kde-format
+msgid "Regular Expression"
+msgstr "កន្សោមធម្មតា"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, exceptionType)
+#: config/breezeexceptionmodel.cpp:47 config/ui/breezeexceptiondialog.ui:72
+#, kde-format
+msgid "Window Title"
+msgstr "ចំណងជើងផ្ទាំងកម្មវិធី"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, exceptionType)
+#: config/breezeexceptionmodel.cpp:51 config/ui/breezeexceptiondialog.ui:67
+#, kde-format
+msgid "Window Class Name"
+msgstr "ឈ្មោះថ្នាក់ផ្ទាំងកម្មវិធី"
+
+#: config/breezeexceptionmodel.cpp:67
+#, kde-format
+msgid "Enable/disable this exception"
+msgstr "បើក / បិទការលើកលែងនេះ"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: config/ui/breezeconfigurationui.ui:33
+#, kde-format
+msgid "General"
+msgstr "ទូទៅ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: config/ui/breezeconfigurationui.ui:39
+#, kde-format
+msgid "Tit&le alignment:"
+msgstr "តម្រឹមចំណងជើង៖"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: config/ui/breezeconfigurationui.ui:52
+#, kde-format
+msgid "B&utton size:"
+msgstr "ទំហំប៊ូតុង៖"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, buttonSize)
+#: config/ui/breezeconfigurationui.ui:66
+#, kde-format
+msgid "Tiny"
+msgstr "តូច"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, buttonSize)
+#. i18n: ectx: property (text), item, widget (QComboBox, shadowSize)
+#: config/ui/breezeconfigurationui.ui:71 config/ui/breezeconfigurationui.ui:205
+#, kde-format
+msgctxt "@item:inlistbox Button size:"
+msgid "Small"
+msgstr "តូច"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, buttonSize)
+#. i18n: ectx: property (text), item, widget (QComboBox, shadowSize)
+#: config/ui/breezeconfigurationui.ui:76 config/ui/breezeconfigurationui.ui:210
+#, kde-format
+msgctxt "@item:inlistbox Button size:"
+msgid "Medium"
+msgstr "មធ្យម"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, buttonSize)
+#. i18n: ectx: property (text), item, widget (QComboBox, shadowSize)
+#: config/ui/breezeconfigurationui.ui:81 config/ui/breezeconfigurationui.ui:215
+#, kde-format
+msgctxt "@item:inlistbox Button size:"
+msgid "Large"
+msgstr "ធ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, buttonSize)
+#. i18n: ectx: property (text), item, widget (QComboBox, shadowSize)
+#: config/ui/breezeconfigurationui.ui:86 config/ui/breezeconfigurationui.ui:220
+#, kde-format
+msgctxt "@item:inlistbox Button size:"
+msgid "Very Large"
+msgstr "ធំណាស់"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, titleAlignment)
+#: config/ui/breezeconfigurationui.ui:95
+#, kde-format
+msgid "Left"
+msgstr "ឆ្វេង"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, titleAlignment)
+#: config/ui/breezeconfigurationui.ui:100
+#, kde-format
+msgid "Center"
+msgstr "កណ្តាល"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, titleAlignment)
+#: config/ui/breezeconfigurationui.ui:105
+#, kde-format
+msgid "Center (Full Width)"
+msgstr "មជ្ឈមណ្ឌល (ទទឹងពេញ)"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, titleAlignment)
+#: config/ui/breezeconfigurationui.ui:110
+#, kde-format
+msgid "Right"
+msgstr "ត្រូវ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, drawSizeGrip)
+#: config/ui/breezeconfigurationui.ui:144
+#, kde-format
+msgid "Add handle to resize windows with no border"
+msgstr "បន្ថែមចំណុចទាញដើម្បីប្ដូរទំហំផ្ទាំងកម្មវិធីដោយគ្មានព្រំដែន"
+
+#. i18n: ectx: property (text), widget (QCheckBox, drawTitleBarSeparator)
+#: config/ui/breezeconfigurationui.ui:151
+#, kde-format
+msgid "Draw separator under active window's titlebar"
+msgstr "គូរសញ្ញាបំបែកនៅក្រោមរបារចំណងជើងរបស់ផ្ទាំងកម្មវិធីសកម្ម"
+
+#. i18n: ectx: property (text), widget (QCheckBox, drawBorderOnMaximizedWindows)
+#: config/ui/breezeconfigurationui.ui:158
+#, kde-format
+msgid "Allow resizing maximized windows from window edges"
+msgstr "អនុញ្ញាតឱ្យផ្លាស់ប្តូរទំហំផ្ទាំងកម្មវិធីអតិបរមាពីគែមផ្ទាំងកម្មវិធី"
+
+#. i18n: ectx: property (text), widget (QCheckBox, outlineCloseButton)
+#: config/ui/breezeconfigurationui.ui:165
+#, kde-format
+msgid "Draw a circle around close button"
+msgstr "គូររង្វង់ជុំវិញប៊ូតុងបិទ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, drawBackgroundGradient)
+#: config/ui/breezeconfigurationui.ui:172
+#, kde-format
+msgid "Draw titlebar background gradient"
+msgstr "គូរជម្រាលផ្ទៃខាងក្រោយនៃរបារចំណងជើង"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_4)
+#: config/ui/breezeconfigurationui.ui:180
+#, kde-format
+msgid "Shadows"
+msgstr "ស្រមោល"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: config/ui/breezeconfigurationui.ui:186
+#, kde-format
+msgid "Si&ze:"
+msgstr "ទំហំ៖"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, shadowSize)
+#: config/ui/breezeconfigurationui.ui:200
+#, kde-format
+msgctxt "@item:inlistbox Button size:"
+msgid "None"
+msgstr "គ្មាន"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: config/ui/breezeconfigurationui.ui:228
+#, kde-format
+msgctxt "strength of the shadow (from transparent to opaque)"
+msgid "S&trength:"
+msgstr "ភាពខ្លាំង៖"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, shadowStrength)
+#: config/ui/breezeconfigurationui.ui:241
+#, no-c-format, kde-format
+msgid "%"
+msgstr "%"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: config/ui/breezeconfigurationui.ui:267
+#, kde-format
+msgid "Color:"
+msgstr "ពណ៌៖"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
+#: config/ui/breezeconfigurationui.ui:294
+#, kde-format
+msgid "Window-Specific Overrides"
+msgstr "ការបដិសេធផ្ទាំងកម្មវិធីជាក់លាក់"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, BreezeDetectWidget)
+#. i18n: ectx: property (windowTitle), widget (QDialog, BreezeExceptionDialog)
+#: config/ui/breezedetectwidget.ui:14 config/ui/breezeexceptiondialog.ui:14
+#, kde-format
+msgid "Dialog"
+msgstr "ប្រអប់"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: config/ui/breezedetectwidget.ui:20
+#, kde-format
+msgid "Information about Selected Window"
+msgstr "ព័ត៌មានអំពីផ្ទាំងកម្មវិធីដែលបានជ្រើសរើស"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: config/ui/breezedetectwidget.ui:26
+#, kde-format
+msgid "Class: "
+msgstr "ថ្នាក់​ ៖ "
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: config/ui/breezedetectwidget.ui:43
+#, kde-format
+msgid "Title: "
+msgstr "ចំណងជើង៖ "
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: config/ui/breezedetectwidget.ui:63
+#, kde-format
+msgid "Window Property Selection"
+msgstr "ការជ្រើសរើសទ្រព្យសម្បត្តិផ្ទាំងកម្មវិធី"
+
+#. i18n: ectx: property (text), widget (QRadioButton, windowClassCheckBox)
+#: config/ui/breezedetectwidget.ui:69
+#, kde-format
+msgid "Use window class (whole application)"
+msgstr "ប្រើថ្នាក់ផ្ទាំងកម្មវិធី (កម្មវិធីទាំងមូល)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, windowTitleCheckBox)
+#: config/ui/breezedetectwidget.ui:79
+#, kde-format
+msgid "Use window title"
+msgstr "ប្រើចំណងជើងផ្ទាំងកម្មវិធី"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: config/ui/breezeexceptiondialog.ui:20
+#, kde-format
+msgid "Window Identification"
+msgstr "ការកំណត់អត្តសញ្ញាណផ្ទាំងកម្មវិធី"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: config/ui/breezeexceptiondialog.ui:26
+#, kde-format
+msgid "&Matching window property: "
+msgstr "ការផ្គូផ្គងលក្ខណសម្បត្តិផ្ទាំងកម្មវិធី៖ "
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: config/ui/breezeexceptiondialog.ui:39
+#, kde-format
+msgid "Regular expression &to match: "
+msgstr "កន្សោមធម្មតាត្រូវនឹង៖ "
+
+#. i18n: ectx: property (text), widget (QPushButton, detectDialogButton)
+#: config/ui/breezeexceptiondialog.ui:52
+#, kde-format
+msgid "Detect Window Properties"
+msgstr "រកឃើញលក្ខណៈសម្បត្តិផ្ទាំងកម្មវិធី"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: config/ui/breezeexceptiondialog.ui:83
+#, kde-format
+msgid "Decoration Options"
+msgstr "ជម្រើសតុបតែង"
+
+#. i18n: ectx: property (text), widget (QCheckBox, borderSizeCheckBox)
+#: config/ui/breezeexceptiondialog.ui:89
+#, kde-format
+msgid "Border size:"
+msgstr "ទំហំព្រំដែន៖"
+
+#. i18n: ectx: property (text), widget (QCheckBox, hideTitleBar)
+#: config/ui/breezeexceptiondialog.ui:96
+#, kde-format
+msgid "Hide window title bar"
+msgstr "លាក់របារចំណងជើងផ្ទាំងកម្មវិធី"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:107
+#, kde-format
+msgctxt "@item:inlistbox Border size:"
+msgid "No Border"
+msgstr "គ្មានព្រំដែន"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:112
+#, kde-format
+msgctxt "@item:inlistbox Border size:"
+msgid "No Side Borders"
+msgstr "គ្មានព្រំប្រទល់ចំហៀង"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:117
+#, kde-format
+msgctxt "@item:inlistbox Border size:"
+msgid "Tiny"
+msgstr "តូច"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:122
+#, kde-format
+msgctxt "@item:inlistbox Border size:"
+msgid "Normal"
+msgstr "ធម្មតា"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:127
+#, kde-format
+msgctxt "@item:inlistbox Border size:"
+msgid "Large"
+msgstr "ធំ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:132
+#, kde-format
+msgctxt "@item:inlistbox Border size:"
+msgid "Very Large"
+msgstr "ធំណាស់"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:137
+#, kde-format
+msgctxt "@item:inlistbox Border size:"
+msgid "Huge"
+msgstr "សម្បើមណាស់"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:142
+#, kde-format
+msgctxt "@item:inlistbox Border size:"
+msgid "Very Huge"
+msgstr "ខ្លាំងណាស់"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, borderSizeComboBox)
+#: config/ui/breezeexceptiondialog.ui:147
+#, kde-format
+msgctxt "@item:inlistbox Border size:"
+msgid "Oversized"
+msgstr "ហួសកំរិត"
+
+#. i18n: ectx: property (text), widget (QPushButton, moveUpButton)
+#: config/ui/breezeexceptionlistwidget.ui:70
+#, kde-format
+msgid "Move Up"
+msgstr "ផ្លាស់ទីឡើងលើ"
+
+#. i18n: ectx: property (text), widget (QPushButton, moveDownButton)
+#: config/ui/breezeexceptionlistwidget.ui:77
+#, kde-format
+msgid "Move Down"
+msgstr "ទៅ​ក្រោម"
+
+#. i18n: ectx: property (text), widget (QPushButton, addButton)
+#: config/ui/breezeexceptionlistwidget.ui:84
+#, kde-format
+msgid "Add"
+msgstr "បន្ថែម"
+
+#. i18n: ectx: property (text), widget (QPushButton, editButton)
+#: config/ui/breezeexceptionlistwidget.ui:98
+#, kde-format
+msgid "Edit"
+msgstr "កែសម្រួល"
+
+#~ msgid "Animations"
+#~ msgstr "ចលនា"
+
+#~ msgid "Anima&tions duration:"
+#~ msgstr "រយៈពេលចលនា៖"
+
+#~ msgid " ms"
+#~ msgstr "ms"
+
+#~ msgid "Enable animations"
+#~ msgstr "បើកដំណើរការចលនា"
+
+#~ msgctxt "@item:inlistbox Button size:"
+#~ msgid "Normal"
+#~ msgstr "ធម្មតា"
+
+#~ msgid "px"
+#~ msgstr "px"
+
+#~ msgid "Display window borders for maximized windows"
+#~ msgstr "បង្ហាញស៊ុមផ្ទាំងកម្មវិធីសម្រាប់ផ្ទាំងកម្មវិធីពង្រីកអតិបរមា"
+
+#~ msgid "S&ize:"
+#~ msgstr "ទំហំ៖"

@@ -1,0 +1,39 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-11-30 14:41+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: libsound/src/qtmultimediabackend/qtmultimediabackend.json
+#, 
+msgctxt "Name"
+msgid "QtMultimedia Backend"
+msgstr "QtMultimedia Backend"
+
+#: libsound/src/qtgstreamerbackend/qtgstreamerbackend.json
+#, 
+msgctxt "Name"
+msgid "GStreamer Backend"
+msgstr "កម្មវិធីខាងក្រោយហ្គ្រេសឺរី"
+
+#: libsound/src/qtmultimediabackend/qtmultimediabackend.json
+#, 
+msgctxt "Description"
+msgid "Sound backend for QtMultimedia."
+msgstr "សំឡេងខាងក្រោយសម្រាប់ QtMultimedia ។"
+
+#: libsound/src/qtgstreamerbackend/qtgstreamerbackend.json
+#, 
+msgctxt "Description"
+msgid "Sound backend for GStreamer."
+msgstr "កម្មវិធីខាងក្រោយសំឡេងសម្រាប់ GStreamer ។"

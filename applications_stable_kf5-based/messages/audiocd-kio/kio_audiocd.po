@@ -1,0 +1,94 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-11-30 14:41+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ឈ្មោះរបស់អ្នក"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "អ៊ីមែលរបស់អ្នក"
+
+#: audiocd.cpp:73
+#, kde-format
+msgid "CDDB Information"
+msgstr "ព័ត៌មាន CDDB"
+
+#: audiocd.cpp:114
+#, kde-format
+msgid "Information"
+msgstr "ព័ត៌មាន"
+
+#: audiocd.cpp:114
+#, kde-format
+msgid "Full CD"
+msgstr "ស៊ីឌីពេញ"
+
+#: audiocd.cpp:502
+#, kde-format
+msgid "You cannot specify a host with this protocol. Please use the audiocd:/ format instead."
+msgstr "អ្នកមិនអាចបញ្ជាក់ម៉ាស៊ីនជាមួយពិធីការនេះទេ។ សូមប្រើទម្រង់សោតទស្សន៍ជំនួសវិញ។"
+
+#: audiocd.cpp:917
+#, kde-format
+msgctxt "The URL does not include a device name"
+msgid "Missing device specification"
+msgstr "បាត់ការបញ្ជាក់ឧបករណ៍"
+
+#: audiocd.cpp:927
+#, kde-format
+msgid "Device does not have read permissions for this account.  Check the read permissions on the device."
+msgstr "ឧបករណ៍មិនមានសិទ្ធិអានសម្រាប់គណនីនេះទេ។ ពិនិត្យសិទ្ធិអាននៅលើឧបករណ៍។"
+
+#: audiocd.cpp:929
+#, kde-format
+msgid "Device does not have write permissions for this account.  Check the write permissions on the device."
+msgstr "ឧបករណ៍មិនមានសិទ្ធិសរសេរសម្រាប់គណនីនេះទេ។ ពិនិត្យសិទ្ធិសរសេរនៅលើឧបករណ៍។"
+
+#: audiocd.cpp:933
+#, kde-format
+msgid "Unknown error.  If you have a cd in the drive try running cdparanoia -vsQ as yourself (not root). Do you see a track list? If not, make sure you have permission to access the CD device. If you are using SCSI emulation (possible if you have an IDE CD writer) then make sure you check that you have read and write permissions on the generic SCSI device, which is probably /dev/sg0, /dev/sg1, etc.. If it still does not work, try typing audiocd:/?device=/dev/sg0 (or similar) to tell kio_audiocd which device your CD-ROM is."
+msgstr "កំហុសមិនស្គាល់។ ប្រសិនបើអ្នកមានស៊ីឌីនៅក្នុងដ្រាយព្យាយាមរត់ cdparanoia -vsQ ដូចជាខ្លួនអ្នក (មិនមែនជា root) ។ តើអ្នកឃើញបញ្ជីបទទេ? បើមិនដូច្នោះទេសូមប្រាកដថាអ្នកមានសិទ្ធិចូលប្រើស៊ីឌី។ ប្រសិនបើអ្នកកំពុងប្រើការត្រាប់តាមអេសស៊ីអាយ (អាចធ្វើទៅបានប្រសិនបើអ្នកមានអ្នកសរសេរស៊ីឌីអ៊ីឌី) បន្ទាប់មកអ្នកត្រូវប្រាកដថាអ្នកបានពិនិត្យថាអ្នកបានអាននិងសរសេរសិទ្ធិលើឧបករណ៍អេសស៊ីអេសអេសអេសអេសដែលប្រហែលជា / dev / sg0, / dev / sg1 ។ ល។ ប្រសិនបើវានៅតែមិនដំណើរការសូមព្យាយាមវាយ audiocd៖ /? device = / dev / sg0 (ឬស្រដៀងគ្នា) ដើម្បីប្រាប់ kioaudiocd ថាតើស៊ីឌីរ៉ូមរបស់អ្នកមួយណា។"
+
+#: audiocd.cpp:1006
+#, kde-format
+msgid "AudioCD: Disk damage detected on this track, risk of data corruption."
+msgstr "អូឌីយ៉ូស៊ីឌី៖ ការបំផ្លាញថាសនៅលើបទនេះហានិភ័យនៃការពុករលួយទិន្នន័យ។"
+
+#: audiocd.cpp:1012
+#, kde-format
+msgid "Error reading audio data for %1 from the CD"
+msgstr "កំហុសក្នុងការអានទិន្នន័យអូឌីយ៉ូសម្រាប់ %1 ពីស៊ីឌី"
+
+#: audiocd.cpp:1022 audiocd.cpp:1100
+#, kde-format
+msgid "Could not read %1: encoding failed"
+msgstr "មិនអាចអាន %1៖ បានបរាជ័យក្នុងការអ៊ិនកូដ"
+
+#: audiocd.cpp:1232
+#, kde-format
+msgid "Track %1"
+msgstr "តាមដាន %1"
+
+#, 
+#~ msgid "Protocol name"
+#~ msgstr "ឈ្មោះពិធីការ"
+
+#, 
+#~ msgid "Socket name"
+#~ msgstr "ឈ្មោះរន្ធ"

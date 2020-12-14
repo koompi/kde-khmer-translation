@@ -1,0 +1,153 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-11 14:10+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ឈ្មោះរបស់អ្នក"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "អ៊ីមែលរបស់អ្នក"
+
+#. i18n: ectx: label, entry (theme), group (bovo)
+#: gui/bovo.kcfg:9 gui/mainwindow.cc:201
+#, kde-format
+msgid "Theme"
+msgstr "ស្បែក"
+
+#. i18n: ectx: label, entry (playbackSpeed), group (bovo)
+#: gui/bovo.kcfg:13
+#, kde-format
+msgid "Speed of demo and replay playback."
+msgstr "ល្បឿននៃការបង្ហាញនិងចាក់ឡើងវិញ។"
+
+#. i18n: ectx: label, entry (animation), group (bovo)
+#: gui/bovo.kcfg:19
+#, kde-format
+msgid "Whether moves should be animated or not."
+msgstr "ថាតើចលនាគួរតែមានចលនាឬអត់។"
+
+#. i18n: ectx: label, entry (ai), group (bovo)
+#: gui/bovo.kcfg:23
+#, kde-format
+msgid "AI engine to use."
+msgstr "ម៉ាស៊ីនអេអាយអេត្រូវប្រើ។"
+
+#: gui/main.cc:33
+#, kde-format
+msgid "KDE Five in a Row Board Game"
+msgstr "KDE ប្រាំនៅក្នុងល្បែងក្តារជួរដេក"
+
+#: gui/main.cc:34
+#, kde-format
+msgid "(c) 2002-2007, Aron Boström"
+msgstr "(c) ឆ្នាំ ២០០២-២០០៧ អារីនបូស្តុម"
+
+#: gui/main.cc:50
+#, kde-format
+msgid "Bovo"
+msgstr "Bovo"
+
+#: gui/main.cc:53
+#, kde-format
+msgid "Aron Boström"
+msgstr "Aron Boström"
+
+#: gui/main.cc:53
+#, kde-format
+msgid "Author"
+msgstr "អ្នកនិពន្ធ"
+
+#: gui/mainwindow.cc:67 gui/mainwindow.cc:358
+#, kde-format
+msgid "Wins: %1"
+msgstr "ឈ្នះ៖ %1"
+
+#: gui/mainwindow.cc:68 gui/mainwindow.cc:255 gui/mainwindow.cc:371
+#, kde-format
+msgid "Losses: %1"
+msgstr "ការបាត់បង់​ ៖ %1"
+
+#: gui/mainwindow.cc:187
+#, kde-format
+msgid "&Replay"
+msgstr "ចាក់ឡើងវិញ"
+
+#: gui/mainwindow.cc:189
+#, kde-format
+msgid "Replay game"
+msgstr "លេងហ្គេមឡើងវិញ"
+
+#: gui/mainwindow.cc:190
+#, kde-format
+msgid "Replays your last game for you to watch."
+msgstr "បង្ហាញហ្គេមចុងក្រោយរបស់អ្នកសម្រាប់អ្នកមើល។"
+
+#: gui/mainwindow.cc:196
+#, kde-format
+msgid "&Animation"
+msgstr "ចលនា"
+
+#: gui/mainwindow.cc:339
+#, kde-format
+msgid "Start a new Game to play"
+msgstr "ចាប់ផ្តើមល្បែងថ្មីដើម្បីលេង"
+
+#: gui/mainwindow.cc:376
+#, kde-format
+msgid "GAME OVER. Tie!"
+msgstr "ល្បែង​ចប់ហើយ។ ចង!"
+
+#: gui/mainwindow.cc:379
+#, kde-format
+msgid "GAME OVER. You won!"
+msgstr "ល្បែង​ចប់ហើយ។ អ្នកឈ្នះ!"
+
+#: gui/mainwindow.cc:382
+#, kde-format
+msgid "GAME OVER. You lost!"
+msgstr "ល្បែង​ចប់ហើយ។ អ្នក​ចាញ់!"
+
+#: gui/mainwindow.cc:394
+#, kde-format
+msgid "It is your turn."
+msgstr "ដល់វេនអ្នកហើយ។"
+
+#: gui/mainwindow.cc:398
+#, kde-format
+msgid "Waiting for computer."
+msgstr "កំពុងរង់ចាំកុំព្យូទ័រ។"
+
+#: gui/mainwindow.cc:426
+#, kde-format
+msgid "Replaying game"
+msgstr "លេងហ្គេមឡើងវិញ"
+
+#: gui/mainwindow.cc:442
+#, kde-format
+msgid "Game replayed."
+msgstr "ហ្គេមបានចាក់ឡើងវិញ។"
+
+#~ msgid "Difficulty level: strength of the computer player."
+#~ msgstr "កម្រិតលំបាក៖ ភាពខ្លាំងរបស់អ្នកលេងកុំព្យូទ័រ។"
+
+#~ msgid "You won!"
+#~ msgstr "អ្នកឈ្នះ!"
+
+#~ msgid "You lost!"
+#~ msgstr "អ្នក​ចាញ់!"

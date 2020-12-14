@@ -1,0 +1,182 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-11 14:11+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ឈ្មោះរបស់អ្នក"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "អ៊ីមែលរបស់អ្នក"
+
+#: src/bomber.cpp:48 src/bomber.cpp:183
+#, kde-format
+msgctxt "Used to display the current level of play to the user"
+msgid "Level: %1"
+msgstr "កំរិតៈ %1"
+
+#: src/bomber.cpp:50 src/bomber.cpp:189
+#, kde-format
+msgctxt "Used to inform the user of their current score"
+msgid "Score: %1"
+msgstr "ពិន្ទុ​ ៖ %1"
+
+#: src/bomber.cpp:52 src/bomber.cpp:196
+#, kde-format
+msgctxt "Used to tell the user how many lives they have left"
+msgid "Lives: %1"
+msgstr "ជីវិត​ ៖ %1"
+
+#: src/bomber.cpp:92
+#, kde-format
+msgctxt "Menu item used to disable or enable sound"
+msgid "&Play Sounds"
+msgstr "ចាក់សំឡេង"
+
+#: src/bomber.cpp:97
+#, kde-format
+msgctxt "The name of the action used for dropping bombs"
+msgid "&Drop bomb"
+msgstr "ទម្លាក់គ្រាប់បែក"
+
+#: src/bomber.cpp:98
+#, kde-format
+msgctxt "The tool tip text for the action used to drop bombs"
+msgid "Drop bomb"
+msgstr "ទម្លាក់គ្រាប់បែក"
+
+#: src/bomber.cpp:100
+#, kde-format
+msgctxt "Description of the action used to drop bombs"
+msgid "Makes the plane drop a bomb while flying"
+msgstr "ធ្វើឲ្យ យន្ដហោះទម្លាក់គ្រាប់បែកពេលហោះ"
+
+#: src/bomber.cpp:143
+#, kde-format
+msgctxt "Message displayed when player tries to quit a game that is currently running"
+msgid "Do you really want to close the running game?"
+msgstr "តើអ្នកពិតជាចង់បិទល្បែងដែលកំពុងដំណើរការមែនទេ?"
+
+#: src/bomber.cpp:169
+#, kde-format
+msgid ""
+"Congratulations!\n"
+"You made it into the hall of fame."
+msgstr ""
+"សូមអបអរសាទរ!\n"
+"អ្នកបានធ្វើឱ្យវាក្លាយជាសាលនៃកិត្តិនាម។"
+
+#: src/bomber.cpp:173
+#, kde-format
+msgid "You gained a score of %1 point."
+msgid_plural "You gained a score of %1 points."
+msgstr[0] "អ្នកទទួលបានពិន្ទុ %1 ។"
+msgstr[1] "អ្នកទទួលបានពិន្ទុ %1 ។"
+
+#: src/bomber.cpp:174
+#, kde-format
+msgid "End of Game"
+msgstr "ចប់ហ្គេម"
+
+#: src/bomber.cpp:212
+#, kde-format
+msgctxt "Game over messaged displayed in the status bar"
+msgid "Game over. Press '%1' for a new game"
+msgstr "ល្បែង​ចប់ហើយ។ ចុច '%1' សម្រាប់ហ្គេមថ្មី"
+
+#. i18n: ectx: label, entry (PlaySounds), group (Sound)
+#: src/bomber.kcfg:9
+#, kde-format
+msgid "Whether game sounds are played."
+msgstr "មិនថាសម្លេងហ្គេមត្រូវបានលេងទេ។"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: src/bomberui.rc:14
+#, kde-format
+msgid "Main Toolbar"
+msgstr "របារឧបករណ៍មេ"
+
+#: src/bomberwidget.cpp:317
+#, kde-format
+msgctxt "Message show to the user when the game is loaded"
+msgid ""
+"Welcome to Bomber.\n"
+"Click to start a game"
+msgstr ""
+"សូមស្វាគមន៍មកកាន់ Bomber ។\n"
+"ចុចដើម្បីចាប់ផ្តើមល្បែង"
+
+#: src/bomberwidget.cpp:320
+#, kde-format
+msgctxt "Message show to the user while the game is paused"
+msgid "Paused"
+msgstr "បានផ្អាក"
+
+#: src/bomberwidget.cpp:323
+#, kde-format
+msgctxt "Message telling user which level they just completed"
+msgid "You have successfully cleared level %1\n"
+msgstr "អ្នកបានសម្អាតកម្រិត %1 បានយ៉ាងជោគជ័យ\n"
+
+#: src/bomberwidget.cpp:324
+#, kde-format
+msgctxt "Message telling user which level they are about to start"
+msgid "On to level %1."
+msgstr "នៅលើកម្រិត %1 ។"
+
+#: src/bomberwidget.cpp:327
+#, kde-format
+msgctxt "Used to tell the user that the game is over"
+msgid "Game over."
+msgstr "ល្បែង​ចប់ហើយ។"
+
+#: src/main.cpp:33
+#, kde-format
+msgid "Arcade bombing game"
+msgstr "ល្បែងបំផ្ទុះគ្រាប់បែក"
+
+#: src/main.cpp:49
+#, kde-format
+msgid "Bomber"
+msgstr "អ្នកបំផ្ទុះគ្រាប់បែក"
+
+#: src/main.cpp:50
+#, kde-format
+msgid "(C) 2007 John-Paul Stanford"
+msgstr "(C) ២០០៧ John-Paul Stanford"
+
+#: src/main.cpp:52
+#, kde-format
+msgid "John-Paul Stanford"
+msgstr "John-Paul Stanford"
+
+#: src/main.cpp:54
+#, kde-format
+msgid "Mehmet Emre"
+msgstr "Mehmet Emre"
+
+#: src/main.cpp:54
+#, kde-format
+msgid "Porting to QGraphicsView."
+msgstr "ច្រកទៅ QGraphicsView ។"
+
+#~ msgid "The graphical theme to be used."
+#~ msgstr "ស្បែកដែលត្រូវប្រើ។"
+
+#~ msgid "Theme"
+#~ msgstr "ស្បែក"

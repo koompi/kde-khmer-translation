@@ -1,0 +1,300 @@
+# Lors Housann(Sunny) <lorshousunny@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-05 23:24+0000\n"
+"PO-Revision-Date: 2020-12-11 12:49+0700\n"
+"Last-Translator: Lors Housann(Sunny) <lorshousunny@gmail.com>\n"
+"Language-Team: KOOMPI Apps Localizations\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ឈ្មោះរបស់អ្នក"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "អ៊ីមែលរបស់អ្នក"
+
+#: bluetooth.cpp:26
+#, kde-format
+msgid "Bluetooth"
+msgstr "ប៊្លូធូស"
+
+#: bluetooth.cpp:27
+#, kde-format
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: bluetooth.cpp:86
+#, kde-format
+msgctxt "DeviceName Network (Service)"
+msgid "%1 Network (%2)"
+msgstr "%1 បណ្តាញ (%2)"
+
+#: package/contents/ui/Bluetooth.qml:44
+#, kde-format
+msgid "Bluetooth is disabled"
+msgstr "ប៊្លូធូសត្រូវបានបិទ"
+
+#: package/contents/ui/Bluetooth.qml:50
+#, kde-format
+msgid "Enable"
+msgstr "បើកដំណើរការ"
+
+#: package/contents/ui/Bluetooth.qml:73
+#, kde-format
+msgid "Connected"
+msgstr "បានភ្ជាប់"
+
+#: package/contents/ui/Bluetooth.qml:73
+#, kde-format
+msgid "Available"
+msgstr "មាន"
+
+#: package/contents/ui/Bluetooth.qml:96 package/contents/ui/Device.qml:68
+#, kde-format
+msgid "Disconnect"
+msgstr "ផ្តាច់"
+
+#: package/contents/ui/Bluetooth.qml:96 package/contents/ui/Device.qml:68
+#, kde-format
+msgid "Connect"
+msgstr "ភ្ជាប់"
+
+#: package/contents/ui/Bluetooth.qml:107
+#, kde-format
+msgid "Remove"
+msgstr "លុប"
+
+#: package/contents/ui/Bluetooth.qml:130
+#, kde-format
+msgid "Add..."
+msgstr "បន្ថែម ..."
+
+#: package/contents/ui/Bluetooth.qml:138
+#, kde-format
+msgid "Disable Bluetooth"
+msgstr "បិទប៊្លូធូស"
+
+#: package/contents/ui/Bluetooth.qml:151
+#, kde-format
+msgid "Configure..."
+msgstr "កំណត់រចនាសម្ព័ន្ធ ..."
+
+#: package/contents/ui/Device.qml:100
+#, kde-format
+msgid "Type:"
+msgstr "ប្រភេទ​ ៖"
+
+#: package/contents/ui/Device.qml:105 package/contents/ui/General.qml:41
+#, kde-format
+msgid "Address:"
+msgstr "អាស័យដ្ឋាន៖"
+
+#: package/contents/ui/Device.qml:110
+#, kde-format
+msgid "Adapter:"
+msgstr "អាដាប់ធ័រ៖"
+
+#: package/contents/ui/Device.qml:116 package/contents/ui/General.qml:35
+#, kde-format
+msgid "Name:"
+msgstr "ឈ្មោះ៖"
+
+#: package/contents/ui/Device.qml:120
+#, kde-format
+msgid "Trusted"
+msgstr "ទុកចិត្ត"
+
+#: package/contents/ui/Device.qml:126
+#, kde-format
+msgid "Blocked"
+msgstr "បានរារាំង"
+
+#: package/contents/ui/Device.qml:132
+#, kde-format
+msgid "Send File"
+msgstr "ផ្ញើឯកសារ"
+
+#: package/contents/ui/Device.qml:139
+#, kde-format
+msgid "Setup NAP Network..."
+msgstr "តំឡើងបណ្តាញ NAP ..."
+
+#: package/contents/ui/Device.qml:146
+#, kde-format
+msgid "Setup DUN Network..."
+msgstr "តំឡើងបណ្តាញឌុន ..."
+
+#: package/contents/ui/Device.qml:156
+#, kde-format
+msgctxt "This device is a Phone"
+msgid "Phone"
+msgstr "ទូរស័ព្ទ"
+
+#: package/contents/ui/Device.qml:158
+#, kde-format
+msgctxt "This device is a Modem"
+msgid "Modem"
+msgstr "ម៉ូដឹម"
+
+#: package/contents/ui/Device.qml:160
+#, kde-format
+msgctxt "This device is a Computer"
+msgid "Computer"
+msgstr "កុំព្យូទ័រ"
+
+#: package/contents/ui/Device.qml:162
+#, kde-format
+msgctxt "This device is of type Network"
+msgid "Network"
+msgstr "បណ្តាញ"
+
+#: package/contents/ui/Device.qml:164
+#, kde-format
+msgctxt "This device is a Headset"
+msgid "Headset"
+msgstr "កាស"
+
+#: package/contents/ui/Device.qml:166
+#, kde-format
+msgctxt "This device is a Headphones"
+msgid "Headphones"
+msgstr "កាស"
+
+#: package/contents/ui/Device.qml:168
+#, kde-format
+msgctxt "This device is an Audio device"
+msgid "Audio"
+msgstr "សំលេង"
+
+#: package/contents/ui/Device.qml:170
+#, kde-format
+msgctxt "This device is a Keyboard"
+msgid "Keyboard"
+msgstr "ក្តារចុច"
+
+#: package/contents/ui/Device.qml:172
+#, kde-format
+msgctxt "This device is a Mouse"
+msgid "Mouse"
+msgstr "ម៉ៅ"
+
+#: package/contents/ui/Device.qml:174
+#, kde-format
+msgctxt "This device is a Joypad"
+msgid "Joypad"
+msgstr "យ៉យស្ទឺរ"
+
+#: package/contents/ui/Device.qml:176
+#, kde-format
+msgctxt "This device is a Graphics Tablet (input device)"
+msgid "Tablet"
+msgstr "ថេប្លេត"
+
+#: package/contents/ui/Device.qml:178
+#, kde-format
+msgctxt "This device is a Peripheral device"
+msgid "Peripheral"
+msgstr "គ្រឿងកុំព្យូទ័រ"
+
+#: package/contents/ui/Device.qml:180
+#, kde-format
+msgctxt "This device is a Camera"
+msgid "Camera"
+msgstr "កាមេរ៉ា"
+
+#: package/contents/ui/Device.qml:182
+#, kde-format
+msgctxt "This device is a Printer"
+msgid "Printer"
+msgstr "ម៉ាស៊ីនព្រីន"
+
+#: package/contents/ui/Device.qml:184
+#, kde-format
+msgctxt "This device is an Imaging device (printer, scanner, camera, display, ...)"
+msgid "Imaging"
+msgstr "រូបភាព"
+
+#: package/contents/ui/Device.qml:186
+#, kde-format
+msgctxt "This device is a Wearable"
+msgid "Wearable"
+msgstr "អាចពាក់បាន"
+
+#: package/contents/ui/Device.qml:188
+#, kde-format
+msgctxt "This device is a Toy"
+msgid "Toy"
+msgstr "ប្រដាប់ប្រដាក្មេងលេង"
+
+#: package/contents/ui/Device.qml:190
+#, kde-format
+msgctxt "This device is a Health device"
+msgid "Health"
+msgstr "សុខភាព"
+
+#: package/contents/ui/Device.qml:192
+#, kde-format
+msgctxt "Type of device: could not be determined"
+msgid "Unknown"
+msgstr "មិនស្គាល់"
+
+#: package/contents/ui/General.qml:18
+#, kde-format
+msgid "Settings"
+msgstr "ការកំណត់"
+
+#: package/contents/ui/General.qml:27
+#, kde-format
+msgid "Device:"
+msgstr "ឧបករណ៍៖"
+
+#: package/contents/ui/General.qml:45
+#, kde-format
+msgid "Enabled:"
+msgstr "បានអនុញ្ញាត៖"
+
+#: package/contents/ui/General.qml:51
+#, kde-format
+msgid "Visible:"
+msgstr "ដែល​អាច​មើលឃើញ​ ៖"
+
+#: package/contents/ui/General.qml:65
+#, kde-format
+msgid "When receiving files:"
+msgstr "នៅពេលទទួលឯកសារ៖"
+
+#: package/contents/ui/General.qml:67
+#, kde-format
+msgid "Ask for confirmation"
+msgstr "សុំការបញ្ជាក់"
+
+#: package/contents/ui/General.qml:76
+#, kde-format
+msgid "Accept for trusted devices"
+msgstr "ទទួលយកសម្រាប់ឧបករណ៍ដែលទុកចិត្ត"
+
+#: package/contents/ui/General.qml:86
+#, kde-format
+msgid "Always accept"
+msgstr "ទទួលយកជានិច្ច"
+
+#: package/contents/ui/General.qml:96
+#, kde-format
+msgid "Save files in:"
+msgstr "រក្សាទុកឯកសារក្នុង៖"
+
+#: package/contents/ui/General.qml:120 package/contents/ui/General.qml:131
+#, kde-format
+msgid "Select folder"
+msgstr "ជ្រើសរើសថតឯកសារ"
